@@ -1,214 +1,3429 @@
 [
   {
-    "slug": "chicken-parmesan",
-    "title": "Chicken Parmesan",
-    "description": "Crispy breaded chicken topped with marinara and melted mozzarella",
-    "tags": ["chicken", "oven", "dinner", "italian"],
+    "slug": "all-dishes-ideas",
+    "title": "All Dishes Ideas",
+    "description": "All Dishes: Meat: Lemon caper chicken With: Israeli couscous, roasted potatoes, red onion, mushroom, spinach Morracan chicken With: Brown rice, roasted tomato, onion, mushrooms Veggie farro chicken sausage stew Chicken taco soup (with spinach) (Instant Pot) Chicken taco salad (shredded lettuce, rice, beans, guacamole, pico de gallo, shredded cheese) - with tortilla chips Chicken shwarma bowls (chicken, lettuce, hummus, tomato, cucumber, red onion, chickpeas, basmati rice, lemon/lime) Chicken soup with broccoli, red pepper, onion, carrots, tumeric (Instant Pot) Beef stew (cubed beef, potato, onion) (Instant Pot) Beef brisket with potatoes and onions Turkey bolognese sauce with pasta/spaghetti squash/zucchini noodles (Instant Pot) Chicken pad Thai with gado gado peanut sauce Aunt Shona rice refried beans bake with sauteed spinach and ground turkey Cashew chicken curry Fish: Salmon with roasted butternut squash strips, asparagus or broccoli, farro or quinoa Lemon cod with tomatoes, spinach, mushroom Halibut with pomegranate salsa Salmon with pesto or tzatziki sauce (instant pot or baked) Vegetarian: Zucchini and soy sauce with mixed veggie grain medley Butternut squash tortellini with kale Salad with cucumber, red onion, pecans, hard boiled egg, avocado Salad with guacamole, tomatoes (or pico de gallo), goat cheese, black pepper, hard boiled egg, pecans Quinoa with sauteed zucchini, garlic, chickpea and parmesan cheese Quinoa or farro with roasted sweet potatoes, kale, broccoli, and spice roasted chickpeas and tofu Spicy kale stir fry (with rice, sliced veggies, egg) Morrocan chickpea butternut squash stew with farro, spinach, pita bread (Instant Pot) Sweet potato and curried lentils with yogurt Mediterranean plate (falafel, hummus, cucumber, parsley tomato chickpea, beets, tahini sauce) Roasted acorn squash with sauteed spinach and parmesan cheese Pizza (tomato sauce, cheese, lettuce) Gado gado (peanut sauce on steamed veggies (potato, string beans, carrot strips, spinach, cucumber, split legumes, tofu, bean sprouts, jicama strips) Persian herb chickpea stew with basmati rice Tofu Thai red curry with asian veggies Red Lentil veggie soup (zucchini, carrot, onion, potato)",
+    "tags": [
+      "all lists/meal ideas"
+    ],
     "image": null,
-    "source": "family recipe",
-    "prepTime": "20 min",
-    "cookTime": "30 min",
-    "servings": 4,
-    "ingredients": [
-      "4 boneless skinless chicken breasts",
-      "1 cup all-purpose flour",
-      "2 eggs, beaten",
-      "1 cup Italian breadcrumbs",
-      "1 cup marinara sauce",
-      "1.5 cups shredded mozzarella cheese",
-      "0.5 cup grated Parmesan cheese",
-      "2 tbsp olive oil",
-      "Salt and pepper to taste",
-      "Fresh basil for garnish"
-    ],
-    "instructions": [
-      "Preheat oven to 425°F (220°C).",
-      "Pound chicken breasts to even thickness, about 1/2 inch.",
-      "Set up breading station: flour in one dish, beaten eggs in another, breadcrumbs in a third.",
-      "Season chicken with salt and pepper, then dredge in flour, dip in egg, and coat in breadcrumbs.",
-      "Heat olive oil in an oven-safe skillet over medium-high heat. Sear chicken 3 minutes per side until golden.",
-      "Spoon marinara sauce over each breast, then top with mozzarella and Parmesan.",
-      "Transfer skillet to oven and bake 15-20 minutes until chicken reaches 165°F internally.",
-      "Garnish with fresh basil and serve immediately."
-    ],
-    "notes": "Can substitute chicken thighs for a juicier result. Works great with spaghetti on the side.",
-    "dateAdded": "2026-01-15"
-  },
-  {
-    "slug": "beef-stew",
-    "title": "Classic Beef Stew",
-    "description": "Hearty slow-cooked beef with root vegetables in a rich gravy",
-    "tags": ["beef", "stovetop", "dinner", "soup"],
-    "image": null,
-    "source": "family recipe",
-    "prepTime": "25 min",
-    "cookTime": "2 hours",
-    "servings": 6,
-    "ingredients": [
-      "2 lbs beef chuck, cut into 1.5-inch cubes",
-      "3 tbsp all-purpose flour",
-      "3 tbsp olive oil",
-      "1 large onion, diced",
-      "4 cloves garlic, minced",
-      "4 cups beef broth",
-      "1 cup red wine",
-      "3 large potatoes, cubed",
-      "3 carrots, sliced",
-      "2 celery stalks, sliced",
-      "2 tbsp tomato paste",
-      "1 tsp dried thyme",
-      "2 bay leaves",
-      "Salt and pepper to taste"
-    ],
-    "instructions": [
-      "Toss beef cubes with flour, salt, and pepper.",
-      "Heat olive oil in a large Dutch oven over medium-high heat. Brown beef in batches, about 3 minutes per side. Remove and set aside.",
-      "Add onion to the pot and cook until softened, about 5 minutes. Add garlic and cook 1 minute more.",
-      "Stir in tomato paste and cook for 1 minute.",
-      "Pour in red wine, scraping up browned bits from the bottom of the pot.",
-      "Add beef broth, browned beef, thyme, and bay leaves. Bring to a boil, then reduce to a simmer.",
-      "Cover and cook for 1 hour.",
-      "Add potatoes, carrots, and celery. Continue simmering uncovered for 45-60 minutes until vegetables are tender and stew has thickened.",
-      "Remove bay leaves, adjust seasoning, and serve."
-    ],
-    "notes": "Even better the next day. Can be made in a slow cooker on low for 8 hours.",
-    "dateAdded": "2026-02-01"
-  },
-  {
-    "slug": "greek-salad",
-    "title": "Greek Salad",
-    "description": "Fresh Mediterranean salad with feta, olives, and a lemon vinaigrette",
-    "tags": ["salad", "vegetarian", "side", "quick"],
-    "image": null,
-    "source": "https://example.com/greek-salad",
-    "prepTime": "15 min",
+    "source": "Google Drive import",
+    "prepTime": null,
     "cookTime": null,
-    "servings": 4,
+    "servings": null,
     "ingredients": [
-      "4 large tomatoes, cut into wedges",
-      "1 English cucumber, sliced",
-      "1 red onion, thinly sliced",
-      "1 green bell pepper, sliced",
-      "200g feta cheese, cubed",
-      "1 cup Kalamata olives",
-      "3 tbsp extra virgin olive oil",
-      "1 tbsp red wine vinegar",
-      "1 tsp dried oregano",
-      "Salt and pepper to taste"
+      "Veggie farro tofu soup (carrots, leek or onion, bell peppers, corn/edemame mix, kale or spinach) w/ 6 cups liquid (Instant Pot)"
     ],
     "instructions": [
-      "Cut tomatoes into wedges and place in a large bowl.",
-      "Add sliced cucumber, red onion, and bell pepper.",
-      "Top with feta cubes and olives.",
-      "Whisk together olive oil, red wine vinegar, oregano, salt, and pepper.",
-      "Drizzle dressing over salad and toss gently.",
-      "Let sit for 5 minutes before serving to let flavors meld."
+      "Veggie quesadillas (spinach, tomato, mushroom, red onion)",
+      "Dal",
+      "Pasta with red onion, grape tomatoes, mushroom, spinach (and parmesan/mozzarella/cheddar cheese)",
+      "Chickpea, farro, cucumber, celery, red onion with lemon/olive oil dressing",
+      "Hummus pasta with grape tomatoes, mushrooms, red onion, spinach, chickpeas",
+      "Pasta with red sauce",
+      "Pasta with pesto sauce (and sauteed tomatoes)",
+      "Spaghetti squash with tomato, mushroom, spinach white wine sauce",
+      "Gnocchi with red sauce",
+      "Quinoa veggie soup",
+      "Veggie baked mexican lasagna (tortilla, sweet potato, red pepper, broccoli, red onion, cheese)",
+      "Baked ziti",
+      "Risotto (beet, mushroom, spinach)",
+      "Japanese sweet potato and chickpea curry with basmati rice (Instant Pot)",
+      "Macaroni and cheese (Instant Pot)",
+      "Veggie Asian fried rice",
+      "Spiced cabbage/carrot soup (Instant Pot)",
+      "Instant pot thai red curry vishal made - https://recipes.instantpot.com/recipe/thai-red-curry-with-tofu/",
+      "Massamman curry - https://minimalistbaker.com/easy-1-pot-massaman-curry/",
+      "Lemon tahini dressing",
+      "Broccoli macaroni and cheese",
+      "Side Dish:",
+      "Mexican Rice (Instant Pot)",
+      "Natasha's kitchen Vinaigrette",
+      "https://natashaskitchen.com/russian-vinaigrette-recipe-with-beets-and-sauerkraut/",
+      "Breakfast:",
+      "Baked berry crisp with yogurt",
+      "Smoothie (raspberries, chia seeds, flaxseed, hemp seed, nut butter, yogurt, almond milk)",
+      "Frozen wild blueberry banana oat bread",
+      "Omelette with spinach, red onion, mushroom, tomato, feta or goat cheese with salsa",
+      "Roasted potatoes with fried egg",
+      "Egg and avocado on toast (with everything but the bagel seasoning)",
+      "Pancakes",
+      "Kashia",
+      "Chola, potato, spinach",
+      "Dessert:",
+      "Pina colada (frozen pineapple, coconut milk (or coconut cream + water), banana)",
+      "Banana applesauce chocolate chip cookies",
+      "Date and coconut or cocoa powder balls",
+      "Chocolate covered “cookie dough” balls",
+      "Snacks:",
+      "Roasted colorful carrots with white bean hummus",
+      "Chips and guacamole",
+      "Chips and salsa",
+      "Brie and crackers",
+      "Apple or banana with almond butter"
     ],
-    "notes": "Don't chop the vegetables too small — chunky is traditional. Add dried oregano generously.",
-    "dateAdded": "2026-02-10"
+    "notes": null,
+    "dateAdded": "2026-03-27"
   },
   {
-    "slug": "salmon-teriyaki",
-    "title": "Salmon Teriyaki",
-    "description": "Pan-seared salmon glazed with homemade teriyaki sauce",
-    "tags": ["fish", "stovetop", "dinner", "quick", "asian"],
+    "slug": "almond-flour-banana-blueberry-muffins",
+    "title": "Almond Flour Banana Blueberry Muffins",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
     "image": null,
-    "source": "family recipe",
-    "prepTime": "10 min",
-    "cookTime": "15 min",
-    "servings": 2,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
     "ingredients": [
-      "2 salmon fillets (6 oz each)",
-      "3 tbsp soy sauce",
-      "2 tbsp mirin",
-      "1 tbsp honey",
-      "1 tsp sesame oil",
-      "1 clove garlic, minced",
-      "1 tsp fresh ginger, grated",
-      "1 tbsp vegetable oil",
-      "Sesame seeds for garnish",
-      "Green onions, sliced"
+      "cups almond flour",
+      "½ tsp cinnamon",
+      "½ tsp baking soda",
+      "¼ tsp salt (optional)",
+      "large ripe bananas",
+      "eggs, beaten",
+      "¼ cup yogurt",
+      "cup wild frozen blueberries"
     ],
     "instructions": [
-      "Mix soy sauce, mirin, honey, sesame oil, garlic, and ginger in a small bowl.",
-      "Pat salmon fillets dry with paper towels and season with salt.",
-      "Heat vegetable oil in a skillet over medium-high heat.",
-      "Place salmon skin-side up and sear for 4 minutes until golden.",
-      "Flip salmon and pour teriyaki sauce into the pan.",
-      "Reduce heat to medium and cook 4-5 minutes, spooning sauce over the fish.",
-      "Sauce should thicken into a glaze. Remove from heat when salmon is just cooked through.",
-      "Garnish with sesame seeds and sliced green onions."
+      "Preheat oven to 350F.",
+      "In a large bowl, mix together almond flour, cinnamon and baking soda (and salt if using)",
+      "In a separate bowl, mix together the mashed bananas, eggs, and yogurt",
+      "Add the wet ingredients to the dry ingredients and mix until well combined (do not over mix). Gently fold in the blueberries.",
+      "Add to 8x8 pan and bake for about 40 minutes, or until an inserted fork comes out clean."
     ],
-    "notes": "Serve over steamed rice with sautéed vegetables.",
-    "dateAdded": "2026-02-20"
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "avocado-toast-with-egg",
+    "title": "Avocado Toast with Egg",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 1,
+    "ingredients": [
+      "Bread",
+      "egg",
+      "avocado",
+      "Everything but the Bagel seasoning"
+    ],
+    "instructions": [
+      "Toast the bread (make sure it is toasted enough so it is hard but not burnt, this will make it taste buttery)",
+      "With olive oil, fry the egg hard side up",
+      "Mash avocado",
+      "Assemble: put avocado on toast, then Everything but the Bagel seasoning, then egg on top"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "banana-apple-carrot-bread",
+    "title": "Banana Apple Carrot Bread",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "cup mashed very ripe banana (about 2 small bananas)",
+      "/2 cup shredded apple (about 1 small apple)",
+      "/4 cup shredded carrot (about 1 small carrot)",
+      "/4 cup milk",
+      "Tbsp avocado oil or 4 Tbsp butter",
+      "large egg",
+      "cup whole wheat flour",
+      "/2 cup rolled oats",
+      "teaspoon cinnamon",
+      "teaspoon baking powder",
+      "/4 teaspoon baking soda",
+      "/8 teaspoon salt"
+    ],
+    "instructions": [
+      "These are deliberately very moist (and moister than regular muffins) to ensure they are easy for baby to chew and swallow, so expect that from the interior.",
+      "Preheat oven to 375 degrees F",
+      "Place the banana, apple, carrot, milk, butter or oil, and egg into a medium bowl. Stir together.",
+      "Stir in a separate bowl the flour, oats, cinnamon, baking powder, baking soda, and salt.",
+      "Gently stir in the dry mixture into the wet mixture. Then put into an 8x8 baking dish.",
+      "Bake for about 20 minutes, until a fork inserted into the center comes out pretty much cleanly.",
+      "Cut into small cubes and flash freeze."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "banana-bread",
+    "title": "Banana Bread",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "⅓ cup avocado oil",
+      "⅓ cup maple syrup",
+      "eggs/substitutes (3 Tbsp ground flaxseed and 8 Tbsp water stirred and let sit for 5 minutes before using)",
+      "mashed ripe bananas",
+      "¼ cup almond milk",
+      "tsp baking soda",
+      "½ tsp salt",
+      "½ tsp ground cinnamon",
+      "cup almond flour and 1 cup chickpea flour",
+      "cup or so chocolate chip or walnut mix-ins"
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees",
+      "In large bowl, beat oil and honey together with a whisk. Add the eggs and beat well, then whisk in the mashed bananas and milk.",
+      "Add the baking soda, salt, and cinnamon and whisk to blend. Switch to a big spoon and stir in the flour, just until combined. Gently fold in mix-ins.",
+      "Pour into 8x8 inch pan, for about 40 minutes or so, until cooked through."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
   },
   {
     "slug": "banana-pancakes",
     "title": "Banana Pancakes",
-    "description": "Fluffy pancakes with mashed banana and a hint of cinnamon",
-    "tags": ["breakfast", "stovetop", "vegetarian", "quick"],
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
     "image": null,
-    "source": "family recipe",
-    "prepTime": "10 min",
-    "cookTime": "15 min",
-    "servings": 3,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
     "ingredients": [
-      "2 ripe bananas, mashed",
-      "1.5 cups all-purpose flour",
-      "1 cup milk",
-      "1 egg",
-      "2 tbsp sugar",
-      "2 tbsp melted butter",
-      "1 tsp baking powder",
-      "0.5 tsp cinnamon",
-      "Pinch of salt",
-      "Butter for cooking",
-      "Maple syrup for serving"
+      "1/2 medium ripe banana (best with brown spots)",
+      "eggs",
+      "/3 cup flour (mix of almond and coconut flour I like)",
+      "½ cup milk of choice"
     ],
     "instructions": [
-      "Mash bananas in a large bowl until mostly smooth.",
-      "Add egg, milk, and melted butter. Whisk to combine.",
-      "In a separate bowl, mix flour, sugar, baking powder, cinnamon, and salt.",
-      "Pour dry ingredients into wet and stir until just combined. Some lumps are fine.",
-      "Heat a non-stick pan or griddle over medium heat. Add a small pat of butter.",
-      "Pour 1/4 cup batter per pancake. Cook until bubbles form on surface, about 2 minutes.",
-      "Flip and cook another 1-2 minutes until golden brown.",
-      "Serve stacked with maple syrup and sliced banana."
+      "In a medium bowl, mash your banana. It’s really best if your banana is nice and ripe with brown spots on the peel!",
+      "Crack two eggs into the bowl with the mashed banana and whisk with a fork until well combined. It’s okay if there are lumps of banana. Next, add in flour and milk and mix to combine. Batter should be similar to traditional pancake batter.",
+      "Lightly coat a nonstick pan or nonstick griddle with butter, coconut oil, vegan butter or olive oil and place over medium heat. Once the pan is hot, add 1 heaping tablespoon of the batter to the griddle for each pancake and cook for 2-3 minutes until pancakes slightly puff up, are golden underneath and you see a few bubbles along the edges.",
+      "Flip cakes and cook until golden brown on the underside. If you find that pancakes are browning too quickly then you need to lower the heat. I normally start on medium heat, then decrease to medium low later so that my pancakes don't burn. If at any point your griddle starts smoking or if your pancakes are burning, it means your pan is too hot.",
+      "Repeat with more oil/butter and remaining batter."
     ],
-    "notes": "The riper the bananas, the sweeter the pancakes. Can add chocolate chips to the batter.",
-    "dateAdded": "2026-03-01"
+    "notes": null,
+    "dateAdded": "2026-03-27"
   },
   {
-    "slug": "garlic-butter-shrimp",
-    "title": "Garlic Butter Shrimp",
-    "description": "Quick sautéed shrimp in a rich garlic butter sauce with lemon",
-    "tags": ["fish", "stovetop", "dinner", "quick"],
+    "slug": "beet-mushroom-risotto",
+    "title": "Beet Mushroom Risotto",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
     "image": null,
-    "source": "family recipe",
-    "prepTime": "10 min",
-    "cookTime": "8 min",
-    "servings": 2,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
     "ingredients": [
-      "1 lb large shrimp, peeled and deveined",
-      "4 tbsp butter",
-      "6 cloves garlic, minced",
-      "0.25 cup white wine",
-      "Juice of 1 lemon",
-      "0.25 tsp red pepper flakes",
-      "2 tbsp fresh parsley, chopped",
-      "Salt and pepper to taste"
+      "onion",
+      "½ cups brown rice",
+      "bag frozen beets",
+      "bag frozen mushrooms",
+      "½ cups liquid (up to ¼ cup white wine, water, chicken broth)",
+      "¾ cup grated parmesan cheese"
     ],
     "instructions": [
-      "Pat shrimp dry and season with salt and pepper.",
-      "Melt 2 tablespoons butter in a large skillet over medium-high heat.",
-      "Add shrimp in a single layer and cook 2 minutes per side until pink. Remove and set aside.",
-      "Reduce heat to medium. Add remaining butter and garlic, cook 30 seconds until fragrant.",
-      "Pour in white wine and lemon juice, scraping up any browned bits.",
-      "Let sauce simmer for 2 minutes until slightly reduced.",
-      "Return shrimp to the pan, toss to coat in sauce.",
-      "Sprinkle with red pepper flakes and parsley. Serve immediately."
+      "Saute onion with olive oil in instant pot for a few minutes until soft.",
+      "Add rice to pot, stir in any white wine and cook for a few minutes. Add rest of water/chicken broth.",
+      "Add frozen beets and mushrooms to instant pot and stir to combine.",
+      "Set instant pot to manual for 35 minutes.",
+      "When done, do quick release. Sir in grated parmesan cheese."
     ],
-    "notes": "Serve over pasta, rice, or with crusty bread to soak up the sauce.",
-    "dateAdded": "2026-03-10"
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "black-bean-brownies",
+    "title": "Black Bean Brownies",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "can black beans, rinsed and drained",
+      "Tbsp cocoa powder",
+      "½ cup quick oats",
+      "¼ tsp salt",
+      "⅓-½ cup maple syrup",
+      "¼ cup avocado oil",
+      "½ tsp baking powder",
+      "cup chocolate chips, half mini chips, half regular size"
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees",
+      "Combine all ingredients except chocolate chips into a food processor and blend extremely well, at least 5 minutes.",
+      "Stir in chocolate chips and put into 8x8 inch pan. Bake for 15-18 minutes."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "black-lentils",
+    "title": "Black lentils",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "½ bag frozen spinach, thawed",
+      "container prepared trader Joe's black lentils",
+      "½ container Trader Joe's red pepper with eggplant and garlic spread ½ container",
+      "Optional tumeric, ginger, garlic or onion powder to taste"
+    ],
+    "instructions": [
+      "Mix together."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "blended-seasonings",
+    "title": "Blended seasonings",
+    "description": "RECIPE\u000bSeasonings Taco Seasoning:",
+    "tags": [
+      "sauces/dressings/seasonings"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "Tbsp chili powder",
+      "tsp ground cumin",
+      "tsp garlic powder",
+      "tsp paprika (smoked preferred)",
+      "½ tsp dried oregano",
+      "½ tsp onion powder",
+      "¼ tsp fine salt",
+      "¼ tsp black pepper"
+    ],
+    "instructions": [
+      "¼ tsp crushed red pepper flakes",
+      "Chili Powder Seasoning:",
+      "⅛ cup sweet paprika",
+      "½ tsp smoked paprika",
+      "½ tsp garlic powder",
+      "½ tsp cayenne pepper",
+      "½ tsp onion powder",
+      "tsp dried oregano",
+      "tsp ground cumin",
+      "Mac and Cheese Seasoning:",
+      "Equal parts mustard powder and garlic powder",
+      "½ parts onion powder and Italian seasoning",
+      "¼ part ground black pepper"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "bolognese-sauce",
+    "title": "Bolognese Sauce",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "pack frozen chopped onion",
+      "About 4 carrots, diced",
+      "Or a pack of frozen mushrooms",
+      "garlic cloves, crushed",
+      "lb ground turkey/beef",
+      "cup broth",
+      "oz crushed tomatoes",
+      "small can of  tomato paste",
+      "tsp Italian seasoning",
+      "lb pasta (optional to eat with)"
+    ],
+    "instructions": [
+      "Sautee ground meat",
+      "Combine everything else except pasta in instant pot, set to 7 minutes on high. Slow release.",
+      "Instant Pot from Frozen:",
+      "Combine 8 oz pasta (tested with spiral quinoa and brown rice pasta from Trader Joe’s), 1 ¾ cup water, and ½ of the thawed turkey bolognese (thaw from frozen for at least 24 hours). Cook on manual for 2 minutes, quick release. Stir to combine juices and let sit for a few minutes to soak up the liquid."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "breakfast-quesadilla",
+    "title": "Breakfast Quesadilla",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "Wraps",
+      "Cheddar cheese",
+      "Add-ins (chicken, black beans, avocado, veggies (cauliflower, onion, peppers, tomatoes))"
+    ],
+    "instructions": [
+      "Heat olive oil in skillet. Add wrap and top with cheese and any add-ins. Lightly top with these ingredients if using only one wrap and folding in half. Heavily top if adding another wrap on top and then heating on other side."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "brown-rice",
+    "title": "Brown Rice",
+    "description": "RECIPE\u000bBrown Rice",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "cups brown rice (any kind except quick kind)"
+    ],
+    "instructions": [
+      "½ cups water or broth",
+      "Directions: Manual 15 minutes, slow release"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "burrito-casserole",
+    "title": "Burrito Casserole",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "lb ground turkey",
+      "packages fresh spinach or other greens",
+      "½ cups cooked brown rice",
+      "jar salsa",
+      "½ tsp dried oregano",
+      "cups frozen corn, thawed/microwaved",
+      "can (15 oz) refried beans",
+      "½ tsp ground cumin",
+      "½ tsp chili powder",
+      "½ cups shredded taco-cheese blend (or mozzarella if not available)",
+      "Cilantro, optional as garnish"
+    ],
+    "instructions": [
+      "With olive oil, saute ground turkey and then spinach. Remove and keep on the side.",
+      "In a large bowl, combine rice, salsa and oregano.",
+      "In another bowl, combine refried beans, corn, cumin, and chili powder.",
+      "In a large baking dish (12 x 8 inch), spread ½ of the rice mixture. Layer on all of the refried bean mixture and then half of the cheese. Layer on the ground turkey and sauteed spinach. Then top with the remaining rice mixture, then remaining cheese.",
+      "Bake at 350 degrees for 35 minutes. Uncovered. Optional - sprinkle on cilantro."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "butternut-squash-risotto",
+    "title": "Butternut Squash Risotto",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "leeks, chopped",
+      "½ cups brown rice",
+      "container cut butternut squash (about a pound or so)",
+      "½ cups liquid (up to ¼ cup white wine, water, chicken broth)",
+      "bag fresh baby spinach (optional)",
+      "tsp fresh finely chopped sage",
+      "¾ cup grated parmesan cheese"
+    ],
+    "instructions": [
+      "Saute chopped leeks with olive oil in instant pot for a few minutes until soft.",
+      "Add rice to pot, stir in any white wine and cook for a few minutes. Add rest of water/chicken broth.",
+      "Add cut butternut squash.",
+      "Set instant pot to manual for 35 minutes.",
+      "When done, do quick release. Sir in fresh sage, black pepper, and grated parmesan cheese. Stir in fresh baby spinach."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "butternut-squash-tortellini",
+    "title": "Butternut Squash Tortellini",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "container cut butternut squash (1 ½-2 lbs)",
+      "½ cups water",
+      "spinach tortellini packages",
+      "½ tsp onion powder",
+      "½-1 tsp garlic powder",
+      "¼ yep red pepper flakes",
+      "Salt and pepper to taste",
+      "bag fresh baby spinach (optional)",
+      "¾ cup grated parmesan cheese"
+    ],
+    "instructions": [
+      "Add everything to Instant pot except spinach and parmesan cheese",
+      "Set instant pot to manual for 5 minutes.",
+      "When done, do quick release after a couple minutes. Sir in spinach until wilted. Then stir in ½ cup parmesan cheese. Serve with extra parmesan cheese on top."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "carrot-fritters",
+    "title": "Carrot fritters",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "½ bag shredded carrots",
+      "egg",
+      "Tbsp almond flour",
+      "¾ cup shredded cheddar cheese",
+      "¼ tsp dried parsley",
+      "Pinch of salt and pepper"
+    ],
+    "instructions": [
+      "Whisk together. Clump into about 7-8 patties (won't stick together before baking).",
+      "Bake at 375 degrees for 10 minutes, then flip to other side and bake for another 10 minutes. Take out when mostly browned but not burnt."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "cashew-coconut-curry",
+    "title": "Cashew coconut curry",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "red peppers, cut in slices",
+      "large or 2 small potatoes, chopped",
+      "yellow onion, chopped",
+      "tsp cumin",
+      "Tbsp yellow curry powder",
+      "About ⅓  cup cashews",
+      "cup chicken broth or water",
+      "large frozen chicken breasts",
+      "Cilantro (fresh or dried) - about 1 Tbsp dried or a small bunch fresh",
+      "cup unsweetened coconut milk"
+    ],
+    "instructions": [
+      "Add all the ingredients except frozen chicken, cilantro (if fresh) (include in this step if dried) and coconut milk into the instant pot.",
+      "Stir, and then add frozen chicken on top.",
+      "Set instant pot to manual at 15 minutes on high. Natural release.",
+      "Strir in cilantro if fresh, and coconut milk."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "cashew-cream-parfait",
+    "title": "Cashew cream parfait",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "cup cashews, soaked and drained",
+      "½ cup water",
+      "Tbsp maple syrup",
+      "tsp vanilla extract",
+      "Pinch of salt",
+      "Any toppings (fruit, chopped nut, coconut, chia seeds, flaxseed, hemp seeds)"
+    ],
+    "instructions": [
+      "Combine all ingredients except the add-ons. Blend together and refrigerate for at least a few hours.",
+      "Add in toppings and enjoy.",
+      "Can keep in the fridge for a week or so"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chana-masala",
+    "title": "Chana Masala",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "bag of frozen chopped onions",
+      "cloves of garlic",
+      "clove of ginger",
+      "cans of rinsed chickpeas",
+      "large can (28oz) crushed tomatoes",
+      "½ tsp garam masala",
+      "½ tsp ground coriander",
+      "¾ tsp ground cumin",
+      "½ tsp ground turmeric"
+    ],
+    "instructions": [
+      "Add all ingredients to instant pot. Cook on manual for 5 minutes.",
+      "Quick release once done."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chatgpt-recipe-ideas",
+    "title": "ChatGPT recipe ideas",
+    "description": null,
+    "tags": [],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "high pressure – 12 min",
+    "servings": null,
+    "ingredients": [
+      "cup red lentils",
+      "cups frozen mixed veggies (broccoli, carrots, cauliflower)",
+      "can diced tomatoes",
+      "/2 onion (or frozen onion)",
+      "cups water or broth",
+      "tsp cumin, 1 tsp paprika, salt",
+      "cans black beans (drained)",
+      "cups frozen peppers + onions",
+      "cup frozen corn",
+      "cup frozen cauliflower rice",
+      "packet taco seasoning",
+      "/2 cup water",
+      "cans chickpeas",
+      "–3 cups frozen broccoli + cauliflower + carrots",
+      "can light coconut milk",
+      "tbsp curry paste or powder",
+      "/2 cup water",
+      "can kidney beans",
+      "can white beans",
+      "cups frozen mixed veggies",
+      "cup frozen spinach",
+      "can crushed tomatoes",
+      "cups broth",
+      "Italian seasoning",
+      "cup brown or green lentils",
+      "cups frozen veggie mix (carrots, peppers, zucchini)",
+      "cup tomato sauce",
+      "cups water",
+      "tbsp ketchup + 1 tsp mustard"
+    ],
+    "instructions": [
+      "Dump everything into Instant Pot",
+      "Quick release + stir",
+      "Why it works",
+      "Lentils cook fast → super creamy",
+      "Veggies = ~50% of volume",
+      "Mild flavor = kid friendly",
+      "🌮 2. Mexican Black Bean Veggie Bowl",
+      "Protein: ~20–25g per serving",
+      "Dump + mix",
+      "Quick release",
+      "Greek yogurt (adds protein 🔥)",
+      "Avocado",
+      "Tortillas or rice (optional)",
+      "🍛 3. Chickpea Coconut Veggie Curry",
+      "Protein: ~20g per serving",
+      "Dump everything",
+      "Stir + optional squeeze of lime",
+      "Boost protein",
+      "Add 1/2 cup red lentils → pushes protein higher",
+      "🍲 4. High-Protein Minestrone (No Pasta Needed)",
+      "Protein: ~22g per serving",
+      "Dump + stir",
+      "Optional",
+      "Add small pasta after cooking (for kids)",
+      "🥦 5. Lentil & Veggie Sloppy Joe Filling (SO GOOD)",
+      "Protein: ~23g per serving",
+      "Dump everything",
+      "Natural release 5–10 min",
+      "Serve",
+      "On buns, wraps, or over rice",
+      "Kids LOVE this one",
+      "🔥 Pro Tips (this is the real game-changer)",
+      "Keep it 50% veggies easily",
+      "Just follow this rule:\u000b👉 “At least 2 cups frozen veggies per 1 cup beans/lentils”",
+      "Always hit protein targets",
+      "Add one of these if needed:",
+      "Greek yogurt (serve on top)",
+      "Extra lentils",
+      "Hemp seeds (blend in sauces)",
+      "Batch once, eat 2–3 days",
+      "All of these:",
+      "Store great",
+      "Freeze well",
+      "Taste better next day",
+      "If you want, I can:",
+      "Turn this into a weekly meal prep plan",
+      "Or customize for your kids (like “less spice / hidden veggies / finger food versions”)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "cheesy-chicken-fajita-soup",
+    "title": "Cheesy Chicken Fajita Soup",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "~2 cups frozen or fresh corn (prefer frozen roasted Trader Joe’s corn)",
+      "can black beans",
+      "pack frozen chopped onions (about 2 onions)",
+      "pack frozen roasted bell pepper and onion from Trader Joe’s",
+      "cloves garlic",
+      "tsp garlic powder",
+      "tsp chili powder",
+      "½ tsp cumin",
+      "½ tsp paprika",
+      "Ground pepper, to taste",
+      "cups broth or water",
+      "frozen or fresh chicken breasts",
+      "~¼ - ½ cup greek yogurt",
+      "~ 2 cups shredded cheddar cheese",
+      "Baby spinach"
+    ],
+    "instructions": [
+      "Add everything to the instant pot except chicken, yogurt, and cheese.",
+      "Then, layer the chicken breast on top (don’t add more than 1 layer of chicken)",
+      "If using frozen chicken, set the instant pot to 12 minutes manual. If fresh, 10 minutes manual. Slow release.",
+      "Immediately, so still hot, stir in greek yogurt first. Then stir in cheddar cheese. Then stir in baby spinach (if soup is not hot when you stir in the spinach, then saute spinach so wilts before stirring it in)."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chia-and-flaxseed-pudding",
+    "title": "Chia and Flaxseed pudding",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "Tbsp chia seeds",
+      "Tbsp ground flaxseed",
+      "cup milk",
+      "Tbsp honey or maple syrup",
+      "½ tsp vanilla extract",
+      "Pinch of salt",
+      "Any toppings (fruit, chopped nuts or nut butter, shredded coconut)"
+    ],
+    "instructions": [
+      "Combine all ingredients except the add-ons. Cover and place in fridge overnight (for at least 5 hours).",
+      "Add in toppings and enjoy.",
+      "Can keep in the fridge for a week or so"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chia-seed-jam",
+    "title": "Chia seed jam",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "cups frozen berries",
+      "Tbsp chia seeds"
+    ],
+    "instructions": [
+      "Saute frozen berries in a sauce pan for about 10 minutes, with frequent stirring so doesn't stick to bottom of pan.",
+      "Mash the berries until desired texture (I do a rough mash with a potato masher so still some chunks)",
+      "Remove from heat and stir in chia seeds right away (while still very hot). As it cools, it will thicken.",
+      "Can keep in the fridge for a week or so"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chicken",
+    "title": "Chicken",
+    "description": "RECIPE\u000bChicken",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Add one cup of liquid chicken bone broth. Add chicken breast.",
+      "Frozen: Manual 15 minutes, quick release",
+      "Fresh: Manual 9-10 minutes, slow release"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chicken-bone-broth",
+    "title": "Chicken bone broth",
+    "description": "RECIPE\u000bChicken bone broth",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Add any cooked chicken bones to instant pot (I either cook a whole chicken first or use a store bought rotisserie chicken). Everything inedible on the chicken can go into the instant pot (including skin). I use the scraps from 2 store bought rotisserie chickens",
+      "Water to match top of chicken or as much as a little below the max fill line.",
+      "Directions: Manual 240 minutes, slow release",
+      "I freeze in ½ cup cubes that I then transfer to a ziplock bag to store. When using in place of liquid in the instant pot, microwave first so the recipe doesn't burn since it doesn't turn to liquid quickly enough in instant pot recipes to replace all liquid in frozen form."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chicken-burrito-filling",
+    "title": "Chicken Burrito Filling",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "½ cups brown rice",
+      "cup dried black beans",
+      "large chicken breasts",
+      "Tbsp taco seasoning",
+      "Tbsp cumin",
+      "Tbsp garlic powder",
+      "tsp salt",
+      "cups water or broth"
+    ],
+    "instructions": [
+      "Add all ingredients to instant pot. Cook on manual for 10 minutes.",
+      "Quick release once done."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chicken-cacciatorie",
+    "title": "Chicken Cacciatorie",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "tablespoon  olive oil",
+      "chicken thighs (about 1 to 1.25 pounds)",
+      "medium carrot, peeled and sliced into ½-inch rounds (or however you want)",
+      "medium red or green bell pepper, diced (about 1 cup)",
+      "(14.5-ounce) can crushed tomatoes with juice",
+      "½ teaspoons dried oregano",
+      "tablespoons capers",
+      "⅓ cup halved kalamata olives (dont have to put)",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Select the “Saute” setting on the Instant Pot. Once hot, add oil and chicken. Sear the chicken for 1-2 minutes per side.",
+      "Cancel the “Saute” setting. Add carrot, bell pepper, tomatoes, and oregano. Place lid on top of Instant Pot and secure. Set vent to “Sealing.”",
+      "Select the “Meat” setting on the Instant Pot. Adjust the time to 20 minutes on “High Pressure” and cook. After cooking, let the pressure naturally release for 15 minutes. Carefully switch the vent to “Venting” to release any remaining pressure. Remove lid.",
+      "Stir in capers and kalamata olives. Adjust flavor with salt and pepper."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chicken-meatballs",
+    "title": "Chicken meatballs",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "Handful of fresh parsley, chopped",
+      "cloves garlic, minced",
+      "¾ cup Parmesan cheese",
+      "Ground black pepper, to taste",
+      "lb ground chicken"
+    ],
+    "instructions": [
+      "Mix all ingredients aside from the ground chicken together. Then incorporate into the ground chicken. Form small meatballs (about 2 Tbsp for each meatball) and put on a baking tray.",
+      "Bake for 25-30 minutes or so - until cooked through."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chicken-sausage-farro-stew",
+    "title": "Chicken sausage farro stew",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "bag of frozen chopped onions",
+      "Carrots chopped and sauteed",
+      "cloves garlic, frozen",
+      "cup farro (dry, pearled)",
+      "cans cannellini beans (about 3 cups cooked)",
+      "oz crushed tomatoes",
+      "About 2 Tbsp dried rosemary",
+      "Ground pepper",
+      "Chopped kale",
+      "About 3 cups water or broth"
+    ],
+    "instructions": [
+      "Add everything to the instant pot. Set to 7 minutes, slow release.",
+      "If using spinach instead of kale, stir in at the end while stew is still hot instead of before cooking."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "chicken-taco-soup",
+    "title": "Chicken Taco Soup",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "tablespoon olive oil",
+      "onion chopped",
+      "chicken breasts (boneless, skinless) (fresh or frozen)",
+      "cloves garlic minced",
+      "½ teaspoon ground cumin",
+      "½ teaspoon smoked paprika",
+      "⅓ teaspoon chili powder",
+      "(12 fluid ounces) can corn drained, or frozen corn",
+      "(19 fluid ounces) can black beans drained & rinsed",
+      "(4 ounce) can diced green chilies",
+      "(13.5 fluid ounce) cans fire-roasted diced tomatoes with juices",
+      "cups water or chicken broth",
+      "Fresh baby spinach (one 6 oz bag)",
+      "Toppings (optional):",
+      "Shredded pepper jack cheese",
+      "Avocado"
+    ],
+    "instructions": [
+      "Sauté the olive oil and onion in your Instant Pot for a few minutes. Cancel sauté.",
+      "Add the other soup ingredients, except the spinach and cheese, to your pressure cooker and give it a stir.",
+      "Ensure the lid is on \"sealing\". Cook on high pressure for 9 minutes if refrigerated chicken, 11 minutes if frozen chicken. It'll take about 10-15 minutes for it to get up to pressure.",
+      "Once the countdown has finished, do a quick pressure release.",
+      "Take the chicken out and shred it with two forks. Add it back into the soup.",
+      "Stir in the fresh baby spinach until wilted.",
+      "When ready to eat, top with shredded pepper jack cheese. Can also top with avocado."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "coconut-cauliflower-curry",
+    "title": "Coconut Cauliflower Curry",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "yellow onion",
+      "pound sweet potato",
+      "head cauliflower",
+      "Tbsp curry powder",
+      "Tbsp garam masala",
+      "tsp cumin",
+      "¼ tsp cayenne",
+      "oz diced tomatoes",
+      "15-oz can coconut milk",
+      "15-oz can chickpeas",
+      "cups spinach leaves"
+    ],
+    "instructions": [
+      "Saute onion for 2 minutes. Add sweet potato and saute 3 minutes. Add cauliflower and a bit of saunt and saute another 5 minutes. Stir in 2 Tbsp curry powder, 1 Tbsp garam masala, 1 tsp cumin, ¼ tsp cayenne. Add diced tomatoes and coconut milk. Bring to a boil and then reduce heat and simmer for about 10-20 minutes, until the cauliflower and sweet potatoes are tender.",
+      "Add chickpeas and spinach and cook until the spinach is wilted."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "coconut-chia-pudding-with-cantaloupe",
+    "title": "Coconut Chia Pudding with cantaloupe",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": "aration (can do night before)",
+    "cookTime": null,
+    "servings": 1,
+    "ingredients": [
+      "/3  cup (80 grams) canned coconut milk",
+      "/4  cup water",
+      "tablespoons (24 grams) chia seeds",
+      "teaspoon (8 grams) maple syrup",
+      "/4  cup (45 grams) diced cantaloupe",
+      "(20 grams) blueberries",
+      "In a small bowl, whisk together coconut milk, water, chia seeds, and maple syrup until well mixed.",
+      "Cover and refrigerate until a gel-like mixture has formed, at least 2 hours. I recommend stirring the mixture after about an hour in the fridge to redistribute the chia seeds as they tend to settle to the bottom."
+    ],
+    "instructions": [
+      "(imported — check formatting)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "cream-of-cauliflower-soup",
+    "title": "Cream of cauliflower soup",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "packages of frozen cauliflower",
+      "½ package of frozen diced onions",
+      "cups chicken bone broth",
+      "cups whole milk",
+      "cup cheddar cheese",
+      "Tbsp flour",
+      "Sprinkle of black pepper",
+      "Sprinkle of italian seasoning"
+    ],
+    "instructions": [
+      "Add cauliflower, onions, chicken bone broth, and flour in a large pot. Heat, stirring occasionally until cauliflower is soft.",
+      "Remove from heat and add in milk, cheddar cheese, pepper, and Italian seasoning. Stir and then blend until mostly smooth."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "crispy-roasted-chickpeas",
+    "title": "Crispy roasted chickpeas",
+    "description": "RECIPE",
+    "tags": [
+      "side/appetizer"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Crispy roasted chickpeas",
+      "Chickpeas",
+      "Spice mix (can make anything, for example garlic powder, onion powder, Italian seasoning, black pepper)",
+      "Directions: Add chickpeas to baking tray (don't overcrowd tray). Mix with spice blend, then drizzle with avocado oil and bake for about 45 minutes, until crispy."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "easy-food-during-busy-season",
+    "title": "Easy food during busy season",
+    "description": "If don't plan ahead:",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Wegmans catering pinwheels",
+      "Quick to make:",
+      "Mac and cheese",
+      "Chili",
+      "Pizza",
+      "Vish's mom:",
+      "Sai Bahji",
+      "Bean stew",
+      "Mom:",
+      "Lasagna",
+      "Marinate then bake:",
+      "Chicken thighs, potatoes, other veggies with lemon juice and zest, black pepper, ask Isha if anything else"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "easy-meals-from-frozen-ingredients",
+    "title": "Easy meals from frozen ingredients",
+    "description": "Assemble from frozen ingredients:",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Burrito casserole",
+      "Veggie ziti bake",
+      "Veggie quesadillas",
+      "Eggplant parmesan",
+      "Cheesy chicken soup",
+      "Almond butter curry",
+      "Cauliflower butternut squash chickpea curry",
+      "Hummus pasta",
+      "Cashew chicken curry",
+      "Tofu curry",
+      "Palak paneer",
+      "Veggie soup"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "easy-spinach-tortillas",
+    "title": "Easy Spinach Tortillas",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "oz spinach",
+      "cup chickpea flour",
+      "½ cup arrowroot flour",
+      "⅓ tsp salt (optional)",
+      "⅛ cups water (1-¼ cup depending on thickness desired)"
+    ],
+    "instructions": [
+      "Blend all ingredients together until fully blended. Will be a wet consistency.",
+      "Pour ⅓ cup in a saute pan. Sautee for about 2 minutes on one side, flip and then sautee for about 1 minute on the other side.",
+      "Can use a couple drops of oil if desired. But if you flip in time (don’t wait too long or will stick to pan), you don’t need oil."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "easy-veggie-chili",
+    "title": "Easy Veggie Chili",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "Frozen corn",
+      "Frozen onion and bell pepper",
+      "cans red kidney beans",
+      "can white kidney beans",
+      "28 oz container crushed tomatoes",
+      "can diced chili peppers",
+      "½ tsp paprika",
+      "½ tsp cumin",
+      "⅓ tsp red pepper"
+    ],
+    "instructions": [
+      "Add all ingredients to instant pot. Cook on manual for 10 minutes.",
+      "Quick release once done."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "farro",
+    "title": "Farro",
+    "description": "RECIPE\u000bFarro (pearled - Trader Joe’s)",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "2 ¼ cups pearled farro",
+      "2 ¾ cups water",
+      "7 minutes Manual, natural release"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "farro-corn-bowl",
+    "title": "Farro corn bowl",
+    "description": null,
+    "tags": [
+      "kai approved"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "Corn",
+      "Feta crumbles",
+      "Farro",
+      "Pickled onions (chopped small)",
+      "Chicken (a few pieces, optional)"
+    ],
+    "instructions": [
+      "Mix together and serve"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "farro-chicken-veggies",
+    "title": "Farro, Chicken, Veggies",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "onion",
+      "Carrots",
+      "½ cups farro (or barley)",
+      "¾ bag frozen bell pepper",
+      "½ bag frozen edemame/corn/pepper mix",
+      "½ cups liquid (so all ingredients aside from chicken are just covered)",
+      "frozen chicken breasts",
+      "⅓ bag frozen spinach or kale"
+    ],
+    "instructions": [
+      "Saute onion and carrots with oil in instant pot for a few minutes until soft.",
+      "Add rest of ingredients except chicken and spinach/kale. Stir together.",
+      "Put frozen chicken on top (don’t stir in).",
+      "Set instant pot to manual for 15 minutes.",
+      "Stir in frozen spinach/kale (while hot)."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "feta-orzo-veggie-bake",
+    "title": "Feta orzo veggie bake",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "About 8 oz feta block",
+      "A few handfuls of spinach",
+      "container orzo pasta",
+      "container sliced mushrooms",
+      "container chopped red onion",
+      "About a tsp each of Italian seasoning, garlic powder, onion powder, black pepper",
+      "Drizzle of avocado or olive oil",
+      "A couple containers of cut tomatoes",
+      "cups of chicken broth"
+    ],
+    "instructions": [
+      "Add ingredients to a large baking dish in the order listed.",
+      "Bake for about 30-45 minutes.",
+      "Stirring a couple times to make sure all the orzo is fully coated in the broth and therefore fully cooked"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "freezer-ideas",
+    "title": "Freezer ideas",
+    "description": "Freeze:",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": "ared foods",
+    "cookTime": "ed salmon patties",
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Lemon and lime juice in ice cube trays",
+      "Sauteed or roasted veggies",
+      "Chopped carrots",
+      "Chopped onions",
+      "Broccoli + Cauliflower",
+      "Kale",
+      "Mushrooms",
+      "Tomatoes",
+      "Peppers",
+      "Butternut squash",
+      "Sweet potato fries",
+      "Eggplant",
+      "Bone broth",
+      "Veggie broth",
+      "Wraps (put between butcher block paper)",
+      "Shredded cheese",
+      "Parmesan cheese",
+      "Cottage cheese",
+      "Pasta sauce",
+      "Fruit",
+      "Roasted corn",
+      "Bananas",
+      "Chicken",
+      "Sliced bread",
+      "Curry paste",
+      "Refried beans",
+      "Salsa",
+      "Pesto",
+      "Eggplant parm",
+      "Fritatta bites",
+      "Hummus",
+      "Palak paneer",
+      "Non-cream sauces",
+      "Ziti",
+      "Fish",
+      "Farro and Mediterranean veggie tahini tofu bowl",
+      "Sausage farro kale stew",
+      "Roasted chicken and veggies",
+      "Cheesy chicken soup",
+      "Bolognese sauce",
+      "Herbs (liquid just covering herbs) (freeze 1 year)",
+      "Frozen in ice cube with water",
+      "Frozen in ice cube with olive oil",
+      "Smoothies",
+      "Meatballs & dump in instant pot with zucchini noodles and tomato sauce"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "ginger-sweet-potato-coconut-milk-stew",
+    "title": "Ginger Sweet Potato Coconut Milk Stew",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "yellow onion, diced",
+      "½ tsp chili flakes",
+      "½ tsp ground coriander",
+      "½ tsp ground cumin",
+      "½ tsp ground turmeric",
+      "in piece fresh ginger, minced (prefer fresh, but powder okay too)",
+      "cloves garlic, minced",
+      "½ lb sweet potatoes, diced",
+      "½ cup brown lentils",
+      "cups broth or water",
+      "can coconut milk",
+      "bunch kale/other greens"
+    ],
+    "instructions": [
+      "Add oil in dutch oven pan. Saute onions until soft, a few minutes. Add the chili flakes, coriander, cumin and turmeric. Saute for a minute, until very fragrant. Add ginger and garlic and cook for another minute.",
+      "Add sweet potatoes to the pot and stir to coat. Stir in the lentils. Add stock/water and stir, scraping up any brown bits at the bottom of the pot.",
+      "Bring to a boil. Then lower to a simmer with lid mostly covered. Simmer for about 30 minutes.",
+      "Then add coconut milk and greens. Simmer until greens are wilted.",
+      "Can add cilantro or lime wedges as garnish."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "grandmas-chicken-soup",
+    "title": "Grandma's chicken soup",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "package chicken breast (at least a pound)",
+      "large carrots, chopped into large sticks (6-9 or so sticks per carrot)",
+      "parsnip, cut into sticks",
+      "onion, chopped into large wedges",
+      "Handful of fresh parsley, roughly chopped",
+      "sticks of celery, chopped a little smaller (optional)",
+      "Small amount of fresh dill (optional)"
+    ],
+    "instructions": [
+      "Add everything to a large pot plus enough water or chicken bone broth as desired (I usually do a few inches above all the ingredients). Cover and simmer for 2 hours.",
+      "Once cooked, take out the chicken and shred and keep to the side. Blend the rest of the ingredients (can leave some veggie chunks as desired). Add back the shredded chicken and enjoy."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "granola",
+    "title": "Granola",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "cups rolled oats",
+      "½ cups nuts and seeds",
+      "½ tsp salt",
+      "tsp cinnamon",
+      "⅔ cup dried fruit (chopped if too big)",
+      "½ cup coconut oil, melted",
+      "½ cup honey or maple syrup",
+      "tsp vanilla extract",
+      "Coconut"
+    ],
+    "instructions": [
+      "Mix together oats, nuts/seeds, salt, cinnamon.",
+      "Mix in separate bowl melted coconut oil, honey or maple syrup and vanilla.",
+      "Stir both together very well. Then spread on a baking tray (keep together for clumps) and bake for 21 to 24 minutes (will not appear done but will crisp up as cooling). Add in coconut halfway through cooking. Cool for at least 45 minutes before breaking apart)."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "greek-salad-dressing",
+    "title": "Greek Salad Dressing",
+    "description": null,
+    "tags": [
+      "sauces/dressings/seasonings"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 1,
+    "ingredients": [
+      "Tbsp fresh lemon juice, from one lemon",
+      "Tbsp white vinegar",
+      "tsp garlic (2-3 cloves)",
+      "½ cup plain whole milk greek yogurt",
+      "⅓ cup extra version olive oil",
+      "Ground pepper",
+      "¼ tsp dried thyme or other herbs",
+      "Whisk all together"
+    ],
+    "instructions": [
+      "(imported — check formatting)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "green-curry",
+    "title": "Green curry",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "noodles based on back of bag (i do for 5 minutes). drain and keep aside.",
+    "servings": null,
+    "ingredients": [
+      "Wegmans frozen grilled veggies (has eggplant, peppers, onions) - I use ⅔ of a 54 oz family pack bag",
+      "can coconut milk (about 13oz)",
+      "container Thai kitchen green curry paste (4oz)",
+      "Brown rice noodles (I use half of an 8oz  bag, Wegmans brand)",
+      "Rotisserie chicken (taken apart) (I like Wegmans rosemary rotisserie chicken) (I used about ⅔ of a chicken)"
+    ],
+    "instructions": [
+      "Saute the veggies.",
+      "In a separate saucepan, heat up coconut milk and green curry paste just need to heat up enough to melt the green curry paste, about 3 minutes or so.",
+      "Combine all together - cooked noodles, veggies, chicken, sauce."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "green-smoothie",
+    "title": "Green smoothie",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "smoothies"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 2,
+    "ingredients": [
+      "banana",
+      "cups fresh spinach",
+      "dates (pitted)",
+      "Almond milk, about a cup and a half (or until consistency desired)"
+    ],
+    "instructions": [
+      "Blend all together"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "high-protein-chicken-salad",
+    "title": "High protein chicken salad",
+    "description": null,
+    "tags": [
+      "main dishes, conventional",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "Shredded chicken",
+      "Sliced cucumber",
+      "Diced celery",
+      "Pickled or plain cut red onion",
+      "Pickled or plain shredded carrot",
+      "Chopped pickles",
+      "Dijon mustard",
+      "Cottage cheese",
+      "Greek yogurt"
+    ],
+    "instructions": [
+      "Combine everything and serve."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "indonesian-gado-gado",
+    "title": "Indonesian Gado Gado",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "Green beans",
+      "Carrots",
+      "Potatoes (red or gold are good)",
+      "Jicama (optional)",
+      "Tofu (optional)",
+      "Bean sprouts (optional)",
+      "Sprouted mung beans (optional)",
+      "Cucumbers (optional)",
+      "Peanut Sauce:",
+      "clove garlic, minced",
+      "½ tsp fresh ginger or 1 tsp powdered ginger",
+      "Tbsp honey",
+      "¾ cup peanut butter (I like creamy Teddie All Natural)",
+      "⅓ cup low sodium soy sauce",
+      "¼ tsp red pepper flakes",
+      "¼ cup rice vinegar"
+    ],
+    "instructions": [
+      "Steam all items except bean sprouts, mung beans, and cucumbers. Note that you may want to steam them separately as some take longer than others to steam.",
+      "Whisk all peanut sauce ingredients together. You will likely need to continue adding a few Tbsp of water at a time until you get a liquidy consistency (but not too runny). Top steamed veggies with warmed peanut sauce."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "instant-pot-beans",
+    "title": "Instant Pot Beans",
+    "description": "RECIPE\u000bInstant Pot Dried Beans Pre-soaked:",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "Add beans with  water filling up about 1-2  inch higher than the beans."
+    ],
+    "instructions": [
+      "Chickpeas: Manual 5 minutes, natural release.",
+      "Black beans: Manual 7-8 minutes, natural release. (8 for softer)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "instant-pot-rolled-oats",
+    "title": "Instant Pot Rolled Oats",
+    "description": null,
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 1,
+    "ingredients": [
+      "cup steel cut oats (Trader Joe’s)",
+      "cups water"
+    ],
+    "instructions": [
+      "Mix together in instant pot.",
+      "Manual for 4 minutes. Let sit for at least 20 minutes plugged in.",
+      "Stir in almond butter and eat with half a banana."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "italian-spaghetti-squash",
+    "title": "Italian Spaghetti Squash",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 3,
+    "ingredients": [
+      "Spaghetti Squash",
+      "Baby bella mushrooms, sliced",
+      "container grape tomatoes (about 10 oz), cut in half",
+      "Fresh baby spinach",
+      "About 1 cup white wine or chicken broth"
+    ],
+    "instructions": [
+      "Cut spaghetti squash in half lengthwise and scoop out seeds. Add 1 cup of water and metal rack to Instant Pot. Put the spaghetti squash on the metal rack.",
+      "Cook on manual high pressure for 7-8 minutes (depending on how firm want squash to be).",
+      "Once done, remove squash from skin with fork.",
+      "While squash is cooking, saute sliced mushrooms until tender. Add in grape tomatoes and continue cooking for another few minutes until soft.",
+      "Add white wine or chicken broth, and cook for another couple minutes until hot. Add fresh baby spinach and stir into mixture until wilted. Pour the mixture on top of the spaghetti squash."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "kai-all-dishes-ideas",
+    "title": "Kai all Dishes Ideas",
+    "description": "All Dishes:",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Cheese",
+      "Meatballs",
+      "Chicken nuggets",
+      "Yogurt",
+      "Egg",
+      "Chicken pieces",
+      "Ham",
+      "Tofu",
+      "Fish",
+      "Grilled chicken with soy vey sauce (thin cut chicken)",
+      "Palak paneer",
+      "Almond lentil curry",
+      "Chicken veggie soup",
+      "Cheese veggie fritters",
+      "Sai bahji",
+      "Veggie macaroni and cheese",
+      "Green beans",
+      "Beets",
+      "Mushrooms",
+      "Peas",
+      "Avocado",
+      "Grilled zucchini",
+      "Fruit",
+      "Baby pancake",
+      "Potato",
+      "Corn",
+      "Bread",
+      "Oatmeal",
+      "Black beans",
+      "White beans",
+      "Hummus",
+      "Farro",
+      "Pumpkin banana waffles",
+      "Mini blueberry almond muffins",
+      "Frozen yogurt fruit jam",
+      "Frozen banana peanut butter sandwich",
+      "Pickeled onions",
+      "Oatmeal with peanut or almond butter",
+      "Egg avocado toast",
+      "Sauteed spinach with garlic"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "kai-breakfast-ideas",
+    "title": "Kai Breakfast ideas",
+    "description": "Kai Breakfast Ideas:",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Oatmeal",
+      "French toast with applesauce on top",
+      "Toast with avocado and eggs on top",
+      "Kitcheny - the sindhi dish",
+      "Kasha",
+      "Pumpkin pancakes with applesauce on top",
+      "Banana pancakes",
+      "High protein pancakes from Trader Joe's",
+      "Smoothie",
+      "Blueberry bread",
+      "Tofu veggie scramble",
+      "Acai bowl",
+      "Quiche/egg cups",
+      "Hash browns",
+      "Musabaha (Middle East breakfast, like warm more liquidy hummus)",
+      "ful medames (Middle East breakfast, stewed fava beans)",
+      "Manakeesh, with zaatar (Middle East bread, similar to naan)",
+      "Cornmeal or fermented millet porridge (African breakfast)",
+      "Quinoa porridge with berries",
+      "Berry/apple /peach crisp",
+      "Overnight  oats"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "lemon-tahini-dressing",
+    "title": "Lemon Tahini Dressing",
+    "description": null,
+    "tags": [
+      "sauces/dressings/seasonings"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 2,
+    "ingredients": [
+      "¼ cup olive oil",
+      "to 4 tablespoons lemon juice, to taste",
+      "tablespoons tahini",
+      "large clove garlic, pressed or minced",
+      "½ teaspoon fine sea salt",
+      "Freshly ground black pepper, to taste"
+    ],
+    "instructions": [
+      "Can use lemons instead of lemon juice. Can use 1 whole lemon. Squeeze lemon juice out of lemon into bowl. Remove seeds that come out",
+      "Put in oil, garlic (can use garlic powder if dont have garlic), salt and pepper. Just stir with a spoon for about a minute."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "link-lot-of-recipes",
+    "title": "Link Lot of Recipes",
+    "description": "https://www.monashfodmap.com/recipe/monash-low-fodmap-recipe-index/",
+    "tags": [
+      "low fodmap"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "https://funwithoutfodmaps.com/"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "mac-and-cheese",
+    "title": "Mac and cheese",
+    "description": "RECIPE\u000bMac and Cheese Make Mac and cheese spice mixture:",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "About 2 tsp mustard powder",
+      "About 2 tsp garlic powder",
+      "About 1 tsp onion powder",
+      "Ground black pepper (about 1 tsp)",
+      "About 1 tsp Italian seasoning"
+    ],
+    "instructions": [
+      "Add as much pasta as you want to the pot, then fill up water to match the pasta, then stir in the spice mixture.",
+      "Set instant pot to 1 minute on high for any large pasta (such as penne) or 0 minutes on high or 1 minute on low for any small pasta (such as elbows)",
+      "I make the Mac and cheese spice mixture ahead of time and put in about 3 TBSP per box of pasta",
+      "After instant pot is done, stir in shredded cheddar cheese. If pasta is super dry after instant pot is done, can stir in some milk to soften before adding the cheddar cheese.+"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "massaman-curry",
+    "title": "Massaman Curry",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": "eration for protein",
+    "cookTime": "ing the curry",
+    "servings": 4,
+    "ingredients": [
+      "PROTEIN OPTIONS optional",
+      "batch Crispy Baked Peanut Tofu (vegan-option)",
+      "/2 lb. shrimp (seafood option — wild caught when possible)",
+      "large skinless chicken breast, cubed (meat option — free-range, local, organic when possible)",
+      "CURRY",
+      "Tbsp coconut or avocado oil (if avoiding oil, sub water and add more as needed)",
+      "medium shallots, thinly sliced (or sub 1 small onion)",
+      "tsp whole cumin seed (or sub powder)",
+      "tsp whole coriander seed (or sub powder)",
+      "Tbsp red curry paste (we love Thai Kitchen brand)",
+      "½ cups baby potatoes cut into bite-size pieces",
+      "large carrots, peeled and diced 1/4-inch thick",
+      "14-oz. cans light fat coconut milk (sub up to 1 can with full-fat coconut milk for creamier, richer curry — texture shown in photos above)",
+      "½ cups water",
+      "/4 tsp ground cinnamon",
+      "dash each cardamom and nutmeg (if you don't have, omit)",
+      "Tbsp coconut aminos (or sub tamari or soy sauce, but start with less as they're saltier)",
+      "Tbsp maple syrup or coconut sugar (or sub stevia to taste)",
+      "Tbsp peanut butter (in place of traditional roasted peanuts — can sub roasted peanuts)",
+      "Tbsp lime juice (or lemon)",
+      "You have options for added protein or you can just stick with vegetables.",
+      "To keep it vegan-friendly, follow the link above to make Crispy Peanut Tofu.",
+      "Or, to keep this a 1-pot recipe, simply add (pressed) cubed extra-firm tofu to the curry in the last 10 minutes of cooking or sauté pressed tofu in a little oil and season with salt, pepper, and curry powder before cooking the curry. Set aside, then add back in in the last few minutes of cooking for best results.",
+      "Alternatively, add meat such as shrimp or chicken to the curry once it's simmering (during step 4) and simmer until cooked completely through.",
+      "Heat a large pot or dutch oven (we like this one) over medium heat. Once hot, add oil (or water) and shallot. Sauté 2 minutes, stirring frequently. Turn down heat if browning too quickly.",
+      "Add whole cumin and coriander seeds (or powder) and sauté for another 1-2 minutes, stirring frequently. Then add red curry paste and stir to combine. Cook for 1 minute more.",
+      "Add potatoes and carrots and stir to coat. Cook for 2 minutes. Then add coconut milk, water (starting with the lesser amount), cinnamon, cardamom, nutmeg, coconut aminos, maple syrup, and peanut butter. (Reserve lime juice for later).",
+      "The liquid should cover all of the ingredients — if it does not, add a bit more coconut milk or water to cover. Bring to a simmer over medium-high heat.",
+      "Once it reaches a low boil, reduce heat to a simmer (add meat at this time if cooking with shrimp or chicken) and cook for 10-15 minutes uncovered. You don't want it boiling, so ensure it's cooking over low heat at a simmer.",
+      "Add lime in the last few minutes of cooking and stir. Then taste and adjust flavor as needed, adding more lime for acidity, salt or coconut aminos for saltiness, curry paste for heat / more intense curry taste, maple syrup for sweetness, cinnamon or nutmeg for warmth, or peanut butter for creaminess / more intense peanut flavor.",
+      "Stir and cook a few minutes more. Then turn off heat and let stand for at least 5 minutes before serving (this allows the flavors to meld).",
+      "To serve, divide between serving bowls and enjoy as is or with a side of rice, cauliflower rice, quinoa, or steamed greens (optional). Fresh lime juice, cilantro, and roasted peanuts (optional) make lovely additions as well."
+    ],
+    "instructions": [
+      "(imported — check formatting)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "meal-prep-what-spices-to-keep",
+    "title": "Meal Prep - what spices to keep",
+    "description": "Meal Prepping: what spices to keep",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Onion powder",
+      "Garlic powder",
+      "Italian seasoning",
+      "Dried oregano",
+      "Dried thyme",
+      "Salt",
+      "Peppercorns in grinder",
+      "Chili powder (can make your own)",
+      "Cumin",
+      "Paprika",
+      "Garam masala",
+      "Tumeric powder",
+      "Curry powder",
+      "Cayenne pepper powder",
+      "Red chili flakes"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "meal-prep-what-to-keep-in-freezer",
+    "title": "Meal Prep - what to keep in freezer",
+    "description": "Meal Prepping: what to keep in freezer Sauteed chopped carrots (can use frozen mirepoix instead) Roasted baby carrots Chicken bone broth (in half cups) Veggie broth (in half cups) Frozen zucchini noodles",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "ed farro",
+    "servings": null,
+    "ingredients": [
+      "Beef or turkey Bolognese sauce (in 1 cup cubes)",
+      "Chicken sausage white bean stew with kale (not spinach) (in 1 cup cubes)",
+      "Frozen roasted corn (Trader Joe's)"
+    ],
+    "instructions": [
+      "Frozen garlic and ginger cubes (Trader Joe's)",
+      "Frozen onion and peppers (Trader Joe's)",
+      "Frozen spinach",
+      "Frozen chopped onion",
+      "Frozen mirepoix",
+      "Frozen pre-portioned bags of cooked beans (black, white, chickpeas)",
+      "Fruit (berries, peaches)",
+      "Shredded mozzarella and cheddar cheese",
+      "Frozen chicken breasts (individually frozen, such as from Trader Joe's)",
+      "Pre-shredded chicken (from store bought rotisserie chicken or from baking a whole chicken)",
+      "Sauteed mushrooms",
+      "Roasted broccoli and cauliflower",
+      "Roasted small chopped onions and red/orange/yellow pepper)",
+      "Veggie frittata",
+      "Roasted sweet potato",
+      "Salmon baked with pesto and lemon on top",
+      "Blueberry oatmeal bars",
+      "Veggie lentil quinoa soup (in 1 cup cubes)",
+      "Frozen green beans"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "mediterranean-greek-chicken-bowls",
+    "title": "Mediterranean Greek Chicken Bowls",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "chicken breasts (boneless, skinless) (fresh or frozen)",
+      "½ tsp turmeric",
+      "½ tsp thyme",
+      "½ tsp cumin",
+      "½ tsp paprika",
+      "¼ tsp black pepper",
+      "Farro, quinoa, or brown rice, cooked",
+      "Roasted veggies (tomatoes, red onion, mushrooms, broccoli, asparagus, etc.)",
+      "Tzatziki sauce",
+      "Olives"
+    ],
+    "instructions": [
+      "Put chicken and ½ - ¾ cup water in the instant pot. Put the combined seasonings on top.",
+      "Ensure the lid is on \"sealing\". Cook on high pressure for 9 minutes if refrigerated chicken, 11-12 minutes if frozen chicken. It'll take about 10-15 minutes for it to get up to pressure..",
+      "Take the chicken out and shred it with two forks. Keep any leftovers in the broth from the Instant Pot."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "oatmeal-coconut-white-chocolate-cookies",
+    "title": "Oatmeal Coconut White Chocolate Cookies",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "cups old fashioned oats",
+      "cups quick cooking oats",
+      "tsp baking powder",
+      "tsp baking soda",
+      "tsp salt",
+      "tsp ground cinnamon",
+      "cup unsweetened shredded coconut",
+      "large bananas, mashed",
+      "½ cup unsweetened applesauce",
+      "½ cup smooth unsalted peanut or almond butter",
+      "⅓ cup maple syrup or honey",
+      "½ cup white chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees",
+      "In large bowl, whisk together oats, baking powder, baking soda, salt, cinnamon, and coconut",
+      "In another bowl, mash bananas and then whisk in the applesauce, nut butter, and maple syrup, until smooth.",
+      "Pour the wet ingredients into the dry and mix until just combined. Fold in the white chocolate chips.",
+      "Scoop into cookies, can flatten a bit before cooking because they will hardly spread during baking.",
+      "Bake for 15-18 minutes, until edges are golden brown. Don’t check bottom until after cooled, as cookies will break apart. Take out and let cool completely."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "overnight-oats",
+    "title": "Overnight oats",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "½ cup rolled oats",
+      "½ cup milk",
+      "¼ cup yogurt",
+      "Any add-ins, as desired (can make homemade jam)"
+    ],
+    "instructions": [
+      "Mix together oats, milk, and yogurt. Let sit at least for 2 hours, at most 3 days. Mix in add-ins when ready to eat. Can serve cold or warm."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "palak-paneer",
+    "title": "Palak Paneer",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "½ packages of frozen spinach",
+      "onion, chopped",
+      "½ cup crushed tomatoes",
+      "tsp ginger",
+      "tsp garlic",
+      "½ tsp garam masala",
+      "¼ cup water",
+      "package paneer (from Wegmans, otherwise need to steam the paneer first to soften a bit) or about 12 oz feta cheese block, chopped while instant pot is cooking"
+    ],
+    "instructions": [
+      "Add everything to Instant pot except paneer",
+      "Set instant pot to manual for 0 minutes on high or 1 minute on low.",
+      "Manual release.",
+      "Right away while still hot, blend everything until smooth and then add in chopped paneer or feta. Let sit for 15 minutes to soften the paneer."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "pasta",
+    "title": "Pasta",
+    "description": "RECIPE\u000bPasta",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Add as much pasta as you want to the pot, then fill up water or chicken bone broth to match the pasta.",
+      "Set instant pot to 1 minute on high for any large pasta (such as penne) or 0 minutes on high or 1 minute on low for any small pasta (such as elbows)",
+      "I've only tried this with Barilla protein pasta - may need to adjust times for a different type of pasta."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "peanut-butter-oat-bites",
+    "title": "Peanut butter oat bites",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "⅓ cup honey",
+      "⅔ cup peanut butter",
+      "cup rolled old fashioned oats",
+      "Tbp ground flaxseed",
+      "Tbp chia seeds"
+    ],
+    "instructions": [
+      "Microwave honey and peanut butter in a bowl. Whisk together.",
+      "Add all other ingredients and stir to combine. Form into balls. Refrigerate for at least 15 minutes before eating."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "persian-herbed-chickpea-stew",
+    "title": "Persian Herbed Chickpea Stew",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "ed basmatti rice",
+    "servings": 4,
+    "ingredients": [
+      "red onion, chopped",
+      "cans chickpeas (or 1 cup dried chickpeas, cooked)",
+      "cloves garlic",
+      "tsp ground turmeric",
+      "½ tsp crushed red pepper flakes",
+      "tsp lemon zest",
+      "cups broth/water",
+      "Tbsp lemon juice",
+      "cups baby spinach",
+      "½ cup fresh cilantro, roughly chopped",
+      "½ cup fresh parsley, roughly chopped",
+      "¼ cup fresh dill, roughly chopped",
+      "Plain Greek yogurt",
+      "Fresh mint for serving (optional)"
+    ],
+    "instructions": [
+      "With olive oil, cook the onion for a few minutes until soft. Add the chickpeas and season with black pepper. Stir occasionally until the chickpeas begin to crisp (a few minutes). Add the garlic, turmeric, crushed red pepper, and lemon zest. Cook until the garlic is fragrant, about 1 minute.",
+      "Add 3 cups broth and lemon juice. Bring the mix to a boil over high heat, then reduce to a simmer. Stir in the spinach, cilantro, parsley, and dill. Simmer 10-15 minutes until the spinach is wilted and the stew is very fragrant."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "pesto",
+    "title": "Pesto",
+    "description": null,
+    "tags": [
+      "sauces/dressings/seasonings"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 1,
+    "ingredients": [
+      "cups carrot top greens, or other greens (remove tough stems)",
+      "Tbsp fresh lemon juice, from one lemon",
+      "cloves garlic",
+      "About ½ cup walnuts",
+      "About ½ tsp kosher salt",
+      "Blend all together"
+    ],
+    "instructions": [
+      "(imported — check formatting)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "pesto-chicken",
+    "title": "Pesto Chicken",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "on manual for 11 minutes (9 minutes if fresh, not frozen, chicken). release pressure manually.",
+    "servings": 2,
+    "ingredients": [
+      "Chicken breast (2-3 frozen)",
+      "Container of grape tomatoes",
+      "Can of pesto",
+      "Bag of baby spinach",
+      "White wine (optional)"
+    ],
+    "instructions": [
+      "Put everything in the instant pot - add a bit of water or white wine (about equal to the small pesto container)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "pesto-cous-cous",
+    "title": "Pesto Cous Cous",
+    "description": null,
+    "tags": [
+      "side/appetizer"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "israeli cous cous.",
+    "servings": 4,
+    "ingredients": [
+      "Israeli cous cous (1 cup uncooked)",
+      "bag broccoli",
+      "can chickpeas",
+      "Walnuts (1 - 1 ½ cups)",
+      "Pesto (about ½ cup)"
+    ],
+    "instructions": [
+      "Roast broccoli.",
+      "Stir together all items."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "prep-meals-for-after-baby",
+    "title": "Prep meals for after baby",
+    "description": "Make 4 weeks of food:",
+    "tags": [
+      "all lists/meal ideas"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "56 breakfasts/snacks",
+      "112 lunch/dinners",
+      "Have Vish make:",
+      "Apple or peach crisp once a week: 4 breakfasts each week, 16 total",
+      "Eat with yogurt",
+      "Put in freezer 4 fruit servings, butter, cinnamon, maple syrup, oats, almond flour (put together 4 oat/almond flour/cinnamon packs)",
+      "Make and freeze:",
+      "Chicken sausage soup: freeze in cubes",
+      "Quinoa lentil veggie soup: freeze in packets",
+      "Chicken mushroom broccoli quesadillas - 16",
+      "Chicken roasted red pepper onion quesadillas - 16",
+      "Egg cheddar turkey breakfast sandwiches - 24",
+      "Pizza",
+      "Put into bags to dump in instant pot:",
+      "Lentil quinoa veggie soup",
+      "Cubed bone broth or veggie broth or water",
+      "Freeze prepared but uncooked:",
+      "Pasta veggie",
+      "Partial prep frozen:",
+      "Shredded chicken",
+      "Roasted peppers and onions",
+      "Roasted broccoli and cauliflower",
+      "Mozzarella cheese",
+      "Cheddar cheese",
+      "Chicken breasts",
+      "General prep:",
+      "Mac and cheese spice/herb blend"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "protein-bagels",
+    "title": "Protein bagels",
+    "description": null,
+    "tags": [
+      "bread"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "½ cup wheat flour",
+      "½ cup all purpose flour",
+      "tsp baking powder",
+      "A pinch of salt",
+      "container cottage cheese (about a cup) (I used 1 percent no salt added, but 4 percent is recommended in the recipe)"
+    ],
+    "instructions": [
+      "Stir all dry ingredients together in a large bowl.",
+      "Add in the cottage cheese and combine with your hands. “Kneed” the dough for 5 minutes (I just kept squeezing together in my hands). Dough will be extremely sticky. Section dough into about 6 equal parts.",
+      "Wash off hands (it will be easier if clean). Roll each ball of dough into a line and then make a circle like a bagel and put onto a baking pan.",
+      "Bake for 20-22 minutes at 350 degrees. Let cool for a few minutes before enjoying.",
+      "Can try other types/ratios of flours.",
+      "https://pinchmegood.com/protein-bagels-air-fryer-recipe/"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "pumpkin-oat-pancakes",
+    "title": "Pumpkin Oat Pancakes",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "Wet ingredients:",
+      "cup pumpkin puree (half a container)",
+      "Tbsp melted coconut oil or butter",
+      "Tbsp lemon juice",
+      "tsp maple syrup",
+      "tsp vanilla extract",
+      "eggs",
+      "Dry ingredients:",
+      "cup oat flour",
+      "½ tsp baking soda",
+      "½ tsp salt",
+      "½ tsp cinnamon",
+      "½ tsp ground ginger",
+      "¼ tsp nutmeg",
+      "¼ tsp cloves or allspice"
+    ],
+    "instructions": [
+      "Add all the wet ingredients to a bowl and stir. Add all the dry ingredients to another bowl and stir. Then combine into one bowl and mix until just combined. It will be thicker than a normal pancake batter consistency.",
+      "Scoop batter in about ⅛ cup for each pancake onto a frying pan and spread the pancake out immediately (it’s too thick to spread out itself). Flip.",
+      "To make quicker: Combine all dry ingredients into a bowl and then scoop out 1 cup at a time and combine with the wet ingredients that you put together at that time."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "pumpkin-pie-oatmeal",
+    "title": "Pumpkin Pie Oatmeal",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "cups rolled oats (or gluten-free rolled oats)",
+      "cups unsweetened almond milk or other low FODMAP milk",
+      "½ cup 100% pure pumpkin puree",
+      "½ teaspoon vanilla extract",
+      "teaspoon pumpkin pie spice",
+      "⅓ cup pure maple syrup (or to taste)",
+      "pecan halves, chopped"
+    ],
+    "instructions": [
+      "Combine oats and milk in a saucepan over medium-high heat. Bring to a boil, then reduce heat and simmer, stirring occasionally until desired thickness is achieved.",
+      "Stir in pumpkin, vanilla, pumpkin pie spice, and maple syrup. Heat until warm throughout."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "quinoa",
+    "title": "Quinoa",
+    "description": "RECIPE\u000bQuinoa",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "cup quinoa"
+    ],
+    "instructions": [
+      "½ cups water or broth",
+      "Directions: Manual 1 minute on high, slow release"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "quinoa-lentil-veggie-soup",
+    "title": "Quinoa Lentil Veggie Soup",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 3,
+    "ingredients": [
+      "Yellow onion, diced",
+      "large carrots, diced",
+      "zucchini, diced",
+      "large potato, diced",
+      "cup of half red lentils, half quinoa (or one or the other)",
+      "½ 28 oz can of crushed tomatoes",
+      "About 3 cups of water/broth",
+      "Tbsp dried thyme",
+      "A few twists of ground black pepper",
+      "About 10 leaves cabbage (optional)"
+    ],
+    "instructions": [
+      "Saute onions and carrots for a few minutes. Add the rest of the ingredients. Make sure the water/broth is enough to just cover the veggies with just a little extra.",
+      "Manual at 7 minutes, slow release."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "quinoa-veggie-salad",
+    "title": "Quinoa veggie salad",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "½ cup quinoa",
+      "¾ cup chicken bone broth",
+      "½ large cucumber or 3 Persian cucumbers",
+      "medium tomato",
+      "bunches of scallions",
+      "beet",
+      "Dressing:",
+      "Tbsp olive oil",
+      "Tbsp apple cider vinegar"
+    ],
+    "instructions": [
+      "Add broth and quinoa to Instant Pot and set to manual 1 minute slow release. Or just cook quinoa like normal.",
+      "In a large bowl, combine all the veggies.",
+      "Add in the cooked quinoa and stir to combine.",
+      "In a separate dish, add the dressing ingredients and whisk to combine. Stir in with the rest of the salad."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "raspberry-blueberry-bread",
+    "title": "Raspberry Blueberry Bread",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "cup quick oats",
+      "½ cup ground quick oats or whole wheat flour",
+      "overripe bananas or 1 cup applesauce",
+      "eggs/substitutes",
+      "⅓ cup maple syrup",
+      "¾ cup almond milk",
+      "tsp baking powder",
+      "½ tsp baking soda",
+      "½ tsp salt",
+      "tsp ground cinnamon",
+      "About 1 ½ - 2 cups frozen blueberries/raspberries"
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees",
+      "Mash bananas well. Add eggs, honey, and milk. Whisk to combine. Add all the dry ingredients and mix until just incorporated.",
+      "Allow to sit for 10 minutes to soak the oats.",
+      "Put into 8x8 inch pan and bake for about 30-40 minutes, until done."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "red-lentil-pancakes",
+    "title": "Red Lentil pancakes",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "components"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "egg",
+      "½ cup yogurt",
+      "½ cup red lentil flour",
+      "Pinch of salt",
+      "½ tsp baking powder",
+      "¼ tsp vanilla extract"
+    ],
+    "instructions": [
+      "In a large bowl, whisk together the egg and yogurt.",
+      "Add in the red lentil flour, salt, baking powder, and vanilla extract. Stir to combine.",
+      "Heat avocado oil on skillet. Drop the mixture into 4 small patties (flatten them a little bit as you put on).",
+      "Heat for about 5 minutes on first side (while pan is still heating up, until golden brown on bottom). Heat for about 2-3 minutes on other side."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "rice-krispie-treats",
+    "title": "Rice Krispie Treats",
+    "description": null,
+    "tags": [
+      "desserts"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "/4 cup (170g; 1.5 sticks) unsalted butter",
+      "two 10-ounce bags (566g; 11 heaping cups) mini marshmallows",
+      "/2 teaspoon pure vanilla extract",
+      "pinch salt",
+      "cups (270g) crispy rice cereal"
+    ],
+    "instructions": [
+      "Line a 9×13-inch baking pan with parchment paper. Lightly grease the parchment. I always use a very light mist of nonstick spray. Set aside.",
+      "Melt the butter over medium heat in a very large pot. Once melted, add the marshmallows. Stir the mixture until the marshmallows are completely melted.",
+      "Remove from heat, then immediately stir in the vanilla extract and salt. Finally, fold in the cereal. Make sure each piece of cereal is coated with the marshmallow mixture.",
+      "Transfer mixture to prepared pan. Using a rubber spatula (greasing it lightly helps), gently spread mixture to fit the pan. Lightly grease the back of a flat spatula and very gently press the mixture down into the pan. Do not pack it down with force, just lightly press down until it is secure in the pan.",
+      "Allow treats to set for at least 1 hour at room temperature, and up to 1 day. Cover tightly if leaving out for more than a few hours.",
+      "Lift the rice krispie treats as a whole out of the pan using the edges of the parchment paper. Cut into squares.",
+      "Cover and store leftover treats at room temperature for up to 3 days. To store, place in an airtight container, with sheets of parchment or wax paper between layers."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "sauteed-baby-carrots",
+    "title": "Sauteed baby carrots",
+    "description": "RECIPE",
+    "tags": [
+      "side/appetizer"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Roasted Baby Carrots",
+      "Put baby carrots on a tray, sprinkle with italian seasoning. Then drizzle with avocado oil.",
+      "Directions: Roast for about 40 minutes, until fork goes through easily."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "simple-southwest-tofu-scramble",
+    "title": "Simple Southwest Tofu Scramble",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": "veggies and warm a large skillet over medium heat. once hot, add olive oil and the onion and red pepper. season with a pinch each salt and pepper and stir. cook until softened – about 5 minutes.",
+    "cookTime": null,
+    "servings": 1,
+    "ingredients": [
+      "SCRAMBLE",
+      "ounces extra-firm tofu (can do whole packet)",
+      "Tbsp olive oil",
+      "/4 medium red onion (thinly sliced)",
+      "/2 medium red bell pepper (thinly sliced)",
+      "cups kale (loosely chopped)",
+      "SAUCE",
+      "/2 tsp sea salt (reduce amount for less salty sauce)",
+      "/2 tsp garlic powder",
+      "/2 tsp ground cumin",
+      "/4 tsp chili powder",
+      "Water (to thin)",
+      "/4 tsp turmeric (optional)"
+    ],
+    "instructions": [
+      "Pat tofu dry and roll in a clean, absorbent towel with something heavy on top, such as a cast-iron skillet, for 15 minutes.",
+      "While tofu is draining, prepare sauce by adding dry spices to a small bowl and adding enough water to make a pourable sauce. Set aside.",
+      "Add kale, season with a bit more salt and pepper, and cover to steam for 2 minutes.",
+      "In the meantime, unwrap tofu and use a fork to crumble into bite-sized pieces.",
+      "Use a spatula to move the veggies to one side of the pan and add tofu. Sauté for 2 minutes, then add sauce, pouring it mostly over the tofu and a little over the veggies. Stir immediately, evenly distributing the sauce. Cook for another 5-7 minutes until tofu is slightly browned."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "smoothie-no-yogurt",
+    "title": "Smoothie no yogurt",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "smoothies"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 2,
+    "ingredients": [
+      "banana - frozen better?",
+      "⅓ cup berries or acai frozen",
+      "½ Tbsp almond flour",
+      "Tbsp shredded coconut",
+      "Tbsp hemp seeds",
+      "⅔ cup water",
+      "¼ tsp cinnamon (very little)"
+    ],
+    "instructions": [
+      "Blend all together",
+      "Add more water if necessary"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "smoothie-with-yogurt",
+    "title": "smoothie with yogurt",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "smoothies"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 2,
+    "ingredients": [
+      "banana",
+      "½ cup berries (blueberries/blackberries/raspberries)",
+      "Large spoonful of yogurt",
+      "Ground flaxseed",
+      "Tbsp chia seeds",
+      "Tbsp hemp seeds",
+      "Tbsp almond butter",
+      "Almond milk, about a cup (until consistency desired)"
+    ],
+    "instructions": [
+      "Blend all together",
+      "Add more milk if necessary"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "spinach-protein-wrap",
+    "title": "Spinach protein wrap",
+    "description": null,
+    "tags": [
+      "bread"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "16 oz container cottage cheese (4 percent is necessary)",
+      "eggs",
+      "About ¼ tsp each of garlic powder and onion powder",
+      "Black pepper to taste",
+      "A bunch of spinach (as much as can fit)"
+    ],
+    "instructions": [
+      "Add all ingredients into a food processor and blend until mostly smooth.",
+      "Spread out onto 2 medium baking trays or 1 large and bake at 300 degrees for about 20 minutes."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "turkey-breakfast-skillet",
+    "title": "Turkey breakfast skillet",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "pound ground turkey (can sub for ground pork or chicken)",
+      "cups diced sweet potato (with or without skin)",
+      "bag of Trader Joe's grilled peppers and onions",
+      "tablespoons avocado or olive oil",
+      "tablespoon minced garlic",
+      "teaspoon basil",
+      "teaspoon oregano",
+      "teaspoon onion powder",
+      "Pinch of salt",
+      "/2 teaspoon pepper"
+    ],
+    "instructions": [
+      "Heat oil in a large cast iron pan. Add minced garlic and diced sweet potato once hot. Cook for 5-7 minutes, stirring occasionally until they begin to brown but not cook through",
+      "Add the ground turkey and all spices and brown turkey for about 5 minutes",
+      "Once turkey is fully cooked, add in the bag of grilled peppers and onions. Stir to combine and cook until heated through.",
+      "Taste and add any additional spices and seasonings. Remove from heat and enjoy!",
+      "https://www.wholekitchensink.com/whole30-turkey-breakfast-skillet/"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "turkey-chili-1",
+    "title": "Turkey Chili 1",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "lb ground turkey",
+      "carrots, chopped",
+      "yellow onion, chopped",
+      "½ cup frozen roasted corn",
+      "cans red kidney beans",
+      "14 oz can crushed (or diced) tomatoes",
+      "½ can tomato paste (about 3-4 tbsp)",
+      "½ Tbsp ground cumin",
+      "Tbsp chili powder",
+      "Tbsp garlic powder",
+      "¼ tsp cayenne pepper",
+      "Ground black pepper",
+      "About 2-3 cups water (enough to just not quite cover everything in there)"
+    ],
+    "instructions": [
+      "With olive oil, saute onions and carrots until soft/translucent. Remove and keep on the side.",
+      "With olive oil, cook the ground turkey, breaking up any large chunks, until cooked through.",
+      "Add back sauteed onions and carrots as well as all the spices and tomato paste. Stir to combine.",
+      "Add kidney beans, corn, and crushed/diced tomatoes. Stir to combine, then add enough water to almost but not quite cover everything. Bring to a boil then reduce and simmer for about 25 minutes."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "tuscan-stew",
+    "title": "Tuscan Stew",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 6,
+    "ingredients": [
+      "bag frozen chopped onions",
+      "About 5 chopped carrots, sauteed",
+      "cubes frozen garlic",
+      "¾ cup farro (pearled)",
+      "cans white cannellini beans or great northern beans",
+      "can (14.5 oz) crushed tomatoes",
+      "tsp dried rosemary",
+      "Ground pepper, as desired",
+      "package of chicken sausage, chopped",
+      "cups chicken bone broth",
+      "bunch kale"
+    ],
+    "instructions": [
+      "Add everything to instant pot (may not be enough room to add kale - if not enough room, saute kale on stovetop and then add to stew once instant pot is done)",
+      "Pressure cook for 7 minutes on high, slow release."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "tzatziki-sauce",
+    "title": "Tzatziki Sauce",
+    "description": null,
+    "tags": [
+      "sauces/dressings/seasonings"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 2,
+    "ingredients": [
+      "½ - ¾ english cucumber",
+      "½ tsp kosher salt",
+      "garlic cloves, minced",
+      "tsp white vinegar",
+      "Tbsp olive oil",
+      "cups Greek yogurt",
+      "¼ tsp pepper",
+      "Whisk all together"
+    ],
+    "instructions": [
+      "(imported — check formatting)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "untitled-document",
+    "title": "Untitled document",
+    "description": null,
+    "tags": [],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "(imported — check formatting)"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "vegan-african-peanut-stew",
+    "title": "Vegan African Peanut Stew",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "yellow onion",
+      "garlic cloves, minced",
+      "tsp cumin",
+      "¼ tsp paprika",
+      "½ tsp cinnamon",
+      "large/2 medium sweet potatoes, diced",
+      "Cauliflower - about 8 oz",
+      "can chickpeas",
+      "15 oz can no-salt added diced tomatoes",
+      "cups broth or water",
+      "½ cup natural style peanut butter",
+      "cups spinach/kale/greens"
+    ],
+    "instructions": [
+      "Heat oil over medium heat. Add onion and garlic and cook for about 3 minutes, until softened. Add cumin, paprika and cinnamon. Cook for another minute.",
+      "Add the rest of the ingredients except for the greens. Bring the pot to a boil, stirring until peanut butter has dissolved into the liquid.",
+      "Cover the pot, reduce heat to medium-low and simmer for 15-20 minutes (until sweet potatoes and cauliflower are soft). Stir in greens and let simmer for a couple minutes, until wilted."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "vegan-breakfast-burrito",
+    "title": "Vegan breakfast burrito",
+    "description": null,
+    "tags": [
+      "breakfast"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "tablespoons avocado oil, divided",
+      "(14 ounce) package extra-firm water-packed tofu, drained and crumbled",
+      "teaspoons chili powder",
+      "teaspoon ground cumin",
+      "¼ teaspoon salt",
+      "(15 ounce) can reduced-sodium black beans, rinsed",
+      "cup frozen corn, thawed",
+      "scallions, sliced",
+      "½ cup prepared fresh salsa",
+      "¼ cup chopped fresh cilantro",
+      "(8 inch) whole-wheat tortillas or wraps"
+    ],
+    "instructions": [
+      "Heat 1 tablespoon oil in a large nonstick skillet over medium heat. Add tofu, chili powder, cumin and salt; cook, stirring, until the tofu is nicely browned, 10 to 12 minutes. Transfer to a bowl.",
+      "Add the remaining 1 tablespoon oil to the pan. Add beans, corn and scallions and cook, stirring, until the scallions have softened, about 3 minutes. Return the tofu to the pan. Add salsa and cilantro; cook, stirring, until heated through, about 2 minutes more.",
+      "If serving immediately, warm tortillas (or wraps), but if freezing do not warm them. Divide the bean mixture among the tortillas, spreading evenly over the bottom third of each tortilla. Roll snugly, tucking in the ends as you go. Serve immediately or wrap each burrito in foil and freeze for up to 3 months.",
+      "If frozen,  heat in the microwave: Remove foil, cover with a paper towel and microwave on High until hot, 1 1/2 to 2 minutes.",
+      "https://www.eatingwell.com/recipe/268870/vegan-freezer-breakfast-burritos/"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "veggie-broth",
+    "title": "Veggie broth",
+    "description": "RECIPE\u000bVeggie Broth",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Add any kind of veggie scraps (I keep in the freezer until ready to make, such as onion peels, ends of zucchini, kale stems, sweet potato skins, ends of winter squash, butternut squash skins)",
+      "I don’t use soft/starchy veggies, like regular potato skins or red pepper",
+      "Water to match top of veggie scraps (based on how much broth you want to make)",
+      "Directions: Manual 10 minutes, slow release"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "veggie-red-curry",
+    "title": "Veggie Red Curry",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 3,
+    "ingredients": [
+      "Yellow onion, chopped",
+      "tsp garlic (2-3 cloves)",
+      "tsp fresh or powder ginger",
+      "oz (about 3 tsp) red curry paste",
+      "Can of coconut milk",
+      "Tofu",
+      "Thai basil for topping (if not using, use 4-5 tsp red curry paste for more kick)",
+      "Veggies (fresh or frozen)",
+      "Carrots",
+      "Frozen broccoli",
+      "Frozen bell peppers",
+      "Frozen mixed Asian stir-fry veggies"
+    ],
+    "instructions": [
+      "Saute onions for a few minutes until soft. Add garlic and ginger and saute for one minute. Add red curry paste and saute for another minute. Then turn off instant pot and stir in coconut milk.",
+      "Stir in veggies and tofu. Set to Manual for 4 minutes. Slow release."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "veggie-ziti-bake",
+    "title": "Veggie ziti bake",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "pasta. once done and drained, mix in the pasta sauce, italian seasoning, black pepper, and 1 cup of the mozzarella cheese.",
+    "servings": null,
+    "ingredients": [
+      "Roasted cauliflower and/or broccoli",
+      "Sauteed mushrooms",
+      "Trader Joe's grilled peppers and onions bag",
+      "container cottage cheese (no salt added)",
+      "Mozzarella cheese",
+      "Jar of tomato sauce",
+      "Tbsp Italian seasoning",
+      "Ground black pepper",
+      "box Barrella protein pasta"
+    ],
+    "instructions": [
+      "Put half of the pasta veggies mixture in a large baking dish. Plop half the cottage cheese on top in dabs throughout. Sprinkle mozzarella cheese on top.",
+      "Repeat again with the rest of the pasta veggie mixture and then rest of the cottage cheese and then mozzarella cheese on top."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "vishs-moms-moong-dal",
+    "title": "Vish's Mom's Moong Dal",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "cup Moong Dal",
+      "Cumin Seed, about 1 tsp",
+      "Mustard Seed, about 1 tsp",
+      "Turmeric",
+      "large tomatoes, grated",
+      "Curry leaves, preferred but optional",
+      "Parsley, optional (preferred if no curry leaves)",
+      "Lemon juice, about 1 tsp - 1 Tbsp",
+      "4 oz can diced green chilis",
+      "Veggies (fresh or frozen) (options: potatoes (cut large), carrots, green beans, bell pepper, broccoli, spinach)"
+    ],
+    "instructions": [
+      "Boil moong dal and water until moong dal is split and easy to blend (start with about 3 cups of water for 1 cup moong dal and then keep adding water when getting low).",
+      "Blend moong dal until smooth.",
+      "Heat oil, add cumin and mustard seed and fry.",
+      "Add back moong dal and more water (to get preferred consistency) -> maybe 1 or 2 cups more water.",
+      "Bring to a boil and then add some turmeric for color, curry leaves (if using), a pinch of salt, and grated tomatoes.",
+      "Bring again to a boil and then add all veggies, except anything soft like spinach.",
+      "Once veggies are soft (especially careful to not over boil potatoes), stir in lemon juice, parsley, diced green chilis, and spinach (if using)."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "what-is-low-fodmap",
+    "title": "What is Low FODMAP",
+    "description": "What is Low FODMAP?",
+    "tags": [
+      "low fodmap"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "You may have heard of the FODMAP diet from a friend or on the internet. When people say “FODMAP diet,” they usually mean a diet low in FODMAP — certain sugars that may cause intestinal distress. This diet is designed to help people with irritable bowel syndrome (IBS) and/or small intestinal bacterial overgrowth (SIBO) figure out which foods are problematic and which foods reduce symptoms.",
+      "“The low FODMAP diet is a temporary eating plan that’s very restrictive,” says Johns Hopkins gastroenterologist Hazel Galon Veloso, M.D. “It’s always good to talk to your doctor before starting a new diet, but especially with the low FODMAP diet since it eliminates so many foods — it’s not a diet anyone should follow for long. It’s a short discovery process to determine what foods are troublesome for you.”",
+      "FODMAP stands for fermentable oligosaccharides, disaccharides, monosaccharides and polyols, which are short-chain carbohydrates (sugars) that the small intestine absorbs poorly. Some people experience digestive distress after eating them.",
+      "Low FODMAP three step elimination diet:",
+      "Low FODMAP is a three-step elimination diet:",
+      "First, you stop eating certain foods (high FODMAP foods).",
+      "Next, you slowly reintroduce them to see which ones are troublesome.",
+      "Once you identify the foods that cause symptoms, you can avoid or limit them while enjoying everything else worry-free.",
+      "“We recommend following the elimination portion of the diet for only two to six weeks,” says Veloso. “This reduces your symptoms and if you have SIBO, it can help decrease abnormally high levels of intestinal bacteria. Then every three days, you can add a high FODMAP food back into your diet, one at a time, to see if it causes any symptoms. If a particular high FODMAP food causes symptoms, then avoid this long term.”",
+      "High FODMAP foods to avoid:",
+      "Dairy-based milk, yogurt and ice cream",
+      "Wheat-based products such as cereal, bread and crackers",
+      "Beans and lentils",
+      "Some vegetables, such as artichokes, asparagus, onions and garlic",
+      "Some fruits, such as apples, cherries, pears and peaches",
+      "Low FODMAP foods to eat:",
+      "Eggs and meat",
+      "Certain cheeses such as brie, Camembert, cheddar and feta",
+      "Almond milk",
+      "Grains like rice, quinoa and oats",
+      "Vegetables like eggplant, potatoes, tomatoes, cucumbers and zucchini",
+      "Fruits such as grapes, oranges, strawberries, blueberries and pineapple"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "white-chicken-chili",
+    "title": "White Chicken Chili",
+    "description": null,
+    "tags": [
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 4,
+    "ingredients": [
+      "small onion, diced",
+      "15-oz cans cannellini white beans, drained and rinsed",
+      "cups corn, fresh and frozen",
+      "cup of chicken broth or water",
+      "oz can diced green chilis",
+      "tsp cumin",
+      "tsp chili powder",
+      "tsp garlic powder",
+      "¾ tsp salt",
+      "Ground black pepper",
+      "large chicken breast, frozen preferrable",
+      "Small bunch of cilantro",
+      "½ cup plain Greek yogurt",
+      "lime"
+    ],
+    "instructions": [
+      "Add onion, beans, corn, broth, green chiles, cuming, chili powder, garlic powder, salt, pepper to the Instant Pot. Lay chicken on top.",
+      "Ensure the lid is on \"sealing\". Cook on high pressure for 20 minutes. It'll take about 10-15 minutes for it to get up to pressure. Release pressure after 10 minute natural release.",
+      "Take the chicken out and shred it with two forks. Return to the pot with yogurt and optional lime. Serve with cilantro."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "whole-wheat-bread-maker-bread",
+    "title": "Whole Wheat Bread Maker Bread",
+    "description": null,
+    "tags": [
+      "bread"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 5,
+    "ingredients": [
+      "½ cups water",
+      "½ Tbsp olive oil",
+      "Tbsp maple syrup or honey",
+      "⅜ tsp salt",
+      "¼ cups whole wheat flour",
+      "¾ tsp active dry yeast of 1 ¼ tsp quick yeast"
+    ],
+    "instructions": [
+      "Add water, olive oil, maple syrup/honey, salt to bread maker. Stir slightly.",
+      "Pour flour on top (make sure fully covering the wet ingredients (do not stir in)).",
+      "Make a line in the flour. Pour the yeast into that line.",
+      "Set bread maker to whole wheat.",
+      "Take off and cool upside down on a wire rack as soon as possible once bread maker finished."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "wild-salmon",
+    "title": "Wild Salmon",
+    "description": "RECIPE\u000bWild Salmon",
+    "tags": [
+      "instant pot basics",
+      "low-prep instant pot"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "(imported — check formatting)"
+    ],
+    "instructions": [
+      "Add one cup of water to the instant pot. Put trivet in instant pot. Place fresh or frozen wild salmon in about 1 layer (okay if a little overlap) on trivet.",
+      "Frozen: Manual 5 minutes, quick release",
+      "Fresh: Manual 3 minutes, quick release",
+      "Good with pesto on top (see sauces), or whisked mixture of lemon zest, lemon, olive oil, black pepper, dried thyme"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "zucchini-artichoke-bites",
+    "title": "Zucchini artichoke bites",
+    "description": null,
+    "tags": [
+      "side/appetizer"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "oz. softened cream cheese",
+      "⅔ cup shredded mozzarella",
+      "¼ cup freshly grated Parmesan",
+      "½ cup canned artichoke hearts, drained and chopped",
+      "cup spinach, chopped",
+      "Tbsp plain whole greek yogurt",
+      "cloves garlic, crushed",
+      "Pinch of salt, black pepper, and crushed red pepper flakes",
+      "medium zucchini, cut into ½ inch rounds"
+    ],
+    "instructions": [
+      "Preheat oven to 400F. Put zucchini rounds on a baking tray.",
+      "Combine all ingredients except for the zucchini in a medium size bowl.",
+      "Spread about 1 Tbsp of mixture on top of each zucchini coin.",
+      "Bake until zucchini is tender and cheese is melty, about 15 minutes."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "zucchini-bread-smoothie",
+    "title": "Zucchini bread smoothie",
+    "description": null,
+    "tags": [
+      "breakfast",
+      "smoothies"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": 2,
+    "ingredients": [
+      "/2 frozen banana",
+      "/4 cup frozen zucchini (mine is cut in quarters)",
+      "/4 cup baby spinach",
+      "/2 cup non-dairy milk (code RACHL for 15% off)",
+      "/4 cup yogurt of choice (dairy or non-dairy works)",
+      "Dash of cinnamon if you’d like"
+    ],
+    "instructions": [
+      "Blend all together",
+      "Add more milk if necessary"
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "zucchini-chickpea-tomato-quinoa",
+    "title": "Zucchini Chickpea Tomato Quinoa",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": "zucchini strips in a large pan until mostly soft. add chickpeas now or earlier while zucchini is cooking depending on how soft you like them.",
+    "servings": 5,
+    "ingredients": [
+      "About 4-5 zucchini, cut into strips",
+      "can chickpeas",
+      "cloves garlic",
+      "About 8 oz small tomatoes (such as grape tomatoes), cut in half",
+      "About 1 cup cooked quinoa",
+      "Parmesan cheese (optional)"
+    ],
+    "instructions": [
+      "Add garlic and ground pepper and mix until combined (stove is still on).",
+      "Add tomatoes and cook a few minutes longer.",
+      "Turn off the stove and mix in the cooked quinoa.",
+      "Parmesan cheese may be added on top when serving."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "zucchini-turkey-burgers",
+    "title": "Zucchini turkey burgers",
+    "description": null,
+    "tags": [
+      "main dishes, conventional"
+    ],
+    "image": null,
+    "source": "Google Drive import",
+    "prepTime": null,
+    "cookTime": null,
+    "servings": null,
+    "ingredients": [
+      "lbs ground turkey",
+      "tsp red pepper flakes",
+      "cloves garlic",
+      "cups panko crumbs",
+      "eggs",
+      "cups grated zucchini",
+      "¼ cup chopped cilantro",
+      "Tbsp Italian seasoning",
+      "tsp onion powder"
+    ],
+    "instructions": [
+      "Preheat oven to 375F",
+      "Combine all ingredients in a large bowl and combine. Do not over mix.",
+      "Roll into balls and bake the meatballs for 20-30 minutes until they reach an internal temperature of at least 165F."
+    ],
+    "notes": null,
+    "dateAdded": "2026-03-27"
   }
 ]
