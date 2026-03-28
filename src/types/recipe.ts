@@ -1,15 +1,15 @@
 export interface Recipe {
   slug: string;
   title: string;
-  description?: string;
+  description?: string | null;
   tags: string[];
-  image?: string;
-  source?: string;
-  prepTime?: string;
-  cookTime?: string;
-  servings?: number;
+  image?: string | null;
+  source?: string | null;
+  prepTime?: string | null;
+  cookTime?: string | null;
+  servings?: number | null;
   ingredients: string[];
   instructions: string[];
-  notes?: string;
+  notes?: string | null;
   dateAdded: string;
 }
