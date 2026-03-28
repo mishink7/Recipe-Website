@@ -17,6 +17,7 @@ import json
 import os
 import re
 import sys
+import requests as http_requests
 from pathlib import Path
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -28,6 +29,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CREDENTIALS_FILE = ROOT / "credentials.json"
 TOKEN_FILE = ROOT / "token.json"
 OUTPUT_FILE = ROOT / "src" / "data" / "recipes.json"
+IMAGES_DIR = ROOT / "public" / "images" / "recipes"
 
 # Google Drive folder ID (root recipe folder)
 FOLDER_ID = "11dRS2TGIVUW2CrvqRfDqa7IM0WydE9rj"
@@ -105,17 +107,81 @@ def walk_drive_folder(drive_service, folder_id, folder_path=None):
     return docs
 
 
-def get_doc_text(docs_service, doc_id):
-    """Export a Google Doc as plain text."""
+def get_doc_content(docs_service, doc_id):
+    """Export a Google Doc as plain text and extract inline image URLs."""
     doc = docs_service.documents().get(documentId=doc_id).execute()
     text_parts = []
+    image_urls = []
+
+    # Collect inline object image URLs from the doc
+    inline_objects = doc.get("inlineObjects", {})
+    for obj_id, obj in inline_objects.items():
+        embedded = obj.get("inlineObjectProperties", {}).get("embeddedObject", {})
+        # Try contentUri first (directly accessible URL)
+        uri = embedded.get("imageProperties", {}).get("contentUri")
+        if uri:
+            image_urls.append(uri)
+        else:
+            # Try sourceUri (external link)
+            source_uri = embedded.get("imageProperties", {}).get("sourceUri")
+            if source_uri:
+                image_urls.append(source_uri)
+
     for element in doc.get("body", {}).get("content", []):
         paragraph = element.get("paragraph")
         if paragraph:
             for run in paragraph.get("elements", []):
                 text_content = run.get("textRun", {}).get("content", "")
                 text_parts.append(text_content)
-    return "".join(text_parts)
+
+    return "".join(text_parts), image_urls
+
+
+def download_image(url, slug, creds):
+    """Download an image and save it to public/images/recipes/. Returns the relative path or None."""
+    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Determine file extension from URL or default to .jpg
+    ext = ".jpg"
+    if ".png" in url.lower():
+        ext = ".png"
+    elif ".webp" in url.lower():
+        ext = ".webp"
+
+    filename = f"{slug}{ext}"
+    filepath = IMAGES_DIR / filename
+
+    try:
+        # Use authenticated request for Google-hosted images
+        headers = {"Authorization": f"Bearer {creds.token}"}
+        resp = http_requests.get(url, headers=headers, timeout=30)
+
+        if resp.status_code != 200:
+            # Try without auth (external images)
+            resp = http_requests.get(url, timeout=30)
+
+        if resp.status_code == 200 and len(resp.content) > 1000:
+            # Detect actual content type
+            content_type = resp.headers.get("content-type", "")
+            if "png" in content_type:
+                ext = ".png"
+            elif "webp" in content_type:
+                ext = ".webp"
+            elif "gif" in content_type:
+                ext = ".gif"
+            else:
+                ext = ".jpg"
+
+            filename = f"{slug}{ext}"
+            filepath = IMAGES_DIR / filename
+
+            with open(filepath, "wb") as f:
+                f.write(resp.content)
+            return f"/images/recipes/{filename}"
+    except Exception as e:
+        print(f" [img error: {e}]", end="")
+
+    return None
 
 
 def slugify(text):
@@ -300,11 +366,23 @@ def main():
     # Process each doc
     recipes = []
     errors = []
+    images_found = 0
+    images_downloaded = 0
     for i, (doc_id, doc_name, folder_tags) in enumerate(doc_list):
         print(f"  [{i+1}/{len(doc_list)}] Processing: {doc_name}", end="")
         try:
-            text = get_doc_text(docs_service, doc_id)
+            text, image_urls = get_doc_content(docs_service, doc_id)
             recipe = parse_recipe(doc_name, text, folder_tags)
+
+            # Download first image if available
+            if image_urls:
+                images_found += 1
+                image_path = download_image(image_urls[0], recipe["slug"], creds)
+                if image_path:
+                    recipe["image"] = image_path
+                    images_downloaded += 1
+                    print(f" [img OK]", end="")
+
             recipes.append(recipe)
             ing_count = len(recipe["ingredients"])
             step_count = len(recipe["instructions"])
@@ -314,6 +392,7 @@ def main():
             errors.append((doc_name, str(e)))
 
     print(f"\nProcessed {len(recipes)} recipes successfully.")
+    print(f"Images: {images_found} found in docs, {images_downloaded} downloaded.")
     if errors:
         print(f"{len(errors)} errors:")
         for name, err in errors:
