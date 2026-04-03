@@ -1,7 +1,9 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import type { Recipe } from "@/types/recipe";
+import { useAdmin } from "@/lib/admin-context";
 
 import IngredientList from "@/components/IngredientList";
 import InstructionList from "@/components/InstructionList";
@@ -12,6 +14,7 @@ interface RecipeDetailClientProps {
 }
 
 export default function RecipeDetailClient({ recipe }: RecipeDetailClientProps) {
+  const { isAdmin } = useAdmin();
   const baseServings = recipe.servings || 1;
   const [servings, setServings] = useState(baseServings);
   const scale = servings / baseServings;
@@ -72,15 +75,28 @@ export default function RecipeDetailClient({ recipe }: RecipeDetailClientProps) 
             )}
           </div>
         )}
-        <button
-          onClick={() => window.print()}
-          className="no-print ml-auto flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-card-border hover:bg-muted-bg transition-colors"
-        >
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
-          </svg>
-          Print
-        </button>
+        <div className="no-print ml-auto flex items-center gap-2">
+          {isAdmin && (
+            <Link
+              href={`/admin/edit/${recipe.slug}`}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-accent text-accent hover:bg-accent hover:text-white transition-colors"
+            >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+              </svg>
+              Edit
+            </Link>
+          )}
+          <button
+            onClick={() => window.print()}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-card-border hover:bg-muted-bg transition-colors"
+          >
+            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
+            </svg>
+            Print
+          </button>
+        </div>
       </div>
 
       {recipe.image && (

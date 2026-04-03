@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import type { Recipe } from "@/types/recipe";
 import { validateRecipe, addRecipeToCollection, collectTags } from "@/lib/recipe-utils";
 import { commitRecipeChanges } from "@/lib/github";
 import { getAllRecipes } from "@/lib/recipes";
@@ -13,7 +14,7 @@ export async function POST(request: NextRequest) {
 
   try {
     const body = await request.json();
-    const { recipeData, imageUrl, imageBase64 } = body;
+    const { recipeData, imageUrl, imageBase64, editSlug } = body;
 
     // Validate the recipe
     const validation = validateRecipe(recipeData);
@@ -52,13 +53,36 @@ export async function POST(request: NextRequest) {
       }
     }
 
-    // Add to collection
+    // Add or update collection
     const currentRecipes = getAllRecipes();
-    const { recipes: updatedRecipes } = addRecipeToCollection(currentRecipes, recipe);
+    let updatedRecipes: typeof currentRecipes;
+
+    if (editSlug) {
+      // Editing existing recipe — preserve original slug and dateAdded
+      const existingIndex = currentRecipes.findIndex((r) => r.slug === editSlug);
+      if (existingIndex === -1) {
+        return NextResponse.json({ error: "Recipe not found" }, { status: 404 });
+      }
+      const existing = currentRecipes[existingIndex];
+      recipe.slug = existing.slug;
+      recipe.dateAdded = existing.dateAdded;
+      if (!recipe.image && existing.image) recipe.image = existing.image;
+      updatedRecipes = [...currentRecipes];
+      updatedRecipes[existingIndex] = recipe;
+      updatedRecipes.sort((a, b) => a.title.localeCompare(b.title));
+    } else {
+      const result = addRecipeToCollection(currentRecipes, recipe);
+      updatedRecipes = result.recipes;
+    }
+
     const updatedTags = collectTags(updatedRecipes);
 
     // Commit to GitHub
-    const { commitSha } = await commitRecipeChanges(updatedRecipes, updatedTags, imageFile);
+    const action = editSlug ? "Update" : "Add";
+    const { commitSha } = await commitRecipeChanges(
+      updatedRecipes, updatedTags, imageFile,
+      `${action} recipe: ${recipe.title}`
+    );
 
     return NextResponse.json({
       success: true,

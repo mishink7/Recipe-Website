@@ -11,6 +11,7 @@ const tabs = [
 
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
+  const isEditPage = pathname.startsWith("/admin/edit/");
 
   return (
     <AdminAuth>
@@ -20,21 +21,23 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
           <p className="text-sm text-muted">Add and manage recipes</p>
         </div>
 
-        <nav className="flex gap-1 mb-8 border-b border-card-border">
-          {tabs.map((tab) => (
-            <Link
-              key={tab.href}
-              href={tab.href}
-              className={`px-4 py-2 text-sm font-medium border-b-2 transition-colors -mb-px ${
-                pathname === tab.href
-                  ? "border-accent text-accent"
-                  : "border-transparent text-muted hover:text-foreground"
-              }`}
-            >
-              {tab.label}
-            </Link>
-          ))}
-        </nav>
+        {!isEditPage && (
+          <nav className="flex gap-1 mb-8 border-b border-card-border">
+            {tabs.map((tab) => (
+              <Link
+                key={tab.href}
+                href={tab.href}
+                className={`px-4 py-2 text-sm font-medium border-b-2 transition-colors -mb-px ${
+                  pathname === tab.href
+                    ? "border-accent text-accent"
+                    : "border-transparent text-muted hover:text-foreground"
+                }`}
+              >
+                {tab.label}
+              </Link>
+            ))}
+          </nav>
+        )}
 
         {children}
       </div>

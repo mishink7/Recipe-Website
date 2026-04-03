@@ -99,7 +99,8 @@ async function updateRef(token: string, repo: string, sha: string, branch = "mas
 export async function commitRecipeChanges(
   recipes: Recipe[],
   tags: string[],
-  image?: { filename: string; base64: string } | null
+  image?: { filename: string; base64: string } | null,
+  commitMessage?: string
 ): Promise<{ success: boolean; commitSha: string }> {
   const { token, repo } = getConfig();
 
@@ -130,9 +131,8 @@ export async function commitRecipeChanges(
 
   // Create tree, commit, and update ref
   const treeSha = await createTree(token, repo, baseTreeSha, files);
-  const newRecipe = recipes[recipes.length - 1]; // Most recently added
-  const commitMessage = `Add recipe: ${newRecipe?.title || "new recipe"}`;
-  const commitSha = await createCommit(token, repo, commitMessage, treeSha, headSha);
+  const message = commitMessage || "Update recipes";
+  const commitSha = await createCommit(token, repo, message, treeSha, headSha);
   await updateRef(token, repo, commitSha);
 
   return { success: true, commitSha };
