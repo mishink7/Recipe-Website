@@ -8,7 +8,12 @@ export default function Header() {
         <Link href="/" className="text-xl font-bold tracking-tight text-foreground hover:text-accent transition-colors">
           My Recipes
         </Link>
-        <ThemeToggle />
+        <div className="flex items-center gap-4">
+          <Link href="/admin" className="text-sm text-muted hover:text-accent transition-colors">
+            Admin
+          </Link>
+          <ThemeToggle />
+        </div>
       </div>
     </header>
   );

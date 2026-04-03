@@ -3,7 +3,6 @@
 import { useState } from "react";
 import type { Recipe } from "@/types/recipe";
 
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
 import IngredientList from "@/components/IngredientList";
 import InstructionList from "@/components/InstructionList";
 import ServingAdjuster from "@/components/ServingAdjuster";
@@ -86,7 +85,7 @@ export default function RecipeDetailClient({ recipe }: RecipeDetailClientProps) 
 
       {recipe.image && (
         <img
-          src={`${basePath}${recipe.image}`}
+          src={recipe.image}
           alt={recipe.title}
           className="w-full rounded-xl mb-8 max-h-96 object-cover"
         />

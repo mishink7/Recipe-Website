@@ -1,8 +1,6 @@
 import Link from "next/link";
 import type { Recipe } from "@/types/recipe";
 
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
-
 interface RecipeCardProps {
   recipe: Recipe;
   highlightedTags?: string[];
@@ -17,7 +15,7 @@ export default function RecipeCard({ recipe, highlightedTags = [] }: RecipeCardP
       <div className="relative aspect-[16/10] overflow-hidden">
         {recipe.image ? (
           <img
-            src={`${basePath}${recipe.image}`}
+            src={recipe.image}
             alt={recipe.title}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
           />
