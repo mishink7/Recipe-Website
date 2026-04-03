@@ -15,21 +15,49 @@ export default function AdminAuth({ children }: AdminAuthProps) {
   useEffect(() => {
     const saved = localStorage.getItem("admin-password");
     if (saved) {
-      setPassword(saved);
-      setAuthenticated(true);
+      // Verify saved password is still valid
+      fetch("/api/admin/tags", { headers: { "x-admin-password": saved } })
+        .then((r) => {
+          if (r.ok) {
+            setPassword(saved);
+            setAuthenticated(true);
+          } else {
+            localStorage.removeItem("admin-password");
+          }
+        })
+        .catch(() => {
+          localStorage.removeItem("admin-password");
+        })
+        .finally(() => setChecking(false));
+    } else {
+      setChecking(false);
     }
-    setChecking(false);
   }, []);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!password.trim()) {
       setError("Password is required");
       return;
     }
-    localStorage.setItem("admin-password", password);
-    setAuthenticated(true);
     setError("");
+    setChecking(true);
+
+    try {
+      const res = await fetch("/api/admin/tags", {
+        headers: { "x-admin-password": password },
+      });
+      if (res.ok) {
+        localStorage.setItem("admin-password", password);
+        setAuthenticated(true);
+      } else {
+        setError("Incorrect password");
+      }
+    } catch {
+      setError("Failed to connect to server");
+    } finally {
+      setChecking(false);
+    }
   };
 
   if (checking) return null;
