@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import type { FeaturedRecipe } from "@/types/recipe";
 import { useAdmin } from "@/lib/admin-context";
 
@@ -43,13 +44,13 @@ export default function FeaturedRecipeCard({ data }: FeaturedRecipeCardProps) {
       <div className="flex flex-col sm:flex-row">
         {/* Image */}
         {imageUrl && (
-          <div className="sm:w-72 sm:shrink-0">
+          <Link href="/featured" className="sm:w-72 sm:shrink-0 block">
             <img
               src={imageUrl}
               alt={recipe.title || ""}
-              className="w-full h-48 sm:h-full object-cover"
+              className="w-full h-48 sm:h-full object-cover hover:opacity-90 transition-opacity"
             />
-          </div>
+          </Link>
         )}
 
         {/* Content */}
@@ -65,9 +66,11 @@ export default function FeaturedRecipeCard({ data }: FeaturedRecipeCardProps) {
           </div>
 
           {/* Title */}
-          <h3 className="text-xl font-bold text-foreground leading-tight">
-            {recipe.title}
-          </h3>
+          <Link href="/featured" className="hover:text-accent transition-colors">
+            <h3 className="text-xl font-bold text-foreground leading-tight">
+              {recipe.title}
+            </h3>
+          </Link>
 
           {/* Description */}
           {recipe.description && (
