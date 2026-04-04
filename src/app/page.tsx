@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { Suspense, useState, useMemo, useCallback, useEffect } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import SearchBar from "@/components/SearchBar";
 import TagFilter, { type TagMode } from "@/components/TagFilter";
 import ResultCount, { type SortOption } from "@/components/ResultCount";
@@ -12,13 +13,52 @@ import featuredData from "@/data/featured.json";
 import type { FeaturedRecipe } from "@/types/recipe";
 
 export default function HomePage() {
+  return (
+    <Suspense>
+      <HomePageContent />
+    </Suspense>
+  );
+}
+
+function HomePageContent() {
   const allRecipes = getAllRecipes();
   const allTags = useMemo(() => getAllTags(allRecipes), [allRecipes]);
+  const searchParams = useSearchParams();
+  const router = useRouter();
 
-  const [search, setSearch] = useState("");
-  const [selectedTags, setSelectedTags] = useState<string[]>([]);
-  const [tagMode, setTagMode] = useState<TagMode>("OR");
-  const [sort, setSort] = useState<SortOption>("alpha");
+  // Read initial state from URL params
+  const [search, setSearch] = useState(searchParams.get("q") || "");
+  const [selectedTags, setSelectedTags] = useState<string[]>(() => {
+    const tags = searchParams.get("tags");
+    return tags ? tags.split(",").filter(Boolean) : [];
+  });
+  const [tagMode, setTagMode] = useState<TagMode>(() => {
+    const mode = searchParams.get("mode");
+    return mode === "AND" || mode === "SINGLE" ? mode : "OR";
+  });
+  const [sort, setSort] = useState<SortOption>(() => {
+    const s = searchParams.get("sort");
+    return s === "date" || s === "prepTime" ? s : "alpha";
+  });
+
+  // Sync state to URL params
+  const updateUrl = useCallback(
+    (newSearch: string, newTags: string[], newMode: TagMode, newSort: SortOption) => {
+      const params = new URLSearchParams();
+      if (newSearch) params.set("q", newSearch);
+      if (newTags.length > 0) params.set("tags", newTags.join(","));
+      if (newMode !== "OR") params.set("mode", newMode);
+      if (newSort !== "alpha") params.set("sort", newSort);
+      const qs = params.toString();
+      router.replace(qs ? `/?${qs}` : "/", { scroll: false });
+    },
+    [router]
+  );
+
+  // Update URL when state changes
+  useEffect(() => {
+    updateUrl(search, selectedTags, tagMode, sort);
+  }, [search, selectedTags, tagMode, sort, updateUrl]);
 
   const filtered = useMemo(
     () => sortRecipes(filterRecipes(allRecipes, search, selectedTags, tagMode), sort),
