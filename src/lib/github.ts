@@ -137,3 +137,24 @@ export async function commitRecipeChanges(
 
   return { success: true, commitSha };
 }
+
+export async function commitFile(
+  filePath: string,
+  content: string,
+  commitMessage: string
+): Promise<{ success: boolean; commitSha: string }> {
+  const { token, repo } = getConfig();
+
+  const headSha = await getRef(token, repo);
+  const headCommit = await getCommit(token, repo, headSha);
+  const baseTreeSha = headCommit.tree.sha;
+
+  const blobSha = await createBlob(token, repo, content);
+  const treeSha = await createTree(token, repo, baseTreeSha, [
+    { path: filePath, sha: blobSha },
+  ]);
+  const commitSha = await createCommit(token, repo, commitMessage, treeSha, headSha);
+  await updateRef(token, repo, commitSha);
+
+  return { success: true, commitSha };
+}

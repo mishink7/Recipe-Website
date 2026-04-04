@@ -7,6 +7,9 @@ import ResultCount, { type SortOption } from "@/components/ResultCount";
 import RecipeGrid from "@/components/RecipeGrid";
 import EmptyState from "@/components/EmptyState";
 import { getAllRecipes, getAllTags, filterRecipes, sortRecipes } from "@/lib/recipes";
+import FeaturedRecipeCard from "@/components/FeaturedRecipeCard";
+import featuredData from "@/data/featured.json";
+import type { FeaturedRecipe } from "@/types/recipe";
 
 export default function HomePage() {
   const allRecipes = getAllRecipes();
@@ -48,6 +51,9 @@ export default function HomePage() {
         onModeChange={setTagMode}
       />
       <ResultCount shown={filtered.length} total={allRecipes.length} sort={sort} onSortChange={setSort} />
+      {!search && selectedTags.length === 0 && featuredData && (
+        <FeaturedRecipeCard data={featuredData as FeaturedRecipe} />
+      )}
       {filtered.length > 0 ? (
         <RecipeGrid recipes={filtered} highlightedTags={selectedTags} />
       ) : (

@@ -13,3 +13,11 @@ export interface Recipe {
   notes?: string | null;
   dateAdded: string;
 }
+
+export interface FeaturedRecipe {
+  recipe: Partial<Recipe>;
+  imageUrl: string | null;
+  sourceSite: string;
+  fetchedAt: string;
+  added: boolean;
+}
