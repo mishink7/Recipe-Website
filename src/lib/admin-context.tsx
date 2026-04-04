@@ -1,13 +1,18 @@
 "use client";
 
-import { createContext, useContext, useState, useEffect } from "react";
+import { createContext, useContext, useState, useEffect, useCallback } from "react";
 
 interface AdminContextValue {
   isAdmin: boolean;
   password: string;
+  login: (password: string) => void;
 }
 
-const AdminContext = createContext<AdminContextValue>({ isAdmin: false, password: "" });
+const AdminContext = createContext<AdminContextValue>({
+  isAdmin: false,
+  password: "",
+  login: () => {},
+});
 
 export function AdminProvider({ children }: { children: React.ReactNode }) {
   const [isAdmin, setIsAdmin] = useState(false);
@@ -26,8 +31,14 @@ export function AdminProvider({ children }: { children: React.ReactNode }) {
       .catch(() => {});
   }, []);
 
+  const login = useCallback((pw: string) => {
+    setPassword(pw);
+    setIsAdmin(true);
+    localStorage.setItem("admin-password", pw);
+  }, []);
+
   return (
-    <AdminContext.Provider value={{ isAdmin, password }}>
+    <AdminContext.Provider value={{ isAdmin, password, login }}>
       {children}
     </AdminContext.Provider>
   );

@@ -1,25 +1,32 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useAdmin } from "@/lib/admin-context";
 
 interface AdminAuthProps {
   children: React.ReactNode;
 }
 
 export default function AdminAuth({ children }: AdminAuthProps) {
+  const { isAdmin, login } = useAdmin();
   const [password, setPassword] = useState("");
   const [authenticated, setAuthenticated] = useState(false);
   const [checking, setChecking] = useState(true);
   const [error, setError] = useState("");
 
   useEffect(() => {
+    if (isAdmin) {
+      setAuthenticated(true);
+      setChecking(false);
+      return;
+    }
+
     const saved = localStorage.getItem("admin-password");
     if (saved) {
-      // Verify saved password is still valid
       fetch("/api/admin/tags", { headers: { "x-admin-password": saved } })
         .then((r) => {
           if (r.ok) {
-            setPassword(saved);
+            login(saved);
             setAuthenticated(true);
           } else {
             localStorage.removeItem("admin-password");
@@ -32,7 +39,7 @@ export default function AdminAuth({ children }: AdminAuthProps) {
     } else {
       setChecking(false);
     }
-  }, []);
+  }, [isAdmin, login]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -48,7 +55,7 @@ export default function AdminAuth({ children }: AdminAuthProps) {
         headers: { "x-admin-password": password },
       });
       if (res.ok) {
-        localStorage.setItem("admin-password", password);
+        login(password);
         setAuthenticated(true);
       } else {
         setError("Incorrect password");

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import type { Recipe } from "@/types/recipe";
 import { useAdmin } from "@/lib/admin-context";
 
@@ -14,10 +15,39 @@ interface RecipeDetailClientProps {
 }
 
 export default function RecipeDetailClient({ recipe }: RecipeDetailClientProps) {
-  const { isAdmin } = useAdmin();
+  const { isAdmin, password } = useAdmin();
+  const router = useRouter();
   const baseServings = recipe.servings || 1;
   const [servings, setServings] = useState(baseServings);
   const scale = servings / baseServings;
+  const [deleting, setDeleting] = useState(false);
+
+  const handleDelete = async () => {
+    if (!confirm(`Are you sure you want to delete "${recipe.title}"? This cannot be undone.`)) return;
+
+    setDeleting(true);
+    try {
+      const res = await fetch("/api/admin/delete", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "x-admin-password": password,
+        },
+        body: JSON.stringify({ slug: recipe.slug }),
+      });
+      const data = await res.json();
+      if (data.success) {
+        alert(data.message);
+        router.push("/");
+      } else {
+        alert(`Failed to delete: ${data.error}`);
+      }
+    } catch {
+      alert("Failed to delete recipe");
+    } finally {
+      setDeleting(false);
+    }
+  };
 
   return (
     <article>
@@ -77,15 +107,27 @@ export default function RecipeDetailClient({ recipe }: RecipeDetailClientProps) 
         )}
         <div className="no-print ml-auto flex items-center gap-2">
           {isAdmin && (
-            <Link
-              href={`/admin/edit/${recipe.slug}`}
-              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-accent text-accent hover:bg-accent hover:text-white transition-colors"
-            >
-              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
-              </svg>
-              Edit
-            </Link>
+            <>
+              <Link
+                href={`/admin/edit/${recipe.slug}`}
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-accent text-accent hover:bg-accent hover:text-white transition-colors"
+              >
+                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+                </svg>
+                Edit
+              </Link>
+              <button
+                onClick={handleDelete}
+                disabled={deleting}
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-red-400 text-red-500 hover:bg-red-500 hover:text-white transition-colors disabled:opacity-50"
+              >
+                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                </svg>
+                {deleting ? "Deleting..." : "Delete"}
+              </button>
+            </>
           )}
           <button
             onClick={() => window.print()}
