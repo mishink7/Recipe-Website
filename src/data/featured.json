@@ -1,43 +1,12 @@
 {
   "recipe": {
-    "slug": "perfect-oatmeal-cookies",
-    "title": "Perfect Oatmeal Cookies",
-    "description": "These easy oatmeal cookies are soft and chewy, with a delicious buttery, warmly spiced flavor. I love them with raisins, but you can add any mix-ins you like. Try chocolate chips, dried cranberries, or nuts! From Every Day Is Saturday by Sarah Copeland.",
-    "tags": [
-      "oatmeal cookie recipe",
-      "oatmeal cookies",
-      "dessert"
-    ],
-    "source": "https://www.loveandlemons.com/oatmeal-cookies/",
-    "prepTime": "15 min",
-    "cookTime": "30 min",
-    "servings": 20,
-    "ingredients": [
-      "1 cup all-purpose flour (spooned and leveled*)",
-      "½ teaspoon baking soda",
-      "½ teaspoon baking powder",
-      "½ teaspoon sea salt",
-      "½ teaspoon cinnamon",
-      "½ cup unsalted butter or coconut oil (melted)",
-      "¾ cup packed brown sugar",
-      "1  large egg",
-      "1  large egg yolk",
-      "2 teaspoons vanilla extract",
-      "1½ cups whole rolled oats",
-      "¾ cup raisins or chocolate chips",
-      "½ cup chopped walnuts (optional)"
-    ],
-    "instructions": [
-      "Combine the flour, baking soda, baking powder, salt, and cinnamon in a large bowl. In a separate bowl, whisk together the melted butter, brown sugar, whole egg, egg yolk, and vanilla, whisking vigorously.",
-      "Stir the wet ingredients into the dry ingredients. Stir in the oats, raisins, and walnuts, if using, folding into a tight batter. Set the dough aside for 20 minutes while the oven preheats. (Note: If your dough seems too wet to become scoop-able, chill it in the fridge for this 20 minutes and it&#39;ll firm up. If your dough is too crumbly, stir in 2 to 3 tablespoons water.)",
-      "Preheat the oven to 350°F and line two baking sheets with parchment paper.",
-      "Use a 2-tablespoon cookie scoop to scoop the dough, heaping your scoops slightly to get 20 to 22 balls of dough. Roll lightly in barely damp hands to make them round. Spread out onto the prepared baking sheets and press down lightly on the tops of the dough balls.",
-      "Bake until puffed, golden, and a touch underbaked-looking, 10 to 11 minutes. Let cool on the pans for 5 minutes before transferring to a wire rack to cool completely."
-    ],
-    "dateAdded": "2026-04-04"
+    "title": "All Posts",
+    "description": "",
+    "source": "https://www.recipetineats.com/blog/",
+    "dateAdded": "2026-04-05"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2019/06/IMG_18952-cropped-1-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-04-04",
+  "imageUrl": null,
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-04-05",
   "added": false
 }
