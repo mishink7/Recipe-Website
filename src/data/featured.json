@@ -1,12 +1,45 @@
 {
   "recipe": {
-    "title": "All Posts",
-    "description": "",
-    "source": "https://www.recipetineats.com/blog/",
-    "dateAdded": "2026-04-05"
+    "slug": "dark-chocolate-olive-oil-cake",
+    "title": "Dark Chocolate Olive Oil Cake",
+    "description": "Dark Chocolate Olive Oil Cake From Simple Fare: Spring and Summer by Karen Mordechai. Reprinted with permission from the publisher.",
+    "tags": [
+      "chocolate olive oil cake",
+      "dessert"
+    ],
+    "source": "https://www.loveandlemons.com/dark-chocolate-olive-oil-cake/",
+    "prepTime": "10 min",
+    "cookTime": "45 min",
+    "servings": 12,
+    "ingredients": [
+      "¾ cup extra-virgin olive oil ((180ml), more for greasing the pan)",
+      "½ cup good-quality unsweetened cocoa powder ((70g))",
+      "½ cup boiling water ((120ml))",
+      "1 tablespoon pure vanilla extract",
+      "1⅓ cups all-purpose flour ((165g))",
+      "½ teaspoon baking soda",
+      "1 teaspoon sea salt",
+      "1 cup super fine sugar ((195g))",
+      "3  large eggs",
+      "Cyprus flake salt (or flaky sea salt)",
+      "½ cup heavy cream ((120ml), I used whipped coconut cream)",
+      "½ teaspoon ground cardamom",
+      "1 teaspoon dried rose petals (optional)",
+      "½ cup chopped unsalted pistachios ((65g))"
+    ],
+    "instructions": [
+      "Preheat the oven to 325°F (165°C). Grease a 9-inch (23-cm) springform baking pan with a little olive oil and line the base with parchment paper.",
+      "Sift the cocoa into a medium bowl and whisk in the boiling water until smooth. Whisk in the vanilla, then set aside to cool slightly. In a separate large bowl, combine the flour, baking soda, and salt.",
+      "In the bowl of a stand mixer fitted with the paddle attachment, beat together the sugar, olive oil, and eggs until you have a light, fluffy cream, about 3 minutes.",
+      "Turn the speed on the mixer down and pour in the cocoa and vanilla mixture. Slowly add the flour mixture until it is evenly incorporated, stopping the mixer and scraping down the bowl as necessary.",
+      "Pour the batter into the prepared pan and sprinkle with flaky salt. Bake for 30 to 35 minutes, or until the sides are set and the top of the cake still looks slightly moist. A cake tester inserted into the center should come out clean or with just a few crumbs on it. Let cool in the pan on a wire rack for 10 minutes.",
+      "Make the cardamom cream: While the cake is baking, in a chilled metal or glass bowl using a hand mixer, beat the cream on medium speed until soft peaks form, about 4 minutes. Add the cardamom and beat until stiff peaks form, about 1 to 2 minutes more. Cover and refrigerate until ready to serve.",
+      "Run a knife around the edge of the cake and release the sides of the pan. Transfer the cake to a serving plate or cake stand. Sprinkle with more flaky salt. Serve each slice with a dollop of the cardamom cream and a sprinkling of rose petals, pistachios, and flaky salt."
+    ],
+    "dateAdded": "2026-04-06"
   },
-  "imageUrl": null,
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-04-05",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2017/06/IMG_2017_06_06_10407-cropped-3-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-04-06",
   "added": false
 }
