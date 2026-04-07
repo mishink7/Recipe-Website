@@ -40,8 +40,13 @@ export default function FeaturedRecipeCard({ data }: FeaturedRecipeCardProps) {
   const { recipe, imageUrl, sourceSite } = data;
 
   return (
-    <div className="rounded-xl border-2 border-accent/30 bg-card-bg overflow-hidden">
-      <div className="flex flex-col sm:flex-row">
+    <div>
+      <h2 className="text-lg font-semibold text-foreground mb-3 flex items-center gap-2">
+        <span className="inline-block w-2 h-2 rounded-full bg-accent" />
+        Pick of the Day
+      </h2>
+      <div className="rounded-xl border-2 border-accent/30 bg-card-bg overflow-hidden">
+        <div className="flex flex-col sm:flex-row">
         {/* Image */}
         {imageUrl && (
           <Link href="/featured" className="sm:w-72 sm:shrink-0 block">
@@ -119,6 +124,7 @@ export default function FeaturedRecipeCard({ data }: FeaturedRecipeCardProps) {
             )}
           </div>
         </div>
+      </div>
       </div>
     </div>
   );
