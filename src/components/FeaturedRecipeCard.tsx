@@ -41,10 +41,16 @@ export default function FeaturedRecipeCard({ data }: FeaturedRecipeCardProps) {
 
   return (
     <div>
-      <h2 className="text-lg font-semibold text-foreground mb-3 flex items-center gap-2">
-        <span className="inline-block w-2 h-2 rounded-full bg-accent" />
-        Pick of the Day
-      </h2>
+      <div className="flex items-center gap-3 mb-3">
+        <div className="h-px flex-1 bg-gradient-to-r from-transparent via-accent/40 to-transparent" />
+        <h2 className="text-base font-bold uppercase tracking-widest text-accent flex items-center gap-2">
+          <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+          </svg>
+          Pick of the Day
+        </h2>
+        <div className="h-px flex-1 bg-gradient-to-r from-transparent via-accent/40 to-transparent" />
+      </div>
       <div className="rounded-xl border-2 border-accent/30 bg-card-bg overflow-hidden">
         <div className="flex flex-col sm:flex-row">
         {/* Image */}
