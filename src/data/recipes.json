@@ -1678,6 +1678,45 @@
     "dateAdded": "2026-03-27"
   },
   {
+    "slug": "chicken-potstickers-pan-fried-dumplings",
+    "title": "Chicken Potstickers (Pan Fried Dumplings)",
+    "description": null,
+    "tags": [],
+    "image": "/images/recipes/chicken-potstickers-pan-fried-dumplings.jpg",
+    "source": "https://www.feedmi.org/chicken-potstickers-pan-fried-dumplings/",
+    "prepTime": "50 minutes",
+    "cookTime": "10 minutes",
+    "servings": 50,
+    "ingredients": [
+      "1 lb ground chicken",
+      "1 lb circular dumpling wrapper",
+      "2 cups napa cabbage chopped",
+      "1 tsp salt",
+      "4 green onions sliced",
+      "6 garlic cloves minced",
+      "2 inch ginger minced",
+      "1 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tbsp sesame oil",
+      "1 tbsp chicken bouillon",
+      "1 tsp white pepper",
+      "Serve With:",
+      "dumpling dipping sauce",
+      "green onions",
+      "sesame seeds"
+    ],
+    "instructions": [
+      "Add napa cabbage and salt to a bowl and toss to evenly coat. Let it sit for 10 minutes to draw out the moisture then rinse off the salt and squeeze to release excess moisture.",
+      "In a large bowl, make the filling by mixing together ground chicken, napa cabbage, green onions, garlic, ginger, soy sauce, oyster sauce, sesame oil, chicken bouillon, and white pepper. Pan fry a small piece of the filling, taste test, and adjust to your liking as needed before folding.",
+      "To fold the dumplings, wet the edge of a circular dumpling wrapper. Place a small spoonful of the filling in the center. Then fold it half and with the front half only, make 3 pleats towards the middle, push in the end, and repeat on the other side. Pinch the top to seal. Keep the dumpling wrappers and folded dumplings covered with a damp towel so they don't dry out while you're folding the remaining dumplings.",
+      "To cook the potstickers, add a drizzle of oil to a non-stick pan on medium heat and about 10 dumplings depending on the size of your pan (do not overcrowd). Sear dumplings for 2 minutes until the bottoms are golden brown. Then add just enough water to cover the pan and steam covered for 5 minutes.",
+      "You can cook all of the dumplings or freeze them. To freeze, lay the uncooked dumplings flat on a wax sheet or plastic wrap lined sheet pan or plate so they don't touch and stick to each other. Place in the freezer until they are hard then transfer to container or bag to save freezer space.",
+      "Serve the chicken potstickers with a dumpling dipping sauce, green onions, sesame seeds, and enjoy!"
+    ],
+    "notes": null,
+    "dateAdded": "2026-04-06"
+  },
+  {
     "slug": "chicken-sausage-farro-stew",
     "title": "Chicken sausage farro stew",
     "description": null,
