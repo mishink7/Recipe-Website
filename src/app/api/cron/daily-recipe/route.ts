@@ -47,10 +47,7 @@ function isRecipeUrl(url: string): boolean {
   return segments.length === 1;
 }
 
-async function fetchSitemapUrls(
-  sitemapUrl: string,
-  maxAgeDays: number
-): Promise<string[]> {
+async function fetchSitemapUrls(sitemapUrl: string): Promise<string[]> {
   const res = await fetch(sitemapUrl, {
     headers: {
       "User-Agent": "Mozilla/5.0 (compatible; RecipeBot/1.0)",
@@ -61,21 +58,10 @@ async function fetchSitemapUrls(
   const xml = await res.text();
   const $ = cheerio.load(xml, { xmlMode: true });
 
-  const cutoff = new Date();
-  cutoff.setDate(cutoff.getDate() - maxAgeDays);
-
   const urls: string[] = [];
   $("url").each((_, el) => {
     const loc = $(el).find("loc").text();
-    const lastmod = $(el).find("lastmod").text();
-
     if (!loc || !isRecipeUrl(loc)) return;
-
-    if (lastmod) {
-      const date = new Date(lastmod);
-      if (date < cutoff) return;
-    }
-
     urls.push(loc);
   });
 
@@ -86,13 +72,11 @@ async function tryScrapeFromSite(
   siteIndex: number
 ): Promise<FeaturedRecipe | null> {
   const site = SITES[siteIndex % SITES.length];
+  const urls = await fetchSitemapUrls(site.sitemap);
+  if (urls.length === 0) return null;
 
-  // Try 30 days first, then 60, then 90
-  for (const days of [30, 60, 90]) {
-    const urls = await fetchSitemapUrls(site.sitemap, days);
-    if (urls.length === 0) continue;
-
-    // Pick a random URL
+  // Try up to 5 random URLs in case some fail to scrape
+  for (let attempt = 0; attempt < 5; attempt++) {
     const url = urls[Math.floor(Math.random() * urls.length)];
 
     try {
@@ -111,7 +95,6 @@ async function tryScrapeFromSite(
         added: false,
       };
     } catch {
-      // Scrape failed, will try next iteration
       continue;
     }
   }
