@@ -1,34 +1,12 @@
 {
   "recipe": {
-    "slug": "milk-and-honey-iced-coffee",
-    "title": "Milk and Honey Iced Coffee",
-    "description": "This Milk and Honey Iced Coffee is so simple - just four ingredients to the most deliciously sweet and creamy homemade coffee drink!",
-    "tags": [
-      "milk and honey iced coffee",
-      "iced coffee recipe",
-      "honey iced coffee",
-      "drinks"
-    ],
-    "source": "https://pinchofyum.com/milk-and-honey-iced-coffee",
-    "prepTime": "5 min",
-    "cookTime": "2 min",
-    "servings": 1,
-    "ingredients": [
-      "1 Nespresso Altissio capsule",
-      "1 teaspoon honey",
-      "1/4 cup skim or almond milk",
-      "1/4 cup half and half",
-      "1/4 teaspoon vanilla",
-      "6-8 ice cubes"
-    ],
-    "instructions": [
-      "Brew the Altissio using a Nespresso VertuoLine System. It should make about 1/4 cup of espresso. Stir the honey into the hot espresso to dissolve. Add the milk, cream, and vanilla and stir to combine.",
-      "Place the ice cubes in a shaker and pour the coffee and milk mixture over the ice. Cover and shake for 20 seconds. Pour into a glass with the ice cubes. Serve immediately."
-    ],
-    "dateAdded": "2026-04-09"
+    "title": "Hemp Seed & Kale Pesto - Love and Lemons",
+    "description": "An easy 5-ingredient homemade Kale Pesto. Great for fall and winter, this recipe is vegan, gluten-, nut- & dairy-free. Serve on pasta or your favorite dish!",
+    "source": "https://www.loveandlemons.com/nut-free-hemp-seed-kale-pesto/",
+    "dateAdded": "2026-04-10"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/iced-coffee-square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-04-09",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/01/IMG_2015_12_20_06865-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-04-10",
   "added": false
 }
