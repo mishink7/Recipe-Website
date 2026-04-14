@@ -1,12 +1,44 @@
 {
   "recipe": {
-    "title": "My Guide to the Rhone Valley, part II - Love and Lemons",
-    "description": "Last week, I spent six days in the Rhone Valley(!) The trip was so packed that I decided to break this into two posts. If you missed part one, click here. If you’re planning a trip to the south of France, I hope you find these posts helpful! Day 4: After a lovely breakfast at Hotel de la Villeon, we headed to Maison Chapoutier which is a short walk from the hotel. This area, the northern part of the Rhone Valley, produces more complex wines that are less fruit-forward than the wines I tasted further south. Maison Chapoutier is a great place […]",
-    "source": "https://www.loveandlemons.com/guide-rhone-valley-part-ii/",
-    "dateAdded": "2026-04-13"
+    "slug": "giant-pancakes",
+    "title": "Giant Pancakes",
+    "description": "This is how you make pancakes for 4 people in 10 minutes.",
+    "tags": [
+      "breakfast",
+      "brunch"
+    ],
+    "source": "https://www.recipetineats.com/giant-pancakes-strawberries/",
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 4,
+    "ingredients": [
+      "2 1/2 cups plain flour *",
+      "5 tsp baking powder *",
+      "3 tbsp sugar",
+      "1/2 tsp salt",
+      "1 tsp vanilla essence",
+      "1  egg",
+      "2 cups + 2 tbsp   milk",
+      "1 tsp butter",
+      "Sliced strawberries",
+      "Golden syrup",
+      "Icing sugar"
+    ],
+    "instructions": [
+      "Combine flour, baking powder, sugar and salt in a bowl and mix briefly with a whisk to combine.",
+      "Add vanilla essence, egg and milk. Whisk until lump free.",
+      "Heat butter in non stick pan (25cm/10\" diameter) over medium high heat. Use an egg flip to spread the butter all over the pan.",
+      "Use a paper towel to wipe the butter of the pan thoroughly.",
+      "Pour half the batter in the pan and swirl around to evenly cover the base of the pan.",
+      "Cook until lots of bubbles appear on the surface. Lift up the edge and peer underneath - if it is golden, it is ready to flip. About 2 minutes.",
+      "Flip the pancake and cook the other side for 1 1/2 to 2 minutes. The other side will not take as long to cook.",
+      "Remove from pan and repeat with remaining batter. You will not need to put butter in the pan again.",
+      "To serve (optional) - top with slices of strawberries and a sprinkling of icing sugar with golden syrup on the side."
+    ],
+    "dateAdded": "2026-04-14"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/06/IMG_8858.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-04-13",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/08/Giant-Pancake-2-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-04-14",
   "added": false
 }
