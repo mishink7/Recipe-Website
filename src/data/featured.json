@@ -1,45 +1,36 @@
 {
   "recipe": {
-    "slug": "cauliflower-fried-rice-with-crispy-tofu",
-    "title": "Cauliflower Fried Rice with Crispy Tofu",
-    "description": "Cauliflower Fried Rice! Healthy + clean fried rice made with cauliflower, carrots, onions, garlic, eggs, sesame oil and THE BEST baked crispy tofu. ",
+    "slug": "mexican-street-corn-salad",
+    "title": "Mexican Street Corn Salad",
+    "description": "This easy Mexican street corn salad is the ultimate summer side dish! Lightly creamy, spicy &amp; bright, it&#039;s a recipe you&#039;ll make again and again.",
     "tags": [
-      "cauliflower fried rice",
-      "crispy tofu",
-      "healthy fried rice",
-      "lunch"
+      "mexican street corn salad",
+      "summer",
+      "gluten free, salads, side dishes, vegetarian"
     ],
-    "source": "https://pinchofyum.com/15-minute-meal-prep-cauliflower-fried-rice-with-crispy-tofu",
-    "prepTime": "15 min",
-    "cookTime": "15 min",
+    "source": "https://www.loveandlemons.com/mexican-street-corn-salad/",
     "servings": 4,
     "ingredients": [
-      "15 ounces extra firm tofu, pressed and cubed",
-      "1 tablespoon olive oil",
-      "1 tablespoon soy sauce",
-      "1 tablespoon cornstarch",
-      "1 medium-sized head of cauliflower, cut into florets",
-      "swish of olive oil",
-      "2 garlic cloves, minced",
-      "1 knob of ginger, grated",
-      "2-3 cups frozen peas and carrots (or really any veggies you want)",
-      "a lil bit of soy sauce",
-      "a lil bit of Sriracha",
-      "swish of sesame oil",
-      "3 beaten eggs",
-      "green onions for topping"
+      "4 ears fresh corn (husked)",
+      "Extra-virgin olive oil (for brushing)",
+      "1½ tablespoons mayo (or vegan mayo)",
+      "1  garlic clove (minced)",
+      "Zest and juice of 1 lime",
+      "⅓ cup chopped scallions",
+      "¼ cup crumbled Cotija (or feta cheese)",
+      "¼ cup finely chopped fresh cilantro",
+      "¼ teaspoon smoked paprika",
+      "1  jalapeño pepper (diced*)",
+      "¼ teaspoon sea salt"
     ],
     "instructions": [
-      "Preheat the oven to 450. Toss the tofu, olive oil, soy sauce, and cornstarch together. Arrange on a baking sheet lined with parchment paper. Bake for 20-30 minutes, stirring halfway through.",
-      "Run the florets through the food processor, in batches, until they reach a rice-like consistency.",
-      "Heat your olive oil over medium heat. Add the garlic, ginger, peas, and carrots. When it&#8217;s really sizzling, add the cauliflower, soy sauce, and Sriracha. Saute for just a minute or two, until the cauliflower barely softens.",
-      "Make a well in the middle of the hot pan. Add sesame oil and eggs, and gently pull the eggs around in the center with a spatula to make scrambled eggs. Once cooked, stir the scrambled eggs in with the fried rice.",
-      "Serve it up, top with more Sriracha and green onions, and live your best life."
+      "Preheat a grill to medium-high heat. Brush the corn with olive oil and grill for 2 minutes per side, or until char marks form. Remove from grill and set aside.",
+      "In a large bowl, combine the mayo, garlic, and lime zest and juice. Slice the kernels off the corn and add to the bowl along with the scallions. Stir to coat, then add the cheese, cilantro, smoked paprika, jalapeño, and salt. Season to taste and serve immediately or chill until ready to serve."
     ],
-    "dateAdded": "2026-04-15"
+    "dateAdded": "2026-04-16"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Cauliflower-Fried-Rice-Square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-04-15",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2013/06/corn-salad-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-04-16",
   "added": false
 }
