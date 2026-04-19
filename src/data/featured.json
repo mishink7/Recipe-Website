@@ -1,33 +1,12 @@
 {
   "recipe": {
-    "slug": "mind-blowing-vegan-chocolate-pie",
-    "title": "Mind-Blowing Vegan Chocolate Pie",
-    "description": "This vegan chocolate pie is a five-ingredient, no-bake miracle. The ultra-thick and creamy chocolate pie filling is made with (wait for it)... tofu, almond butter, almondmilk, and melted chocolate. Easy!",
-    "tags": [
-      "vegan chocolate pie",
-      "tofu chocolate pie",
-      "chocolate pie",
-      "dessert"
-    ],
-    "source": "https://pinchofyum.com/vegan-chocolate-pie",
-    "prepTime": "10 min",
-    "servings": 10,
-    "ingredients": [
-      "12 ounces firm silken firm tofu",
-      "1/2 cup Almond Breeze Chocolate Almondmilk",
-      "1/2 cup almond butter",
-      "12 ounces chocolate chips*",
-      "flaky sea salt for topping",
-      "pie crust of your choice! ideas in the notes section."
-    ],
-    "instructions": [
-      "Blend the tofu, almondmilk, and almond butter until smooth. Melt the chocolate chips. Add to the blender and blend until smooth &#8211; it gets pretty thick so you might need to help it along with a spatula between blends.",
-      "Pour filling into a crust, sprinkle with sea salt if you want, and chill for 12-24 hours. Cut and serve!"
-    ],
-    "dateAdded": "2026-04-18"
+    "title": "Valentine's Molten Chocolate Cakes - Love and Lemons",
+    "description": "What's the best way to celebrate Valentine's Day? Molten chocolate cake! These 6-ingredient cakes take 20 minutes to make and are deliciously rich.",
+    "source": "https://www.loveandlemons.com/molten-chocolate-cakes/",
+    "dateAdded": "2026-04-19"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Vegan-Chocolate-Pie-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-04-18",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/02/IMG_9862-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-04-19",
   "added": false
 }
