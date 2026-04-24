@@ -1,43 +1,41 @@
 {
   "recipe": {
-    "slug": "vietnamese-caramelised-pork-bowls",
-    "title": "Vietnamese Caramelised Pork Bowls",
-    "description": "Recipe video above. An exciting way to use ground meat (mince) to make a quick stir fry that taste unbelievable! This is great made with chicken, turkey or pork. It also works with beef though it is better made with &quot;white meats&quot;. Serve it over rice or vermicelli noodles to make rice bowls with shredded lettuce, carrots and cucumbers on the side (very classic Vietnamese meal!).**NOTE: If you reduce sugar then the pork will not caramelise as well and it will take longer to get colour on it!**",
+    "slug": "span-class-fn-butternut-squash-mac-n-cheese-with-bacon-caramelized-onions-and-apples",
+    "title": "<span class=\"fn\">Butternut Squash Mac n' Cheese with Bacon, Caramelized Onions, and Apples",
+    "description": "This healthy butternut squash mac and cheese has caramelized onions, crispy bacon, and fresh sweet apples. It's my go-to comfort food!",
     "tags": [
-      "ground pork recipe",
-      "ground pork stir fry",
-      "pork mince recipe",
-      "pork mince stir fry",
-      "stir fry"
+      "healthy butternut squash mac and cheese",
+      "healthy mac and cheese",
+      "squash mac and cheese",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/vietnamese-caramelised-pork-bowls/",
-    "prepTime": "10 min",
-    "cookTime": "10 min",
+    "source": "https://pinchofyum.com/butternut-squash-mac-n-cheese-with-caramelized-onions-apples-and-bacon",
+    "prepTime": "30 min",
+    "cookTime": "20 min",
     "servings": 4,
     "ingredients": [
-      "1 1/2 tbsp cooking oil ((I use peanut oil))",
-      "1/2  onion (, finely diced (brown, white or yellow) (~1/2 cup))",
-      "2 tsp ginger (, grated or minced)",
-      "2  garlic cloves (, minced (2 tsp paste))",
-      "1  birds eye or Thai chili (, deseeded and finely chopped (can omit, Note 1))",
-      "500g / 1 lb  pork mince ((ground pork) (Note 2))",
-      "5 tbsp  (tightly packed brown sugar ((don&#39;t skimp, else won&#39;t caramelise))",
-      "2 tbsp fish sauce",
-      "1  green onion stem (, finely sliced)",
-      "Jasmine rice (or other rice for serving)",
-      "Sliced red chilli, tomato, cucumber ((optional))"
+      "1/2 box whole grain elbow macaroni (about 2.5 cups dry)",
+      "1 cup canned butternut squash puree",
+      "1/4 cup + 2 tablespoons evaporated milk",
+      "1/4 cup chicken or vegetable broth",
+      "1 oz low fat cream cheese",
+      "1 teaspoon salt",
+      "1/2 cup shredded cheddar cheese",
+      "1 tablespoon butter",
+      "1/2 cup onions, sliced thinly",
+      "1 large crispy apple, chopped or grated",
+      "4 tablespoons crumbled bacon"
     ],
     "instructions": [
-      "Heat the oil in a large skillet over high heat.",
-      "Sauté - Add the onion, ginger, garlic and chili and cook for 2 minutes.",
-      "Cook pork - Add the pork mince and cook for 2 minutes or so until white all over, breaking up the meat with a wooden spoon.",
-      "Add sauce &amp; caramelise - Add the sugar and fish sauce. Stir, then leave it to cook without touching until all the juices cook out and the pork starts caramelised - about 2 minutes. Then stir it and leave it again, without stirring, for around 30 seconds to get more caramelisation. Repeat twice more until caramelised to your taste.",
-      "Serve over jasmine or other rice, or vermicelli noodles, garnished with sliced green onion. For a low carb, low cal option, try Cauliflower Rice! I like to have chunks of plain cucumber and carrots on the side which is a classic way of making Vietnamese bowls."
+      "Heat butter in a skillet over low heat. When melted, add onions and let caramelize for at least 30 minutes for the best flavor. Keep heat on low/low-medium.",
+      "Cook the pasta according to directions. Drain and return to pan over low heat. Add butternut squash, chicken broth, evaporated milk, and cream cheese. When combined, add in salt.",
+      "Add onions and apples to the pasta. Stir to combine and add a tablespoon more broth or milk if needed.",
+      "Just before serving, mix in cheese and stir until melted. Top each serving with 1 tablespoon bacon."
     ],
-    "dateAdded": "2026-04-23"
+    "dateAdded": "2026-04-24"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2015/11/Vietnamese-Ground-Pork-Bowls_7.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-04-23",
+  "imageUrl": "https://pinchofyum.com/tachyon/macaroni-highlight-lifted-3.jpg?fit=190%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-04-24",
   "added": false
 }
