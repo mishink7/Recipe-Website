@@ -1,41 +1,38 @@
 {
   "recipe": {
-    "slug": "span-class-fn-butternut-squash-mac-n-cheese-with-bacon-caramelized-onions-and-apples",
-    "title": "<span class=\"fn\">Butternut Squash Mac n' Cheese with Bacon, Caramelized Onions, and Apples",
-    "description": "This healthy butternut squash mac and cheese has caramelized onions, crispy bacon, and fresh sweet apples. It's my go-to comfort food!",
+    "slug": "cilantro-lime-rice",
+    "title": "Cilantro Lime Rice",
+    "description": "This easy cilantro lime rice recipe is a great side dish for Asian or Mexican-inspired meals. Of course, we also love it in homemade burrito bowls!",
     "tags": [
-      "healthy butternut squash mac and cheese",
-      "healthy mac and cheese",
-      "squash mac and cheese",
-      "dinner"
+      "cilantro lime rice",
+      "spring",
+      "summer",
+      "side dish"
     ],
-    "source": "https://pinchofyum.com/butternut-squash-mac-n-cheese-with-caramelized-onions-apples-and-bacon",
-    "prepTime": "30 min",
+    "source": "https://www.loveandlemons.com/cilantro-lime-rice/",
+    "prepTime": "5 min",
     "cookTime": "20 min",
     "servings": 4,
     "ingredients": [
-      "1/2 box whole grain elbow macaroni (about 2.5 cups dry)",
-      "1 cup canned butternut squash puree",
-      "1/4 cup + 2 tablespoons evaporated milk",
-      "1/4 cup chicken or vegetable broth",
-      "1 oz low fat cream cheese",
-      "1 teaspoon salt",
-      "1/2 cup shredded cheddar cheese",
-      "1 tablespoon butter",
-      "1/2 cup onions, sliced thinly",
-      "1 large crispy apple, chopped or grated",
-      "4 tablespoons crumbled bacon"
+      "1 cup long-grain jasmine rice (rinsed well and drained)",
+      "1½ cups water",
+      "3 teaspoons extra-virgin olive oil",
+      "1  small garlic clove (finely minced)",
+      "2  scallions (finely chopped)",
+      "1 teaspoon lime zest",
+      "¼ to ½ teaspoon sea salt",
+      "1½ tablespoons fresh lime juice",
+      "½ cup finely chopped fresh cilantro",
+      "Pinch red pepper flakes ( or ¼ diced jalapeño, optional)"
     ],
     "instructions": [
-      "Heat butter in a skillet over low heat. When melted, add onions and let caramelize for at least 30 minutes for the best flavor. Keep heat on low/low-medium.",
-      "Cook the pasta according to directions. Drain and return to pan over low heat. Add butternut squash, chicken broth, evaporated milk, and cream cheese. When combined, add in salt.",
-      "Add onions and apples to the pasta. Stir to combine and add a tablespoon more broth or milk if needed.",
-      "Just before serving, mix in cheese and stir until melted. Top each serving with 1 tablespoon bacon."
+      "Combine the rice, water, and 1 teaspoon of the olive oil in a medium saucepan with a lid. Bring to a boil, cover, and reduce to a simmer. Simmer for 20 minutes (or check the time listed on the package of your rice).",
+      "Uncover and fluff with a fork. Add the garlic, scallions, and lime zest and stir to combine. Let cool for 1 minute, then add the remaining 2 teaspoons of olive oil, ¼ teaspoon salt, lime juice, cilantro, and red pepper flakes or jalapeño, if using. Stir to combine and season to taste."
     ],
-    "dateAdded": "2026-04-24"
+    "dateAdded": "2026-04-25"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/macaroni-highlight-lifted-3.jpg?fit=190%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-04-24",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2019/05/cilantro-lime-rice-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-04-25",
   "added": false
 }
