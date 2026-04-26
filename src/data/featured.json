@@ -1,38 +1,49 @@
 {
   "recipe": {
-    "slug": "cilantro-lime-rice",
-    "title": "Cilantro Lime Rice",
-    "description": "This easy cilantro lime rice recipe is a great side dish for Asian or Mexican-inspired meals. Of course, we also love it in homemade burrito bowls!",
+    "slug": "braised-beef-short-ribs-in-red-wine-sauce",
+    "title": "Braised Beef Short Ribs in Red Wine Sauce",
+    "description": "Recipe video above. This is the sort of food you'll pay top dollar for at fine dining restaurants but is actually very easy to make at home. Wine provides complexity and depth of flavour so you only need a few ingredients! Oven is best but stove/slow cooker/pressure cooker/IP also work, directions in notes.",
     "tags": [
-      "cilantro lime rice",
-      "spring",
-      "summer",
-      "side dish"
+      "beef ribs",
+      "braised beef short ribs",
+      "mains"
     ],
-    "source": "https://www.loveandlemons.com/cilantro-lime-rice/",
-    "prepTime": "5 min",
-    "cookTime": "20 min",
-    "servings": 4,
+    "source": "https://www.recipetineats.com/braised-beef-short-ribs-in-red-wine-sauce/",
+    "prepTime": "15 min",
+    "cookTime": "180 min",
+    "servings": 5,
     "ingredients": [
-      "1 cup long-grain jasmine rice (rinsed well and drained)",
-      "1½ cups water",
-      "3 teaspoons extra-virgin olive oil",
-      "1  small garlic clove (finely minced)",
-      "2  scallions (finely chopped)",
-      "1 teaspoon lime zest",
-      "¼ to ½ teaspoon sea salt",
-      "1½ tablespoons fresh lime juice",
-      "½ cup finely chopped fresh cilantro",
-      "Pinch red pepper flakes ( or ¼ diced jalapeño, optional)"
+      "5 - 6  beef short ribs (, 300-400g/10-14oz each (Note 1))",
+      "1.5 tsp each salt and pepper",
+      "2 tbsp olive oil",
+      "3  garlic cloves (, crushed)",
+      "1  large onion (, chopped (brown, yellow or white))",
+      "2  celery ribs (, chopped)",
+      "2  carrots (, chopped)",
+      "2 tbsp tomato paste",
+      "2 cups (500ml)   dry red wine ((Note 2))",
+      "2 cups (500ml)   beef stock/broth, low sodium",
+      "2  sprigs thyme ((optional))",
+      "2  bay leaves"
     ],
     "instructions": [
-      "Combine the rice, water, and 1 teaspoon of the olive oil in a medium saucepan with a lid. Bring to a boil, cover, and reduce to a simmer. Simmer for 20 minutes (or check the time listed on the package of your rice).",
-      "Uncover and fluff with a fork. Add the garlic, scallions, and lime zest and stir to combine. Let cool for 1 minute, then add the remaining 2 teaspoons of olive oil, ¼ teaspoon salt, lime juice, cilantro, and red pepper flakes or jalapeño, if using. Stir to combine and season to taste."
+      "Preheat oven to 160°C/325°F.",
+      "Sprinkle beef all over with salt and pepper.",
+      "Heat oil in a large ovenproof pot over high heat. Add half the ribs and brown aggressively all over (~5 - 7 min in total). Remove and repeat with remaining ribs, then remove.",
+      "Turn heat down to medium. Add onion and garlic into the same pot and cook for 2 minutes.",
+      "Add carrot and celery, cook for 5 minutes until carrot is softened and sweet.",
+      "Add tomato paste and cook for 1 minute.",
+      "Add wine, broth, thyme and bay leaves. Stir until tomato paste is dissolved.",
+      "Return beef into liquid, arranging them so they are submerged (Note 3).&nbsp;",
+      "Cover with lid and transfer to oven for 3 hours, or until the meat can easily be pried apart with forks. (Note 4 Other cook methods)",
+      "Remove beef carefully, keeping the meat on the bone. (Note 4) Cover to keep warm.",
+      "Strain all liquid in the pot, pressing juices out of the onion, carrot etc. (Optional - can skip if you don&#039;t mind chunky sauce) Return sauce into pot, bring to simmer and stir. Adjust as necessary - simmer to reduce/thicken, add water to thin, season with salt and pepper if needed.",
+      "Place beef on serving plate, spoon over sauce. Serve!"
     ],
-    "dateAdded": "2026-04-25"
+    "dateAdded": "2026-04-26"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2019/05/cilantro-lime-rice-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-04-25",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2019/02/Slow-Cooked-Braised-Beef-Short-Ribs_3.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-04-26",
   "added": false
 }
