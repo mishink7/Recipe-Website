@@ -143,6 +143,107 @@ function extractMetaFallback(html: string): ScrapeResult {
   };
 }
 
+// Fallback for sites that publish Schema.org Recipe as HTML5 microdata
+// (itemtype/itemprop attributes) instead of JSON-LD — e.g. EasyRecipe,
+// older WP Recipe Maker, hand-rolled microdata.
+function extractMicrodataRecipe(html: string): ScrapeResult | null {
+  const $ = cheerio.load(html);
+  const root = $('[itemtype*="schema.org/Recipe"]').first();
+  if (root.length === 0) return null;
+
+  const propText = (name: string): string => {
+    const el = root.find(`[itemprop="${name}"]`).first();
+    if (el.length === 0) return "";
+    if (el.is("meta")) return (el.attr("content") || "").trim();
+    if (el.is("img")) return (el.attr("src") || "").trim();
+    return el.text().trim().replace(/\s+/g, " ");
+  };
+
+  const propTexts = (name: string): string[] => {
+    const matches = root.find(`[itemprop="${name}"]`);
+    if (matches.length === 0) return [];
+
+    // Single-element case: extract <li> children if present, else split lines
+    if (matches.length === 1) {
+      const single = matches.first();
+      const items = single.find("li");
+      if (items.length > 0) {
+        const out: string[] = [];
+        items.each((_, el) => {
+          const t = $(el).text().trim().replace(/\s+/g, " ");
+          if (t) out.push(t);
+        });
+        if (out.length > 0) return out;
+      }
+      const text = single.text().trim();
+      if (!text) return [];
+      const lines = text.split(/\n/).map((l) => l.trim().replace(/\s+/g, " ")).filter(Boolean);
+      return lines.length > 1 ? lines : [text.replace(/\s+/g, " ")];
+    }
+
+    // Multi-element case: each element is one item
+    const out: string[] = [];
+    matches.each((_, el) => {
+      const $el = $(el);
+      const text = $el.is("meta")
+        ? ($el.attr("content") || "").trim()
+        : $el.text().trim().replace(/\s+/g, " ");
+      if (text) out.push(text);
+    });
+    return out;
+  };
+
+  const propDuration = (name: string): string => {
+    const el = root.find(`[itemprop="${name}"]`).first();
+    if (el.length === 0) return "";
+    const iso = el.attr("datetime") || el.attr("content");
+    if (iso && /^PT/.test(iso)) return parseIsoDuration(iso);
+    return el.text().trim();
+  };
+
+  const title = propText("name");
+  const ingredients = propTexts("recipeIngredient");
+  const instructions = propTexts("recipeInstructions");
+
+  // Require core recipe fields, otherwise let caller fall through to meta
+  if (!title || ingredients.length === 0 || instructions.length === 0) return null;
+
+  const tagSet = new Set<string>();
+  for (const raw of [propText("keywords"), propText("recipeCategory")]) {
+    raw
+      .split(/[,;]+/)
+      .map((t) => t.trim().toLowerCase())
+      .filter(Boolean)
+      .forEach((t) => tagSet.add(t));
+  }
+
+  const yieldStr = propText("recipeYield");
+  const yieldMatch = yieldStr.match(/(\d+)/);
+  const servings = yieldMatch ? parseInt(yieldMatch[1], 10) : null;
+
+  const description =
+    propText("description") || $('meta[property="og:description"]').attr("content") || "";
+  // Prefer og:image — typically a high-res social-sharing image — over the
+  // inline <img itemprop="image">, which is often a small thumbnail.
+  const imageUrl =
+    $('meta[property="og:image"]').attr("content") || propText("image") || undefined;
+
+  const recipe: Partial<Recipe> = {
+    slug: slugify(title),
+    title,
+    description: description || undefined,
+    tags: Array.from(tagSet),
+    prepTime: propDuration("prepTime") || undefined,
+    cookTime: propDuration("cookTime") || undefined,
+    servings,
+    ingredients,
+    instructions,
+    dateAdded: new Date().toISOString().split("T")[0],
+  };
+
+  return { recipe, imageUrl };
+}
+
 export async function scrapeRecipeFromUrl(url: string): Promise<ScrapeResult> {
   const response = await fetch(url, {
     headers: {
@@ -170,6 +271,8 @@ export async function scrapeRecipeFromUrl(url: string): Promise<ScrapeResult> {
   const jsonLd = extractJsonLdRecipe(html);
 
   if (!jsonLd) {
+    const microdata = extractMicrodataRecipe(html);
+    if (microdata) return microdata;
     return extractMetaFallback(html);
   }
 
