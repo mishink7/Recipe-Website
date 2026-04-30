@@ -1,54 +1,39 @@
 {
   "recipe": {
-    "slug": "one-pot-creamy-parmesan-garlic-risotto-with-lemon-pepper-chicken",
-    "title": "One Pot Creamy Parmesan Garlic Risotto with Lemon Pepper Chicken",
-    "description": "Two dishes made in one pot! Creamy, dreamy risotto with yummy garlic parmesan flavours topped with crispy roast chicken. Cooking the chicken on top of the rice is like making rice with triple strength stock!",
+    "slug": "date-night-mushroom-fettuccine",
+    "title": "Date Night Mushroom Fettuccine",
+    "description": "Date Night Mushroom Fettuccine - elegant and luscious and FIVE INGREDIENT EASY.",
     "tags": [
-      "chicken",
-      "dinner",
-      "one pot",
-      "rice"
+      "mushroom fettuccine",
+      "creamy fettuccine",
+      "fettuccine dinner",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/one-pot-creamy-parmesan-garlic-risotto-with-lemon-pepper-chicken/",
+    "source": "https://pinchofyum.com/mushroom-fettuccine",
     "prepTime": "10 min",
-    "cookTime": "50 min",
-    "servings": 5,
+    "cookTime": "20 min",
+    "servings": 8,
     "ingredients": [
-      "1/2 tbsp olive oil",
-      "2 lb / 1 kg   chicken thighs (, skin on and bone in (5 pieces) (Note 1))",
-      "2 - 3 tbsp Lemon Pepper Seasoning ((Note 2))",
-      "2 tbsp butter",
-      "4  garlic cloves (, minced)",
-      "1  onion (, finely diced)",
-      "1 1/2 cups risotto rice ((arborio))",
-      "1/2 cup white wine (, any (or stock or water))",
-      "4 cups chicken broth ((stock))",
-      "1 cup milk ((I use low fat))",
-      "1/2 tsp salt",
-      "Black pepper",
-      "1 cup freshly grated parmesan ((lightly packed))",
-      "2 tbsp butter",
-      "1/2 to 1 cup milk ((preferably warmed))",
-      "Fresh thyme leaves (, or finely chopped parsley, chives or oregano (optional))"
+      "1/2 cup Land O Lakes® Butter, divided",
+      "2 cloves fresh minced garlic, or a pinch of garlic salt",
+      "16 ounces fresh sliced mushrooms (more if you love mushrooms!)",
+      "1 cup heavy whipping cream",
+      "1 pound fettuccine",
+      "1/2 cup Parmesan cheese",
+      "1 cup reserved pasta water",
+      "1 teaspoon salt (more to taste)",
+      "fresh ground black pepper",
+      "parsley for topping"
     ],
     "instructions": [
-      "Preheat oven to 180C/350F (fan forced) / 200C/390F (conventional).",
-      "Coat chicken with Lemon Pepper Seasoning, using most of it on the skin.",
-      "Heat olive oil over medium heat in a large oven proof fry pan (Note 3).",
-      "Place the chicken in the pan skin side down. Cook for 3 minutes then turn the heat up to medium high and cook for a further 2 minutes or until browned. Turn and cook for 3 minutes. (Note 4)",
-      "Remove chicken onto a plate. Discard excess oil in the pan and wipe the pan with a paper towel.",
-      "Return the pan to the stove, still on medium high.",
-      "Melt butter in the pan. Add garlic and onion and cook for 2 minutes or until onion is translucent.",
-      "Add rice and stir until the grains turn from white to translucent. Add wine and cook for 1 to 2 minutes, or until the wine is mostly evaporated.",
-      "Add chicken broth, milk, salt and pepper. Bring to a simmer on the stove. Give it a quick stir then place the chicken on top of the rice (pour juices on the plate in too). Then place a lid (or foil) on the pan and transfer to the oven.",
-      "Bake for 20 minutes with the lid on. Remove the lid and return to the oven for another 10 minutes, or until the rice is firm but just cooked (not mushy!) and the chicken is crispy.",
-      "Remove the chicken from the rice. Stir through Risotto Finishes, using the milk to get the risotto to a creamy consistency.",
-      "Return chicken on top. Serve immediately, with fresh thyme leaves and extra parmesan, if desired."
+      "Clean the mushrooms. Add the garlic and mushrooms to a large skillet with 2 tablespoons of the butter. Sauté until the mushrooms are soft with deep brown color &#8211; 10-15 minutes. Add the cream and the rest of the butter. Simmer over low heat.",
+      "Cook the fettuccine in a large pot according to package directions. Drain, reserving a little bit of the water, and return to pan.",
+      "Add mushroom sauce to the hot fettuccine in the pan. Toss with tongs to mix. Add Parmesan and up to 1 cup of reserved pasta water as needed to get the consistency right. Season with salt and pepper. And now stand at the stove and eat it straight out the pan. So good."
     ],
-    "dateAdded": "2026-04-29"
+    "dateAdded": "2026-04-30"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2015/06/One-Pot-Creamy-Risotto-Lemon-Pepper-Chicken-4.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-04-29",
+  "imageUrl": "https://pinchofyum.com/tachyon/Mushroom-Fettuccine-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-04-30",
   "added": false
 }
