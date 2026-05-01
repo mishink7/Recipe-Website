@@ -1,39 +1,44 @@
 {
   "recipe": {
-    "slug": "date-night-mushroom-fettuccine",
-    "title": "Date Night Mushroom Fettuccine",
-    "description": "Date Night Mushroom Fettuccine - elegant and luscious and FIVE INGREDIENT EASY.",
+    "slug": "pumpkin-bread-pudding",
+    "title": "Pumpkin Bread Pudding",
+    "description": "Cubes of challah are baked in a richly spiced pumpkin custard to make this dairy-free bread pudding. Perfect for fall gatherings on cool nights.",
     "tags": [
-      "mushroom fettuccine",
-      "creamy fettuccine",
-      "fettuccine dinner",
-      "dinner"
+      "fall",
+      "winter",
+      "dairy free",
+      "desserts",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/mushroom-fettuccine",
-    "prepTime": "10 min",
-    "cookTime": "20 min",
-    "servings": 8,
+    "servings": 6,
     "ingredients": [
-      "1/2 cup Land O Lakes® Butter, divided",
-      "2 cloves fresh minced garlic, or a pinch of garlic salt",
-      "16 ounces fresh sliced mushrooms (more if you love mushrooms!)",
-      "1 cup heavy whipping cream",
-      "1 pound fettuccine",
-      "1/2 cup Parmesan cheese",
-      "1 cup reserved pasta water",
-      "1 teaspoon salt (more to taste)",
-      "fresh ground black pepper",
-      "parsley for topping"
+      "¾ cup organic canned pumpkin puree (not pumpkin pie filling)",
+      "1 cup full fat coconut milk",
+      "½ cup almond milk (or milk substitute of your choice)",
+      "½ cup maple syrup",
+      "4 eggs",
+      "1 teaspoon cinnamon",
+      "Pinch of nutmeg",
+      "⅛ teaspoon salt",
+      "1 loaf challah bread (or similar), cubed (about 5 cups)",
+      "Chopped pecans (optional)",
+      "Powdered sugar",
+      "Ice cream",
+      "Maple syrup",
+      "Maple syrup mixed with melted butter",
+      "A glaze of whisked powdered sugar & a little bit of coconut milk"
     ],
     "instructions": [
-      "Clean the mushrooms. Add the garlic and mushrooms to a large skillet with 2 tablespoons of the butter. Sauté until the mushrooms are soft with deep brown color &#8211; 10-15 minutes. Add the cream and the rest of the butter. Simmer over low heat.",
-      "Cook the fettuccine in a large pot according to package directions. Drain, reserving a little bit of the water, and return to pan.",
-      "Add mushroom sauce to the hot fettuccine in the pan. Toss with tongs to mix. Add Parmesan and up to 1 cup of reserved pasta water as needed to get the consistency right. Season with salt and pepper. And now stand at the stove and eat it straight out the pan. So good."
+      "In a medium bowl, whisk together the pumpkin, coconut milk, almond milk, maple syrup, eggs, cinnamon, nutmeg, and salt. Place the cubed bread in a larger bowl and pour the mixture over the bread pieces. Stir gently, just until it all gets coated.",
+      "Scoop the mix into a greased baking dish or individual ramekins.* If you are using fresh bread, you don’t need to let it sit, you can pop it right into the oven. If you’re using bread that’s a little bit stale, let it sit in the fridge for 30 minutes or a few hours.",
+      "Bake at 350 degrees Fahrenheit for 25-30 minutes or until the top becomes golden brown and the inside starts to set but is still gooey. (The individual ramekins need less baking time than a larger baking dish.)",
+      "Serve with toppings of your choice!"
     ],
-    "dateAdded": "2026-04-30"
+    "dateAdded": "2026-05-01",
+    "source": "https://www.loveandlemons.com/pumpkin-bread-pudding/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Mushroom-Fettuccine-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-04-30",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/11/pumpkin-bread-pudding_loveandlemons.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-05-01",
   "added": false
 }
