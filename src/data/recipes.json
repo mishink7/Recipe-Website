@@ -3348,6 +3348,44 @@
     "dateAdded": "2026-01-02"
   },
   {
+    "slug": "healthy-potato-salad-with-yogurt",
+    "title": "Healthy Potato Salad with Yogurt",
+    "description": null,
+    "tags": [
+      "sides"
+    ],
+    "image": "/images/recipes/healthy-potato-salad-with-yogurt.jpg",
+    "source": "https://www.jessicagavin.com/easy-creamy-potato-salad-yogurt/",
+    "prepTime": "20 mins",
+    "cookTime": "10 mins",
+    "servings": 8,
+    "ingredients": [
+      "2 pounds russet potatoes",
+      "1 tablespoon kosher salt, for cooking potatoes",
+      "½ cup greek yogurt, plain, non-fat",
+      "2 tablespoons mayonnaise , light",
+      "1 teaspoon dijon mustard",
+      "¾ teaspoons kosher salt",
+      "½ teaspoon black pepper",
+      "½ teaspoon onion powder",
+      "½ cup celery, chopped",
+      "3 tablespoons pickle relish",
+      "2 tablespoons red onions, minced",
+      "2 tablespoons parsley, minced",
+      "2 hard-boiled eggs"
+    ],
+    "instructions": [
+      "Peeled and cut the potatoes into ¾-inch cubes.",
+      "Place potatoes in a large saucepan and add water to cover by 1-inch. Bring to boil over medium-high heat. Add 1-tablespoon salt, reduce heat to medium, and simmer. Stir a few times, until potatoes are fork-tender, about 8 minutes. Drain and transfer to a large bowl.",
+      "In a medium-sized bowl whisk together yogurt, mayonnaise, mustard, salt, pepper, and onion powder. Add to the potatoes and gently stir to combine.",
+      "Separately, peel and cut the hard-boiled eggs into ¼-inch cubes.",
+      "Add celery, pickles, red onions, parsley, and chopped eggs to the potato mixture, stir to combine. Add more salt and pepper to taste.",
+      "Cover and refrigerate until chilled, about 1 hour before serving."
+    ],
+    "notes": "Potato salad can be made up to one day ahead.\n\nIf you are strapped for time, I've found that grocery stores sell peeled hard-boiled eggs. I use them all of the time!\n\nMayonnaise can be substituted for two tablespoons olive oil.",
+    "dateAdded": "2026-04-29"
+  },
+  {
     "slug": "high-protein-chicken-salad",
     "title": "High protein chicken salad",
     "description": null,
@@ -6636,6 +6674,37 @@
     ],
     "notes": null,
     "dateAdded": "2026-03-27"
+  },
+  {
+    "slug": "zucchini-tortillas-4-ingredients-gluten-free-baked",
+    "title": "Zucchini Tortillas (4-Ingredients, Gluten-Free, Baked)",
+    "description": null,
+    "tags": [
+      "bread"
+    ],
+    "image": "/images/recipes/zucchini-tortillas-4-ingredients-gluten-free-baked.jpg",
+    "source": "https://alexandracooks.com/2022/07/16/zucchini-tortillas-4-ingredients-gluten-free-baked/",
+    "prepTime": "25 minutes",
+    "cookTime": "15 minutes",
+    "servings": 5,
+    "ingredients": [
+      "1 to 1.25 lbs. zucchini or other summer squash",
+      "1 teaspoon kosher salt",
+      "1 egg, beaten",
+      "2 ounces grated parmesan cheese, a packed 1/2 cup"
+    ],
+    "instructions": [
+      "Coarsely grate the zucchini using a box grater or shredder attachment in a food processor. Transfer the strands to a fine-meshed sieve and set the sieve over a bowl. Sprinkle the salt over the top and toss to distribute it. Let stand for at least 15 minutes to drain.",
+      "Heat the oven to 450ºF. Line an x-large sheet pan or two standard-sized sheet pans with parchment paper.",
+      "Squeeze the zucchini and press it against the sieve to remove as much moisture as possible. You’ll have between 1/2 to 3/4 cup liquid by the time you finish squeezing.",
+      "Transfer the drained zucchini strands to a large bow. Add the egg and parmesan, and stir with a spatula to combine.",
+      "Use a 1/4-cup measure to portion the zucchini tortilla batter into roughly five mounds, transferring each mound to your prepared sheet pan as you portion, being sure to space the mounds evenly. Spread each mound out into a thin circle, 6 to 7 inches in diameter.",
+      "Transfer the pan to the oven and bake for 12 to 15 minutes, or until the edges begin to crisp, and the surface of each tortilla is speckled with golden spots of browning parmesan cheese.",
+      "Let the tortillas cool for one minute on the sheet pan, then carefully remove each tortilla and transfer to a plate to cool completely.",
+      "To freeze, place the tortillas in an airtight bag and transfer to the freezer for up to 3 months."
+    ],
+    "notes": null,
+    "dateAdded": "2026-04-18"
   },
   {
     "slug": "zucchini-turkey-burgers",
