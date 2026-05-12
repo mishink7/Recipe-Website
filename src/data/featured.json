@@ -1,48 +1,33 @@
 {
   "recipe": {
-    "slug": "magic-three-layer-custard-cake-from-one-batter",
-    "title": "Magic Three Layer Custard Cake (From One Batter)",
-    "description": "One simple batter turns into a 3 layered cake with a top layer of sponge, a middle layer of custard and a fudge-like base. It's like....magic! Adapted from Magic Cake by Jo Cooks.",
+    "slug": "unbelievably-good-cashew-coffee",
+    "title": "Unbelievably Good Cashew Coffee",
+    "description": "The creamiest morning coffee you've ever had! Made with just coffee, cashews, honey, and sea salt.",
     "tags": [
-      "baking",
-      "cake",
-      "dessert"
+      "cashew coffee",
+      "blender coffee",
+      "dairy-free coffee",
+      "coffee",
+      "cashews",
+      "breakfast"
     ],
-    "source": "https://www.recipetineats.com/magic-3-layer-custard-cake/",
-    "prepTime": "20 min",
-    "cookTime": "50 min",
-    "servings": 9,
+    "source": "https://pinchofyum.com/cashew-coffee",
+    "prepTime": "5 min",
+    "servings": 1,
     "ingredients": [
-      "4  eggs (, yolks and whites separated (at room temperature))",
-      "3/4 cup (150g)  sugar ( (ordinary or caster sugar))",
-      "1 tsp vanilla extract",
-      "1 stick (4oz / 125g / 1/2 cup)   unsalted butter (, melted )",
-      "3/4 cup (4oz / 115g)  plain all purpose flour",
-      "2 cups (500 ml / 1 pint)  milk ((lukewarm) (full fat or low fat but not zero fat) )",
-      "Icing sugar ((powdered sugar), for dusting)",
-      "Fresh strawberries",
-      "Whipped cream"
+      "1 serving of strongly brewed coffee (about 1 1/2 cups)",
+      "1/4 cup cashews (roasted and unsalted is my favorite)",
+      "1 tablespoon honey (more or less to taste)",
+      "a small pinch of coarse sea salt"
     ],
     "instructions": [
-      "Preheat oven to 325F/160C (standard oven / fan forced or convection)",
-      "Butter a 8\" x 8\" / 20cm x 20cm square cake tin (Note 4).",
-      "Beat egg whites with a mixer until stiff peaks form. Set aside.",
-      "Place the egg yolks and sugar in a bowl and beat until it turns pale yellow - about 1 minute.",
-      "Add the vanilla extract and butter and beat until well incorporated - about 30 seconds to 1 minute.",
-      "Add the flour and beat until just combined.",
-      "Pour the milk in slowly while beating, and beat until well combined (or if using a hand held mixer, add 1/4 milk at a time, beating in between).",
-      "Use a spatula to fold in the egg whites in the batter, one third at a time, until just incorporated. You don't want to knock the air out of the egg whites. Don't worry if there are a few egg white lumps in the batter. The batter should be very thin, almost like a thick pouring cream.",
-      "Pour the batter into the prepared cake tin.",
-      "Bake until the top is golden brown and the cake does not \"jiggle\" when you gently shake the tin - around 40 to 50 minutes. Check the cake at 30 minutes - if the top is already golden brown but the cake is not yet set (i.e. it jiggles), cover loosely with foil and return to the oven, 10 minutes at a time, until set.",
-      "Allow to cool in the tin for 10 minutes, then turn out onto a cooling rack.(Note 3) Cool completely before serving.",
-      "Cut into squares - I cut it into 12 in the photo, but 9 is more realistic serving size portions.",
-      "Dust with icing sugar just before serving.",
-      "Serve with a side of whipped cream and strawberries, if using."
+      "Blend all ingredients for about 45 seconds in a high-powered blender. Start on a lower speed and gradually work your way up, ending with about 15 seconds on a very high speed to ensure smooth and creamy texture.",
+      "Pour into a mug and enjoy, or chill for later (see notes)!"
     ],
-    "dateAdded": "2026-05-11"
+    "dateAdded": "2026-05-12"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2015/04/Magic-Cake-Whole-Cake_680px.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-05-11",
+  "imageUrl": "https://pinchofyum.com/tachyon/Cashew-Coffee-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-05-12",
   "added": false
 }
