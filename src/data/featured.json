@@ -1,33 +1,39 @@
 {
   "recipe": {
-    "slug": "unbelievably-good-cashew-coffee",
-    "title": "Unbelievably Good Cashew Coffee",
-    "description": "The creamiest morning coffee you've ever had! Made with just coffee, cashews, honey, and sea salt.",
+    "slug": "gluten-free-pumpkin-pancakes",
+    "title": "gluten free pumpkin pancakes",
+    "description": "To say that these are the best gluten-free pancakes I’ve ever had would be selling this stack short. I hesitate…",
     "tags": [
-      "cashew coffee",
-      "blender coffee",
-      "dairy-free coffee",
-      "coffee",
-      "cashews",
-      "breakfast"
+      "fall",
+      "breakfast",
+      "dairy free",
+      "gluten free",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/cashew-coffee",
-    "prepTime": "5 min",
-    "servings": 1,
+    "servings": 10,
     "ingredients": [
-      "1 serving of strongly brewed coffee (about 1 1/2 cups)",
-      "1/4 cup cashews (roasted and unsalted is my favorite)",
-      "1 tablespoon honey (more or less to taste)",
-      "a small pinch of coarse sea salt"
+      "1.5 cup Pamela’s Baking & Pancake Mix",
+      "1 teaspoon cinnamon",
+      "½ cup canned pumpkin",
+      "1 cup almond milk, at room temp",
+      "1 large egg",
+      "2 tablespoons melted coconut oil (plus a little more for the pan)",
+      "2 T cane sugar",
+      "butter (optional)",
+      "maple syrup"
     ],
     "instructions": [
-      "Blend all ingredients for about 45 seconds in a high-powered blender. Start on a lower speed and gradually work your way up, ending with about 15 seconds on a very high speed to ensure smooth and creamy texture.",
-      "Pour into a mug and enjoy, or chill for later (see notes)!"
+      "In a medium bowl, mix together the Pamela's Baking Mix and the cinnamon.",
+      "In a smaller bowl, whisk together the pumpkin, almond milk, egg, coconut oil and sugar until smooth and well combined.",
+      "Pour the wet ingredients into the dry ingredients and use a wooden spoon to mix well.",
+      "Heat a nonstick pan with a little coconut oil. Scoop the batter onto the pan using a ¼ cup measuring scoop. Cook until bubbles form, then flip and cook a little longer. Both sides should be nicely golden brown. Repeat with remaining batter.",
+      "Serve with butter and maple syrup."
     ],
-    "dateAdded": "2026-05-12"
+    "dateAdded": "2026-05-13",
+    "source": "https://www.loveandlemons.com/gluten-free-pumpkin-pancakes/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Cashew-Coffee-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-05-12",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/10/IMG_2014_10_20_01187-flat.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-05-13",
   "added": false
 }
