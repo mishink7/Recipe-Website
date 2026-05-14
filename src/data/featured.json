@@ -1,39 +1,48 @@
 {
   "recipe": {
-    "slug": "gluten-free-pumpkin-pancakes",
-    "title": "gluten free pumpkin pancakes",
-    "description": "To say that these are the best gluten-free pancakes I’ve ever had would be selling this stack short. I hesitate…",
+    "slug": "middle-eastern-roasted-vegetables-with-tahini-sauce",
+    "title": "Middle Eastern Roasted Vegetables with Tahini Sauce",
+    "description": "A simple Middle Eastern dish that's perfect for using up left over veggies at the end of a week. You can use any vegetables you want, just make sure to cut them to size so they cook in roughly the same time. Stuffed into pitas, it makes a wonderful light meal or lunch, or a perfect side.",
     "tags": [
-      "fall",
-      "breakfast",
-      "dairy free",
-      "gluten free",
-      "vegetarian"
+      "light meal",
+      "salad",
+      "side"
     ],
-    "servings": 10,
+    "source": "https://www.recipetineats.com/middle-eastern-roasted-vegetables-with-tahini-drizzle/",
+    "prepTime": "10 min",
+    "cookTime": "30 min",
+    "servings": 2,
     "ingredients": [
-      "1.5 cup Pamela’s Baking & Pancake Mix",
-      "1 teaspoon cinnamon",
-      "½ cup canned pumpkin",
-      "1 cup almond milk, at room temp",
-      "1 large egg",
-      "2 tablespoons melted coconut oil (plus a little more for the pan)",
-      "2 T cane sugar",
-      "butter (optional)",
-      "maple syrup"
+      "1  red onion (, sliced thickly)",
+      "1  carrot (, cut into thick sticks)",
+      "1  zucchini (, cut into thick sticks)",
+      "1/4  pumpkin (, cut into 2\"/3cm cubes)",
+      "1 1/2 cups large cauliflower florets",
+      "1  beetroot (, cut into 1.5\"/2cm cubes)",
+      "2 tbsp olive oil",
+      "1 tsp salt",
+      "Black pepper",
+      "3 tbsp tahini",
+      "3 tbsp lemon juice",
+      "1  small garlic clove (, minced (or 1/2 large))",
+      "1/2 tsp salt",
+      "Black pepper",
+      "Water",
+      "2 tsp za'atar spice mix ((see notes))",
+      "2 tbsp pine nuts (, dry roasted)",
+      "1 tbsp coriander (, chopped (or parsley))"
     ],
     "instructions": [
-      "In a medium bowl, mix together the Pamela's Baking Mix and the cinnamon.",
-      "In a smaller bowl, whisk together the pumpkin, almond milk, egg, coconut oil and sugar until smooth and well combined.",
-      "Pour the wet ingredients into the dry ingredients and use a wooden spoon to mix well.",
-      "Heat a nonstick pan with a little coconut oil. Scoop the batter onto the pan using a ¼ cup measuring scoop. Cook until bubbles form, then flip and cook a little longer. Both sides should be nicely golden brown. Repeat with remaining batter.",
-      "Serve with butter and maple syrup."
+      "Preheat oven to 350F/180C.",
+      "Combine Roasted Vegetable ingredients, spread on baking tray and bake for 30 to 40 minutes.",
+      "Combine Tahini Sauce ingredients. Mix until smooth, and use water to adjust to the consistency of honey.",
+      "Pile roasted vegetables onto a plate. Sprinkle with za'atar, drizzle with Tahini Sauce, scatter over roasted pine nuts and coriander.",
+      "Serve with lebanese bread wedges or pita bread."
     ],
-    "dateAdded": "2026-05-13",
-    "source": "https://www.loveandlemons.com/gluten-free-pumpkin-pancakes/"
+    "dateAdded": "2026-05-14"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/10/IMG_2014_10_20_01187-flat.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-05-13",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/06/DSC_0035-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-05-14",
   "added": false
 }
