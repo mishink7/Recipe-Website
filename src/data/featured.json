@@ -1,47 +1,40 @@
 {
   "recipe": {
-    "slug": "spicy-peanut-chicken-salad",
-    "title": "Spicy Peanut Chicken Salad",
-    "description": "This spicy peanut chicken salad is made with noodles, lots of fresh veggies and a spicy homemade Thai-style peanut sauce.",
+    "slug": "crispy-zucchini-casserole",
+    "title": "Crispy Zucchini Casserole",
+    "description": "This zucchini casserole is the BEST summer side dish! To make this recipe vegan, replace the cheese with vegan Parmesan, and use vegan pesto instead of regular.",
     "tags": [
-      "spicy peanut chicken salad",
-      "peanut chicken salad",
-      "thai chicken salad",
-      "dinner"
+      "zucchini casserole",
+      "fall",
+      "summer",
+      "vegetable"
     ],
-    "source": "https://pinchofyum.com/spicy-peanut-chicken-salad",
-    "prepTime": "10 min",
-    "cookTime": "5 min",
-    "servings": 6,
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "servings": 3,
     "ingredients": [
-      "1 cup julienne red and yellow pepper",
-      "1 cup shredded or julienne carrots",
-      "1 cup shredded zucchini",
-      "1/2 cup finely chopped broccoli",
-      "1/2 cup chopped green onions",
-      "1 cup chopped or shredded cooked chicken breast",
-      "8 oz. cooked soba noodles or whole grain linguine",
-      "5 tablespoons soy sauce",
-      "2 tablespoons water",
-      "2 tablespoons peanut butter",
-      "2 tablespoons sesame or canola oil",
-      "1 tablespoon vinegar",
-      "1 tablespoon fresh ginger",
-      "1/2 tablespoon honey",
-      "1 clove garlic",
-      "1 teaspoon sugar",
-      "1 minced small red Thai chili pepper, seeds and ribs removed",
-      "1/3 cup peanuts"
+      "4 cups mixed zucchini and yellow squash, thinly sliced",
+      "½ cup thinly sliced yellow onion",
+      "½ cup basil pesto",
+      "½ cup marinara sauce",
+      "⅓ cup panko bread crumbs",
+      "¼ cup grated Parmesan cheese",
+      "Pinch of red pepper flakes",
+      "Extra virgin olive oil, for brushing and drizzling"
     ],
     "instructions": [
-      "Combine first 7 ingredients in a large bowl.",
-      "Puree all remaining ingredients (except peanuts) in a food processor until smooth and creamy. Add peanuts last and process until just finely chopped. Pour over salad and toss well.",
-      "Top individual servings with fresh basil and cilantro!"
+      "Preheat oven to 375°F and brush the bottom of a 9x12-baking dish with olive oil.",
+      "Set the sliced squash on a kitchen towel to drain some of the excess moisture while you prep everything else.",
+      "In a large bowl, toss the zucchini and onions with the pesto.",
+      "Layer the baking dish with the marinara sauce, followed by the zucchini mixture. Spread the zucchini into one even layer.",
+      "Sprinkle the top with the panko, Parmesan, a drizzle of olive oil, and pinches of red pepper flakes. Bake until the zucchini is tender (but not mushy) and the top is crispy and lightly browned - about 25 minutes. I like to turn my broiler on for the last few minutes to help the topping become browned and crisp.",
+      "Remove from oven and let it cool 20 minutes before slicing."
     ],
-    "dateAdded": "2026-05-15"
+    "dateAdded": "2026-05-16",
+    "source": "https://www.loveandlemons.com/zucchini-casserole/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2011/09/Spicy-Peanut-Chicken-Salad.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-05-15",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/08/zucchini.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-05-16",
   "added": false
 }
