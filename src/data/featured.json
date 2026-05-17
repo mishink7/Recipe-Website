@@ -1,40 +1,12 @@
 {
   "recipe": {
-    "slug": "crispy-zucchini-casserole",
-    "title": "Crispy Zucchini Casserole",
-    "description": "This zucchini casserole is the BEST summer side dish! To make this recipe vegan, replace the cheese with vegan Parmesan, and use vegan pesto instead of regular.",
-    "tags": [
-      "zucchini casserole",
-      "fall",
-      "summer",
-      "vegetable"
-    ],
-    "prepTime": "15 min",
-    "cookTime": "25 min",
-    "servings": 3,
-    "ingredients": [
-      "4 cups mixed zucchini and yellow squash, thinly sliced",
-      "½ cup thinly sliced yellow onion",
-      "½ cup basil pesto",
-      "½ cup marinara sauce",
-      "⅓ cup panko bread crumbs",
-      "¼ cup grated Parmesan cheese",
-      "Pinch of red pepper flakes",
-      "Extra virgin olive oil, for brushing and drizzling"
-    ],
-    "instructions": [
-      "Preheat oven to 375°F and brush the bottom of a 9x12-baking dish with olive oil.",
-      "Set the sliced squash on a kitchen towel to drain some of the excess moisture while you prep everything else.",
-      "In a large bowl, toss the zucchini and onions with the pesto.",
-      "Layer the baking dish with the marinara sauce, followed by the zucchini mixture. Spread the zucchini into one even layer.",
-      "Sprinkle the top with the panko, Parmesan, a drizzle of olive oil, and pinches of red pepper flakes. Bake until the zucchini is tender (but not mushy) and the top is crispy and lightly browned - about 25 minutes. I like to turn my broiler on for the last few minutes to help the topping become browned and crisp.",
-      "Remove from oven and let it cool 20 minutes before slicing."
-    ],
-    "dateAdded": "2026-05-16",
-    "source": "https://www.loveandlemons.com/zucchini-casserole/"
+    "title": "Rosemary Garlic Lamb Cutlets",
+    "description": "Cutlets are ideal for pan-searing. You have precise control so you can cook them perfectly medium–rare (or how you want), and they cook so quickly that dinner is done in the blink of an eye!",
+    "source": "https://www.recipetineats.com/rosemary-garlic-lamb-cutlets/",
+    "dateAdded": "2026-05-17"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/08/zucchini.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-05-16",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2021/06/Rosemary-garlic-lamb-cutlets_900px.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-05-17",
   "added": false
 }
