@@ -1,12 +1,35 @@
 {
   "recipe": {
-    "title": "Rosemary Garlic Lamb Cutlets",
-    "description": "Cutlets are ideal for pan-searing. You have precise control so you can cook them perfectly medium–rare (or how you want), and they cook so quickly that dinner is done in the blink of an eye!",
-    "source": "https://www.recipetineats.com/rosemary-garlic-lamb-cutlets/",
-    "dateAdded": "2026-05-17"
+    "slug": "holiday-detox-green-apple-smoothie",
+    "title": "Holiday Detox Green Apple Smoothie",
+    "description": "This Holiday Detox Green Apple Smoothie is festive, nutritious, and perfect for snacking on between those decadent holiday meals.",
+    "tags": [
+      "detox smoothie",
+      "apple smoothie",
+      "green smoothie",
+      "breakfast"
+    ],
+    "source": "https://pinchofyum.com/holiday-detox-green-apple-smoothie",
+    "prepTime": "5 min",
+    "cookTime": "2 min",
+    "servings": 1,
+    "ingredients": [
+      "1 banana (or half is plenty if you&#8217;re watching sugar)",
+      "1-2 cups kale, stems removed",
+      "1 cup apple cider (no sugar added &#8211; just the real stuff)",
+      "1 cup water or ice",
+      "optional extras: flaxmeal, nuts (I used pecans), nut butter",
+      "dash of cinnamon",
+      "pomegranate seeds for topping"
+    ],
+    "instructions": [
+      "Blend all ingredients together until smooth. Use water for a juice-like texture and ice for a smoothie-like texture. Add in any extras you want for extra protein, fiber, or healthy fats.",
+      "Stir in a dash of cinnamon, top with pomegranate seeds, and enjoy!"
+    ],
+    "dateAdded": "2026-05-18"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2021/06/Rosemary-garlic-lamb-cutlets_900px.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-05-17",
+  "imageUrl": "https://pinchofyum.com/tachyon/holiday-green-smoothie-recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-05-18",
   "added": false
 }
