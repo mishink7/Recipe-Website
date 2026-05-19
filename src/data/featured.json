@@ -1,35 +1,48 @@
 {
   "recipe": {
-    "slug": "holiday-detox-green-apple-smoothie",
-    "title": "Holiday Detox Green Apple Smoothie",
-    "description": "This Holiday Detox Green Apple Smoothie is festive, nutritious, and perfect for snacking on between those decadent holiday meals.",
+    "slug": "tagliatelle-with-tomatoes-and-greens",
+    "title": "Tagliatelle with Tomatoes and Greens",
+    "description": "This tagliatelle pasta is a great recipe for weeknights! The sauce, made of largely pantry ingredients, only simmers for 15 minutes...just enough time to boil your noodles.",
     "tags": [
-      "detox smoothie",
-      "apple smoothie",
-      "green smoothie",
-      "breakfast"
+      "tagliatelle",
+      "fall",
+      "spring",
+      "winter",
+      "main dish"
     ],
-    "source": "https://pinchofyum.com/holiday-detox-green-apple-smoothie",
-    "prepTime": "5 min",
-    "cookTime": "2 min",
-    "servings": 1,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "servings": 4,
     "ingredients": [
-      "1 banana (or half is plenty if you&#8217;re watching sugar)",
-      "1-2 cups kale, stems removed",
-      "1 cup apple cider (no sugar added &#8211; just the real stuff)",
-      "1 cup water or ice",
-      "optional extras: flaxmeal, nuts (I used pecans), nut butter",
-      "dash of cinnamon",
-      "pomegranate seeds for topping"
+      "1 tablespoon (15 mL) extra-virgin olive oil",
+      "1 medium shallot, chopped",
+      "1½ cups (375 mL) chopped carrots",
+      "3 garlic cloves, minced",
+      "1 teaspoon (5 mL) dried oregano",
+      "¼ teaspoon (1 mL) red pepper flakes",
+      "¼ cup (60 mL) dry white wine",
+      "1 tablespoon (15 mL) balsamic vinegar",
+      "1 can (14.5 ounces/411 g) diced tomatoes",
+      "4 ounces (125 g) tagliatelle pasta",
+      "2 cups (500 mL) chopped kale leaves",
+      "½ cup (125 mL) cooked cannellini beans",
+      "¼ cup (60 mL) pine nuts",
+      "2 teaspoons (10 mL) capers",
+      "Chopped chives or other herbs (basil, parsley, etc.)",
+      "Sea salt and freshly ground black pepper",
+      "Grated Parmesan cheese (optional)"
     ],
     "instructions": [
-      "Blend all ingredients together until smooth. Use water for a juice-like texture and ice for a smoothie-like texture. Add in any extras you want for extra protein, fiber, or healthy fats.",
-      "Stir in a dash of cinnamon, top with pomegranate seeds, and enjoy!"
+      "In a large pot, heat the olive oil over medium heat. Add the shallot and a pinch of salt and pepper and cook until soft, about 2 minutes. Add the carrots, garlic, oregano, red pepper flakes, and another few pinches of salt. Let cook, stirring occasionally, until the vegetables are lightly browned, about 5 minutes.",
+      "Add the white wine. Stir and let the wine cook off until it’s nearly evaporated, about 30 seconds. Add the balsamic vinegar and tomatoes. Cover and reduce the heat to a simmer. Cook until the carrots are tender, about 15 minutes.",
+      "Meanwhile, bring a medium pot of salted water to a boil. Prepare the pasta according to the instructions on the package, cooking until al dente. Drain the pasta.",
+      "Stir the chopped kale into the sauce and let it wilt down, about 1 minute. Add the pasta, cannellini beans, pine nuts, capers, and chives or herbs and toss gently to combine. Season to taste with salt and pepper and serve with freshly grated Parmesan cheese, if desired."
     ],
-    "dateAdded": "2026-05-18"
+    "dateAdded": "2026-05-19",
+    "source": "https://www.loveandlemons.com/tagliatelle-recipe/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/holiday-green-smoothie-recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-05-18",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/03/IMG_2015_03_01_03105-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-05-19",
   "added": false
 }
