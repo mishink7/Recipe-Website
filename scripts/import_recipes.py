@@ -231,27 +231,25 @@ def parse_recipe(title, text, folder_tags):
             current_section = "notes"
             continue
 
-        # Detect metadata inline.
-        # NOTE: \b after the keyword is critical — without it, "preparation"
-        # matches "^prep" and captures "aration...", corrupting prepTime.
-        prep_match = re.match(r"^prep\b(?:\s*time)?\s*:?\s*(.+)$", line_lower)
+        # Detect metadata inline
+        prep_match = re.match(r"^prep\s*(?:time)?:?\s*(.+)$", line_lower)
         if prep_match:
             prep_time = prep_match.group(1).strip()
             continue
 
-        cook_match = re.match(r"^cook\b(?:\s*time)?\s*:?\s*(.+)$", line_lower)
+        cook_match = re.match(r"^cook\s*(?:time)?:?\s*(.+)$", line_lower)
         if cook_match:
             cook_time = cook_match.group(1).strip()
             continue
 
-        total_match = re.match(r"^total\b(?:\s*time)?\s*:?\s*(.+)$", line_lower)
+        total_match = re.match(r"^total\s*(?:time)?:?\s*(.+)$", line_lower)
         if total_match:
             # Use total time as cook time if no cook time specified
             if not cook_time:
                 cook_time = total_match.group(1).strip()
             continue
 
-        servings_match = re.match(r"^(?:servings?|serves?|yield)\b:?\s*(.+)$", line_lower)
+        servings_match = re.match(r"^(?:servings?|serves?|yield):?\s*(.+)$", line_lower)
         if servings_match:
             s = servings_match.group(1).strip()
             num_match = re.search(r"(\d+)", s)
@@ -264,17 +262,12 @@ def parse_recipe(title, text, folder_tags):
 
         # Add line to current section
         if current_section == "ingredients":
-            # Strip list markers only: bullets ("-", "*", "•") or
-            # numbered-list prefixes ("1.", "2)"). Do NOT strip bare leading
-            # digits — those are legitimate quantities like "1 cup" or "1/2 lb".
-            cleaned = re.sub(r"^(?:[\-\*•]|\d+[\.\)])\s+", "", line).strip()
+            # Clean up bullet points, dashes, numbers at start
+            cleaned = re.sub(r"^[\-\*\•\d\.]+\s*", "", line).strip()
             if cleaned:
                 ingredients.append(cleaned)
         elif current_section == "instructions":
-            # Strip numbered-list prefixes only ("1.", "2)"). Don't strip bare
-            # leading digits — instructions rarely start with them, but if they
-            # do (e.g. "350°F oven"), preserve them.
-            cleaned = re.sub(r"^\d+[\.\)]\s+", "", line).strip()
+            cleaned = re.sub(r"^[\d\.]+\s*", "", line).strip()
             if cleaned:
                 instructions.append(cleaned)
         elif current_section == "notes":
@@ -309,11 +302,11 @@ def parse_recipe(title, text, folder_tags):
                         in_ingredients = False
 
                 if in_ingredients:
-                    cleaned = re.sub(r"^(?:[\-\*•]|\d+[\.\)])\s+", "", line).strip()
+                    cleaned = re.sub(r"^[\-\*\•\d\.]+\s*", "", line).strip()
                     if cleaned:
                         ingredients.append(cleaned)
                 else:
-                    cleaned = re.sub(r"^\d+[\.\)]\s+", "", line).strip()
+                    cleaned = re.sub(r"^[\d\.]+\s*", "", line).strip()
                     if cleaned:
                         instructions.append(cleaned)
         else:
