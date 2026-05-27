@@ -539,17 +539,17 @@
     "servings": null,
     "ingredients": [
       "cup mashed very ripe banana (about 2 small bananas)",
-      "/2 cup shredded apple (about 1 small apple)",
-      "/4 cup shredded carrot (about 1 small carrot)",
-      "/4 cup milk",
+      "1/2 cup shredded apple (about 1 small apple)",
+      "1/4 cup shredded carrot (about 1 small carrot)",
+      "1/4 cup milk",
       "Tbsp avocado oil or 4 Tbsp butter",
       "large egg",
       "cup whole wheat flour",
-      "/2 cup rolled oats",
+      "1/2 cup rolled oats",
       "teaspoon cinnamon",
       "teaspoon baking powder",
-      "/4 teaspoon baking soda",
-      "/8 teaspoon salt"
+      "1/4 teaspoon baking soda",
+      "1/8 teaspoon salt"
     ],
     "instructions": [
       "These are deliberately very moist (and moister than regular muffins) to ensure they are easy for baby to chew and swallow, so expect that from the interior.",
@@ -641,7 +641,7 @@
     "ingredients": [
       "1/2 medium ripe banana (best with brown spots)",
       "eggs",
-      "/3 cup flour (mix of almond and coconut flour I like)",
+      "1/3 cup flour (mix of almond and coconut flour I like)",
       "½ cup milk of choice"
     ],
     "instructions": [
@@ -1290,13 +1290,13 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "high pressure – 12 min",
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "cup red lentils",
       "cups frozen mixed veggies (broccoli, carrots, cauliflower)",
       "can diced tomatoes",
-      "/2 onion (or frozen onion)",
+      "1/2 onion (or frozen onion)",
       "cups water or broth",
       "tsp cumin, 1 tsp paprika, salt",
       "cans black beans (drained)",
@@ -1304,12 +1304,12 @@
       "cup frozen corn",
       "cup frozen cauliflower rice",
       "packet taco seasoning",
-      "/2 cup water",
+      "1/2 cup water",
       "cans chickpeas",
       "–3 cups frozen broccoli + cauliflower + carrots",
       "can light coconut milk",
       "tbsp curry paste or powder",
-      "/2 cup water",
+      "1/2 cup water",
       "can kidney beans",
       "can white beans",
       "cups frozen mixed veggies",
@@ -2099,15 +2099,15 @@
     ],
     "image": "/images/recipes/coconut-chia-pudding-with-cantaloupe.png",
     "source": "Google Drive import",
-    "prepTime": "aration (can do night before)",
+    "prepTime": null,
     "cookTime": null,
     "servings": 1,
     "ingredients": [
-      "/3  cup (80 grams) canned coconut milk",
-      "/4  cup water",
+      "1/3  cup (80 grams) canned coconut milk",
+      "1/4  cup water",
       "tablespoons (24 grams) chia seeds",
       "teaspoon (8 grams) maple syrup",
-      "/4  cup (45 grams) diced cantaloupe",
+      "1/4  cup (45 grams) diced cantaloupe",
       "(20 grams) blueberries",
       "In a small bowl, whisk together coconut milk, water, chia seeds, and maple syrup until well mixed.",
       "Cover and refrigerate until a gel-like mixture has formed, at least 2 hours. I recommend stirring the mixture after about an hour in the fridge to redistribute the chia seeds as they tend to settle to the bottom."
@@ -2827,8 +2827,8 @@
     ],
     "image": null,
     "source": "Google Drive import",
-    "prepTime": "ared foods",
-    "cookTime": "ed salmon patties",
+    "prepTime": null,
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "(imported — check formatting)"
@@ -3093,7 +3093,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "noodles based on back of bag (i do for 5 minutes). drain and keep aside.",
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "Wegmans frozen grilled veggies (has eggplant, peppers, onions) - I use ⅔ of a 54 oz family pack bag",
@@ -4403,13 +4403,13 @@
     ],
     "image": "/images/recipes/massaman-curry.png",
     "source": "Google Drive import",
-    "prepTime": "eration for protein",
-    "cookTime": "ing the curry",
+    "prepTime": null,
+    "cookTime": null,
     "servings": 4,
     "ingredients": [
       "PROTEIN OPTIONS optional",
       "batch Crispy Baked Peanut Tofu (vegan-option)",
-      "/2 lb. shrimp (seafood option — wild caught when possible)",
+      "1/2 lb. shrimp (seafood option — wild caught when possible)",
       "large skinless chicken breast, cubed (meat option — free-range, local, organic when possible)",
       "CURRY",
       "Tbsp coconut or avocado oil (if avoiding oil, sub water and add more as needed)",
@@ -4421,7 +4421,7 @@
       "large carrots, peeled and diced 1/4-inch thick",
       "14-oz. cans light fat coconut milk (sub up to 1 can with full-fat coconut milk for creamier, richer curry — texture shown in photos above)",
       "½ cups water",
-      "/4 tsp ground cinnamon",
+      "1/4 tsp ground cinnamon",
       "dash each cardamom and nutmeg (if you don't have, omit)",
       "Tbsp coconut aminos (or sub tamari or soy sauce, but start with less as they're saltier)",
       "Tbsp maple syrup or coconut sugar (or sub stevia to taste)",
@@ -4491,7 +4491,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "ed farro",
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "Beef or turkey Bolognese sauce (in 1 cup cubes)",
@@ -4950,7 +4950,7 @@
     "image": "/images/recipes/persian-herbed-chickpea-stew.jpg",
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "ed basmatti rice",
+    "cookTime": null,
     "servings": 4,
     "ingredients": [
       "red onion, chopped",
@@ -5011,7 +5011,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "on manual for 11 minutes (9 minutes if fresh, not frozen, chicken). release pressure manually.",
+    "cookTime": null,
     "servings": 2,
     "ingredients": [
       "Chicken breast (2-3 frozen)",
@@ -5036,7 +5036,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "israeli cous cous.",
+    "cookTime": null,
     "servings": 4,
     "ingredients": [
       "Israeli cous cous (1 cup uncooked)",
@@ -5384,9 +5384,9 @@
     "cookTime": null,
     "servings": null,
     "ingredients": [
-      "/4 cup (170g; 1.5 sticks) unsalted butter",
+      "1/4 cup (170g; 1.5 sticks) unsalted butter",
       "two 10-ounce bags (566g; 11 heaping cups) mini marshmallows",
-      "/2 teaspoon pure vanilla extract",
+      "1/2 teaspoon pure vanilla extract",
       "pinch salt",
       "cups (270g) crispy rice cereal"
     ],
@@ -5502,23 +5502,23 @@
     ],
     "image": "/images/recipes/simple-southwest-tofu-scramble.jpg",
     "source": "Google Drive import",
-    "prepTime": "veggies and warm a large skillet over medium heat. once hot, add olive oil and the onion and red pepper. season with a pinch each salt and pepper and stir. cook until softened – about 5 minutes.",
+    "prepTime": null,
     "cookTime": null,
     "servings": 1,
     "ingredients": [
       "SCRAMBLE",
       "ounces extra-firm tofu (can do whole packet)",
       "Tbsp olive oil",
-      "/4 medium red onion (thinly sliced)",
-      "/2 medium red bell pepper (thinly sliced)",
+      "1/4 medium red onion (thinly sliced)",
+      "1/2 medium red bell pepper (thinly sliced)",
       "cups kale (loosely chopped)",
       "SAUCE",
-      "/2 tsp sea salt (reduce amount for less salty sauce)",
-      "/2 tsp garlic powder",
-      "/2 tsp ground cumin",
-      "/4 tsp chili powder",
+      "1/2 tsp sea salt (reduce amount for less salty sauce)",
+      "1/2 tsp garlic powder",
+      "1/2 tsp ground cumin",
+      "1/4 tsp chili powder",
       "Water (to thin)",
-      "/4 tsp turmeric (optional)"
+      "1/4 tsp turmeric (optional)"
     ],
     "instructions": [
       "Pat tofu dry and roll in a clean, absorbent towel with something heavy on top, such as a cast-iron skillet, for 15 minutes.",
@@ -5896,7 +5896,7 @@
       "teaspoon oregano",
       "teaspoon onion powder",
       "Pinch of salt",
-      "/2 teaspoon pepper"
+      "1/2 teaspoon pepper"
     ],
     "instructions": [
       "Heat oil in a large cast iron pan. Add minced garlic and diced sweet potato once hot. Cook for 5-7 minutes, stirring occasionally until they begin to brown but not cook through",
@@ -6269,7 +6269,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "pasta. once done and drained, mix in the pasta sauce, italian seasoning, black pepper, and 1 cup of the mozzarella cheese.",
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "Roasted cauliflower and/or broccoli",
@@ -6632,11 +6632,11 @@
     "cookTime": null,
     "servings": 2,
     "ingredients": [
-      "/2 frozen banana",
-      "/4 cup frozen zucchini (mine is cut in quarters)",
-      "/4 cup baby spinach",
-      "/2 cup non-dairy milk (code RACHL for 15% off)",
-      "/4 cup yogurt of choice (dairy or non-dairy works)",
+      "1/2 frozen banana",
+      "1/4 cup frozen zucchini (mine is cut in quarters)",
+      "1/4 cup baby spinach",
+      "1/2 cup non-dairy milk (code RACHL for 15% off)",
+      "1/4 cup yogurt of choice (dairy or non-dairy works)",
       "Dash of cinnamon if you’d like"
     ],
     "instructions": [
@@ -6656,7 +6656,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "zucchini strips in a large pan until mostly soft. add chickpeas now or earlier while zucchini is cooking depending on how soft you like them.",
+    "cookTime": null,
     "servings": 5,
     "ingredients": [
       "About 4-5 zucchini, cut into strips",
