@@ -4405,11 +4405,11 @@
     "cookTime": null,
     "servings": 4,
     "ingredients": [
-      "PROTEIN OPTIONS optional",
+      "## Protein options (optional)",
       "batch Crispy Baked Peanut Tofu (vegan-option)",
       "1/2 lb. shrimp (seafood option — wild caught when possible)",
       "large skinless chicken breast, cubed (meat option — free-range, local, organic when possible)",
-      "CURRY",
+      "## Curry",
       "Tbsp coconut or avocado oil (if avoiding oil, sub water and add more as needed)",
       "medium shallots, thinly sliced (or sub 1 small onion)",
       "tsp whole cumin seed (or sub powder)",
@@ -4427,10 +4427,12 @@
       "Tbsp lime juice (or lemon)"
     ],
     "instructions": [
+      "## Preparations for protein",
       "You have options for added protein or you can just stick with vegetables.",
       "To keep it vegan-friendly, follow the link above to make Crispy Peanut Tofu.",
       "Or, to keep this a 1-pot recipe, simply add (pressed) cubed extra-firm tofu to the curry in the last 10 minutes of cooking or sauté pressed tofu in a little oil and season with salt, pepper, and curry powder before cooking the curry. Set aside, then add back in in the last few minutes of cooking for best results.",
       "Alternatively, add meat such as shrimp or chicken to the curry once it's simmering (during step 4) and simmer until cooked completely through.",
+      "## Cooking the curry",
       "Heat a large pot or dutch oven (we like this one) over medium heat. Once hot, add oil (or water) and shallot. Sauté 2 minutes, stirring frequently. Turn down heat if browning too quickly.",
       "Add whole cumin and coriander seeds (or powder) and sauté for another 1-2 minutes, stirring frequently. Then add red curry paste and stir to combine. Cook for 1 minute more.",
       "Add potatoes and carrots and stir to coat. Cook for 2 minutes. Then add coconut milk, water (starting with the lesser amount), cinnamon, cardamom, nutmeg, coconut aminos, maple syrup, and peanut butter. (Reserve lime juice for later).",

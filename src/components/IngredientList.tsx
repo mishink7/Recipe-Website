@@ -7,6 +7,8 @@ interface IngredientListProps {
   scale: number;
 }
 
+const HEADER_PREFIX = "## ";
+
 function scaleIngredient(ingredient: string, scale: number): string {
   if (scale === 1) return ingredient;
   return ingredient.replace(/(\d+\.?\d*)/g, (match) => {
@@ -30,19 +32,35 @@ export default function IngredientList({ ingredients, scale }: IngredientListPro
 
   return (
     <ul className="flex flex-col gap-2">
-      {ingredients.map((ing, i) => (
-        <li key={i} className="flex items-start gap-3">
-          <input
-            type="checkbox"
-            checked={checked.has(i)}
-            onChange={() => toggle(i)}
-            className="mt-1 w-4 h-4 rounded border-card-border text-accent focus:ring-accent accent-[var(--accent)]"
-          />
-          <span className={`text-sm leading-relaxed ${checked.has(i) ? "line-through text-muted" : "text-foreground"}`}>
-            {scaleIngredient(ing, scale)}
-          </span>
-        </li>
-      ))}
+      {ingredients.map((ing, i) => {
+        if (ing.startsWith(HEADER_PREFIX)) {
+          return (
+            <li
+              key={i}
+              className="text-xs font-semibold text-muted uppercase tracking-wider mt-2 first:mt-0"
+            >
+              {ing.slice(HEADER_PREFIX.length)}
+            </li>
+          );
+        }
+        return (
+          <li key={i} className="flex items-start gap-3">
+            <input
+              type="checkbox"
+              checked={checked.has(i)}
+              onChange={() => toggle(i)}
+              className="mt-1 w-4 h-4 rounded border-card-border text-accent focus:ring-accent accent-[var(--accent)]"
+            />
+            <span
+              className={`text-sm leading-relaxed ${
+                checked.has(i) ? "line-through text-muted" : "text-foreground"
+              }`}
+            >
+              {scaleIngredient(ing, scale)}
+            </span>
+          </li>
+        );
+      })}
     </ul>
   );
 }
