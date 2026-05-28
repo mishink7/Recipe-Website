@@ -301,19 +301,22 @@ def parse_recipe(title, text, folder_tags):
             continue
 
         # Detect metadata inline.
-        # NOTE: \b after the keyword is critical — without it, "preparation"
-        # matches "^prep" and captures "aration...", corrupting prepTime.
-        prep_match = re.match(r"^prep\b(?:\s*time)?\s*:?\s*(.+)$", line_lower)
+        # The colon is REQUIRED. Without it, instruction sentences that
+        # happen to start with "Cook" (e.g. "Cook zucchini strips in a
+        # large pan...") or "Prep" (e.g. "Prep the vegetables...") get
+        # falsely matched and consumed as time values, corrupting both
+        # prepTime/cookTime AND removing the line from instructions.
+        prep_match = re.match(r"^prep(?:\s*time)?\s*:\s*(.+)$", line_lower)
         if prep_match:
             prep_time = prep_match.group(1).strip()
             continue
 
-        cook_match = re.match(r"^cook\b(?:\s*time)?\s*:?\s*(.+)$", line_lower)
+        cook_match = re.match(r"^cook(?:\s*time)?\s*:\s*(.+)$", line_lower)
         if cook_match:
             cook_time = cook_match.group(1).strip()
             continue
 
-        total_match = re.match(r"^total\b(?:\s*time)?\s*:?\s*(.+)$", line_lower)
+        total_match = re.match(r"^total(?:\s*time)?\s*:\s*(.+)$", line_lower)
         if total_match:
             # Use total time as cook time if no cook time specified
             if not cook_time:

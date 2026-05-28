@@ -1358,7 +1358,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "high pressure – 12 min",
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "1 cup red lentils",
@@ -3206,7 +3206,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "noodles based on back of bag (i do for 5 minutes). drain and keep aside.",
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "Wegmans frozen grilled veggies (has eggplant, peppers, onions) - I use ⅔ of a 54 oz family pack bag",
@@ -3216,6 +3216,7 @@
       "Rotisserie chicken (taken apart) (I like Wegmans rosemary rotisserie chicken) (I used about ⅔ of a chicken)"
     ],
     "instructions": [
+      "Cook noodles based on back of bag (I do for 5 minutes). Drain and keep aside.",
       "Saute the veggies.",
       "In a separate saucepan, heat up coconut milk and green curry paste just need to heat up enough to melt the green curry paste, about 3 minutes or so.",
       "Combine all together - cooked noodles, veggies, chicken, sauce."
@@ -5163,7 +5164,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "on manual for 11 minutes (9 minutes if fresh, not frozen, chicken). release pressure manually.",
+    "cookTime": null,
     "servings": 2,
     "ingredients": [
       "Chicken breast (2-3 frozen)",
@@ -5173,7 +5174,8 @@
       "White wine (optional)"
     ],
     "instructions": [
-      "Put everything in the instant pot - add a bit of water or white wine (about equal to the small pesto container)"
+      "Put everything in the instant pot - add a bit of water or white wine (about equal to the small pesto container)",
+      "Cook on manual for 11 minutes (9 minutes if fresh, not frozen, chicken). Release pressure manually."
     ],
     "notes": null,
     "dateAdded": "2026-03-27"
@@ -5188,7 +5190,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "israeli cous cous.",
+    "cookTime": null,
     "servings": 4,
     "ingredients": [
       "Israeli cous cous (1 cup uncooked)",
@@ -5198,6 +5200,7 @@
       "Pesto (about ½ cup)"
     ],
     "instructions": [
+      "Cook Israeli cous cous.",
       "Roast broccoli.",
       "Stir together all items."
     ],
@@ -5654,7 +5657,7 @@
     ],
     "image": "/images/recipes/simple-southwest-tofu-scramble.jpg",
     "source": "Google Drive import",
-    "prepTime": "veggies and warm a large skillet over medium heat. once hot, add olive oil and the onion and red pepper. season with a pinch each salt and pepper and stir. cook until softened – about 5 minutes.",
+    "prepTime": null,
     "cookTime": null,
     "servings": 1,
     "ingredients": [
@@ -5675,6 +5678,7 @@
     "instructions": [
       "Pat tofu dry and roll in a clean, absorbent towel with something heavy on top, such as a cast-iron skillet, for 15 minutes.",
       "While tofu is draining, prepare sauce by adding dry spices to a small bowl and adding enough water to make a pourable sauce. Set aside.",
+      "Prep veggies and warm a large skillet over medium heat. Once hot, add olive oil and the onion and red pepper. Season with a pinch each salt and pepper and stir. Cook until softened – about 5 minutes.",
       "Add kale, season with a bit more salt and pepper, and cover to steam for 2 minutes.",
       "In the meantime, unwrap tofu and use a fork to crumble into bite-sized pieces.",
       "Use a spatula to move the veggies to one side of the pan and add tofu. Sauté for 2 minutes, then add sauce, pouring it mostly over the tofu and a little over the veggies. Stir immediately, evenly distributing the sauce. Cook for another 5-7 minutes until tofu is slightly browned."
@@ -6420,7 +6424,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "pasta. once done and drained, mix in the pasta sauce, italian seasoning, black pepper, and 1 cup of the mozzarella cheese.",
+    "cookTime": null,
     "servings": null,
     "ingredients": [
       "Roasted cauliflower and/or broccoli",
@@ -6434,6 +6438,7 @@
       "1 box Barrella protein pasta"
     ],
     "instructions": [
+      "Cook pasta. Once done and drained, mix in the pasta sauce, Italian seasoning, black pepper, and 1 cup of the mozzarella cheese.",
       "Put half of the pasta veggies mixture in a large baking dish. Plop half the cottage cheese on top in dabs throughout. Sprinkle mozzarella cheese on top.",
       "Repeat again with the rest of the pasta veggie mixture and then rest of the cottage cheese and then mozzarella cheese on top."
     ],
@@ -6807,7 +6812,7 @@
     "image": null,
     "source": "Google Drive import",
     "prepTime": null,
-    "cookTime": "zucchini strips in a large pan until mostly soft. add chickpeas now or earlier while zucchini is cooking depending on how soft you like them.",
+    "cookTime": null,
     "servings": 5,
     "ingredients": [
       "About 4-5 zucchini, cut into strips",
@@ -6818,6 +6823,7 @@
       "Parmesan cheese (optional)"
     ],
     "instructions": [
+      "Cook zucchini strips in a large pan until mostly soft. Add chickpeas now or earlier while zucchini is cooking depending on how soft you like them.",
       "Add garlic and ground pepper and mix until combined (stove is still on).",
       "Add tomatoes and cook a few minutes longer.",
       "Turn off the stove and mix in the cooked quinoa.",

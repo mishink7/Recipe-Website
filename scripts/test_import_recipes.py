@@ -186,12 +186,42 @@ def test_split_no_instructions():
     return True
 
 
+def test_no_time_hijacking():
+    """Regression: a parser run on a recipe whose first instruction starts
+    with 'Cook' or 'Prep' must NOT capture that line as cookTime/prepTime."""
+    from import_recipes import parse_recipe
+
+    text = (
+        "Zucchini Chickpea Tomato Quinoa\n"
+        "Serves 5 people\n"
+        "\n"
+        "Ingredients\n"
+        "About 4-5 zucchini, cut into strips\n"
+        "1 can chickpeas\n"
+        "\n"
+        "Preparation\n"
+        "Cook zucchini strips in a large pan until mostly soft.\n"
+        "Add garlic and pepper.\n"
+    )
+    r = parse_recipe("Zucchini Chickpea Tomato Quinoa", text, [])
+    if r["cookTime"] is not None:
+        print(f"FAIL no_time_hijacking: cookTime should be None, got {r['cookTime']!r}")
+        return False
+    if not r["instructions"] or "Cook zucchini" not in r["instructions"][0]:
+        print(f"FAIL no_time_hijacking: 'Cook zucchini...' should be in instructions[0], "
+              f"got instructions={r['instructions']}")
+        return False
+    print("no_time_hijacking: 'Cook zucchini...' stays as instruction OK")
+    return True
+
+
 if __name__ == "__main__":
     tests = [
         test_looks_like_instruction,
         test_split_massaman,
         test_split_pesto,
         test_split_no_instructions,
+        test_no_time_hijacking,
     ]
     failed = sum(1 for t in tests if not t())
     print()
