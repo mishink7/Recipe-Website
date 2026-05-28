@@ -193,6 +193,75 @@ def slugify(text):
     return text.strip("-")
 
 
+# Lines containing "1 cup", "1/2 tbsp", "14-oz", "3 cloves", etc. are
+# ingredient-like and should NOT be classified as instructions.
+_MEASUREMENT_RE = re.compile(
+    r"\b\d+(?:[\.\/-]\d+)?\s*"
+    r"(?:cup|tbsp|tsp|oz|lb|kg|ml|clove|inch|teaspoon|tablespoon|"
+    r"pound|ounce|stick|gram|liter|pinch|dash)s?\b",
+    re.IGNORECASE,
+)
+
+# A line starting with one of these words followed by a space is a strong
+# signal that it's a cooking instruction, not an ingredient. Notable: the
+# trailing \s+ matters — "Add-ins (chicken, ...)" must NOT match "add\b"
+# because the ingredient starts with "Add-ins", not "Add ".
+_INSTRUCTION_STARTERS_RE = re.compile(
+    r"^(?:"
+    r"(?:heat|add|stir|mix|blend|whisk|combine|cook|bake|place|pour|bring|"
+    r"reduce|simmer|saut[eé]|serve|remove|transfer|set|turn|season|fold|"
+    r"drain|cover|preheat|let|once|while|toss|when|then|alternatively|"
+    r"optionally|finally|first|next|now)\s+"
+    r"|"
+    r"(?:in\s+a|in\s+the|to\s+(?:serve|keep|make|combine|prepare)|"
+    r"you\s+(?:have|can|should|will|may))\b"
+    r")",
+    re.IGNORECASE,
+)
+
+
+def looks_like_instruction(line: str) -> bool:
+    """
+    Heuristic: is this line more likely a cooking instruction than an
+    ingredient? Used to detect the failure mode where a Google Doc has an
+    "Ingredients" header but no "Instructions" header, causing the section
+    parser to dump every subsequent line (including cooking steps) into
+    the ingredients array.
+    """
+    line = line.strip()
+    if not line:
+        return False
+    # Already-marked section headers are neither.
+    if line.startswith("##"):
+        return False
+    # Contains a measurement quantity → almost certainly an ingredient.
+    if _MEASUREMENT_RE.search(line):
+        return False
+    # Starts with a cooking verb or instruction-y phrase → instruction.
+    if _INSTRUCTION_STARTERS_RE.match(line):
+        return True
+    # Long sentence starting with a capital letter and no measurement.
+    # 18 words is the threshold: above it, almost every recipe line is an
+    # instruction, while ingredient lines (including ones with sub-options
+    # in parentheses like "1 Tbsp oil (if avoiding oil, sub water...)")
+    # stay below it.
+    if len(line.split()) >= 18 and line[0].isupper():
+        return True
+    return False
+
+
+def split_dumped_instructions(ingredients: list[str]) -> tuple[list[str], list[str]]:
+    """
+    Split an ingredients[] array at the first line that looks like a
+    cooking instruction. Returns (real_ingredients, recovered_instructions).
+    If no split point is found, returns (ingredients, []).
+    """
+    for i, line in enumerate(ingredients):
+        if looks_like_instruction(line):
+            return ingredients[:i], ingredients[i:]
+    return ingredients, []
+
+
 def parse_recipe(title, text, folder_tags):
     """
     Parse raw Google Doc text into a recipe dict.
@@ -320,6 +389,17 @@ def parse_recipe(title, text, folder_tags):
             # Can't parse structure — put everything in instructions
             description = unknown_lines[0] if unknown_lines else ""
             instructions = unknown_lines[1:] if len(unknown_lines) > 1 else unknown_lines
+
+    # Recover from a common parse error: if the doc had an "Ingredients"
+    # header but no "Instructions"/"Directions"/"Method" header, every line
+    # after the ingredients header ended up dumped into ingredients[],
+    # including the cooking steps. Scan for the first instruction-like line
+    # and move it (and everything after) into instructions[].
+    if ingredients and not instructions:
+        real_ingredients, recovered = split_dumped_instructions(ingredients)
+        if recovered:
+            ingredients = real_ingredients
+            instructions = recovered
 
     recipe = {
         "slug": slugify(title),
