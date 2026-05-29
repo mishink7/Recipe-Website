@@ -244,30 +244,46 @@ function extractMicrodataRecipe(html: string): ScrapeResult | null {
   return { recipe, imageUrl };
 }
 
-export async function scrapeRecipeFromUrl(url: string): Promise<ScrapeResult> {
-  const response = await fetch(url, {
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-      Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-      "Accept-Language": "en-US,en;q=0.9",
-      "Accept-Encoding": "gzip, deflate, br",
-      "Cache-Control": "no-cache",
-      Pragma: "no-cache",
-      "Sec-Fetch-Dest": "document",
-      "Sec-Fetch-Mode": "navigate",
-      "Sec-Fetch-Site": "none",
-      "Sec-Fetch-User": "?1",
-      "Upgrade-Insecure-Requests": "1",
-    },
-    redirect: "follow",
-  });
+const BROWSER_HEADERS = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  Accept:
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.9",
+  "Accept-Encoding": "gzip, deflate, br",
+  "Cache-Control": "no-cache",
+  Pragma: "no-cache",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "none",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+} as const;
+
+async function fetchPageHtml(url: string): Promise<string> {
+  // First try with browser-like headers. Some sites (typically older WAFs
+  // or basic shared hosting) block requests with no User-Agent, so we send
+  // a Chrome impersonation by default.
+  let response = await fetch(url, { headers: BROWSER_HEADERS, redirect: "follow" });
+
+  // Cloudflare-style WAFs do the opposite: they detect *inconsistent*
+  // browser fingerprints (a Chrome User-Agent with no matching TLS / client
+  // hints) and reject with 403. Retrying with no custom headers — so we
+  // present as an "honest bot" rather than a fake browser — gets through
+  // those sites (e.g. thekitchn.com).
+  if (response.status === 403) {
+    response = await fetch(url, { redirect: "follow" });
+  }
 
   if (!response.ok) {
     throw new Error(`Failed to fetch URL: ${response.status} ${response.statusText}`);
   }
 
-  const html = await response.text();
+  return response.text();
+}
+
+export async function scrapeRecipeFromUrl(url: string): Promise<ScrapeResult> {
+  const html = await fetchPageHtml(url);
   const jsonLd = extractJsonLdRecipe(html);
 
   if (!jsonLd) {
