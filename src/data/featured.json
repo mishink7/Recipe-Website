@@ -1,12 +1,41 @@
 {
   "recipe": {
-    "title": "How to Cut and Peel a Kabocha Squash",
-    "description": "Today we’re going to do squash. Take it from its large, awkward natural state to a nice ready-to-cook state. This is not revolutionary, I know. But that’s",
-    "source": "https://pinchofyum.com/how-to-cut-and-peel-a-kabocha-squash",
-    "dateAdded": "2026-05-30"
+    "slug": "serrano-corn-salsa",
+    "title": "serrano & corn salsa",
+    "description": "This recipe started as an idea for a salad. My salad “testing” often happens during lunch – I experiment with…",
+    "tags": [
+      "summer",
+      "appetizers",
+      "dairy free",
+      "gluten free",
+      "side dishes",
+      "vegan",
+      "vegetarian"
+    ],
+    "servings": 1,
+    "ingredients": [
+      "2 ears of corn",
+      "¼ cup chopped cucumber",
+      "¼ cup chopped red bell pepper",
+      "1 serrano pepper, thinly sliced",
+      "¼ cup chopped scallion",
+      "2-4 tablespoons fresh lime juice",
+      "2 teaspoons olive oil",
+      "drizzle of honey or agave",
+      "salt & pepper",
+      "diced avocado",
+      "chopped fresh cilantro",
+      "½ teaspoon chili powder"
+    ],
+    "instructions": [
+      "Slice corn kernels off the cob. Next, using the back of your knife, scrape the cob to get some of the leftover corn pulp. (about 1 tablespoon per cob).",
+      "Mix everything together. Let chill in the fridge for 20 minutes or up to a day. Taste and adjust seasonings. This is great served with chips, on tacos, on salads, or on grilled fish."
+    ],
+    "dateAdded": "2026-05-31",
+    "source": "https://www.loveandlemons.com/serrano-corn-salsa/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2012/11/squash-lentil-curry-4.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-05-30",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/07/IMG_0012-2.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-05-31",
   "added": false
 }
