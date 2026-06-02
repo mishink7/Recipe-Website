@@ -1,41 +1,38 @@
 {
   "recipe": {
-    "slug": "serrano-corn-salsa",
-    "title": "serrano & corn salsa",
-    "description": "This recipe started as an idea for a salad. My salad “testing” often happens during lunch – I experiment with…",
+    "slug": "crockpot-sweet-potato-lentils",
+    "title": "Crockpot Sweet Potato Lentils",
+    "description": "These Crockpot Sweet Potato Lentils include coconut milk and are filling and healthy! Perfect over warm naan for lunch or dinner.",
     "tags": [
-      "summer",
-      "appetizers",
-      "dairy free",
-      "gluten free",
-      "side dishes",
-      "vegan",
-      "vegetarian"
+      "crockpot sweet potato lentils",
+      "crockpot lentils",
+      "sweet potato lentils",
+      "dinner"
     ],
-    "servings": 1,
+    "source": "https://pinchofyum.com/crockpot-sweet-potato-lentils",
+    "prepTime": "15 min",
+    "cookTime": "4 hr 30 min",
+    "servings": 6,
     "ingredients": [
-      "2 ears of corn",
-      "¼ cup chopped cucumber",
-      "¼ cup chopped red bell pepper",
-      "1 serrano pepper, thinly sliced",
-      "¼ cup chopped scallion",
-      "2-4 tablespoons fresh lime juice",
-      "2 teaspoons olive oil",
-      "drizzle of honey or agave",
-      "salt & pepper",
-      "diced avocado",
-      "chopped fresh cilantro",
-      "½ teaspoon chili powder"
+      "3 large sweet potatoes, diced (about 6 cups)",
+      "3 cups vegetable broth",
+      "1 onion, minced",
+      "4 cloves garlic, minced",
+      "2 teaspoon each ground coriander, garam masala, and chili powder",
+      "1/2 teaspoon salt",
+      "1 1/2 cups uncooked red lentils (masoor dal)",
+      "1 can coconut milk",
+      "1 cup water"
     ],
     "instructions": [
-      "Slice corn kernels off the cob. Next, using the back of your knife, scrape the cob to get some of the leftover corn pulp. (about 1 tablespoon per cob).",
-      "Mix everything together. Let chill in the fridge for 20 minutes or up to a day. Taste and adjust seasonings. This is great served with chips, on tacos, on salads, or on grilled fish."
+      "Place the sweet potatoes, vegetable broth, onion, garlic, and spices in a crockpot. Cook on high for 3 hours, until vegetables are soft.",
+      "Add the lentils and stir once. Replace the lid and cook on high for an additional 1 1/2 hours.",
+      "Stir in the coconut milk and as much water as needed to get the right consistency."
     ],
-    "dateAdded": "2026-05-31",
-    "source": "https://www.loveandlemons.com/serrano-corn-salsa/"
+    "dateAdded": "2026-06-02"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/07/IMG_0012-2.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-05-31",
+  "imageUrl": "https://pinchofyum.com/tachyon/2013/09/lentils-11.jpg?fit=150%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-06-02",
   "added": false
 }
