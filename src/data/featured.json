@@ -1,38 +1,30 @@
 {
   "recipe": {
-    "slug": "crockpot-sweet-potato-lentils",
-    "title": "Crockpot Sweet Potato Lentils",
-    "description": "These Crockpot Sweet Potato Lentils include coconut milk and are filling and healthy! Perfect over warm naan for lunch or dinner.",
+    "slug": "white-bean-spread",
+    "title": "white bean spread",
+    "description": "Growing up, my mom packed my school lunch every single day. From the first grade to my first year in…",
     "tags": [
-      "crockpot sweet potato lentils",
-      "crockpot lentils",
-      "sweet potato lentils",
-      "dinner"
+      "vegan"
     ],
-    "source": "https://pinchofyum.com/crockpot-sweet-potato-lentils",
-    "prepTime": "15 min",
-    "cookTime": "4 hr 30 min",
-    "servings": 6,
+    "servings": 1,
     "ingredients": [
-      "3 large sweet potatoes, diced (about 6 cups)",
-      "3 cups vegetable broth",
-      "1 onion, minced",
-      "4 cloves garlic, minced",
-      "2 teaspoon each ground coriander, garam masala, and chili powder",
-      "1/2 teaspoon salt",
-      "1 1/2 cups uncooked red lentils (masoor dal)",
-      "1 can coconut milk",
-      "1 cup water"
+      "1 can cannellini beans, drained and rinsed",
+      "2 tablespoons olive oil",
+      "2 garlic cloves",
+      "2-4 tablespoons fresh lemon juice (about 1 lemon)",
+      "about ½ teaspoon lemon zest",
+      "salt & pepper, to taste",
+      "a bit of water, if necessary to thin",
+      "optional: toss in some herbs: rosemary for winter, basil for spring, etc"
     ],
     "instructions": [
-      "Place the sweet potatoes, vegetable broth, onion, garlic, and spices in a crockpot. Cook on high for 3 hours, until vegetables are soft.",
-      "Add the lentils and stir once. Replace the lid and cook on high for an additional 1 1/2 hours.",
-      "Stir in the coconut milk and as much water as needed to get the right consistency."
+      "Puree all ingredients in a food processor or blender. Taste and adjust seasonings. Slather on bread & serve with sandwich fixings of your choice. Mine (pictured), is avocado, arugula & hemp seeds."
     ],
-    "dateAdded": "2026-06-02"
+    "dateAdded": "2026-06-03",
+    "source": "https://www.loveandlemons.com/avocado-white-bean-spread/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/09/lentils-11.jpg?fit=150%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-06-02",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/02/Untitled-1.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-06-03",
   "added": false
 }
