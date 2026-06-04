@@ -1,30 +1,12 @@
 {
   "recipe": {
-    "slug": "white-bean-spread",
-    "title": "white bean spread",
-    "description": "Growing up, my mom packed my school lunch every single day. From the first grade to my first year in…",
-    "tags": [
-      "vegan"
-    ],
-    "servings": 1,
-    "ingredients": [
-      "1 can cannellini beans, drained and rinsed",
-      "2 tablespoons olive oil",
-      "2 garlic cloves",
-      "2-4 tablespoons fresh lemon juice (about 1 lemon)",
-      "about ½ teaspoon lemon zest",
-      "salt & pepper, to taste",
-      "a bit of water, if necessary to thin",
-      "optional: toss in some herbs: rosemary for winter, basil for spring, etc"
-    ],
-    "instructions": [
-      "Puree all ingredients in a food processor or blender. Taste and adjust seasonings. Slather on bread & serve with sandwich fixings of your choice. Mine (pictured), is avocado, arugula & hemp seeds."
-    ],
-    "dateAdded": "2026-06-03",
-    "source": "https://www.loveandlemons.com/avocado-white-bean-spread/"
+    "title": "Burritos",
+    "description": "Here's the ultimate guide to the art of building the world's best burritos! Pick and choose your fillings, then stuff with your choice of meat: Mexican Shredded Beef (p208), Chicken Tinga (p198), Beef Topping (p204)",
+    "source": "https://www.recipetineats.com/burritos/",
+    "dateAdded": "2026-06-04"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/02/Untitled-1.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-06-03",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2021/03/Burritos-Shredded-Beef_900px.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-06-04",
   "added": false
 }
