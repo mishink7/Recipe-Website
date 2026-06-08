@@ -1,38 +1,41 @@
 {
   "recipe": {
-    "slug": "homemade-reeses-peanut-butter-cups",
-    "title": "Homemade Reese's Peanut Butter Cups",
-    "description": "I created this recipe out of necessity. Because I am addicted to Reese's Peanut Butter Cups but they're pretty expensive here in Sydney!",
+    "slug": "two-person-raspberry-crumbles",
+    "title": "Two Person Raspberry Crumbles",
+    "description": "The BEST easy summer dessert - for two! A layer of oat-brown-sugar crust, juicy, sticky, bubbly raspberries, and topped with a buttery crumble that's baked to perfection. YUM.",
     "tags": [
-      "sweet"
+      "raspberry crumble",
+      "fruit crumble",
+      "individual crumble",
+      "dessert"
     ],
-    "source": "https://www.recipetineats.com/homemade-reeses-peanut-butter-cups/",
-    "prepTime": "15 min",
-    "servings": 30,
+    "source": "https://pinchofyum.com/two-person-raspberry-crumbles",
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 2,
     "ingredients": [
-      "1 cup / 250g  smooth peanut butter",
-      "60g / 4 tbsp  unsalted butter",
-      "1/4 cup / 55g  brown sugar",
-      "1 cup / 120g  icing sugar (powdered sugar) (see notes)",
-      "500 g /16 oz  chocolate (for melting, not eating chocolate)"
+      "1 1/2 cups of fresh or frozen berries (I have thoughts &#8211; see notes!)",
+      "2 tablespoons sugar (more or less depending on the tartness of your berries)",
+      "1/2 tablespoon cornstarch",
+      "squeeze of lemon juice",
+      "4 tablespoons butter, melted",
+      "1/2 cup rolled oats",
+      "1/2 cup flour",
+      "1/4 cup brown sugar",
+      "1/4 teaspoon baking powder",
+      "pinch of salt"
     ],
     "instructions": [
-      "Line 3 x 12 hole mini muffin tins with paper patties.",
-      "Combine peanut butter, butter and sugar in a small saucepan over medium heat. Heat until melted, stirring constantly, until it starts to bubble gently. Remove from heat and add the powdered sugar 1/4 cup at a time, stirring vigorously to dissolve into the peanut butter mixture.",
-      "Set the peanut butter filling aside to cool (refrigerate to speed up the process).",
-      "Melt half the chocolate in the microwave in 30 second bursts, stirring in between.",
-      "Pour about 1 1/2 to 2 tsp of melted chocolate into each muffin cup.",
-      "Scoop up one slightly heaped tsp of the peanut butter filling and roll into a ball then flatten slightly. The disc should be smaller than the muffin cup diameter as you want chocolate to cover the side of the peanut butter filling. Place into the centre of the muffin cup. Repeat with remaining peanut butter filling.",
-      "Refrigerate for 20 minutes until the chocolate is set.",
-      "Melt the remaining chocolate in the microwave in 30 second bursts, stirring in between.",
-      "Pour about 1 1/2 to 2 tsp of melted chocolate into each muffin cup, covering the peanut butter filling. Gently bang the muffin tin on the counter top to even out the surface of each peanut butter cup.",
-      "Refrigerate for 20 minutes until the chocolate is set.",
-      "Remove paper patties and serve."
+      "Preheat the oven to 350 degrees.",
+      "Gently mix up the berry mixture. Mix up the crumble in a separate bowl.",
+      "Press about two-thirds of the crumble into the bottom of two 4-inch ramekins. Bake for 5 minutes to set the crust (more for a firmer crust).",
+      "Pour the berry filling over the crusts. Sprinkle the remaining crumble on top of each ramekin. Bake for 7-10 more minutes, until the fruit layer is bubbling and the crumbles are golden brown.",
+      "Cooling for ten minutes is a good idea, but if you told me that it&#8217;s just not humanly possible, I would understand. Grab a fork, dive into the juicy, buttery layers, and never look back."
     ],
-    "dateAdded": "2026-06-07"
+    "dateAdded": "2026-06-08"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/09/Peanut-Butter-Cups-edited-ps-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-06-07",
+  "imageUrl": "https://pinchofyum.com/tachyon/Two-Person-Raspberry-Crisp-Square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-06-08",
   "added": false
 }
