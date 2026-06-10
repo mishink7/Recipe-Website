@@ -1,12 +1,38 @@
 {
   "recipe": {
-    "title": "You're invited! A Homemade Gift Workshop - Love and Lemons",
-    "description": "Hi friends! If you’re going to be in Austin on December 12th (next Saturday), mark your calendars! I’m hosting a super fun event at the Container Store. I’ll be cooking up yummy treats and showing you how to turn them into simple & pretty gifts using all of my favorite jars, tags, ribbons & more from the Gift Wrap Wonderland at the Container Store. Hope to see you there! It’s a free event, but click here to RSVP! The Details: Saturday, December 12th 11:00am – 1:00pm The Container Store 9629 Research Blvd. Austin, Texas RSVP here",
-    "source": "https://www.loveandlemons.com/food-gift-workshop-container-store/",
-    "dateAdded": "2026-06-09"
+    "slug": "tomato-and-artichoke-salad-with-capers",
+    "title": "Tomato and Artichoke Salad with Capers",
+    "description": "An elegant dish that takes minutes to prepare and turns the humble tomato into something really special. The great thing about this dish is that it really enhances the flavour of even the most ordinary tomato so you don't need bursting-with-flavour-organic-locally-grown tomatoes - in fact, turning the ordinary store bought tomato into something really special is exactly what this dish does.",
+    "tags": [
+      "light meal",
+      "salad"
+    ],
+    "source": "https://www.recipetineats.com/tomato-artichoke-salad-capers/",
+    "prepTime": "5 min",
+    "servings": 2,
+    "ingredients": [
+      "3 to 4  tomatos (, sliced into 1/3\"/0.5cm slices)",
+      "1 tbsp baby capers (, or ordinary capers roughly chopped)",
+      "Few tinned artichokes (, roughly chopped)",
+      "1/4  red spanish onion (, finely sliced)",
+      "1 1/2 tsp salt flakes",
+      "Fresh pepper",
+      "2 tbsp olive oil",
+      "1/2  lemon (, juice only)",
+      "2 tbsp fresh oregano leaves ((or other herb of your choice))"
+    ],
+    "instructions": [
+      "Lay tomatoes on a plate, slightly overlapping.",
+      "Scatter with capers, artichokes and red onion.",
+      "Scatter with salt and pepper.",
+      "Scatter with oregano leaves.",
+      "Drizzle with olive oil and juice of the 1/2 lemon.",
+      "Leave for 5 minutes so the salt makes the juices of the tomato seep. Do not leave for too much longer otherwise the salt will draw too much of the tomato juices out!"
+    ],
+    "dateAdded": "2026-06-10"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/11/invite3.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-06-09",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/05/DSC_0059-680x680-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-06-10",
   "added": false
 }
