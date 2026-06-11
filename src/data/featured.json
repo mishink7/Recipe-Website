@@ -1,38 +1,45 @@
 {
   "recipe": {
-    "slug": "tomato-and-artichoke-salad-with-capers",
-    "title": "Tomato and Artichoke Salad with Capers",
-    "description": "An elegant dish that takes minutes to prepare and turns the humble tomato into something really special. The great thing about this dish is that it really enhances the flavour of even the most ordinary tomato so you don't need bursting-with-flavour-organic-locally-grown tomatoes - in fact, turning the ordinary store bought tomato into something really special is exactly what this dish does.",
+    "slug": "one-pot-creamy-spinach-lentils",
+    "title": "One-Pot Creamy Spinach Lentils",
+    "description": "One-Pot Creamy Spinach Lentils - SO GOOD! Made with lots of veggies and a potato-thickened broth base to hold it all together.",
     "tags": [
-      "light meal",
-      "salad"
+      "spinach and lentils",
+      "lentil recipe",
+      "one pot dinner",
+      "vegetarian recipe",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/tomato-artichoke-salad-capers/",
-    "prepTime": "5 min",
-    "servings": 2,
+    "source": "https://pinchofyum.com/one-pot-creamy-spinach-lentils",
+    "prepTime": "10 min",
+    "cookTime": "50 min",
+    "servings": 4,
     "ingredients": [
-      "3 to 4  tomatos (, sliced into 1/3\"/0.5cm slices)",
-      "1 tbsp baby capers (, or ordinary capers roughly chopped)",
-      "Few tinned artichokes (, roughly chopped)",
-      "1/4  red spanish onion (, finely sliced)",
-      "1 1/2 tsp salt flakes",
-      "Fresh pepper",
-      "2 tbsp olive oil",
-      "1/2  lemon (, juice only)",
-      "2 tbsp fresh oregano leaves ((or other herb of your choice))"
+      "2 tablespoons butter, oil, or (wait for it) bacon grease",
+      "half a yellow onion, diced",
+      "2 carrots, peeled and chopped",
+      "2 sticks celery, chopped",
+      "1/2 cup dry white wine",
+      "2 cups uncooked lentils, rinsed",
+      "2 medium Yukon potatoes, chopped (about 1 cup total)",
+      "4 cups chicken broth (plan to add a few more cups as needed while cooking)",
+      "1 bay leaf",
+      "a few sprigs fresh parsley",
+      "a few springs fresh thyme",
+      "1/2 cup half and half",
+      "3-4 cups packed fresh baby spinach",
+      "salt and pepper to taste (be generous with the salt!)",
+      "olive oil and red wine vinegar for topping"
     ],
     "instructions": [
-      "Lay tomatoes on a plate, slightly overlapping.",
-      "Scatter with capers, artichokes and red onion.",
-      "Scatter with salt and pepper.",
-      "Scatter with oregano leaves.",
-      "Drizzle with olive oil and juice of the 1/2 lemon.",
-      "Leave for 5 minutes so the salt makes the juices of the tomato seep. Do not leave for too much longer otherwise the salt will draw too much of the tomato juices out!"
+      "Heat the bacon grease (that&#8217;s what I used) over medium heat. Add the onions, carrots, and celery. Saute for 10 minutes until the vegetables are nice and roasty and fragrant. Add the wine slowly &#8211; it should give a little sizzle and get all the browned bits off the bottom.",
+      "Add the lentils, potatoes, and broth. Tie the bay leaf, parsley, and thyme together and toss in the pot (the reason for tying is so you can easily remove them at the end &#8211; I actually wrapped mine up in a stalk of celery so it would be contained a bit better). Simmer for 30-45 minutes, stirring occasionally, adding more broth as necessary so the lentils are just barely covered in liquid. When the lentils and potatoes are soft, gently mash the potatoes against the side of the pot with the back of the wooden spoon to make the mixture creamy.",
+      "Remove the tied herbs; add the half and half and spinach. Stir to incorporate. Season with salt and pepper (season, taste, adjust, repeat). Serve each serving with a drizzle of good olive oil and a splash of red wine vinegar, per Jamie Oliver&#8217;s (and my) recommendation."
     ],
-    "dateAdded": "2026-06-10"
+    "dateAdded": "2026-06-11"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/05/DSC_0059-680x680-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-06-10",
+  "imageUrl": "https://pinchofyum.com/tachyon/One-Pot-Creamy-Spinach-Lentils-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-06-11",
   "added": false
 }
