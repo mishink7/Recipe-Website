@@ -1,45 +1,49 @@
 {
   "recipe": {
-    "slug": "one-pot-creamy-spinach-lentils",
-    "title": "One-Pot Creamy Spinach Lentils",
-    "description": "One-Pot Creamy Spinach Lentils - SO GOOD! Made with lots of veggies and a potato-thickened broth base to hold it all together.",
+    "slug": "shells-roasted-cauliflower",
+    "title": "Shells & Roasted Cauliflower",
+    "description": "This roasted cauliflower pasta is one of my favorite easy cauliflower recipes! Golden raisins and capers add great salty/sweet flavor to this dish.",
     "tags": [
-      "spinach and lentils",
-      "lentil recipe",
-      "one pot dinner",
-      "vegetarian recipe",
-      "dinner"
+      "easy cauliflower recipes",
+      "fall",
+      "spring",
+      "winter",
+      "main dish"
     ],
-    "source": "https://pinchofyum.com/one-pot-creamy-spinach-lentils",
-    "prepTime": "10 min",
-    "cookTime": "50 min",
-    "servings": 4,
+    "prepTime": "5 min",
+    "cookTime": "30 min",
+    "servings": 3,
     "ingredients": [
-      "2 tablespoons butter, oil, or (wait for it) bacon grease",
-      "half a yellow onion, diced",
-      "2 carrots, peeled and chopped",
-      "2 sticks celery, chopped",
-      "1/2 cup dry white wine",
-      "2 cups uncooked lentils, rinsed",
-      "2 medium Yukon potatoes, chopped (about 1 cup total)",
-      "4 cups chicken broth (plan to add a few more cups as needed while cooking)",
-      "1 bay leaf",
-      "a few sprigs fresh parsley",
-      "a few springs fresh thyme",
-      "1/2 cup half and half",
-      "3-4 cups packed fresh baby spinach",
-      "salt and pepper to taste (be generous with the salt!)",
-      "olive oil and red wine vinegar for topping"
+      "4 to 5 cups small cauliflower florets",
+      "2 tablespoons olive oil, plus more for drizzling",
+      "1 tablespoon vegan or regular butter",
+      "1½ tablespoons sherry vinegar or white wine vinegar",
+      "½ teaspoon maple syrup or honey* (see note)",
+      "½ teaspoon sambal or red pepper flakes",
+      "6 ounces shell pasta",
+      "¾ cup reserved pasta water (save this before you drain your pasta)",
+      "1 small shallot, thinly sliced",
+      "2 garlic cloves, peeled and smashed",
+      "4 cups spinach, tatsoi, or swiss chard leaves",
+      "¼ cup toasted and chopped hazelnuts or walnuts",
+      "1 heaping tablespoon golden raisins",
+      "½ cup loose-packed chopped parsley, basil, or tarragon",
+      "lemon wedges, for serving",
+      "sea salt and freshly ground black pepper"
     ],
     "instructions": [
-      "Heat the bacon grease (that&#8217;s what I used) over medium heat. Add the onions, carrots, and celery. Saute for 10 minutes until the vegetables are nice and roasty and fragrant. Add the wine slowly &#8211; it should give a little sizzle and get all the browned bits off the bottom.",
-      "Add the lentils, potatoes, and broth. Tie the bay leaf, parsley, and thyme together and toss in the pot (the reason for tying is so you can easily remove them at the end &#8211; I actually wrapped mine up in a stalk of celery so it would be contained a bit better). Simmer for 30-45 minutes, stirring occasionally, adding more broth as necessary so the lentils are just barely covered in liquid. When the lentils and potatoes are soft, gently mash the potatoes against the side of the pot with the back of the wooden spoon to make the mixture creamy.",
-      "Remove the tied herbs; add the half and half and spinach. Stir to incorporate. Season with salt and pepper (season, taste, adjust, repeat). Serve each serving with a drizzle of good olive oil and a splash of red wine vinegar, per Jamie Oliver&#8217;s (and my) recommendation."
+      "Preheat the oven to 425°F and line a large baking sheet with parchment paper. Place the cauliflower florets on the sheet and toss them with a drizzle of olive oil and pinches of salt and pepper. Roast for 25 minutes or until golden brown around the edges.",
+      "In a small bowl, stir together the sherry vinegar, maple syrup, and sambal and set aside.",
+      "Bring a large pot of salted water to a boil. Prepare the pasta according to the instructions on the package, cooking until al dente. Reserve ¾ cup pasta water before you drain the pasta. If you like, drizzle the pasta with a little olive oil to keep it from sticking together and set aside.",
+      "In a large skillet, heat the oil and butter. Add the shallot, smashed garlic cloves, and a pinch of salt. Cook over medium-low heat until the shallot is soft and the garlic is fragrant, 3 to 5 minutes. Remove the garlic cloves.",
+      "Stir the greens into the pan and cook until lightly wilted. Add the pasta, roasted cauliflower, and vinegar mixture and stir to coat. Stir in ½ to ¾ cup of the pasta water to create a light sauce. Add the hazelnuts, raisins, and parsley.",
+      "Season to taste with salt, pepper, and additional sambal, if desired. Serve with lemon wedges."
     ],
-    "dateAdded": "2026-06-11"
+    "dateAdded": "2026-06-12",
+    "source": "https://www.loveandlemons.com/whole-wheat-shells-roasted-cauliflower/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/One-Pot-Creamy-Spinach-Lentils-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-06-11",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/02/IMG_2016_01_01_07102-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-06-12",
   "added": false
 }
