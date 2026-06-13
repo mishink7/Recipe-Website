@@ -1,49 +1,43 @@
 {
   "recipe": {
-    "slug": "shells-roasted-cauliflower",
-    "title": "Shells & Roasted Cauliflower",
-    "description": "This roasted cauliflower pasta is one of my favorite easy cauliflower recipes! Golden raisins and capers add great salty/sweet flavor to this dish.",
+    "slug": "fried-rice",
+    "title": "Fried Rice",
+    "description": "Recipe video above. Fried rice is a side that goes with all Chinese and Asian foods! This one truly stacks up to your favourite Chinese restaurant, a reader favourite included in my debut cookbook Dinner. See notes for scaling recipe up and using skillet instead of wok, and for GF option.Don&#39;t have day old rice? No worries. Make this reader-favourite Emergency Baked Fried Rice instead.",
     "tags": [
-      "easy cauliflower recipes",
-      "fall",
-      "spring",
-      "winter",
-      "main dish"
+      "fried rice",
+      "side"
     ],
+    "source": "https://www.recipetineats.com/egg-fried-rice/",
     "prepTime": "5 min",
-    "cookTime": "30 min",
-    "servings": 3,
+    "cookTime": "10 min",
+    "servings": 2,
     "ingredients": [
-      "4 to 5 cups small cauliflower florets",
-      "2 tablespoons olive oil, plus more for drizzling",
-      "1 tablespoon vegan or regular butter",
-      "1½ tablespoons sherry vinegar or white wine vinegar",
-      "½ teaspoon maple syrup or honey* (see note)",
-      "½ teaspoon sambal or red pepper flakes",
-      "6 ounces shell pasta",
-      "¾ cup reserved pasta water (save this before you drain your pasta)",
-      "1 small shallot, thinly sliced",
-      "2 garlic cloves, peeled and smashed",
-      "4 cups spinach, tatsoi, or swiss chard leaves",
-      "¼ cup toasted and chopped hazelnuts or walnuts",
-      "1 heaping tablespoon golden raisins",
-      "½ cup loose-packed chopped parsley, basil, or tarragon",
-      "lemon wedges, for serving",
-      "sea salt and freshly ground black pepper"
+      "2 tbsp oil",
+      "1/2  onion (, finely chopped)",
+      "2  garlic cloves (, minced)",
+      "120 g/4 oz   bacon (, chopped (optional, or use ham))",
+      "1 - 1 1/2 cups diced vegetables (, frozen or fresh (Note 1))",
+      "2 cups (packed) cooked day old white rice  ((refrigerated or frozen defrosted, Note 2))",
+      "3  eggs, whisked",
+      "3/4 cup green onions (, (shallots / scallions) sliced)",
+      "1 tbsp Chinese cooking wine  ((sub Mirin, cooking sake or dry sherry) (Note 4))",
+      "1 tbsp Oyster Sauce",
+      "1 tbsp light soy sauce ((or all purpose) (Note 5))",
+      "1 tsp sesame oil (, optional)",
+      "1/4 tsp white pepper"
     ],
     "instructions": [
-      "Preheat the oven to 425°F and line a large baking sheet with parchment paper. Place the cauliflower florets on the sheet and toss them with a drizzle of olive oil and pinches of salt and pepper. Roast for 25 minutes or until golden brown around the edges.",
-      "In a small bowl, stir together the sherry vinegar, maple syrup, and sambal and set aside.",
-      "Bring a large pot of salted water to a boil. Prepare the pasta according to the instructions on the package, cooking until al dente. Reserve ¾ cup pasta water before you drain the pasta. If you like, drizzle the pasta with a little olive oil to keep it from sticking together and set aside.",
-      "In a large skillet, heat the oil and butter. Add the shallot, smashed garlic cloves, and a pinch of salt. Cook over medium-low heat until the shallot is soft and the garlic is fragrant, 3 to 5 minutes. Remove the garlic cloves.",
-      "Stir the greens into the pan and cook until lightly wilted. Add the pasta, roasted cauliflower, and vinegar mixture and stir to coat. Stir in ½ to ¾ cup of the pasta water to create a light sauce. Add the hazelnuts, raisins, and parsley.",
-      "Season to taste with salt, pepper, and additional sambal, if desired. Serve with lemon wedges."
+      "Heat oil - Heat about 1 1/2 tbsp oil in a wok or 2 tbsp oil in a skillet over high heat until smoking.",
+      "Add onion, garlic and bacon. Cook until bacon is light golden - about 1 1/2 minutes.",
+      "Add vegetables (still frozen is fine). Cook for 2 minutes so they defrost and water evaporates.",
+      "Add rice and Sauce ingredients. Cook for 1 1/2 minutes until liquid evaporates.",
+      "Scramble egg - Shove rice to the side of the wok / skillet. Add 1/2 tbsp oil into the cleared space, shift wok so the heat is centred over the cleared space. Pour in egg then scramble - cook it through properly, don&#39;t &quot;soft scramble&quot;.",
+      "Serve - Add green onion then stir the egg into the rice. Remove from heat and serve immediately!"
     ],
-    "dateAdded": "2026-06-12",
-    "source": "https://www.loveandlemons.com/whole-wheat-shells-roasted-cauliflower/"
+    "dateAdded": "2026-06-13"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/02/IMG_2016_01_01_07102-cropped.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-06-12",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2018/03/Egg-Fried-Rice_5-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-06-13",
   "added": false
 }
