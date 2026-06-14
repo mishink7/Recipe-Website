@@ -1,43 +1,41 @@
 {
   "recipe": {
-    "slug": "fried-rice",
-    "title": "Fried Rice",
-    "description": "Recipe video above. Fried rice is a side that goes with all Chinese and Asian foods! This one truly stacks up to your favourite Chinese restaurant, a reader favourite included in my debut cookbook Dinner. See notes for scaling recipe up and using skillet instead of wok, and for GF option.Don&#39;t have day old rice? No worries. Make this reader-favourite Emergency Baked Fried Rice instead.",
+    "slug": "bakery-style-blueberry-scones",
+    "title": "Bakery Style Blueberry Scones",
+    "description": "Blueberry Scones that taste fresh from the bakery! Juicy blueberries, crunchy turbinado sugar, and perfect browned for breakfast or brunch.",
     "tags": [
-      "fried rice",
-      "side"
+      "blueberry scone",
+      "scone recipe",
+      "berry scone",
+      "homemade scone recipe",
+      "breakfast"
     ],
-    "source": "https://www.recipetineats.com/egg-fried-rice/",
-    "prepTime": "5 min",
-    "cookTime": "10 min",
-    "servings": 2,
+    "source": "https://pinchofyum.com/bakery-style-blueberry-scones",
+    "prepTime": "20 min",
+    "cookTime": "20 min",
+    "servings": 8,
     "ingredients": [
-      "2 tbsp oil",
-      "1/2  onion (, finely chopped)",
-      "2  garlic cloves (, minced)",
-      "120 g/4 oz   bacon (, chopped (optional, or use ham))",
-      "1 - 1 1/2 cups diced vegetables (, frozen or fresh (Note 1))",
-      "2 cups (packed) cooked day old white rice  ((refrigerated or frozen defrosted, Note 2))",
-      "3  eggs, whisked",
-      "3/4 cup green onions (, (shallots / scallions) sliced)",
-      "1 tbsp Chinese cooking wine  ((sub Mirin, cooking sake or dry sherry) (Note 4))",
-      "1 tbsp Oyster Sauce",
-      "1 tbsp light soy sauce ((or all purpose) (Note 5))",
-      "1 tsp sesame oil (, optional)",
-      "1/4 tsp white pepper"
+      "2 cups all-purpose flour",
+      "1/2 cup sugar",
+      "1 tablespoon baking powder (yes, TABLEspoon)",
+      "1/2 teaspoon salt",
+      "1 tablespoon grated orange zest",
+      "1/2 cup cold salted butter, cut into very small cubes",
+      "1 large egg",
+      "1/2 cup cold heavy cream",
+      "1 cup blueberries, fresh",
+      "a few tablespoons of additional heavy cream for brushing the tops",
+      "turbinado sugar for sprinkling the tops"
     ],
     "instructions": [
-      "Heat oil - Heat about 1 1/2 tbsp oil in a wok or 2 tbsp oil in a skillet over high heat until smoking.",
-      "Add onion, garlic and bacon. Cook until bacon is light golden - about 1 1/2 minutes.",
-      "Add vegetables (still frozen is fine). Cook for 2 minutes so they defrost and water evaporates.",
-      "Add rice and Sauce ingredients. Cook for 1 1/2 minutes until liquid evaporates.",
-      "Scramble egg - Shove rice to the side of the wok / skillet. Add 1/2 tbsp oil into the cleared space, shift wok so the heat is centred over the cleared space. Pour in egg then scramble - cook it through properly, don&#39;t &quot;soft scramble&quot;.",
-      "Serve - Add green onion then stir the egg into the rice. Remove from heat and serve immediately!"
+      "Preheat the oven to 400 degrees. Stir the flour, sugar, baking powder, salt, and orange zest in the bowl of a stand mixer (or just a mixing bowl). Add the butter. Mix ingredients with an electric mixer until fine crumbs form.",
+      "With the mixer on low speed, add the egg and heavy cream in a slow stream. Mix until a thick, stiff dough forms. Add the blueberries and mix until the blueberries are just incorporated into the dough. If some of them break, that&#8217;s okay &#8211; you&#8217;ll get those pretty juice drips down the side.",
+      "Flour your hands. Remove the dough from the mixing bowl and place on a floured work surface. Roll into a rectangle, about 1 inch thick. Cut into 8 triangles; pull the triangles apart from each other and brush with heavy cream. Sprinkle with turbinado sugar. Bake for 18-20 minutes or until golden brown and firm to the touch. Sprinkle again with turbinado sugar for extra texture. Enjoy warm; store leftovers in an airtight container for 1-2 days."
     ],
-    "dateAdded": "2026-06-13"
+    "dateAdded": "2026-06-14"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2018/03/Egg-Fried-Rice_5-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-06-13",
+  "imageUrl": "https://pinchofyum.com/tachyon/blueberry-scones-square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-06-14",
   "added": false
 }
