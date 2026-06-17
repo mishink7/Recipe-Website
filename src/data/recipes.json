@@ -4236,6 +4236,42 @@
     "dateAdded": "2025-04-02"
   },
   {
+    "slug": "lamb-kofta-kebab-15-min-recipe",
+    "title": "Lamb Kofta Kebab (15-Min Recipe)",
+    "description": "My easy lamb kofta kebab recipe is super juicy and packed with Middle Eastern flavors. Make it with just 6 ingredients in only 15 minutes!",
+    "tags": [
+      "kofta recipe",
+      "lamb kofta",
+      "lamb kofta recipe",
+      "main course"
+    ],
+    "image": "/images/recipes/lamb-kofta-kebab-15-min-recipe.jpg",
+    "source": "https://www.wholesomeyum.com/grilled-ground-lamb-kofta-kebab-recipe/",
+    "prepTime": "10 min",
+    "cookTime": "6 min",
+    "servings": 8,
+    "ingredients": [
+      "1/4 cup Onion ((grated))",
+      "2 cloves Garlic ((minced))",
+      "1 tbsp Fresh parsley ((chopped))",
+      "1 tbsp Fresh dill ((chopped))",
+      "1 tsp Cumin",
+      "1 1/2 tsp Sea salt",
+      "1/4 tsp Black pepper",
+      "2 lbs Ground lamb",
+      "8  Bamboo skewers"
+    ],
+    "instructions": [
+      "Soak 8 bamboo skewers in water for 30 minutes. Pat dry.",
+      "Meanwhile, in a large bowl, stir together all ingredients except the lamb. Add the lamb and mix until just combined. Do not over-mix.",
+      "Divide the meat into 16 sections. Mold each section of meat around a bamboo skewer, making it a few inches long and about 1 inch (2.5 cm) thick. You&#39;ll fit 2 sections of meat per skewer, about 1-2 inches apart.",
+      "Preheat the grill (or a grill pan on the stove) to medium-high heat and oil the grates lightly. Place the skewers on the grill and cook for 3 minutes. Flip and cook for 3-5 more minutes, to desired level of doneness. Time on the second side will be about 2 minutes for medium rare, 3 minutes for medium, 4 minutes for medium-well, or 5 minutes for well done.",
+      "Let the lamb kofta kebab rest for a few minutes before serving."
+    ],
+    "notes": null,
+    "dateAdded": "2026-06-17"
+  },
+  {
     "slug": "lamb-kofta-with-garlic-sauce",
     "title": "Lamb Kofta with Garlic Sauce",
     "description": null,
