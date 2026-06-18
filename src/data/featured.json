@@ -1,38 +1,32 @@
 {
   "recipe": {
-    "slug": "roasted-tomatoes-with-goat-cheese-polenta",
-    "title": "Roasted Tomatoes with Goat Cheese Polenta",
-    "description": "Roasted Tomatoes with Goat Cheese Polenta! Fresh, juicy tomatoes, vibrant green spinach, and a creamy goat cheese polenta!",
+    "slug": "vanilla-matcha-smoothie",
+    "title": "Vanilla Matcha Smoothie",
+    "description": "This lightly sweet matcha smoothie is made with banana, vanilla, and almond milk. It's a healthy, antioxidant-filled breakfast or great afternoon pick-me-up.",
     "tags": [
-      "polenta recipe",
-      "tomatoes and goat cheese",
-      "corn grits recipe",
-      "healthy dinner",
-      "dinner"
+      "matcha smoothie",
+      "fall",
+      "summer",
+      "beverage"
     ],
-    "source": "https://pinchofyum.com/roasted-tomatoes-with-goat-cheese-polenta",
-    "prepTime": "15 min",
-    "cookTime": "1 hr",
-    "servings": 4,
+    "prepTime": "5 min",
+    "servings": 3,
     "ingredients": [
-      "3 cups cherry tomatoes (or small tomatoes &#8211; tricolor or heirloom are super pretty!)",
-      "3 tablespoons olive oil, divided",
-      "3 cloves garlic",
-      "3 cups spinach",
-      "3 cups water",
-      "1 cup corn grits or polenta (I used Bob&#8217;s Red Mill &#8211; you can buy it on Amazon here)",
-      "4 ounces goat cheese",
-      "1/2 teaspoon salt"
+      "2 bananas, frozen",
+      "1 cup original Almond Breeze Almond Milk",
+      "Matcha powder - a few teaspoons to a few tablespoons depending on your matcha and your taste. I used a few tablespoons of this kind.",
+      "Vanilla bean - a tiny scrape from about 1-inch of the pod",
+      "A few handfuls of ice",
+      "Honey, agave, or sweetener of choice (optional)"
     ],
     "instructions": [
-      "Preheat the oven to 425 degrees. Wash the tomatoes, place on a baking sheet, and pat dry. Drizzle with 1 tablespoon of the oil. Roast for 10 minutes, gently turn the tomatoes, and repeat until the tomatoes are browned, about 30 minutes. I turned the heat up to 450 at the end to get more browning action.",
-      "Heat the remaining 2 tablespoons oil in a large heavy pan. Add the garlic and saute gently until fragrant, but do not brown &#8211; browned garlic tastes bitter and gross. When the garlic is smelling awesome, add the spinach and turn off the heat. You should be able to just keep stirring the spinach around for a minute and it will wilt and reduce in size. Transfer to a bowl and set aside. Wipe out the pan with a paper towel.",
-      "In the same pan, bring the water to a boil. Add the polenta and whisk until smooth. Simmer for 15 minutes or so until the polenta has thickened. Add the goat cheese and the salt and stir until smooth. Taste and adjust as necessary. Serve the polenta immediately with the tomatoes and the spinach."
+      "Blend everything together. Taste & adjust to your liking. Add some sweetener if you wish."
     ],
-    "dateAdded": "2026-06-17"
+    "dateAdded": "2026-06-18",
+    "source": "https://www.loveandlemons.com/matcha-smoothie-vanilla/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Roasted-Tomatoes-with-Spinach-and-Goat-Cheese-Polenta-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-06-17",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/08/IMG_00011.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-06-18",
   "added": false
 }
