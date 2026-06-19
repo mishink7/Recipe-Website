@@ -1,32 +1,12 @@
 {
   "recipe": {
-    "slug": "vanilla-matcha-smoothie",
-    "title": "Vanilla Matcha Smoothie",
-    "description": "This lightly sweet matcha smoothie is made with banana, vanilla, and almond milk. It's a healthy, antioxidant-filled breakfast or great afternoon pick-me-up.",
-    "tags": [
-      "matcha smoothie",
-      "fall",
-      "summer",
-      "beverage"
-    ],
-    "prepTime": "5 min",
-    "servings": 3,
-    "ingredients": [
-      "2 bananas, frozen",
-      "1 cup original Almond Breeze Almond Milk",
-      "Matcha powder - a few teaspoons to a few tablespoons depending on your matcha and your taste. I used a few tablespoons of this kind.",
-      "Vanilla bean - a tiny scrape from about 1-inch of the pod",
-      "A few handfuls of ice",
-      "Honey, agave, or sweetener of choice (optional)"
-    ],
-    "instructions": [
-      "Blend everything together. Taste & adjust to your liking. Add some sweetener if you wish."
-    ],
-    "dateAdded": "2026-06-18",
-    "source": "https://www.loveandlemons.com/matcha-smoothie-vanilla/"
+    "title": "Crazy Crispy No-Oil Chicken",
+    "description": "Bone-in, skin-on chicken thighs are my favourite cut of chicken! Here’s my current favourite way to cook them, with shatteringly crispy skin all done on the stove. Find the recipe on page 134 of Dinner.",
+    "source": "https://www.recipetineats.com/crazy-crispy-no-oil-chicken/",
+    "dateAdded": "2026-06-19"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/08/IMG_00011.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-06-18",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2022/07/Crazy-crispy-chicken-thigh-cutlets_900px.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-06-19",
   "added": false
 }
