@@ -1,47 +1,12 @@
 {
   "recipe": {
-    "slug": "loaded-mediterranean-street-fries",
-    "title": "Loaded Mediterranean Street Fries",
-    "description": "Loaded Mediterranean Street Cart Fries: sweet potato fries topped with fresh romaine, tzatziki, marinated tomatoes and chickpeas, feta cheese, and more. Meatless and mind-blowing, all in one.",
-    "tags": [
-      "street fries",
-      "mediterranean street fries",
-      "appetizer"
-    ],
-    "source": "https://pinchofyum.com/street-cart-fries",
-    "prepTime": "10 min",
-    "cookTime": "20 min",
-    "servings": 4,
-    "ingredients": [
-      "1 cup plain full fat yogurt",
-      "half of a zucchini, grated",
-      "1/2 cup roughly chopped fresh parsley",
-      "1 clove garlic, minced",
-      "a few pinches of chopped fresh dill",
-      "salt and lemon juice to taste",
-      "1 can chickpeas, rinsed and drained",
-      "4-6 tomatoes, diced",
-      "2 tablespoons olive oil",
-      "1 clove garlic, minced",
-      "fresh minced parsley to taste",
-      "salt to taste",
-      "lemon juice to taste",
-      "1 bag sweet potato fries",
-      "1 head romaine lettuce, washed and roughy chopped",
-      "pita bread and oil for frying",
-      "Toppings (see notes)"
-    ],
-    "instructions": [
-      "TZATZIKI: Combine the tzatziki ingredients together &#8211; taste and adjust until it hits the spot for you.",
-      "TOMATOES / CHICKPEAS: Toss the chickpeas and tomatoes together with the oil, garlic, lemon juice, and parsley to marinate.",
-      "SWEET POTATOES: Bake the sweet potato fries according to package directions. While the sweet potatoes are baking, chop the lettuce and fry the pitas.",
-      "PITAS: For the pitas, cut each one into strips and fry in a shallow layer of frying oil (such as vegetable oil) until golden brown and slightly crispy. Drain on paper towels and sprinkle with salt.",
-      "ASSEMBLY: Assemble the individual boats with layers of fries, tzatziki, marinated tomatoes and chickpeas, fried pita, romaine, feta cheese, and more. Mwah!"
-    ],
-    "dateAdded": "2026-06-20"
+    "title": "My Trip to Stonyfield - Love and Lemons",
+    "description": "One of the great perks of my job is when I get to visit new, picturesque places and meet farmers who so passionately live for their work. I got this in spades when Stonyfield invited me to Vermont to visit some of their partner organic family farms and to hear from their co-founder Gary Hirschberg. I’m not sure what I expected, but after spending two days meeting with the farmers and hearing Gary’s mission of (basically) converting our whole planet to organic, I left truly inspired. I was delighted to see that these farms are true family farms, as Stonyfield […]",
+    "source": "https://www.loveandlemons.com/my-trip-to-stonyfield/",
+    "dateAdded": "2026-06-21"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Loaded-Mediterranean-Street-Fries-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-06-20",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2018/07/Untitled-12.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-06-21",
   "added": false
 }
