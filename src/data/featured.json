@@ -1,51 +1,38 @@
 {
   "recipe": {
-    "slug": "man-candy-candied-bacon-and-nuts",
-    "title": "Man Candy: Candied Bacon and Nuts",
-    "description": "Easy to make, and a great gift for any bacon lover. Just be careful who you give it to. Because they will be begging you to make it again and again and again!!",
+    "slug": "red-pepper-pasta-with-roasted-cauliflower",
+    "title": "Red Pepper Pasta with Roasted Cauliflower",
+    "description": "Red Pepper Cashew Pasta with Roasted Cauliflower. ♡ TOO GOOD TO EVEN BE TRUE. This sauce is a three-ingredient game-changer!",
     "tags": [
-      "bacon",
-      "candy"
+      "red pepper pasta",
+      "roasted cauliflower",
+      "vegan red pepper cashew pasta",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/man-candy-candied-bacon-nuts/",
-    "prepTime": "10 min",
-    "cookTime": "25 min",
-    "servings": 6,
+    "source": "https://pinchofyum.com/red-pepper-cashew-pasta",
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "servings": 8,
     "ingredients": [
-      "6 slices centre cut or middle bacon ((about 200g / 6 oz) (Note 1))",
-      "1/4 cup brown sugar ((light or normal))",
-      "1/2 tsp paprika ((Note 2))",
-      "1/8 tsp cayenne pepper ((Note 2))",
-      "1  lemon (, zest only)",
-      "Pinch of salt",
-      "Black pepper ((3 grinds))",
-      "1 cup pecans (, roughly chopped)",
-      "1 cup walnuts (, roughly chopped)",
-      "1/4 cup brown sugar ((light or normal))",
-      "2 tbsp maple syrup",
-      "1 tsp pumpkin pie spice ((Note 3))",
-      "1/2 tsp paprika ((Note 2))",
-      "1/8 tsp cayenne pepper ((Note 2))",
-      "1/8 tsp pepper",
-      "Black pepper ((3 grinds))"
+      "2 heads of cauliflower, cut into florets",
+      "2 tablespoons olive oil + pinch of salt",
+      "3/4 cup cashews",
+      "3/4 cup water",
+      "1 teaspoon salt",
+      "1 jar (25 oz) pasta sauce (I use DeLallo because there&#8217;s no added sugar, and because their spicy arrabbiata sauce is life)",
+      "1 16-ounce jar roasted red peppers, drained",
+      "1 pound whole wheat penne pasta (I used DeLallo again)",
+      "greens for garnishing"
     ],
     "instructions": [
-      "Preheat oven to 180C/350F.",
-      "Line a baking tray with baking paper (parchment paper).",
-      "Cut the bacon into 1.5cm / 0.6\" pieces (remove rind if it has it).",
-      "Combine with remaining Candied Bacon ingredients in a bowl and use your fingers to coat the bacon.",
-      "Combine the Candied Nuts ingredients in a bowl and toss to combine.",
-      "Spread the Candied Bacon onto a baking tray and bake for 10 minutes, or until the sugar is bubbling and the bacon is starting to turn brown (i.e. almost cooked).",
-      "Remove the bacon from the tray using a slotted spatula (so you don't get too much bacon fat) and transfer it into the bowl with the nuts. Mix to combine.",
-      "Use a spatula to scrape and pour the excess oil off the parchment paper (this is what I did).",
-      "Pour the nuts back onto the baking tray and bake for 15 minutes, stirring once at half time.",
-      "Turn the oven off and open the door slightly. Leave for at least 15 minutes, then remove and allow to cool.",
-      "Break the candy into chunks. To store, place into an airtight container and keep in the refrigerator. (Note 4)"
+      "Preheat the oven to 425 degrees. Toss the cauliflower florets with the olive oil and salt and spread on a baking sheet. Bake/roast for 30 minutes, stirring occasionally, until nice and brown.",
+      "Blend the cashews, water, salt, pasta sauce, and red peppers together until very smooth and creamy. YUMMMMMM.",
+      "Cook pasta according to package directions. Toss cooked pasta with some of the sauce (however much you want &#8211; you&#8217;ll probably have some leftover) and most of the roasted cauliflower (I reserve a little to make for a fancy topping)."
     ],
-    "dateAdded": "2026-06-22"
+    "dateAdded": "2026-06-23"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2015/01/DSC_0519.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-06-22",
+  "imageUrl": "https://pinchofyum.com/tachyon/Meal-Prep-Pasta-with-Cauliflower-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-06-23",
   "added": false
 }
