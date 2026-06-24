@@ -1,38 +1,45 @@
 {
   "recipe": {
-    "slug": "red-pepper-pasta-with-roasted-cauliflower",
-    "title": "Red Pepper Pasta with Roasted Cauliflower",
-    "description": "Red Pepper Cashew Pasta with Roasted Cauliflower. ♡ TOO GOOD TO EVEN BE TRUE. This sauce is a three-ingredient game-changer!",
+    "slug": "fajita-veggies",
+    "title": "Fajita Veggies",
+    "description": "Serve these rainbow fajita veggies as a side dish with any Tex Mex dinner, or make them a meal on their own! I love to stuff them into tortillas with guac, salsa, and pickled jalapeños.",
     "tags": [
-      "red pepper pasta",
-      "roasted cauliflower",
-      "vegan red pepper cashew pasta",
-      "dinner"
+      "fajita veggies",
+      "main dish"
     ],
-    "source": "https://pinchofyum.com/red-pepper-cashew-pasta",
+    "source": "https://www.loveandlemons.com/fajita-veggies/",
     "prepTime": "15 min",
-    "cookTime": "30 min",
-    "servings": 8,
+    "cookTime": "15 min",
+    "servings": 4,
     "ingredients": [
-      "2 heads of cauliflower, cut into florets",
-      "2 tablespoons olive oil + pinch of salt",
-      "3/4 cup cashews",
-      "3/4 cup water",
-      "1 teaspoon salt",
-      "1 jar (25 oz) pasta sauce (I use DeLallo because there&#8217;s no added sugar, and because their spicy arrabbiata sauce is life)",
-      "1 16-ounce jar roasted red peppers, drained",
-      "1 pound whole wheat penne pasta (I used DeLallo again)",
-      "greens for garnishing"
+      "3  multi-colored peppers (stemmed and sliced into strips)",
+      "3  portobello mushrooms (stemmed and wiped clean)",
+      "1  red onion (sliced into wedges)",
+      "2 tablespoons avocado oil",
+      "2  garlic cloves (chopped)",
+      "½ teaspoon chili powder (more to taste)",
+      "½ teaspoon cumin",
+      "½ teaspoon sea salt (more to taste)",
+      "Splash of balsamic vinegar",
+      "2  limes (sliced into wedges)",
+      "Freshly ground black pepper",
+      "8  Flour or Corn Tortillas",
+      "Guacamole or avocado slices squeezed with lime",
+      "Pickled Jalapeños or sliced plain jalapeños",
+      "Diced tomatoes or Pico de Gallo",
+      "Cilantro",
+      "Tomatillo Salsa or Pineapple Salsa"
     ],
     "instructions": [
-      "Preheat the oven to 425 degrees. Toss the cauliflower florets with the olive oil and salt and spread on a baking sheet. Bake/roast for 30 minutes, stirring occasionally, until nice and brown.",
-      "Blend the cashews, water, salt, pasta sauce, and red peppers together until very smooth and creamy. YUMMMMMM.",
-      "Cook pasta according to package directions. Toss cooked pasta with some of the sauce (however much you want &#8211; you&#8217;ll probably have some leftover) and most of the roasted cauliflower (I reserve a little to make for a fancy topping)."
+      "Heat a grill to medium heat with a 12-inch cast-iron skillet (or grill pan) inside.",
+      "Arrange the peppers on a tray and the mushrooms and onion wedges on a separate rimmed plate. In a small bowl, whisk together the avocado oil, garlic, chili powder, cumin, salt, and several grinds of pepper. Drizzle 1 scant tablespoon of the mixture over the peppers and toss to coat. Drizzle the remaining marinade over the mushrooms and onions. Drizzle the mushrooms with a splash of balsamic vinegar and use your hands to coat the mushrooms on both sides.",
+      "Grill the peppers in the cast-iron pan for 8 to 10 minutes, tossing occasionally, until charred and soft. Be careful not to overfill the pan or the veggies won’t char on the edges - cook them in 2 batches, if necessary. Grill the mushrooms and onion wedges directly on the grill for about 4 minutes about per side. Remove everything from the grill, using a potholder to remove the cast-iron pan. Squeeze the juice of ½ lime over the peppers and season with salt, pepper, and more chili powder, to taste. Slice the mushrooms into strips and place on a serving dish. Transfer the onions and the peppers to a serving skillet or large platter.",
+      "Serve with the tortillas, guacamole, jalapeños, tomatoes, cilantro, salsa, and remaining lime wedges for serving."
     ],
-    "dateAdded": "2026-06-23"
+    "dateAdded": "2026-06-24"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Meal-Prep-Pasta-with-Cauliflower-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-06-23",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2019/06/fajitas-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-06-24",
   "added": false
 }
