@@ -1,45 +1,42 @@
 {
   "recipe": {
-    "slug": "fajita-veggies",
-    "title": "Fajita Veggies",
-    "description": "Serve these rainbow fajita veggies as a side dish with any Tex Mex dinner, or make them a meal on their own! I love to stuff them into tortillas with guac, salsa, and pickled jalapeños.",
+    "slug": "easy-tiramisu-chef-recipe",
+    "title": "Easy Tiramisu (Chef Recipe)",
+    "description": "Recipe video above. You will be amazed how silky rich and yet LIGHT this Tiramisu tastes! This is slightly adapted from this recipe by Vanessa Martin, a well regarded Australian-Italian chef. This is a traditional recipe made using raw eggs that are not cooked or tempered, and with only mascarpone - no cream! You just can&#x27;t achieve the same mouthfeel if you use normal cream. :) (Read in post or note about raw egg concerns)",
     "tags": [
-      "fajita veggies",
-      "main dish"
+      "tiramisu",
+      "tiramisu cream",
+      "traditional tiramisu",
+      "dessert"
     ],
-    "source": "https://www.loveandlemons.com/fajita-veggies/",
-    "prepTime": "15 min",
-    "cookTime": "15 min",
-    "servings": 4,
+    "source": "https://www.recipetineats.com/easy-tiramisu/",
+    "prepTime": "30 min",
+    "servings": 6,
     "ingredients": [
-      "3  multi-colored peppers (stemmed and sliced into strips)",
-      "3  portobello mushrooms (stemmed and wiped clean)",
-      "1  red onion (sliced into wedges)",
-      "2 tablespoons avocado oil",
-      "2  garlic cloves (chopped)",
-      "½ teaspoon chili powder (more to taste)",
-      "½ teaspoon cumin",
-      "½ teaspoon sea salt (more to taste)",
-      "Splash of balsamic vinegar",
-      "2  limes (sliced into wedges)",
-      "Freshly ground black pepper",
-      "8  Flour or Corn Tortillas",
-      "Guacamole or avocado slices squeezed with lime",
-      "Pickled Jalapeños or sliced plain jalapeños",
-      "Diced tomatoes or Pico de Gallo",
-      "Cilantro",
-      "Tomatillo Salsa or Pineapple Salsa"
+      "3  eggs (, yolks and whites separated)",
+      "1/2 cup (110g)  caster sugar (superfine sugar)",
+      "1/2 tsp vanilla extract",
+      "8 oz / 250g   mascarpone (, good brand (Important - read Note 1))",
+      "1 1/4 cups black coffee (, hot and strong! (Note 2))",
+      "2 tbsp (or more!)   Frangelico or Kahlua (, or other liquor of choice (skip for alcohol free))",
+      "6.5 oz / 200g (24 - 30)   lady fingers, pavesini or savoiardi biscuits  ((Note 3))",
+      "Cocoa (, for dusting)"
     ],
     "instructions": [
-      "Heat a grill to medium heat with a 12-inch cast-iron skillet (or grill pan) inside.",
-      "Arrange the peppers on a tray and the mushrooms and onion wedges on a separate rimmed plate. In a small bowl, whisk together the avocado oil, garlic, chili powder, cumin, salt, and several grinds of pepper. Drizzle 1 scant tablespoon of the mixture over the peppers and toss to coat. Drizzle the remaining marinade over the mushrooms and onions. Drizzle the mushrooms with a splash of balsamic vinegar and use your hands to coat the mushrooms on both sides.",
-      "Grill the peppers in the cast-iron pan for 8 to 10 minutes, tossing occasionally, until charred and soft. Be careful not to overfill the pan or the veggies won’t char on the edges - cook them in 2 batches, if necessary. Grill the mushrooms and onion wedges directly on the grill for about 4 minutes about per side. Remove everything from the grill, using a potholder to remove the cast-iron pan. Squeeze the juice of ½ lime over the peppers and season with salt, pepper, and more chili powder, to taste. Slice the mushrooms into strips and place on a serving dish. Transfer the onions and the peppers to a serving skillet or large platter.",
-      "Serve with the tortillas, guacamole, jalapeños, tomatoes, cilantro, salsa, and remaining lime wedges for serving."
+      "Beat yolks and sugar in stand mixer or electric beater on speed 6 to 7 for 10 minutes or until it changes from yellow to pale yellow (almost white), and is thick (see video for consistency).",
+      "Add vanilla and mascarpone, beat until just combined and smooth. Transfer mixture to a bowl, set aside.",
+      "Clean bowl and whisk. Add egg whites and beat until it&#x27;s stiff (3 minutes on speed 7, should be all white foam, see video!)",
+      "Add 1/2 the cream mixture into the egg whites. Gently fold through. When most incorporated, add the remaining cream mixture and fold through until just combined - don&#x27;t bash out all the air in the egg whites! (Note 4)",
+      "Mix coffee and liquor together. Quickly dip biscuits in and line the bottom of a 8”/20cm square dish. (See video or step photos above to see how I arrange them).",
+      "Spread over half the cream, then top with another layer of coffee dipped biscuits.",
+      "Spread with remaining cream.",
+      "Cover, refrigerate for at least 4 - 5 hours, preferably overnight",
+      "Dust with cocoa powder just before serving - either before you cut or after placing onto serving plates."
     ],
-    "dateAdded": "2026-06-24"
+    "dateAdded": "2026-06-25"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2019/06/fajitas-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-06-24",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2016/03/Tiramisu_5.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-06-25",
   "added": false
 }
