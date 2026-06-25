@@ -32,7 +32,10 @@ export function filterRecipes(
         r.title.toLowerCase().includes(q) ||
         r.description?.toLowerCase().includes(q) ||
         r.tags.some((t) => t.toLowerCase().includes(q)) ||
-        r.notes?.toLowerCase().includes(q)
+        r.notes?.toLowerCase().includes(q) ||
+        r.source?.toLowerCase().includes(q) ||
+        r.ingredients.some((i) => i.toLowerCase().includes(q)) ||
+        r.instructions.some((s) => s.toLowerCase().includes(q))
     );
   }
 
