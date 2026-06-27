@@ -1,36 +1,32 @@
 {
   "recipe": {
-    "slug": "roasted-sweet-potato-salad",
-    "title": "Roasted Sweet Potato Salad",
-    "description": "This roasted sweet potato salad features black beans, bell peppers, and of course, roasted sweet potatoes with a simple dressing. Fresh and yummy!",
+    "slug": "fancy-s-mores",
+    "title": "fancy s’mores",
+    "description": "I ate a lot of s’mores as a kid. It all started at our family’s annual summer vacations to Kentucky…",
     "tags": [
-      "sweet potato recipe",
-      "sweet potato salad",
-      "salad recipe",
-      "lunch"
+      "summer",
+      "desserts",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/roasted-sweet-potato-salad",
-    "prepTime": "20 min",
-    "cookTime": "40 min",
-    "servings": 2,
+    "servings": null,
     "ingredients": [
-      "1 medium sweet potato, peeled and cut into 1-inch chunks",
-      "1 half of a red or yellow bell pepper, seeded and finely diced",
-      "half of 1 jalapeno, minced",
-      "1 clove garlic, minced",
-      "a few tbs. chopped red onion",
-      "zest of 1 lemon or lime",
-      "1 cup black beans",
-      "1/3 cup chopped fresh cilantro"
+      "graham crackers",
+      "marshmallows",
+      "variety of fancy chocolates",
+      "fruit such as: bananas, strawberries, blackberries",
+      "salted caramel",
+      "almond butter"
     ],
     "instructions": [
-      "Heat oven to 400 degrees. Put sweet potatoes, jalapenos, red peppers and garlic on a large baking sheet, drizzle with olive oil, toss to coat and spread out in a single layer. Sprinkle with salt and pepper. Roast, turning occasionally, until potatoes begin to brown on corners and are just tender inside, 30 to 40 minutes. Remove from oven; keep on pan until ready to mix with other ingredients.",
-      "Combine red onion, lemon/lime zest, black beans, and cilantro in a small bowl. Add sweet potato mixture and drizzle with a little more olive oil. Season with salt, pepper, and maybe a drop of honey. Serve warm or at room temperature, or refrigerate for up to a day."
+      "roast marshmallows over a campfire (or your gas stove).",
+      "Assemble s'mores.",
+      "Smush and eat!"
     ],
-    "dateAdded": "2026-06-26"
+    "dateAdded": "2026-06-27",
+    "source": "https://www.loveandlemons.com/fancy-smores-whole-foods-giveaway/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2011/06/Roasted-Sweet-Potato-Salad.jpeg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-06-26",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/07/IMG_0090.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-06-27",
   "added": false
 }
