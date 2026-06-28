@@ -1,32 +1,55 @@
 {
   "recipe": {
-    "slug": "fancy-s-mores",
-    "title": "fancy s’mores",
-    "description": "I ate a lot of s’mores as a kid. It all started at our family’s annual summer vacations to Kentucky…",
+    "slug": "wonton-soup",
+    "title": "Wonton Soup",
+    "description": "Recipe VIDEO above. Homemade wontons are amazing! No fillers, just real ingredients in the filling. Terrific standby freezer meal!",
     "tags": [
-      "summer",
-      "desserts",
-      "vegetarian"
+      "wonton recipe",
+      "wonton soup",
+      "dinner"
     ],
-    "servings": null,
+    "source": "https://www.recipetineats.com/wonton-soup/",
+    "prepTime": "20 min",
+    "cookTime": "15 min",
+    "servings": 50,
     "ingredients": [
-      "graham crackers",
-      "marshmallows",
-      "variety of fancy chocolates",
-      "fruit such as: bananas, strawberries, blackberries",
-      "salted caramel",
-      "almond butter"
+      "50 - 60  wonton wrappers ((Note 1))",
+      "200 g / 7 oz   lean pork mince ((ground pork))",
+      "200 g / 7 oz   peeled prawns / shrimp (, roughly chopped)",
+      "1 tbsp ginger (, finely grated (1.5\" / 3cm piece))",
+      "2  shallots / green onions (, finely chopped (5 tbsp))",
+      "1 tbsp light soy sauce ((Note 2))",
+      "2 tbsp Chinese cooking wine ((Shaoxing wine) (Note 3))",
+      "1/2 tsp salt",
+      "2 tbsp sesame oil, toasted ((Note 4))",
+      "3 cups / 750 ml   chicken broth ((Note 5))",
+      "2  garlic cloves (, smashed (6))",
+      "⅓\" / 1 cm   piece of ginger (, sliced (optional, but highly recommended))",
+      "1½ tbsp light soy sauce ((Note 2))",
+      "2 tsp sugar ((any))",
+      "1½ tbsp chinese cooking wine ((Note 3))",
+      "¼ - ½ tsp sesame oil",
+      "Shallots / scallions (, finely chopped)",
+      "Bok choy (, quartered, or Chinese broccoli cut into 10cm /4\" lengths (optional))",
+      "40 - 50 g / 1.5 - 1.75 oz   dried egg noodles per person (, (optional) (8))"
     ],
     "instructions": [
-      "roast marshmallows over a campfire (or your gas stove).",
-      "Assemble s'mores.",
-      "Smush and eat!"
+      "Place Filling ingredients in a bowl. Use a potato masher to mash until fairly smooth - about 20 mashes. Don't turn the prawn into a complete paste, small chunks are good.",
+      "Use My Way (better Wonton Soup experience!) or the Asian Grocery Store Way (easier to pack for freezing).",
+      "Lay Wontons on work surface. Use 2 teaspoons to put the Filling on the wontons. Work in batches of 5 if starting out, up to 15 or 20 if confident. Brush 2 edges with water. Fold to seal, pressing out air. Brush water on one corner and bring corners together, pressing to seal.",
+      "Place wrapped wontons into a container with a lid as you work (so they don't dry out).",
+      "To cook: bring a large pot of water to boil. Place wontons in water and cook for 4 minutes or until they float. Remove with slotted spoon straight into serving bowls. Ladle over broth.",
+      "To freeze: Freeze uncooked in airtight containers. Cook from frozen for 6 to 8 minutes. IMPORTANT: Do not freeze if you made this with defrosted frozen prawns. (Note 11)",
+      "Place Broth ingredients in a saucepan over high heat. Add white ends of scallions/shallots if leftover from Wonton filling.&nbsp;",
+      "Place lid on, bring to simmer then reduce to medium high and simmer for 5 - 10 minutes to allow the flavours to infuse. Pick garlic and ginger out before using.",
+      "If using vegetables, blanch in the soup broth and place in serving bowl.",
+      "Prepare noodles according to packet directions (if using noodles). Place in serving bowl with cooked wontons and blanched vegetables.",
+      "Ladle over soup. Serve!"
     ],
-    "dateAdded": "2026-06-27",
-    "source": "https://www.loveandlemons.com/fancy-smores-whole-foods-giveaway/"
+    "dateAdded": "2026-06-28"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/07/IMG_0090.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-06-27",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2016/09/Wontons_1-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-06-28",
   "added": false
 }
