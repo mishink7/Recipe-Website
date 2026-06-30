@@ -1,44 +1,35 @@
 {
   "recipe": {
-    "slug": "triple-berry-pie-bars",
-    "title": "Triple Berry Pie Bars",
-    "description": "These triple berry pie bars and perfect for summer get-togethers. Buttery crust, sweet berry filling, and a crumbly top layer. It's like pie in bar form!",
+    "slug": "best-green-smoothie",
+    "title": "Best Green Smoothie",
+    "description": "This green smoothie recipe isn't just healthy - it's delicious, too! It's a great vegan and gluten-free breakfast or afternoon snack.",
     "tags": [
-      "triple berry pie bars",
-      "pie bars",
-      "berry pie bars",
-      "dessert"
+      "green smoothie",
+      "spring",
+      "summer",
+      "winter",
+      "smoothie"
     ],
-    "source": "https://pinchofyum.com/triple-berry-pie-bars",
-    "prepTime": "25 min",
-    "cookTime": "1 hr",
-    "servings": 24,
+    "prepTime": "5 min",
+    "servings": 2,
     "ingredients": [
-      "2 cups all-purpose flour",
-      "1 cup quick oats",
-      "1 1/2 cups sugar",
-      "1/4 tsp salt",
-      "1 1/2 cups (3 sticks) unsalted butter, chilled",
-      "4 large eggs",
-      "2 cups sugar",
-      "1 cup sour cream",
-      "3/4 cup flour",
-      "pinch salt",
-      "zest of 1/2 lemon (I did not use this, but I wished that I had!)",
-      "1 tsp. vanilla extract",
-      "2 (16-oz) packages frozen mixed berries (strawberries, blackberries, and blueberries)"
+      "1 frozen banana",
+      "big handfuls fresh baby spinach, about 2 cups",
+      "¼ cup fresh mint, about 10 leaves",
+      "2 tablespoons almond butter",
+      "2 ice cubes",
+      "¼ teaspoon good vanilla extract",
+      "¾ cup Almond Breeze Almondmilk Cashewmilk, more as needed"
     ],
     "instructions": [
-      "To make the crust and topping, preheat the oven to 350 degrees. Grease a 9&#215;13 baking pan.",
-      "Put oats into the food processor and pulse until a coarse “flour” forms. Add the regular flour, sugar, and salt to the food processor. Pulse a few times to mix. Cut the butter into 1/2-inch cubes, and add to the flour mixture. Process until the butter is evenly distributed but the mixture is still crumbly, 30-60 seconds. (I had to do this in 3 batches because of the size of my food processor.)",
-      "Reserve 1 1/2 cups of the mixture to use as the topping. Press the remaining mixture into the bottom of the pan, and bake 12-15 minutes. Cool for at least 10 minutes.",
-      "To make the filling, whisk the eggs in a large bowl, then add the sugar, sour cream, flour, salt, lemon zest, and vanilla extract. Gently fold in the berries and spoon the mixture over the crust. Sprinkle the remaining flour mixture evenly over the filling, and bake 45 to 55 minutes.",
-      "Cool at least 1 hour before cutting into bars. Serve bars warmed, chilled, or at room temperature! Either way, I’d recommend them with a scoop of ice cream."
+      "In a blender, combine the banana, spinach, mint leaves, almond butter, ice, vanilla and cashew milk. Blend until smooth. Add more cashew milk as needed for desired consistency.",
+      "Pour into glasses and serve."
     ],
-    "dateAdded": "2026-06-29"
+    "dateAdded": "2026-06-30",
+    "source": "https://www.loveandlemons.com/best-green-smoothie-recipe/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2012/11/Triple-Berry-Pie-Bars.jpeg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-06-29",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/03/IMG_2093-cropped-3-1.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-06-30",
   "added": false
 }
