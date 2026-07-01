@@ -1,35 +1,34 @@
 {
   "recipe": {
-    "slug": "best-green-smoothie",
-    "title": "Best Green Smoothie",
-    "description": "This green smoothie recipe isn't just healthy - it's delicious, too! It's a great vegan and gluten-free breakfast or afternoon snack.",
-    "tags": [
-      "green smoothie",
-      "spring",
-      "summer",
-      "winter",
-      "smoothie"
-    ],
+    "slug": "trio-of-bruschetta-celery-and-lime-bruschetta",
+    "title": "Trio of Bruschetta: Celery and Lime Bruschetta",
+    "tags": [],
+    "source": "https://www.recipetineats.com/trio-bruschetta-celery-lime-bruschetta/",
     "prepTime": "5 min",
-    "servings": 2,
+    "cookTime": "5 min",
+    "servings": 4,
     "ingredients": [
-      "1 frozen banana",
-      "big handfuls fresh baby spinach, about 2 cups",
-      "¼ cup fresh mint, about 10 leaves",
-      "2 tablespoons almond butter",
-      "2 ice cubes",
-      "¼ teaspoon good vanilla extract",
-      "¾ cup Almond Breeze Almondmilk Cashewmilk, more as needed"
+      "4 slices of good quality crusty bread like sourdough or ciabatta (, sliced 1cm/0.5\" thick, preferably slightly stale)",
+      "1  garlic clove (, halved (unpeeled))",
+      "6  large sticks of celery",
+      "1  garlic clove (, peeled)",
+      "4 tbsp extra virgin olive oil",
+      "1 tbsp lime juice",
+      "1/4 tsp salt (, plus more to taste)",
+      "Black pepper"
     ],
     "instructions": [
-      "In a blender, combine the banana, spinach, mint leaves, almond butter, ice, vanilla and cashew milk. Blend until smooth. Add more cashew milk as needed for desired consistency.",
-      "Pour into glasses and serve."
+      "Preheat a griddle pan or barbecue (grill side, not hotplate side) on high.",
+      "Place bread on the barbecue or griddle pan, and cook each side until nicely toasted and golden brown with char lines. You can also toast the bread in a toaster or grill/broil.",
+      "Remove from heat and rub the surface of the bread lightly with the garlic.",
+      "Cut 5 1/2 of the celery sticks into chunks (about 4 cups) and place into food processor with remaining ingredients and whizz until smooth. Season to taste with salt and pepper.",
+      "Dice the remaining 1/2 celery stick. Stir into the celery puree.",
+      "Spread topping onto bread. Drizzle with extra virgin olive oil and serve immediately."
     ],
-    "dateAdded": "2026-06-30",
-    "source": "https://www.loveandlemons.com/best-green-smoothie-recipe/"
+    "dateAdded": "2026-07-01"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/03/IMG_2093-cropped-3-1.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-06-30",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/07/Celery-and-Lime-Bruschetta-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-07-01",
   "added": false
 }
