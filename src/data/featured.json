@@ -1,34 +1,51 @@
 {
   "recipe": {
-    "slug": "trio-of-bruschetta-celery-and-lime-bruschetta",
-    "title": "Trio of Bruschetta: Celery and Lime Bruschetta",
-    "tags": [],
-    "source": "https://www.recipetineats.com/trio-bruschetta-celery-lime-bruschetta/",
-    "prepTime": "5 min",
-    "cookTime": "5 min",
-    "servings": 4,
+    "slug": "instant-pot-buffalo-chicken-tacos",
+    "title": "Instant Pot Buffalo Chicken Tacos",
+    "description": "Instant Pot Buffalo Chicken Tacos! Buffalo broiled chicken covered with a limey slaw and a smothering of homemade ranch, all tucked into a charred tortilla.",
+    "tags": [
+      "buffalo chicken",
+      "instant pot buffalo chicken",
+      "chicken tacos",
+      "buffalo chicken tacos",
+      "weeknight dinner",
+      "dinner"
+    ],
+    "source": "https://pinchofyum.com/instant-pot-buffalo-chicken-tacos",
+    "prepTime": "10 min",
+    "cookTime": "30 min",
+    "servings": 2,
     "ingredients": [
-      "4 slices of good quality crusty bread like sourdough or ciabatta (, sliced 1cm/0.5\" thick, preferably slightly stale)",
-      "1  garlic clove (, halved (unpeeled))",
-      "6  large sticks of celery",
-      "1  garlic clove (, peeled)",
-      "4 tbsp extra virgin olive oil",
-      "1 tbsp lime juice",
-      "1/4 tsp salt (, plus more to taste)",
-      "Black pepper"
+      "1.25 lb boneless skinless chicken thighs",
+      "1/2 teaspoon onion powder",
+      "salt and pepper",
+      "1/4 cup buffalo sauce",
+      "1/2 cup mayonnaise",
+      "1/4 cup olive oil",
+      "1/4 cup water",
+      "1 tablespoon white vinegar",
+      "1 clove garlic",
+      "1 teaspoon dried dill (or about 1/4 cup fresh)",
+      "1/4 cup fresh parsley",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon salt",
+      "black pepper to taste",
+      "tortillas",
+      "shredded cabbage",
+      "cilantro",
+      "avocado",
+      "limes"
     ],
     "instructions": [
-      "Preheat a griddle pan or barbecue (grill side, not hotplate side) on high.",
-      "Place bread on the barbecue or griddle pan, and cook each side until nicely toasted and golden brown with char lines. You can also toast the bread in a toaster or grill/broil.",
-      "Remove from heat and rub the surface of the bread lightly with the garlic.",
-      "Cut 5 1/2 of the celery sticks into chunks (about 4 cups) and place into food processor with remaining ingredients and whizz until smooth. Season to taste with salt and pepper.",
-      "Dice the remaining 1/2 celery stick. Stir into the celery puree.",
-      "Spread topping onto bread. Drizzle with extra virgin olive oil and serve immediately."
+      "Place chicken, seasonings, and buffalo sauce in the Instant Pot. Cook on high pressure for 15 minutes. Allow for natural pressure release for 5-10 minutes. When chicken is done, shred with two forks.",
+      "While chicken cooks, make the ranch. Combine everything in a food processor and pulse until smooth.",
+      "Transfer shredded chicken and sauce to a baking sheet. Broil for 10-15 minutes until browned and crispy.",
+      "Assemble tacos: buffalo chicken, mashed avocado, shredded cabbage, lime squeeze, cheese of choice, and ranch all in a nice fluffy tortilla."
     ],
-    "dateAdded": "2026-07-01"
+    "dateAdded": "2026-07-02"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/07/Celery-and-Lime-Bruschetta-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-07-01",
+  "imageUrl": "https://pinchofyum.com/tachyon/Buffalo-Chicken-Tacos-Square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-07-02",
   "added": false
 }
