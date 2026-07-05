@@ -1,48 +1,34 @@
 {
   "recipe": {
-    "slug": "middle-eastern-roasted-vegetables-with-tahini-sauce",
-    "title": "Middle Eastern Roasted Vegetables with Tahini Sauce",
-    "description": "A simple Middle Eastern dish that's perfect for using up left over veggies at the end of a week. You can use any vegetables you want, just make sure to cut them to size so they cook in roughly the same time. Stuffed into pitas, it makes a wonderful light meal or lunch, or a perfect side.",
+    "slug": "classic-dinner-pancakes",
+    "title": "Classic Dinner Pancakes",
+    "description": "These classic DINNER pancakes are my favorite when we have breakfast for dinner. So soft and fluffy and just begging for maple syrup.",
     "tags": [
-      "light meal",
-      "salad",
-      "side"
+      "dinner pancakes",
+      "pancakes for dinner",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/middle-eastern-roasted-vegetables-with-tahini-drizzle/",
-    "prepTime": "10 min",
-    "cookTime": "30 min",
-    "servings": 2,
+    "source": "https://pinchofyum.com/classic-dinner-pancakes",
+    "prepTime": "5 min",
+    "cookTime": "5 min",
+    "servings": 6,
     "ingredients": [
-      "1  red onion (, sliced thickly)",
-      "1  carrot (, cut into thick sticks)",
-      "1  zucchini (, cut into thick sticks)",
-      "1/4  pumpkin (, cut into 2\"/3cm cubes)",
-      "1 1/2 cups large cauliflower florets",
-      "1  beetroot (, cut into 1.5\"/2cm cubes)",
-      "2 tbsp olive oil",
-      "1 tsp salt",
-      "Black pepper",
-      "3 tbsp tahini",
-      "3 tbsp lemon juice",
-      "1  small garlic clove (, minced (or 1/2 large))",
-      "1/2 tsp salt",
-      "Black pepper",
-      "Water",
-      "2 tsp za'atar spice mix ((see notes))",
-      "2 tbsp pine nuts (, dry roasted)",
-      "1 tbsp coriander (, chopped (or parsley))"
+      "3 eggs",
+      "1 1/2 cups flour (I use whole wheat pastry flour)",
+      "1 teaspoon baking soda",
+      "3/4 teaspoon salt",
+      "1 tablespoon sugar",
+      "1 2/3 cup buttermilk",
+      "3 tablespoons butter, melted"
     ],
     "instructions": [
-      "Preheat oven to 350F/180C.",
-      "Combine Roasted Vegetable ingredients, spread on baking tray and bake for 30 to 40 minutes.",
-      "Combine Tahini Sauce ingredients. Mix until smooth, and use water to adjust to the consistency of honey.",
-      "Pile roasted vegetables onto a plate. Sprinkle with za'atar, drizzle with Tahini Sauce, scatter over roasted pine nuts and coriander.",
-      "Serve with lebanese bread wedges or pita bread."
+      "Separate eggs; beat egg yolks. Sift dry ingredients; add alternately with buttermilk to the beaten egg yolks. Add melted butter. Whisk the egg whites for about a minute and fold into the batter.",
+      "Bake on hot griddle (400 degrees) until bubbles rise in the pancakes, about 3 minutes. Flip and cook another 2 minutes or until golden brown. Serve immediately."
     ],
-    "dateAdded": "2026-07-04"
+    "dateAdded": "2026-07-05"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/06/DSC_0035-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-07-04",
+  "imageUrl": "https://pinchofyum.com/tachyon/Pancakes1.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-07-05",
   "added": false
 }
