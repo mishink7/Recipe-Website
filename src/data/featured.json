@@ -1,34 +1,49 @@
 {
   "recipe": {
-    "slug": "classic-dinner-pancakes",
-    "title": "Classic Dinner Pancakes",
-    "description": "These classic DINNER pancakes are my favorite when we have breakfast for dinner. So soft and fluffy and just begging for maple syrup.",
+    "slug": "mostly-veggie-baked-macaroni",
+    "title": "mostly veggie baked macaroni",
+    "description": "Sometimes life is not all about balance. For example, this is by no means a perfectly balanced mac and cheese…",
     "tags": [
-      "dinner pancakes",
-      "pancakes for dinner",
-      "dinner"
+      "spring",
+      "dinner",
+      "pasta",
+      "side dishes",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/classic-dinner-pancakes",
-    "prepTime": "5 min",
-    "cookTime": "5 min",
-    "servings": 6,
+    "servings": 2,
     "ingredients": [
-      "3 eggs",
-      "1 1/2 cups flour (I use whole wheat pastry flour)",
-      "1 teaspoon baking soda",
-      "3/4 teaspoon salt",
-      "1 tablespoon sugar",
-      "1 2/3 cup buttermilk",
-      "3 tablespoons butter, melted"
+      "¾ cups cashew cream",
+      "½ cup (uncooked) quinoa elbows (or any elbows)",
+      "½ cup chopped asparagus (tender parts only)",
+      "½ cup peas",
+      "½ cup mini mozzarella balls, halved",
+      "handfuls of fresh chopped basil and sage",
+      "¼ cup grated comté (or parmesan) for the topping",
+      "¼ cup panko breadcrumbs",
+      "a generous drizzle of olive oil",
+      "pinches of red pepper flakes",
+      "salt & pepper",
+      "1.5 cups cashews, soak overnight & drain",
+      "2 cloves garlic",
+      "3 tablespoons lemon juice",
+      "2 teaspoons dijon mustard",
+      "¼ cup water (more if necessary)",
+      "salt & pepper"
     ],
     "instructions": [
-      "Separate eggs; beat egg yolks. Sift dry ingredients; add alternately with buttermilk to the beaten egg yolks. Add melted butter. Whisk the egg whites for about a minute and fold into the batter.",
-      "Bake on hot griddle (400 degrees) until bubbles rise in the pancakes, about 3 minutes. Flip and cook another 2 minutes or until golden brown. Serve immediately."
+      "Preheat oven to 350 degrees.",
+      "Use a high speed blender to blend all ingredients for the cashew cream. Taste and adjust seasonings, set aside.",
+      "Coat the bottom of a 9x13 (or similar) baking dish with a little olive oil.",
+      "Cook pasta in boiling water until al dente. Drain.",
+      "Toss about ¾ cups of the cashew cream with the cooked pasta. (I did this right in my baking dish to dirty less dishes). Add the asparagus, peas, mozzarella, herbs, a few pinches of salt & pepper. Fold everything together so that all ingredients are coated and evenly disbursed, then gently press it into the pan to form an even layer.",
+      "Top with grated comté (or parmesan), panko bread crumbs, a drizzle of olive oil, salt, pepper & a few pinches of red pepper flakes.",
+      "Bake until the crust is golden brown, about 20 minutes."
     ],
-    "dateAdded": "2026-07-05"
+    "dateAdded": "2026-07-06",
+    "source": "https://www.loveandlemons.com/veggie-baked-macaroni/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Pancakes1.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-07-05",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/06/IMG_0009.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-07-06",
   "added": false
 }
