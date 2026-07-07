@@ -1,49 +1,36 @@
 {
   "recipe": {
-    "slug": "mostly-veggie-baked-macaroni",
-    "title": "mostly veggie baked macaroni",
-    "description": "Sometimes life is not all about balance. For example, this is by no means a perfectly balanced mac and cheese…",
+    "slug": "juicy-pesto-pasta",
+    "title": "JUICY Pesto Pasta!",
+    "description": "Recipe video above. This is how to make a great pesto pasta that's slick with pesto sauce without adding tons and tons of oil which makes it overly oily. The secret is using the pasta cooking water - it emulsifies with the oil in the pesto which makes it cling to every strand of pasta. A technique used in every Italian household! Make this with homemade pesto for the best flavour.",
     "tags": [
-      "spring",
-      "dinner",
-      "pasta",
-      "side dishes",
-      "vegetarian"
+      "pesto pasta",
+      "mains",
+      "pasta"
     ],
-    "servings": 2,
+    "source": "https://www.recipetineats.com/pesto-pasta/",
+    "servings": 3,
     "ingredients": [
-      "¾ cups cashew cream",
-      "½ cup (uncooked) quinoa elbows (or any elbows)",
-      "½ cup chopped asparagus (tender parts only)",
-      "½ cup peas",
-      "½ cup mini mozzarella balls, halved",
-      "handfuls of fresh chopped basil and sage",
-      "¼ cup grated comté (or parmesan) for the topping",
-      "¼ cup panko breadcrumbs",
-      "a generous drizzle of olive oil",
-      "pinches of red pepper flakes",
-      "salt & pepper",
-      "1.5 cups cashews, soak overnight & drain",
-      "2 cloves garlic",
-      "3 tablespoons lemon juice",
-      "2 teaspoons dijon mustard",
-      "¼ cup water (more if necessary)",
-      "salt & pepper"
+      "1  quantity homemade pesto ((Note 1))",
+      "300 - 350 g / 10 - 12 oz   pasta of choice ((ziti, penne and spaghetti are my favourites, Note 2))",
+      "2 tsp salt",
+      "3/4 cup pasta cooking water",
+      "Parmesan, for serving"
     ],
     "instructions": [
-      "Preheat oven to 350 degrees.",
-      "Use a high speed blender to blend all ingredients for the cashew cream. Taste and adjust seasonings, set aside.",
-      "Coat the bottom of a 9x13 (or similar) baking dish with a little olive oil.",
-      "Cook pasta in boiling water until al dente. Drain.",
-      "Toss about ¾ cups of the cashew cream with the cooked pasta. (I did this right in my baking dish to dirty less dishes). Add the asparagus, peas, mozzarella, herbs, a few pinches of salt & pepper. Fold everything together so that all ingredients are coated and evenly disbursed, then gently press it into the pan to form an even layer.",
-      "Top with grated comté (or parmesan), panko bread crumbs, a drizzle of olive oil, salt, pepper & a few pinches of red pepper flakes.",
-      "Bake until the crust is golden brown, about 20 minutes."
+      "Bring a large pot of water to the boil with the salt.",
+      "Add pasta and cook for the length of time per the packet.",
+      "Just before draining, scoop out 1 cup of of the pasta cooking water.",
+      "Drain pasta in a colander, leave it for a minute.",
+      "Transfer pasta to a bowl (do not use pasta cooking pot, too hot).",
+      "Add pesto and 1/4 cup of pasta water. Toss to coat pasta in pesto, adding more water if required to make pasta silky and saucy, rather than dry and sticky.",
+      "Taste, add more salt and pepper if desired.",
+      "Serve immediately, garnished with fresh parmesan."
     ],
-    "dateAdded": "2026-07-06",
-    "source": "https://www.loveandlemons.com/veggie-baked-macaroni/"
+    "dateAdded": "2026-07-07"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/06/IMG_0009.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-07-06",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2019/02/Pesto-Pasta_3.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-07-07",
   "added": false
 }
