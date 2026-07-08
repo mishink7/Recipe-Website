@@ -1,36 +1,41 @@
 {
   "recipe": {
-    "slug": "juicy-pesto-pasta",
-    "title": "JUICY Pesto Pasta!",
-    "description": "Recipe video above. This is how to make a great pesto pasta that's slick with pesto sauce without adding tons and tons of oil which makes it overly oily. The secret is using the pasta cooking water - it emulsifies with the oil in the pesto which makes it cling to every strand of pasta. A technique used in every Italian household! Make this with homemade pesto for the best flavour.",
+    "slug": "baked-mac-and-cheese",
+    "title": "Baked Mac and Cheese",
+    "description": "This Baked Mac and Cheese is cheesy on the inside, crispy on the outside, heavy on the OMG yum factor. It's my take on the recipe from The Food Lab: Better Home Cooking Through Science cookbook.",
     "tags": [
-      "pesto pasta",
-      "mains",
-      "pasta"
+      "baked mac and cheese",
+      "macaroni and cheese",
+      "mac and cheese",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/pesto-pasta/",
-    "servings": 3,
+    "source": "https://pinchofyum.com/baked-mac-and-cheese",
+    "prepTime": "35 min",
+    "cookTime": "40 min",
+    "servings": 8,
     "ingredients": [
-      "1  quantity homemade pesto ((Note 1))",
-      "300 - 350 g / 10 - 12 oz   pasta of choice ((ziti, penne and spaghetti are my favourites, Note 2))",
-      "2 tsp salt",
-      "3/4 cup pasta cooking water",
-      "Parmesan, for serving"
+      "1 lb elbow macaroni",
+      "2-3 slices white bread, toasted",
+      "7 tablespoons butter, divided",
+      "2 tablespoons flour",
+      "1 12-ounce can evaporated milk",
+      "1/2 cup whole milk",
+      "1 teaspoon ground mustard",
+      "1 1/2 pounds cheddar cheese, grated",
+      "8 ounces American, Gruyere, or any other smooth melting cheese, grated or cut into chunks",
+      "2 eggs, beaten"
     ],
     "instructions": [
-      "Bring a large pot of water to the boil with the salt.",
-      "Add pasta and cook for the length of time per the packet.",
-      "Just before draining, scoop out 1 cup of of the pasta cooking water.",
-      "Drain pasta in a colander, leave it for a minute.",
-      "Transfer pasta to a bowl (do not use pasta cooking pot, too hot).",
-      "Add pesto and 1/4 cup of pasta water. Toss to coat pasta in pesto, adding more water if required to make pasta silky and saucy, rather than dry and sticky.",
-      "Taste, add more salt and pepper if desired.",
-      "Serve immediately, garnished with fresh parmesan."
+      "Preheat the oven to 375 degrees. Pour the macaroni into a large bowl and cover with hot water and stir in a big pinch of salt. Let the noodles soak for about 30 minutes while you prep the other ingredients.",
+      "Melt two tablespoons of the butter. Pulse the bread through a food processor, and add the butter. Set aside.",
+      "Melt the butter in a large saucepan. Add the flour and cook, stirring constantly, until light golden blonde. Add the evaporated milk and whole milk, very slowly, whisking constantly to achieve a nice smooth, thick sauce. Stir in the mustard. Bring to a simmer over medium heat. Remove from heat to add the cheeses &#8211; stir until melted. Season to taste.",
+      "Whisk about a cup of sauce with the eggs in a separate bowl (to increase the temperature of the eggs gradually). Once combined, add that egg mixture in with the rest of the sauce. Add the drained macaroni and stir to combine. Pour into a greased rectangular or square baking dish.",
+      "Top with the breadcrumbs, cover with foil, and bake for 30 minutes. Remove foil and bake for another 5 minutes to get the breadcrumbs toasty and nice. Serve with salt, pepper, hot sauce, or whatever you like with your baked mac and cheese."
     ],
-    "dateAdded": "2026-07-07"
+    "dateAdded": "2026-07-08"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2019/02/Pesto-Pasta_3.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-07-07",
+  "imageUrl": "https://pinchofyum.com/tachyon/Baked-Mac-and-Cheese-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-07-08",
   "added": false
 }
