@@ -1,41 +1,46 @@
 {
   "recipe": {
-    "slug": "baked-mac-and-cheese",
-    "title": "Baked Mac and Cheese",
-    "description": "This Baked Mac and Cheese is cheesy on the inside, crispy on the outside, heavy on the OMG yum factor. It's my take on the recipe from The Food Lab: Better Home Cooking Through Science cookbook.",
+    "slug": "lemon-broccoli-pasta-exciting-news",
+    "title": "Lemon Broccoli Pasta + Exciting News!",
+    "description": "I’ll cut to the chase and just start with “exciting news” part – we’re writing a cookbook! I haven’t been overly…",
     "tags": [
-      "baked mac and cheese",
-      "macaroni and cheese",
-      "mac and cheese",
-      "dinner"
+      "spring",
+      "winter",
+      "dairy free",
+      "dinner",
+      "gluten free",
+      "pasta",
+      "vegan"
     ],
-    "source": "https://pinchofyum.com/baked-mac-and-cheese",
-    "prepTime": "35 min",
-    "cookTime": "40 min",
-    "servings": 8,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 2,
     "ingredients": [
-      "1 lb elbow macaroni",
-      "2-3 slices white bread, toasted",
-      "7 tablespoons butter, divided",
-      "2 tablespoons flour",
-      "1 12-ounce can evaporated milk",
-      "1/2 cup whole milk",
-      "1 teaspoon ground mustard",
-      "1 1/2 pounds cheddar cheese, grated",
-      "8 ounces American, Gruyere, or any other smooth melting cheese, grated or cut into chunks",
-      "2 eggs, beaten"
+      "1 tablespoon olive oil",
+      "3 garlic scapes, chopped into 1 inch pieces (or 1 clove minced garlic)*",
+      "2 cups broccolini or broccoli florets",
+      "6 oz. brown rice spaghetti",
+      "squeeze of lemon + a bit of lemon zest",
+      "hemp seed topping (below), or freshly grated parmesan cheese",
+      "a few basil leaves, sliced",
+      "a pinch of red chile flakes",
+      "salt and pepper",
+      "½ cup hemp seeds",
+      "2 tablespoons nutritional yeast",
+      "2 tablespoons raw sunflower seeds",
+      "pinch of salt"
     ],
     "instructions": [
-      "Preheat the oven to 375 degrees. Pour the macaroni into a large bowl and cover with hot water and stir in a big pinch of salt. Let the noodles soak for about 30 minutes while you prep the other ingredients.",
-      "Melt two tablespoons of the butter. Pulse the bread through a food processor, and add the butter. Set aside.",
-      "Melt the butter in a large saucepan. Add the flour and cook, stirring constantly, until light golden blonde. Add the evaporated milk and whole milk, very slowly, whisking constantly to achieve a nice smooth, thick sauce. Stir in the mustard. Bring to a simmer over medium heat. Remove from heat to add the cheeses &#8211; stir until melted. Season to taste.",
-      "Whisk about a cup of sauce with the eggs in a separate bowl (to increase the temperature of the eggs gradually). Once combined, add that egg mixture in with the rest of the sauce. Add the drained macaroni and stir to combine. Pour into a greased rectangular or square baking dish.",
-      "Top with the breadcrumbs, cover with foil, and bake for 30 minutes. Remove foil and bake for another 5 minutes to get the breadcrumbs toasty and nice. Serve with salt, pepper, hot sauce, or whatever you like with your baked mac and cheese."
+      "Make the hemp seed topping: In a food processor, pulse together hemp seeds, nutritional yeast, sunflower seeds and salt. Set aside",
+      "Cook pasta in a large pot of salted boiling water.",
+      "Meanwhile, heat a medium skillet over medium heat. Add garlic scapes, broccolini, salt and pepper. Let cook until broccolini is tender but still vibrant green, about 4-5 minutes. Scoop pasta out of the pot and directly into your skillet and toss. Add a squeeze of lemon, stir, remove from heat and serve.",
+      "Top pasta bowls with basil leaves, a sprinkle of hemp seed topping (or grated cheese), red chile flakes and a little lemon zest. Taste and season with salt and pepper, as needed."
     ],
-    "dateAdded": "2026-07-08"
+    "dateAdded": "2026-07-09",
+    "source": "https://www.loveandlemons.com/lemon-broccoli-pasta-exciting-news/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Baked-Mac-and-Cheese-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-07-08",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/03/IMG_2015_03_22_03489-cropped1.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-07-09",
   "added": false
 }
