@@ -1,46 +1,12 @@
 {
   "recipe": {
-    "slug": "lemon-broccoli-pasta-exciting-news",
-    "title": "Lemon Broccoli Pasta + Exciting News!",
-    "description": "I’ll cut to the chase and just start with “exciting news” part – we’re writing a cookbook! I haven’t been overly…",
-    "tags": [
-      "spring",
-      "winter",
-      "dairy free",
-      "dinner",
-      "gluten free",
-      "pasta",
-      "vegan"
-    ],
-    "prepTime": "5 min",
-    "cookTime": "15 min",
-    "servings": 2,
-    "ingredients": [
-      "1 tablespoon olive oil",
-      "3 garlic scapes, chopped into 1 inch pieces (or 1 clove minced garlic)*",
-      "2 cups broccolini or broccoli florets",
-      "6 oz. brown rice spaghetti",
-      "squeeze of lemon + a bit of lemon zest",
-      "hemp seed topping (below), or freshly grated parmesan cheese",
-      "a few basil leaves, sliced",
-      "a pinch of red chile flakes",
-      "salt and pepper",
-      "½ cup hemp seeds",
-      "2 tablespoons nutritional yeast",
-      "2 tablespoons raw sunflower seeds",
-      "pinch of salt"
-    ],
-    "instructions": [
-      "Make the hemp seed topping: In a food processor, pulse together hemp seeds, nutritional yeast, sunflower seeds and salt. Set aside",
-      "Cook pasta in a large pot of salted boiling water.",
-      "Meanwhile, heat a medium skillet over medium heat. Add garlic scapes, broccolini, salt and pepper. Let cook until broccolini is tender but still vibrant green, about 4-5 minutes. Scoop pasta out of the pot and directly into your skillet and toss. Add a squeeze of lemon, stir, remove from heat and serve.",
-      "Top pasta bowls with basil leaves, a sprinkle of hemp seed topping (or grated cheese), red chile flakes and a little lemon zest. Taste and season with salt and pepper, as needed."
-    ],
-    "dateAdded": "2026-07-09",
-    "source": "https://www.loveandlemons.com/lemon-broccoli-pasta-exciting-news/"
+    "title": "Creamy Chicken & Mushroom Fettucine",
+    "description": "The Italian secret to perfect pasta is starchy pasta water, which gently thickens this creamy sauce so it becomes luscious and gorgeous, clinging to every fettuccine strand. Translation: perfection with every bite! Find the recipe",
+    "source": "https://www.recipetineats.com/creamy-chicken-mushroom-fettucine/",
+    "dateAdded": "2026-07-10"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/03/IMG_2015_03_22_03489-cropped1.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-07-09",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2021/05/Creamy-Chicken-Mushroom-Fettucine_900px.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-07-10",
   "added": false
 }
