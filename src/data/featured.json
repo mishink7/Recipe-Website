@@ -1,12 +1,43 @@
 {
   "recipe": {
-    "title": "Creamy Chicken & Mushroom Fettucine",
-    "description": "The Italian secret to perfect pasta is starchy pasta water, which gently thickens this creamy sauce so it becomes luscious and gorgeous, clinging to every fettuccine strand. Translation: perfection with every bite! Find the recipe",
-    "source": "https://www.recipetineats.com/creamy-chicken-mushroom-fettucine/",
-    "dateAdded": "2026-07-10"
+    "slug": "cinnamon-sugar-zucchini-coffee-cake",
+    "title": "Cinnamon Sugar Zucchini Coffee Cake",
+    "description": "This Cinnamon Sugar Zucchini Coffee Cake is so simple! It takes about 10 minutes to make and has two layers of cinnamon sugar. Mmm.",
+    "tags": [
+      "cinnamon sugar zucchini coffee cake",
+      "zucchini coffee cake",
+      "coffee cake recipe",
+      "dessert"
+    ],
+    "source": "https://pinchofyum.com/cinnamon-sugar-zucchini-coffee-cake",
+    "prepTime": "10 min",
+    "cookTime": "45 min",
+    "servings": 20,
+    "ingredients": [
+      "1 1/3 cups brown sugar",
+      "1/3 cup oil (I used olive oil but Canola oil works too)",
+      "1 egg",
+      "1 cup buttermilk (you can sub milk + vinegar, even almond milk!)",
+      "1 teaspoon baking soda",
+      "1 teaspoon vanilla",
+      "1/4 teaspoon salt (I just eyeballed a little pinch)",
+      "2 1/2 cups all purpose flour",
+      "1 1/2 cups grated zucchini",
+      "1 tablespoon orange zest",
+      "1 cup sugar",
+      "1 1/2 teaspoons cinnamon",
+      "2 tablespoons butter"
+    ],
+    "instructions": [
+      "Preheat the oven to 325 degrees.",
+      "Press or drain the excess moisture out of the zucchini shreds. Mix the cake ingredients in order given.",
+      "Combine the topping ingredients with your fingers or in a food processor to make a crumbly topping. Pour half of the batter into a greased 9×13 cake pan. Cover with half of the crumbs. Repeat with the remaining batter and topping.",
+      "Bake for 45 minutes. The top will be crunchy and textured and the cake will bounce back when you gently press it. And then it will be gone fast."
+    ],
+    "dateAdded": "2026-07-11"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2021/05/Creamy-Chicken-Mushroom-Fettucine_900px.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-07-10",
+  "imageUrl": "https://pinchofyum.com/tachyon/zucchini-cake-recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-07-11",
   "added": false
 }
