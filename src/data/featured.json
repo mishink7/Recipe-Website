@@ -1,43 +1,37 @@
 {
   "recipe": {
-    "slug": "cinnamon-sugar-zucchini-coffee-cake",
-    "title": "Cinnamon Sugar Zucchini Coffee Cake",
-    "description": "This Cinnamon Sugar Zucchini Coffee Cake is so simple! It takes about 10 minutes to make and has two layers of cinnamon sugar. Mmm.",
+    "slug": "coconut-cream",
+    "title": "Coconut Cream",
+    "description": "Light &amp; fluffy, this easy coconut whipped cream is the best alternative to the traditional version! Just be sure to chill your cans of coconut milk or cream in the refrigerator the night before you want to make it.",
     "tags": [
-      "cinnamon sugar zucchini coffee cake",
-      "zucchini coffee cake",
-      "coffee cake recipe",
+      "coconut cream",
+      "fall",
+      "spring",
+      "summer",
+      "winter",
       "dessert"
     ],
-    "source": "https://pinchofyum.com/cinnamon-sugar-zucchini-coffee-cake",
+    "source": "https://www.loveandlemons.com/coconut-cream/",
     "prepTime": "10 min",
-    "cookTime": "45 min",
-    "servings": 20,
+    "servings": 4,
     "ingredients": [
-      "1 1/3 cups brown sugar",
-      "1/3 cup oil (I used olive oil but Canola oil works too)",
-      "1 egg",
-      "1 cup buttermilk (you can sub milk + vinegar, even almond milk!)",
-      "1 teaspoon baking soda",
-      "1 teaspoon vanilla",
-      "1/4 teaspoon salt (I just eyeballed a little pinch)",
-      "2 1/2 cups all purpose flour",
-      "1 1/2 cups grated zucchini",
-      "1 tablespoon orange zest",
-      "1 cup sugar",
-      "1 1/2 teaspoons cinnamon",
-      "2 tablespoons butter"
+      "2  (13.5-ounce) cans full-fat coconut milk, refrigerated overnight",
+      "2½ tablespoons maple syrup",
+      "1 tablespoon pure vanilla extract",
+      "1 tablespoon lemon zest",
+      "Pinch of sea salt",
+      "1-2 tablespoons lemon juice (optional, depending on thickness of your cream)"
     ],
     "instructions": [
-      "Preheat the oven to 325 degrees.",
-      "Press or drain the excess moisture out of the zucchini shreds. Mix the cake ingredients in order given.",
-      "Combine the topping ingredients with your fingers or in a food processor to make a crumbly topping. Pour half of the batter into a greased 9×13 cake pan. Cover with half of the crumbs. Repeat with the remaining batter and topping.",
-      "Bake for 45 minutes. The top will be crunchy and textured and the cake will bounce back when you gently press it. And then it will be gone fast."
+      "Scoop the coconut solids that have risen to the top of the can, and spoon it into a stand mixer fitted with the whisk attachment. Make sure the solids have separated from the coconut water in the can - if it mixes, your coconut cream will not whip. Save the leftover coconut water for smoothies.",
+      "Beat the on high speed until it begins to thicken and and peaks form. Don't over-mix or your cream will soften too much.",
+      "Add the maple syrup, vanilla, salt, and lemon zest, and mix until combined. If your coconut cream is very thick, add 1 to 2 tablespoons lemon juice, if desired. If your cream isn't thick enough for the additional liquid, skip the lemon juice.",
+      "Chill the cream in the fridge until you're ready to serve."
     ],
-    "dateAdded": "2026-07-11"
+    "dateAdded": "2026-07-12"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/zucchini-cake-recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-07-11",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2018/05/IMG_12104-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-07-12",
   "added": false
 }
