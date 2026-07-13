@@ -1,37 +1,12 @@
 {
   "recipe": {
-    "slug": "coconut-cream",
-    "title": "Coconut Cream",
-    "description": "Light &amp; fluffy, this easy coconut whipped cream is the best alternative to the traditional version! Just be sure to chill your cans of coconut milk or cream in the refrigerator the night before you want to make it.",
-    "tags": [
-      "coconut cream",
-      "fall",
-      "spring",
-      "summer",
-      "winter",
-      "dessert"
-    ],
-    "source": "https://www.loveandlemons.com/coconut-cream/",
-    "prepTime": "10 min",
-    "servings": 4,
-    "ingredients": [
-      "2  (13.5-ounce) cans full-fat coconut milk, refrigerated overnight",
-      "2½ tablespoons maple syrup",
-      "1 tablespoon pure vanilla extract",
-      "1 tablespoon lemon zest",
-      "Pinch of sea salt",
-      "1-2 tablespoons lemon juice (optional, depending on thickness of your cream)"
-    ],
-    "instructions": [
-      "Scoop the coconut solids that have risen to the top of the can, and spoon it into a stand mixer fitted with the whisk attachment. Make sure the solids have separated from the coconut water in the can - if it mixes, your coconut cream will not whip. Save the leftover coconut water for smoothies.",
-      "Beat the on high speed until it begins to thicken and and peaks form. Don't over-mix or your cream will soften too much.",
-      "Add the maple syrup, vanilla, salt, and lemon zest, and mix until combined. If your coconut cream is very thick, add 1 to 2 tablespoons lemon juice, if desired. If your cream isn't thick enough for the additional liquid, skip the lemon juice.",
-      "Chill the cream in the fridge until you're ready to serve."
-    ],
-    "dateAdded": "2026-07-12"
+    "title": "Trio of Bruschetta Spread",
+    "description": "Three real Italian Bruschetta recipes, the way Italian Mamas make them! Tomato and Basil Bruschetta, White Bean and Lemon Bruschetta, and Celery & Lime. Make a Bruschetta spread in just 15 minutes!",
+    "source": "https://www.recipetineats.com/trio-of-bruschetta/",
+    "dateAdded": "2026-07-13"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2018/05/IMG_12104-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-07-12",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/07/Trio-of-Bruschetta-2.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-07-13",
   "added": false
 }
