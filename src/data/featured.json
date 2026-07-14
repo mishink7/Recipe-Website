@@ -1,12 +1,39 @@
 {
   "recipe": {
-    "title": "Trio of Bruschetta Spread",
-    "description": "Three real Italian Bruschetta recipes, the way Italian Mamas make them! Tomato and Basil Bruschetta, White Bean and Lemon Bruschetta, and Celery & Lime. Make a Bruschetta spread in just 15 minutes!",
-    "source": "https://www.recipetineats.com/trio-of-bruschetta/",
-    "dateAdded": "2026-07-13"
+    "slug": "tortilla-chicken-with-salsa-verde",
+    "title": "Tortilla Chicken with Salsa Verde",
+    "description": "This tortilla chicken with salsa verde is chicken coated with corn tortilla chips and topped with salsa verde. Adapted from my favorite Mexican restaurant!",
+    "tags": [
+      "tortilla chicken",
+      "mexican chicken",
+      "chicken recipe",
+      "salsa verde",
+      "dinner"
+    ],
+    "source": "https://pinchofyum.com/tortilla-chicken-with-salsa-verde",
+    "prepTime": "10 min",
+    "cookTime": "35 min",
+    "servings": 2,
+    "ingredients": [
+      "2 skinless, boneless chicken breasts",
+      "1 egg white, beaten",
+      "1/2 cup tortilla chips, crushed",
+      "1/2 cup panko bread crumbs",
+      "1/2 cup salsa verde",
+      "1/4 cup pico de gallo (chopped fresh tomatoes and onions)",
+      "1-2 slices or 4 tbs. white cheese (ideally Mexican cheese, but provolone worked fine for me!)",
+      "cilantro sauce: cilantro, oil, avocado, salsa verde"
+    ],
+    "instructions": [
+      "Sprinkle the chicken with salt and pepper. Coat the chicken with the egg white. Combine the panko and the crushed chips. Dip/press the chicken into the panko mixture until well coated. Fry the chicken in 1-2 tbs. oil over medium-high heat, about 2-3 minutes on each side.",
+      "When the outside is nice and golden brown, transfer to the oven and bake for 15-25 minutes at 400 degrees (depending on the size and temperature of your chicken breasts).",
+      "Add the cheese; return to the oven for a few minutes until melted.",
+      "Spoon salsa verde on the plate; place chicken on the salsa verde, and sprinkle cilantro sauce and pico de gallo over the top! Que bueno!"
+    ],
+    "dateAdded": "2026-07-14"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/07/Trio-of-Bruschetta-2.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-07-13",
+  "imageUrl": "https://pinchofyum.com/tachyon/2011/05/Tortilla-Chicken-with-Salsa-Verde.jpeg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-07-14",
   "added": false
 }
