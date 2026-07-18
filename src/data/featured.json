@@ -1,12 +1,45 @@
 {
   "recipe": {
-    "title": "This Is My Neighborhood",
-    "description": "Kites. All the time. Barbed wire gates, a tangle of electrical lines, and hard working people. Election posters everywhere, everywhere, and everywhere.",
-    "source": "https://pinchofyum.com/this-is-my-neighborhood",
-    "dateAdded": "2026-07-17"
+    "slug": "avocado-almondaise-tartines",
+    "title": "avocado almondaise tartines",
+    "description": "Almondaise - a rich creamy vegan sauce made from almonds, almond milk, turmeric, garlic, and dijon mustard - is perfect on toast with avocado and crisp radishes.",
+    "tags": [
+      "spring",
+      "appetizers",
+      "dairy free",
+      "snacks",
+      "vegan",
+      "vegetarian"
+    ],
+    "servings": null,
+    "ingredients": [
+      "1 cup raw blanched and peeled almonds",
+      "scant 1 cup original Almond Breeze Almond Milk",
+      "1 tablespoon dijon mustard",
+      "zest & juice of 1 lemon",
+      "2 teaspoons dried turmeric",
+      "2 tablespoons olive oil",
+      "salt & pepper",
+      "crusty bread (toasted or grilled)",
+      "avocado slices",
+      "watercress leaves",
+      "chopped edamame",
+      "radishes slices",
+      "capers",
+      "chives",
+      "salt & pepper",
+      "sliced hard boiled eggs (optional)"
+    ],
+    "instructions": [
+      "Make the almondaise: In a high speed blender puree everything, except the olive oil. While your blender is running, drizzle in the olive oil. Blend until smooth, adding more almond milk or olive oil if necessary. Taste and adjust seasonings.",
+      "Assemble the tartines with your choice of toppings and top with a dollop of almondaise sauce.",
+      "To hard boil eggs: place eggs and water in a small pot. Bring the water to a boil, cover and turn the heat off. Let the eggs cook in the hot water for 14 minutes. Remove from the pan and place them in a bowl of ice water to cool. Chill in the fridge until you're ready to peel and eat. (They can be made a few days ahead of time)."
+    ],
+    "dateAdded": "2026-07-18",
+    "source": "https://www.loveandlemons.com/avocado-almondaise-tartines/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/04/IMG_7419.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-07-17",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/03/IMG_0132.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-07-18",
   "added": false
 }
