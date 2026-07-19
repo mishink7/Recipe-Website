@@ -1,45 +1,43 @@
 {
   "recipe": {
-    "slug": "avocado-almondaise-tartines",
-    "title": "avocado almondaise tartines",
-    "description": "Almondaise - a rich creamy vegan sauce made from almonds, almond milk, turmeric, garlic, and dijon mustard - is perfect on toast with avocado and crisp radishes.",
+    "slug": "smores-french-toast",
+    "title": "S'mores French Toast",
+    "description": "This is how you sneak in dessert for breakfast!",
     "tags": [
-      "spring",
-      "appetizers",
-      "dairy free",
-      "snacks",
-      "vegan",
-      "vegetarian"
+      "breakfast",
+      "brunch",
+      "dessert"
     ],
-    "servings": null,
+    "source": "https://www.recipetineats.com/smores-french-toast/",
+    "prepTime": "10 min",
+    "cookTime": "5 min",
+    "servings": 2,
     "ingredients": [
-      "1 cup raw blanched and peeled almonds",
-      "scant 1 cup original Almond Breeze Almond Milk",
-      "1 tablespoon dijon mustard",
-      "zest & juice of 1 lemon",
-      "2 teaspoons dried turmeric",
-      "2 tablespoons olive oil",
-      "salt & pepper",
-      "crusty bread (toasted or grilled)",
-      "avocado slices",
-      "watercress leaves",
-      "chopped edamame",
-      "radishes slices",
-      "capers",
-      "chives",
-      "salt & pepper",
-      "sliced hard boiled eggs (optional)"
+      "4 slices white sandwich bread (, preferably stale)",
+      "1 tbsp butter",
+      "1  egg",
+      "2 tbsp milk",
+      "16  marshmallows (, halved horizontally)",
+      "Nutella",
+      "Marshmallows",
+      "Chocolate sauce"
     ],
     "instructions": [
-      "Make the almondaise: In a high speed blender puree everything, except the olive oil. While your blender is running, drizzle in the olive oil. Blend until smooth, adding more almond milk or olive oil if necessary. Taste and adjust seasonings.",
-      "Assemble the tartines with your choice of toppings and top with a dollop of almondaise sauce.",
-      "To hard boil eggs: place eggs and water in a small pot. Bring the water to a boil, cover and turn the heat off. Let the eggs cook in the hot water for 14 minutes. Remove from the pan and place them in a bowl of ice water to cool. Chill in the fridge until you're ready to peel and eat. (They can be made a few days ahead of time)."
+      "Combine egg and milk in a shallow dish large enough to lay the bread in.",
+      "Spread Nutella on all 4 slices of bread. Generously!",
+      "Place marshmallows on 2 of the pieces of bread, with the sticky side of the marshmallows (ie. the cut side) facing up.",
+      "Heat butter in pan over medium high heat. (See notes)",
+      "Take the bread with the marshmallows on them and quickly dip the bottom side of the bread (ie. the side without the Nutella and marshmallows on it) into the egg mixture, then place into the pan.",
+      "Dip the remaining two slices of bread into the egg mixture (the side without Nutella on it) and place on top of the marshmallow topped bread in the pan, to form a sandwich (ie. The side with the Nutella on it should be placed onto the marshmallows and the side you dipped into the egg mixture should face up so when you flip, it will be cooked).",
+      "Press down lightly with a spatula to help disperse the heat through to the centre of the sandwich to melt the marshmallows. Don't press too hard - I made that mistake once and most of my marshmallows oozed out the side into the pan.",
+      "When the bottom is golden brown (about 2 1/2 to 3 minutes), flip and cook the other side until golden brown (about 2 minutes).",
+      "Don't worry if the marshmallows aren't oozing out the side when you finish cooking, they will continue to melt from the heat in the sandwich. But they should be very soft - just touch one and you'll be able to tell if it's melted and gooey inside.",
+      "Serve immediately, topped with extra marshmallows and chocolate sauce, if you wish."
     ],
-    "dateAdded": "2026-07-18",
-    "source": "https://www.loveandlemons.com/avocado-almondaise-tartines/"
+    "dateAdded": "2026-07-19"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/03/IMG_0132.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-07-18",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/07/Smores-French-Toast-1-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-07-19",
   "added": false
 }
