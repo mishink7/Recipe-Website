@@ -1,43 +1,43 @@
 {
   "recipe": {
-    "slug": "smores-french-toast",
-    "title": "S'mores French Toast",
-    "description": "This is how you sneak in dessert for breakfast!",
+    "slug": "deep-dish-chocolate-chip-cookie-with-caramel-and-sea-salt",
+    "title": "Deep Dish Chocolate Chip Cookie with Caramel and Sea Salt",
+    "description": "This Deep Dish Chocolate Chip Cookie is stuffed with a layer of gooey caramel and sprinkled with sea salt. Simple and over-the-top delicious.",
     "tags": [
-      "breakfast",
-      "brunch",
+      "skillet cookie",
+      "deep dish cookie",
+      "deep dish chocolate chip cookie",
       "dessert"
     ],
-    "source": "https://www.recipetineats.com/smores-french-toast/",
-    "prepTime": "10 min",
-    "cookTime": "5 min",
-    "servings": 2,
+    "source": "https://pinchofyum.com/deep-dish-chocolate-chip-cookie-with-caramel-sea-salt",
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "servings": 8,
     "ingredients": [
-      "4 slices white sandwich bread (, preferably stale)",
-      "1 tbsp butter",
-      "1  egg",
-      "2 tbsp milk",
-      "16  marshmallows (, halved horizontally)",
-      "Nutella",
-      "Marshmallows",
-      "Chocolate sauce"
+      "2 sticks (16 tablespoons) butter",
+      "1 cup granulated sugar",
+      "1/2 cup packed brown sugar",
+      "2 teaspoons vanilla",
+      "2 tablespoons real maple syrup",
+      "2 eggs",
+      "2 3/4 cup flour",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "1 cup chocolate chunks (I chopped up a large piece of Scharffen Berger chocolate &#8211; yum)",
+      "1/2 cup milk chocolate chips",
+      "1/2 cup caramel pieces (affiliate link)",
+      "3 tablespoons heavy whipping cream",
+      "coarse sea salt to taste"
     ],
     "instructions": [
-      "Combine egg and milk in a shallow dish large enough to lay the bread in.",
-      "Spread Nutella on all 4 slices of bread. Generously!",
-      "Place marshmallows on 2 of the pieces of bread, with the sticky side of the marshmallows (ie. the cut side) facing up.",
-      "Heat butter in pan over medium high heat. (See notes)",
-      "Take the bread with the marshmallows on them and quickly dip the bottom side of the bread (ie. the side without the Nutella and marshmallows on it) into the egg mixture, then place into the pan.",
-      "Dip the remaining two slices of bread into the egg mixture (the side without Nutella on it) and place on top of the marshmallow topped bread in the pan, to form a sandwich (ie. The side with the Nutella on it should be placed onto the marshmallows and the side you dipped into the egg mixture should face up so when you flip, it will be cooked).",
-      "Press down lightly with a spatula to help disperse the heat through to the centre of the sandwich to melt the marshmallows. Don't press too hard - I made that mistake once and most of my marshmallows oozed out the side into the pan.",
-      "When the bottom is golden brown (about 2 1/2 to 3 minutes), flip and cook the other side until golden brown (about 2 minutes).",
-      "Don't worry if the marshmallows aren't oozing out the side when you finish cooking, they will continue to melt from the heat in the sandwich. But they should be very soft - just touch one and you'll be able to tell if it's melted and gooey inside.",
-      "Serve immediately, topped with extra marshmallows and chocolate sauce, if you wish."
+      "Preheat the oven to 350 degree. Soften the 8 tablespoons butter in the microwave for 30 seconds or until partially melted. Soften the remaining 8 tablespoons for 10 seconds or until you can make an indent with your finger.",
+      "Mix the butter and sugars together with an electric mixer until creamed. Add the vanilla and maple syrup and mix again until smooth. Add the eggs; beat slowly until incorporated. Add the flour, baking soda, and salt (sometimes it helps to add the flour in batches). Mix until a smooth dough forms. The dough should feel dry to the touch &#8211; if it sticks to your hands, add a few more tablespoons of flour. I generally try to err on the side of more flour. Stir in the chocolate chips and chocolate chunks. Melt the caramel pieces and heavy cream in the microwave for 2 minutes. Stir well until melted and smooth.",
+      "Press half of the dough mixture into a 9-inch or larger cast iron skillet lined with parchment paper. (affiliate link) Pour the caramel over the dough and smooth with a spoon. Cover with another layer of cookie dough. Bake for 15-25 minutes (see notes). Remove from oven, sprinkle with sea salt, and allow to rest for at least one hour in order for the pieces to hold their shape when cut."
     ],
-    "dateAdded": "2026-07-19"
+    "dateAdded": "2026-07-20"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/07/Smores-French-Toast-1-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-07-19",
+  "imageUrl": "https://pinchofyum.com/tachyon/deep-dish-cookies-square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-07-20",
   "added": false
 }
