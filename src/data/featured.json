@@ -1,43 +1,43 @@
 {
   "recipe": {
-    "slug": "deep-dish-chocolate-chip-cookie-with-caramel-and-sea-salt",
-    "title": "Deep Dish Chocolate Chip Cookie with Caramel and Sea Salt",
-    "description": "This Deep Dish Chocolate Chip Cookie is stuffed with a layer of gooey caramel and sprinkled with sea salt. Simple and over-the-top delicious.",
+    "slug": "rosemary-roasted-veggies",
+    "title": "rosemary roasted veggies",
+    "description": "Who says thanksgiving has to be all about brown food? Not me, obviously… it’s an understatement to say that I…",
     "tags": [
-      "skillet cookie",
-      "deep dish cookie",
-      "deep dish chocolate chip cookie",
-      "dessert"
+      "fall",
+      "dairy free",
+      "gluten free",
+      "side dishes",
+      "vegan",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/deep-dish-chocolate-chip-cookie-with-caramel-sea-salt",
-    "prepTime": "15 min",
-    "cookTime": "25 min",
-    "servings": 8,
+    "servings": null,
     "ingredients": [
-      "2 sticks (16 tablespoons) butter",
-      "1 cup granulated sugar",
-      "1/2 cup packed brown sugar",
-      "2 teaspoons vanilla",
-      "2 tablespoons real maple syrup",
-      "2 eggs",
-      "2 3/4 cup flour",
-      "1 teaspoon baking soda",
-      "1/2 teaspoon salt",
-      "1 cup chocolate chunks (I chopped up a large piece of Scharffen Berger chocolate &#8211; yum)",
-      "1/2 cup milk chocolate chips",
-      "1/2 cup caramel pieces (affiliate link)",
-      "3 tablespoons heavy whipping cream",
-      "coarse sea salt to taste"
+      "2 cups butternut squash, peeled and cubed",
+      "2 cups cauliflower florettes",
+      "6-8 cipollini onions, sliced into wedges",
+      "drizzle of olive oil",
+      "drizzle of balsamic vinegar",
+      "2 cloves chopped garlic",
+      "2 tablespoons chopped rosemary",
+      "salt, pepper",
+      "another drizzle of olive oil",
+      "drizzle of maple syrup (or add dried cranberries)",
+      "¼ cup toasted pine nuts",
+      "¼ cup chopped parsley"
     ],
     "instructions": [
-      "Preheat the oven to 350 degree. Soften the 8 tablespoons butter in the microwave for 30 seconds or until partially melted. Soften the remaining 8 tablespoons for 10 seconds or until you can make an indent with your finger.",
-      "Mix the butter and sugars together with an electric mixer until creamed. Add the vanilla and maple syrup and mix again until smooth. Add the eggs; beat slowly until incorporated. Add the flour, baking soda, and salt (sometimes it helps to add the flour in batches). Mix until a smooth dough forms. The dough should feel dry to the touch &#8211; if it sticks to your hands, add a few more tablespoons of flour. I generally try to err on the side of more flour. Stir in the chocolate chips and chocolate chunks. Melt the caramel pieces and heavy cream in the microwave for 2 minutes. Stir well until melted and smooth.",
-      "Press half of the dough mixture into a 9-inch or larger cast iron skillet lined with parchment paper. (affiliate link) Pour the caramel over the dough and smooth with a spoon. Cover with another layer of cookie dough. Bake for 15-25 minutes (see notes). Remove from oven, sprinkle with sea salt, and allow to rest for at least one hour in order for the pieces to hold their shape when cut."
+      "Preheat oven to 425 degrees.",
+      "Place butternut squash, cauliflower and cipollini onions on a large baking sheet. Drizzle lightly with olive oil, balsamic vinegar, and toss with chopped garlic, chopped rosemary and a few generous pinches of salt and pepper.",
+      "Roast for 30-45 minutes or until the veggies are golden brown and tender. Check halfway through and give them a toss so they cook evenly on all sides.",
+      "Remove veggies from the oven, drizzle with some more olive oil and a little maple syrup (or skip the maple and toss with a handful of dried cranberries). Toss with pine nuts and parsley.",
+      "Taste and adjust seasonings. Add additional salt & pepper as needed, and serve."
     ],
-    "dateAdded": "2026-07-20"
+    "dateAdded": "2026-07-21",
+    "source": "https://www.loveandlemons.com/rosemary-roasted-butternut-squash-cauliflower/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/deep-dish-cookies-square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-07-20",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/11/IMG_0003-2.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-07-21",
   "added": false
 }
