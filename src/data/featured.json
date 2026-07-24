@@ -1,42 +1,12 @@
 {
   "recipe": {
-    "slug": "easy-thai-yellow-curry-paste",
-    "title": "Easy Thai Yellow Curry Paste",
-    "description": "This Easy Thai Yellow Curry Paste can be made with easy-to-find ingredients! Shallots, garlic, Thai chili peppers, ginger, lemongrass, and spices. So much flavor! ",
-    "tags": [
-      "homemade thai curry paste",
-      "yellow curry paste",
-      "easy thai curry paste",
-      "sauce"
-    ],
-    "source": "https://pinchofyum.com/easy-homemade-yellow-curry-paste",
-    "prepTime": "10 min",
-    "cookTime": "45 min",
-    "servings": 2,
-    "ingredients": [
-      "4 large shallots",
-      "6 tablespoons avocado oil",
-      "4 large heads of garlic (not individual cloves &#8211; FULL HEADS of garlic)",
-      "6-inch piece of fresh ginger",
-      "5-20 whole dried Thai chili peppers** (they&#8217;re very small and usually found in the spice section, see FAQs)",
-      "1 1/2 tablespoons salt",
-      "2-3 tablespoons turmeric",
-      "2-3 tablespoons mild curry powder",
-      "2 teaspoons roasted ground coriander",
-      "3 tablespoons lemongrass paste (I use Gourmet Garden which they sell at my regular grocery store)",
-      "1/4 cup packed cilantro leaves and stems"
-    ],
-    "instructions": [
-      "Preheat the oven to 350 degrees.",
-      "Peel the shallots &#8211; then drizzle with 2 tablespoons oil and wrap in foil. Peel the ginger and cut into thin slices. Arrange in a single layer, drizzle with 2 tablespoons oil, and wrap in foil. Pull the outer paper off the garlic. Cut the pointy tops off the heads of garlic so the cloves are partially exposed. Drizzle with 2 tablespoons oil, and wrap each head of garlic in foil.",
-      "Place all the foil packets on a baking sheet. Bake for 15 minutes. Remove the ginger (it should be soft), increase the temperature to 400, and roast the shallots and garlic for another 30 minutes until golden brown and very fragrant. When cooled, you can squeeze the garlic cloves out of the rest of the paper.",
-      "While the aromatics are roasting, pour boiling water over the chili peppers to rehydrate them. Let them soak for 15 minutes. Drain the water.",
-      "Put everything in a food processor or very strong blender. Pulse or puree until the yellow curry paste reaches your desired consistency. The recipe should make about 1 1/2 &#8211; 2 cups of curry paste, and I use about 1/3 cup or more in each of my yellow curry recipes, so usually I can get 4-5 batches of curry out of this yellow curry paste recipe. The paste keeps for about a week in the fridge and it freezes well!"
-    ],
-    "dateAdded": "2026-07-23"
+    "title": "Fushimi Inari-Taisha - Love and Lemons",
+    "description": "…otherwise known as Fushimi Inari-Taisha. (We nicknamed it Starfox Mountain). This shrine is the #1 Kyoto attraction on Trip Advisor, yet last time we were here, we somehow missed it. We really try hard not to fall into major tourist traps… I guess sometimes we try a little too hard. This one is amazing. If you go, prepare to walk up a ton of stairs (it’s about 35 minutes to the top), so be sure to wear good shoes like I didn’t. Some fun geek trivia – a friend of Jack’s who lives here who worked on the old Super […]",
+    "source": "https://www.loveandlemons.com/starfox-mountain/",
+    "dateAdded": "2026-07-24"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Curry-Paste-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-07-23",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/09/1-21.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-07-24",
   "added": false
 }
