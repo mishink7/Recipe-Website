@@ -1,12 +1,42 @@
 {
   "recipe": {
-    "title": "Crispy Chinese Eggplant",
-    "description": "Based on a famous Sydney Modern-Asian restaurant's signature dish. Dare I say this version is even better? Worth the effort, it’s truly epic! Find the recipe on page 106 of Dinner. https://youtu.be/Hq3fRxXi8JY?rel=0",
-    "source": "https://www.recipetineats.com/crispy-chinese-eggplant/",
-    "dateAdded": "2026-07-25"
+    "slug": "span-class-fn-smoky-white-bean-chili-with-pork",
+    "title": "<span class=\"fn\">Smoky White Bean Chili with Pork",
+    "description": "This smoky white bean chili with pork uses ground pork sausage, white beans, and smoked paprika for an added kick of flavor.",
+    "tags": [
+      "white bean chili",
+      "chili recipe",
+      "bean chili",
+      "dinner"
+    ],
+    "source": "https://pinchofyum.com/smoky-white-bean-chili-with-pork",
+    "prepTime": "10 min",
+    "cookTime": "35 min",
+    "servings": 6,
+    "ingredients": [
+      "1 lb. ground pork sausage (I used the &#8220;hot&#8221; kind)",
+      "2 garlic cloves, minced",
+      "1 red onion, chopped",
+      "2 teaspoons ground cumin",
+      "1 tablespoon smoked Spanish paprika",
+      "2 teaspoons chili powder",
+      "1/2 teaspoon each salt and freshly ground pepper",
+      "1/3 cup red wine",
+      "2 14 oz. cans fire roasted tomatoes with garlic",
+      "2 14 oz. cans white beans",
+      "1 14 oz. can hominy",
+      "sour cream"
+    ],
+    "instructions": [
+      "Brown meat in a large pot; when done, drain excess fat.",
+      "Add onions and garlic to pork and saute over medium-high heat until translucent (about 3 minutes).",
+      "Add seasoning and saute for 1 minute. Add red wine and cook for another 5 minutes. Add tomatoes, beans, and hominy. Cover and cook over medium-low heat for about 15 minutes (longer is ok, too)!",
+      "Top with sour cream and serve!"
+    ],
+    "dateAdded": "2026-07-26"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2022/10/Crispy-Eggplant_900px.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-07-25",
+  "imageUrl": "https://pinchofyum.com/tachyon/White-Bean-Chili-3.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-07-26",
   "added": false
 }
