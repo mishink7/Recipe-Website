@@ -1,42 +1,44 @@
 {
   "recipe": {
-    "slug": "span-class-fn-smoky-white-bean-chili-with-pork",
-    "title": "<span class=\"fn\">Smoky White Bean Chili with Pork",
-    "description": "This smoky white bean chili with pork uses ground pork sausage, white beans, and smoked paprika for an added kick of flavor.",
+    "slug": "homemade-hazelnut-milk-latte",
+    "title": "Homemade Hazelnut Milk Latte",
+    "description": "Delicious homemade hazelnut milk flavored with maple, cinnamon, nutmeg & vanilla is perfect with coffee or espresso! Great for lazy weekends. Vegan.",
     "tags": [
-      "white bean chili",
-      "chili recipe",
-      "bean chili",
-      "dinner"
+      "fall",
+      "spring",
+      "summer",
+      "winter",
+      "breakfast",
+      "dairy free",
+      "gluten free",
+      "vegan",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/smoky-white-bean-chili-with-pork",
-    "prepTime": "10 min",
-    "cookTime": "35 min",
-    "servings": 6,
+    "servings": 4,
     "ingredients": [
-      "1 lb. ground pork sausage (I used the &#8220;hot&#8221; kind)",
-      "2 garlic cloves, minced",
-      "1 red onion, chopped",
-      "2 teaspoons ground cumin",
-      "1 tablespoon smoked Spanish paprika",
-      "2 teaspoons chili powder",
-      "1/2 teaspoon each salt and freshly ground pepper",
-      "1/3 cup red wine",
-      "2 14 oz. cans fire roasted tomatoes with garlic",
-      "2 14 oz. cans white beans",
-      "1 14 oz. can hominy",
-      "sour cream"
+      "1 cup hazelnuts, soaked overnight",
+      "3 ½ cups filtered water",
+      "2 tablespoons maple syrup",
+      "1-2 teaspoons pure vanilla extract 1 vanilla bean* (see note)",
+      "¼ teaspoon cinnamon",
+      "⅛ teaspoon nutmeg",
+      "¼ teaspoon salt",
+      "Handful of ice",
+      "Coffee or espresso, 1 capsule per serving"
     ],
     "instructions": [
-      "Brown meat in a large pot; when done, drain excess fat.",
-      "Add onions and garlic to pork and saute over medium-high heat until translucent (about 3 minutes).",
-      "Add seasoning and saute for 1 minute. Add red wine and cook for another 5 minutes. Add tomatoes, beans, and hominy. Cover and cook over medium-low heat for about 15 minutes (longer is ok, too)!",
-      "Top with sour cream and serve!"
+      "Soak your hazelnuts overnight.",
+      "Drain and rinse the hazelnuts and add them to a blender with fresh filtered water, maple syrup, vanilla, cinnamon, nutmeg and salt. Blend until smooth, and then blend some more. About 1 minute, depending on your blender.",
+      "Place a nut milk bag in a large bowl and pour the liquid from the blender into the bag. Twist and squeeze the bag to strain as much liquid through as you can.",
+      "Pour the strained hazelnut milk into a 33 oz. jar and chill overnight. (I find that it’s flavor is much much better chilled vs. warm).",
+      "Froth ¼ cup hazelnut milk, if desired.",
+      "Pour over iced coffee and top with froth."
     ],
-    "dateAdded": "2026-07-26"
+    "dateAdded": "2026-07-27",
+    "source": "https://www.loveandlemons.com/homemade-vanilla-hazelnut-milk-latte/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/White-Bean-Chili-3.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-07-26",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/05/IMG_2795.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-07-27",
   "added": false
 }
