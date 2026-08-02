@@ -1,12 +1,12 @@
 {
   "recipe": {
-    "title": "14 Must-Bake Holiday Cookie Recipes",
-    "description": "Holiday cookie list, comin' in hot! 🔥 We will take basically any excuse to bake and eat and stock up on sweets, and the holidays are a perfect",
-    "source": "https://pinchofyum.com/14-must-bake-holiday-cookie-recipes",
-    "dateAdded": "2026-08-01"
+    "title": "Amsterdam Snapshots - Love and Lemons",
+    "description": "Travel photos from our trip to Amsterdam!",
+    "source": "https://www.loveandlemons.com/amsterdam-snapshots/",
+    "dateAdded": "2026-08-02"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/14HolidayBakingRecipes.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-01",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/09/amsterdam-loveandlemons.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-08-02",
   "added": false
 }
