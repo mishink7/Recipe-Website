@@ -1,37 +1,41 @@
 {
   "recipe": {
-    "slug": "sweet-potato-kale-and-sausage-bake-with-white-cheese-sauce",
-    "title": "Sweet Potato, Kale, and Sausage Bake with White Cheese Sauce",
-    "description": "Sweet Potato, Kale, and Sausage Bake with White Cheese Sauce - comfort food featuring a handful of pantry staples and a few super healthy ingredients.",
+    "slug": "eggplant-and-squash-tian",
+    "title": "Eggplant and Squash Tian",
+    "description": "“Late summer” has finally happened here in Austin… it’s warm and sunny, as opposed to hot and muggy, and it…",
     "tags": [
-      "sausage bake",
-      "kale and sweet potato sausage bake",
-      "white cheese sauce",
-      "dinner"
+      "summer",
+      "dairy free",
+      "dinner",
+      "side dishes"
     ],
-    "source": "https://pinchofyum.com/sweet-potato-kale-sausage-bake-white-cheese-sauce",
-    "prepTime": "15 min",
-    "cookTime": "40 min",
-    "servings": 4,
+    "servings": 6,
     "ingredients": [
-      "2 teaspoons olive oil",
-      "2 medium sweet potatoes, peeled and cubed (3-4 cups)",
-      "16 ounces Italian pork or chicken sausage, cut into small rounds",
-      "2 cups low sodium chicken broth",
-      "3/4 cup milk",
-      "1/4 cup flour",
-      "3/4 cup shredded Gruyere cheese",
-      "2 cups finely chopped kale"
+      "1 large eggplant",
+      "1 medium zucchini",
+      "1 medium yellow squash",
+      "4 medium tomatoes",
+      "3 tablespoons olive oil (plus more for the pan)",
+      "1 medium onion, thinly sliced",
+      "2 cloves of garlic, thinly sliced",
+      "4 eggs",
+      "1 cup cream",
+      "¼ cup grated parmesan cheese",
+      "leaves from 2 sprigs fresh basil, chopped",
+      "2 pinches crushed red pepper flakes",
+      "salt",
+      "freshly ground black pepper"
     ],
     "instructions": [
-      "Heat the olive oil in a large pan over high heat. Add the sweet potatoes and Italian sausage. Shake to coat in oil, let sit for a few minutes to brown, and shake the pan gently again to move everything around. Repeat until the sweet potatoes and sausage both have golden brown exteriors. Toss with the kale and transfer to a greased 9-inch square baking dish.",
-      "Meanwhile, preheat the oven to 350 degrees. Bring the broth and 1/2 cup milk to a low boil, then turn the heat to keep it at a low simmer. Whisk the flour and remaining 1/4 cup milk to form a thick paste. Add this to the broth, whisking to keep the sauce smooth. Add 1/4 cup Gruyere and stir until melted.",
-      "Pour the sauce over the sweet potatoes, kale, and sausage in the baking dish. Top with remaining 1/2 cup cheese and bake for 10 minutes or until the sauce is bubbly and the cheese is melted."
+      "Preheat the oven to 350 degrees. Slice the eggplant, zucchini, summer squash, and tomatoes crosswise into ½-inch thick slices. Heat the oil in a large skillet over medium-high heat. In batches, add the eggplant slices and cook, flipping once, until both sides are golden brown, about 5 minutes. Drain on paper towels and sprinkle with salt.",
+      "Oil a large baking dish or tian. Make a pinwheel pattern of the eggplant, zucchini, summer squash and tomato slices, layering in the onions and garlic, until all the vegetables are used.",
+      "Whisk together the eggs, cream, parmesan, basil and red pepper, season with salt and pepper, and pour into the baking dish. Bake the tian until the vegetables are tender, the custard is set, and the top is nicely browned, 45 minutes to 1 hour. Serve right from the baking dish."
     ],
-    "dateAdded": "2026-08-04"
+    "dateAdded": "2026-08-05",
+    "source": "https://www.loveandlemons.com/eggplant-summer-squash-tian/"
   },
-  "imageUrl": "http://pinchofyum.com/tachyon/sweet-potato-kale-bake-square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-04",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/10/IMG_0010-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-08-05",
   "added": false
 }
