@@ -1,41 +1,43 @@
 {
   "recipe": {
-    "slug": "eggplant-and-squash-tian",
-    "title": "Eggplant and Squash Tian",
-    "description": "“Late summer” has finally happened here in Austin… it’s warm and sunny, as opposed to hot and muggy, and it…",
+    "slug": "vietnamese-caramelised-pork-bowls",
+    "title": "Vietnamese Caramelised Pork Bowls",
+    "description": "Recipe video above. An exciting way to use ground meat (mince) to make a quick stir fry that taste unbelievable! This is great made with chicken, turkey or pork. It also works with beef though it is better made with &quot;white meats&quot;. Serve it over rice or vermicelli noodles to make rice bowls with shredded lettuce, carrots and cucumbers on the side (very classic Vietnamese meal!).**NOTE: If you reduce sugar then the pork will not caramelise as well and it will take longer to get colour on it!**",
     "tags": [
-      "summer",
-      "dairy free",
-      "dinner",
-      "side dishes"
+      "ground pork recipe",
+      "ground pork stir fry",
+      "pork mince recipe",
+      "pork mince stir fry",
+      "stir fry"
     ],
-    "servings": 6,
+    "source": "https://www.recipetineats.com/vietnamese-caramelised-pork-bowls/",
+    "prepTime": "10 min",
+    "cookTime": "10 min",
+    "servings": 4,
     "ingredients": [
-      "1 large eggplant",
-      "1 medium zucchini",
-      "1 medium yellow squash",
-      "4 medium tomatoes",
-      "3 tablespoons olive oil (plus more for the pan)",
-      "1 medium onion, thinly sliced",
-      "2 cloves of garlic, thinly sliced",
-      "4 eggs",
-      "1 cup cream",
-      "¼ cup grated parmesan cheese",
-      "leaves from 2 sprigs fresh basil, chopped",
-      "2 pinches crushed red pepper flakes",
-      "salt",
-      "freshly ground black pepper"
+      "1 1/2 tbsp cooking oil ((I use peanut oil))",
+      "1/2  onion (, finely diced (brown, white or yellow) (~1/2 cup))",
+      "2 tsp ginger (, grated or minced)",
+      "2  garlic cloves (, minced (2 tsp paste))",
+      "1  birds eye or Thai chili (, deseeded and finely chopped (can omit, Note 1))",
+      "500g / 1 lb  pork mince ((ground pork) (Note 2))",
+      "5 tbsp  (tightly packed brown sugar ((don&#39;t skimp, else won&#39;t caramelise))",
+      "2 tbsp fish sauce",
+      "1  green onion stem (, finely sliced)",
+      "Jasmine rice (or other rice for serving)",
+      "Sliced red chilli, tomato, cucumber ((optional))"
     ],
     "instructions": [
-      "Preheat the oven to 350 degrees. Slice the eggplant, zucchini, summer squash, and tomatoes crosswise into ½-inch thick slices. Heat the oil in a large skillet over medium-high heat. In batches, add the eggplant slices and cook, flipping once, until both sides are golden brown, about 5 minutes. Drain on paper towels and sprinkle with salt.",
-      "Oil a large baking dish or tian. Make a pinwheel pattern of the eggplant, zucchini, summer squash and tomato slices, layering in the onions and garlic, until all the vegetables are used.",
-      "Whisk together the eggs, cream, parmesan, basil and red pepper, season with salt and pepper, and pour into the baking dish. Bake the tian until the vegetables are tender, the custard is set, and the top is nicely browned, 45 minutes to 1 hour. Serve right from the baking dish."
+      "Heat the oil in a large skillet over high heat.",
+      "Sauté - Add the onion, ginger, garlic and chili and cook for 2 minutes.",
+      "Cook pork - Add the pork mince and cook for 2 minutes or so until white all over, breaking up the meat with a wooden spoon.",
+      "Add sauce &amp; caramelise - Add the sugar and fish sauce. Stir, then leave it to cook without touching until all the juices cook out and the pork starts caramelised - about 2 minutes. Then stir it and leave it again, without stirring, for around 30 seconds to get more caramelisation. Repeat twice more until caramelised to your taste.",
+      "Serve over jasmine or other rice, or vermicelli noodles, garnished with sliced green onion. For a low carb, low cal option, try Cauliflower Rice! I like to have chunks of plain cucumber and carrots on the side which is a classic way of making Vietnamese bowls."
     ],
-    "dateAdded": "2026-08-05",
-    "source": "https://www.loveandlemons.com/eggplant-summer-squash-tian/"
+    "dateAdded": "2026-08-06"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/10/IMG_0010-cropped.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-08-05",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2015/11/Vietnamese-Ground-Pork-Bowls_7.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-08-06",
   "added": false
 }
