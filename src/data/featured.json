@@ -1,43 +1,38 @@
 {
   "recipe": {
-    "slug": "vietnamese-caramelised-pork-bowls",
-    "title": "Vietnamese Caramelised Pork Bowls",
-    "description": "Recipe video above. An exciting way to use ground meat (mince) to make a quick stir fry that taste unbelievable! This is great made with chicken, turkey or pork. It also works with beef though it is better made with &quot;white meats&quot;. Serve it over rice or vermicelli noodles to make rice bowls with shredded lettuce, carrots and cucumbers on the side (very classic Vietnamese meal!).**NOTE: If you reduce sugar then the pork will not caramelise as well and it will take longer to get colour on it!**",
+    "slug": "5-ingredient-lemon-chicken-with-asparagus",
+    "title": "5 Ingredient Lemon Chicken with Asparagus",
+    "description": "Juicy, pan-fried chicken with peppery lemon flavors and tender bites of asparagus with a honey butter sauce. A bright and fresh 5 ingredient dinner on the table in 20 minutes!  ",
     "tags": [
-      "ground pork recipe",
-      "ground pork stir fry",
-      "pork mince recipe",
-      "pork mince stir fry",
-      "stir fry"
+      "lemon chicken",
+      "chicken with asparagus",
+      "chicken recipe",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/vietnamese-caramelised-pork-bowls/",
+    "source": "https://pinchofyum.com/5-ingredient-lemon-chicken-asparagus",
     "prepTime": "10 min",
     "cookTime": "10 min",
-    "servings": 4,
+    "servings": 3,
     "ingredients": [
-      "1 1/2 tbsp cooking oil ((I use peanut oil))",
-      "1/2  onion (, finely diced (brown, white or yellow) (~1/2 cup))",
-      "2 tsp ginger (, grated or minced)",
-      "2  garlic cloves (, minced (2 tsp paste))",
-      "1  birds eye or Thai chili (, deseeded and finely chopped (can omit, Note 1))",
-      "500g / 1 lb  pork mince ((ground pork) (Note 2))",
-      "5 tbsp  (tightly packed brown sugar ((don&#39;t skimp, else won&#39;t caramelise))",
-      "2 tbsp fish sauce",
-      "1  green onion stem (, finely sliced)",
-      "Jasmine rice (or other rice for serving)",
-      "Sliced red chilli, tomato, cucumber ((optional))"
+      "1 lb. boneless skinless chicken breasts",
+      "1/4 cup flour",
+      "1/2 teaspoon salt and pepper, to taste",
+      "2 tablespoons butter",
+      "1 teaspoon lemon pepper seasoning",
+      "1-2 cups chopped asparagus",
+      "2 lemons, sliced",
+      "2 tablespoons honey + 2 tablespoons butter (optional, see FAQ notes)",
+      "parsley for topping (optional)"
     ],
     "instructions": [
-      "Heat the oil in a large skillet over high heat.",
-      "Sauté - Add the onion, ginger, garlic and chili and cook for 2 minutes.",
-      "Cook pork - Add the pork mince and cook for 2 minutes or so until white all over, breaking up the meat with a wooden spoon.",
-      "Add sauce &amp; caramelise - Add the sugar and fish sauce. Stir, then leave it to cook without touching until all the juices cook out and the pork starts caramelised - about 2 minutes. Then stir it and leave it again, without stirring, for around 30 seconds to get more caramelisation. Repeat twice more until caramelised to your taste.",
-      "Serve over jasmine or other rice, or vermicelli noodles, garnished with sliced green onion. For a low carb, low cal option, try Cauliflower Rice! I like to have chunks of plain cucumber and carrots on the side which is a classic way of making Vietnamese bowls."
+      "Cover the chicken breasts with plastic wrap and pound until each pieces is about a 3/4 of an inch thick. (NOTE: If your chicken breasts are really thick,you can just cut them in half horizontally to make thinner pieces rather than pounding. Works like a charm.) Place the flour and salt and pepper in a shallow dish and gently toss each chicken breast in the dish to coat. Melt the butter in a large skillet over medium high heat; add the chicken and sauté for 3-5 minutes on each side, until golden brown, sprinkling each side with the lemon pepper directly in the pan. When the chicken is golden brown and cooked through, transfer to a plate.",
+      "Add the chopped asparagus to the pan. Sauté for a few minutes until bright green and tender crisp. Remove from the pan and set aside. Lay the lemon slices flat on the bottom of the pan and cook for a few minutes on each side without stirring so that they caramelize and pick up the browned bits left in the pan from the chicken and butter. (NOTE: adding a tiny pat of butter in with the lemons also helps prevent sticking and promotes browning.) Remove the lemons from the pan and set aside.",
+      "Layer all the ingredients back into the skillet &#8211; asparagus, chicken, and lemon slices on top."
     ],
-    "dateAdded": "2026-08-06"
+    "dateAdded": "2026-08-07"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2015/11/Vietnamese-Ground-Pork-Bowls_7.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-06",
+  "imageUrl": "https://pinchofyum.com/tachyon/lemon-chicken-square.png?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-07",
   "added": false
 }
