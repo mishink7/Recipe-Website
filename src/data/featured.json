@@ -1,38 +1,44 @@
 {
   "recipe": {
-    "slug": "5-ingredient-lemon-chicken-with-asparagus",
-    "title": "5 Ingredient Lemon Chicken with Asparagus",
-    "description": "Juicy, pan-fried chicken with peppery lemon flavors and tender bites of asparagus with a honey butter sauce. A bright and fresh 5 ingredient dinner on the table in 20 minutes!  ",
+    "slug": "sweet-pepper-panzanella",
+    "title": "sweet pepper panzanella",
+    "description": "Panzanella: it’s your excuse to eat bread and call it salad! I’ve veggie’d up the classic tomato-basil panzanella with blistered…",
     "tags": [
-      "lemon chicken",
-      "chicken with asparagus",
-      "chicken recipe",
-      "dinner"
+      "summer",
+      "dinner",
+      "salads",
+      "side dishes",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/5-ingredient-lemon-chicken-asparagus",
-    "prepTime": "10 min",
-    "cookTime": "10 min",
     "servings": 3,
     "ingredients": [
-      "1 lb. boneless skinless chicken breasts",
-      "1/4 cup flour",
-      "1/2 teaspoon salt and pepper, to taste",
-      "2 tablespoons butter",
-      "1 teaspoon lemon pepper seasoning",
-      "1-2 cups chopped asparagus",
-      "2 lemons, sliced",
-      "2 tablespoons honey + 2 tablespoons butter (optional, see FAQ notes)",
-      "parsley for topping (optional)"
+      "2-3 sweet peppers (red and/or yellow)",
+      "olive oil",
+      "sherry vinegar (or balsamic or white wine vinegar)",
+      "pinch of sweet or smoked paprika",
+      "toasted stale bread, rubbed w/ olive oil & garlic",
+      "1 cup cherry tomatoes",
+      "1-2 leaves of kale, torn",
+      "½ cup little mozzarella balls",
+      "¼ cup chunky pickled onions (see below)",
+      "handful of torn basil",
+      "salt & pepper",
+      "1 small red onion, sliced into thick strips",
+      "white wine vinegar (enough to fill the jar of onions)",
+      "a few pinches of cane sugar and salt"
     ],
     "instructions": [
-      "Cover the chicken breasts with plastic wrap and pound until each pieces is about a 3/4 of an inch thick. (NOTE: If your chicken breasts are really thick,you can just cut them in half horizontally to make thinner pieces rather than pounding. Works like a charm.) Place the flour and salt and pepper in a shallow dish and gently toss each chicken breast in the dish to coat. Melt the butter in a large skillet over medium high heat; add the chicken and sauté for 3-5 minutes on each side, until golden brown, sprinkling each side with the lemon pepper directly in the pan. When the chicken is golden brown and cooked through, transfer to a plate.",
-      "Add the chopped asparagus to the pan. Sauté for a few minutes until bright green and tender crisp. Remove from the pan and set aside. Lay the lemon slices flat on the bottom of the pan and cook for a few minutes on each side without stirring so that they caramelize and pick up the browned bits left in the pan from the chicken and butter. (NOTE: adding a tiny pat of butter in with the lemons also helps prevent sticking and promotes browning.) Remove the lemons from the pan and set aside.",
-      "Layer all the ingredients back into the skillet &#8211; asparagus, chicken, and lemon slices on top."
+      "For the pickled onions: (make in advance) pickle your onions by shaking all ingredients together in a jar. Chill until for at least an hour, or up to days (or weeks, really) in advance.",
+      "Slice cherry tomatoes and toss them with a splash of olive oil, a splash of sherry vinegar, salt, pepper.",
+      "Drizzle olive oil on your stale bread and toast (or grill) it until golden. While it's still warm, rub it with a sliced clove of garlic, then slice it into bite sized pieces.",
+      "De-seed and slice your peppers into thick strips. Sautée them in a pan with olive oil until soft and lightly blistered. (you could also do this on a grill). Remove from heat, drizzle with a little sherry vinegar and a pinch of paprika.",
+      "Toss all salad ingredients together so that the juices from the tomatoes and the peppers create a light dressing. Drizzle with a little more olive oil. Taste, and add more salt and pepper to your liking. Let it sit for at least 10 minutes or so for the bread to soak up the juices. Serve at room temp."
     ],
-    "dateAdded": "2026-08-07"
+    "dateAdded": "2026-08-08",
+    "source": "https://www.loveandlemons.com/sweet-pepper-panzanella/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/lemon-chicken-square.png?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-07",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/07/IMG_0031-cropped2.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-08-08",
   "added": false
 }
