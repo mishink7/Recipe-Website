@@ -1,50 +1,41 @@
 {
   "recipe": {
-    "slug": "middle-eastern-shredded-lamb",
-    "title": "Middle Eastern Shredded Lamb",
-    "description": "I can't say with certainty that this is authentic because it's a recipe I created. But it uses classic Middle Eastern ingredients, so possibly it is! The lamb is really juicy because it's made with lamb shoulder, a cut that is made for slow cooking. The pan frying step to get the crunchy brown bits is not optional - it's key! ! ! As with any shredded meat recipe, a little goes a long way. This makes around 8 cups of shredded lamb which I think is enough to serve 8 people as a main (with rice). See separate recipe below for Chickpea Pilaf (Rice).",
+    "slug": "peanut-butter-oreo-blondies",
+    "title": "Peanut Butter Oreo Blondies",
+    "description": "These peanut butter Oreo blondies are TO DIE FOR. One of the best dessert bars I've ever made! So addicting and easy to make.",
     "tags": [
-      "main"
+      "peanut butter blondies",
+      "oreo blondies",
+      "blondie recipe",
+      "dessert"
     ],
-    "source": "https://www.recipetineats.com/middle-eastern-shredded-lamb-with-chickpea-pilaf-rice/",
+    "source": "https://pinchofyum.com/peanut-butter-oreo-blondies",
     "prepTime": "10 min",
-    "cookTime": "210 min",
-    "servings": 8,
+    "cookTime": "40 min",
+    "servings": 16,
     "ingredients": [
-      "1 1/2 tbsp ground cumin",
-      "1 1/2 tbsp ground coriander",
-      "1 1/2 tbsp paprika",
-      "2 tsp ground cardamon (or sub with ginger)",
-      "1 tbsp salt",
-      "Black pepper",
-      "3 tbsp olive oil",
-      "3  garlic cloves (minced)",
-      "1.5 - 2 kg / 3 - 4 lb  lamb shoulder (bone in, trimmed of excess fat)",
-      "3/4 cup water",
-      "1 - 2 tbsp olive oil",
-      "Lemon (highly recommended)",
-      "Fresh coriander/cilantro leaves (optional - recommended)",
-      "Yoghurt (optional)"
+      "2/3 cup soft butter",
+      "1 cup packed brown sugar",
+      "1/2 cup granulated sugar",
+      "3/4 cup peanut butter",
+      "1 teaspoon vanilla extract",
+      "2 eggs",
+      "1-3/4 cups all-purpose flour",
+      "1 teaspoon baking powder",
+      "1/3 cup cream",
+      "16-24 Oreo cookies depending on size of pan",
+      "1 bag white chocolate chips (optional)"
     ],
     "instructions": [
-      "Preheat oven to 150C/300F.",
-      "Combine the Spice Mix ingredients in a small bowl. Set aside 1 1/2 tbsp of the Spice Mix for later (to pan fry the lamb).",
-      "Add the olive oil and garlic into the Spice Mix, then rub all over the lamb.",
-      "Place the lamb on a roasting rack set in a roasting dish (Note 1). Pour the water in the base of the dish. Cover with a lid or double layer of foil.",
-      "Roast for 3 1/2 hours or until the meat is tender enough to pull off with a fork.",
-      "Remove the lid. Turn the oven up as high as it will go and roast for 15 - 20 minutes until the lamb is browned.",
-      "Remove the lamb from the oven. Allow to rest for 20 minutes, then shred coarsely with two forks.",
-      "Skim excess fat off the juices in the roasting dish then set aside. (Note 2)",
-      "Toss the shredded lamb with the reserved Spice Mix (from Step 2 above).",
-      "Heat 1 tbsp of oil in a heavy based pan over high heat. Add some lamb (don't crowd the pan) and drizzle over about 3 tbsp of the pan juices. Cook until the underside is dark golden brown and crispy - about 1 to 1 1/2 minutes (the juices you poured over will evaporate).",
-      "If the lamb is cold, flip to warm the other side but do not brown too much (retains juiciness).",
-      "Remove lamb from the fry pan, and repeat with remaining lamb, adding extra oil if required.",
-      "To serve, drizzle with a squeeze of lemon juice (this makes a big difference) and top with fresh coriander, plus yoghurt (if using). Serve on Chickpea Pilaf (Rice)."
+      "Preheat the oven to 325 degrees. Butter a 9-inch square baking dish for thicker bars, or a 9&#215;13 baking dish for thinner bars.",
+      "Cream the butter, brown sugar, white sugar, peanut butter, and vanilla. Add the eggs one at a time, beating until well mixed.",
+      "Add the flour and baking powder and mix for less than 1 minute with an electric mixer or stir with a wooden spoon until all flour is incorporated (batter gets tough to work with if you mix it for too long). Add the cream and use electric mixers or wooden spoon to stir until incorporated. Batter should be thick but spreadable.",
+      "Spread half the batter in the prepared dish; layer Oreos evenly over the batter; top with remaining half of batter. Bake for 40-50 minutes, depending on the size of your pan (less time for a rectangle, more time for a square) and whether or not you like them to still be a little soft and doughy. I baked mine for 40 minutes or until the edges were browning and the middle was just a little soft. As they cooled, the middle sunk down a little but I loved them that way!"
     ],
-    "dateAdded": "2026-08-09"
+    "dateAdded": "2026-08-10"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2015/05/Middle-Eastern-Shredded-Lamb-Chickpea-Pilaf-Rice-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-09",
+  "imageUrl": "https://pinchofyum.com/tachyon/2013/01/Peanut-Butter-Oreo-Blondies-8.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-10",
   "added": false
 }
