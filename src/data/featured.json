@@ -1,41 +1,34 @@
 {
   "recipe": {
-    "slug": "peanut-butter-oreo-blondies",
-    "title": "Peanut Butter Oreo Blondies",
-    "description": "These peanut butter Oreo blondies are TO DIE FOR. One of the best dessert bars I've ever made! So addicting and easy to make.",
+    "slug": "paloma",
+    "title": "Paloma",
+    "description": "This easy paloma recipe is perfect for Cinco de Mayo, happy hour, or anytime you&#x27;re craving a fun drink! After you mix it together, taste and adjust your cocktail to find a balance of flavors you love.",
     "tags": [
-      "peanut butter blondies",
-      "oreo blondies",
-      "blondie recipe",
-      "dessert"
+      "paloma",
+      "paloma drink",
+      "paloma recipe",
+      "cocktail"
     ],
-    "source": "https://pinchofyum.com/peanut-butter-oreo-blondies",
-    "prepTime": "10 min",
-    "cookTime": "40 min",
-    "servings": 16,
+    "source": "https://www.loveandlemons.com/paloma/",
+    "prepTime": "5 min",
+    "servings": 1,
     "ingredients": [
-      "2/3 cup soft butter",
-      "1 cup packed brown sugar",
-      "1/2 cup granulated sugar",
-      "3/4 cup peanut butter",
-      "1 teaspoon vanilla extract",
-      "2 eggs",
-      "1-3/4 cups all-purpose flour",
-      "1 teaspoon baking powder",
-      "1/3 cup cream",
-      "16-24 Oreo cookies depending on size of pan",
-      "1 bag white chocolate chips (optional)"
+      "2 ounces tequila",
+      "2 ounces fresh grapefruit juice (plus wedges for garnish)",
+      "2 ounces sparkling water",
+      "½ ounce fresh lime juice",
+      "¼ ounce agave nectar or simple syrup (or to taste)",
+      "Coarse sea salt (for the rim of the glasses)",
+      "Ice"
     ],
     "instructions": [
-      "Preheat the oven to 325 degrees. Butter a 9-inch square baking dish for thicker bars, or a 9&#215;13 baking dish for thinner bars.",
-      "Cream the butter, brown sugar, white sugar, peanut butter, and vanilla. Add the eggs one at a time, beating until well mixed.",
-      "Add the flour and baking powder and mix for less than 1 minute with an electric mixer or stir with a wooden spoon until all flour is incorporated (batter gets tough to work with if you mix it for too long). Add the cream and use electric mixers or wooden spoon to stir until incorporated. Batter should be thick but spreadable.",
-      "Spread half the batter in the prepared dish; layer Oreos evenly over the batter; top with remaining half of batter. Bake for 40-50 minutes, depending on the size of your pan (less time for a rectangle, more time for a square) and whether or not you like them to still be a little soft and doughy. I baked mine for 40 minutes or until the edges were browning and the middle was just a little soft. As they cooled, the middle sunk down a little but I loved them that way!"
+      "Salt the rim of the glass by rubbing a grapefruit wedge around the edge and dipping it onto a small plate of salt.",
+      "Mix the tequila, grapefruit juice, sparkling water, lime juice, and agave nectar into the glass. Fill the remainder of the glass with ice. Adjust sweetness to taste. Garnish with grapefruit wedge."
     ],
-    "dateAdded": "2026-08-10"
+    "dateAdded": "2026-08-11"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/01/Peanut-Butter-Oreo-Blondies-8.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-10",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2020/04/paloma-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-08-11",
   "added": false
 }
