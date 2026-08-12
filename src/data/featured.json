@@ -1,34 +1,51 @@
 {
   "recipe": {
-    "slug": "paloma",
-    "title": "Paloma",
-    "description": "This easy paloma recipe is perfect for Cinco de Mayo, happy hour, or anytime you&#x27;re craving a fun drink! After you mix it together, taste and adjust your cocktail to find a balance of flavors you love.",
+    "slug": "pad-thai",
+    "title": "Pad Thai",
+    "description": "Recipe video above. Here&#39;s a Pad Thai recipe that really does taste just as good as takeout from good Thai restaurants, and you&#39;ll find everything you need at the supermarket! I use chicken here but feel free to switch with any protein, even prawns/shrimp. If you&#39;re after a truly authentic Pad Thai recipe, see here - but be warned that most people will find it a little too &quot;real&quot; for their palettes because Pad Thai in Thailand has stronger fish sauce/dried shrimp &quot;funk&quot;. (Don&#39;t misread that word! :))",
     "tags": [
-      "paloma",
-      "paloma drink",
-      "paloma recipe",
-      "cocktail"
+      "pad thai",
+      "what is pad thai?",
+      "mains"
     ],
-    "source": "https://www.loveandlemons.com/paloma/",
-    "prepTime": "5 min",
-    "servings": 1,
+    "source": "https://www.recipetineats.com/chicken-pad-thai/",
+    "prepTime": "20 min",
+    "cookTime": "10 min",
+    "servings": 2,
     "ingredients": [
-      "2 ounces tequila",
-      "2 ounces fresh grapefruit juice (plus wedges for garnish)",
-      "2 ounces sparkling water",
-      "½ ounce fresh lime juice",
-      "¼ ounce agave nectar or simple syrup (or to taste)",
-      "Coarse sea salt (for the rim of the glasses)",
-      "Ice"
+      "125 g / 4oz   Chang's Pad Thai dried rice sticks ((Note 1))",
+      "1 1/2 tbsp tamarind puree (, NOT concentrate (Note 2))",
+      "3 tbsp (packed) brown sugar",
+      "2 tbsp fish sauce ((Note 3))",
+      "1 1/2 tbsp oyster sauce ((Note 4))",
+      "2 - 3 tbsp vegetable or canola oil",
+      "1/2  onion (, sliced (brown, yellow))",
+      "2  garlic cloves (, finely chopped)",
+      "150 g/5oz   chicken breast (or thigh) (, thinly sliced)",
+      "2  eggs (, lightly whisked)",
+      "1 1/2 cups of beansprouts",
+      "1/2 cup  firm tofu, cut into 3cm / 1 1/4\" batons (see photo)",
+      "1/4 cup garlic chives , cut into 3cm / 1 1/4\" pieces",
+      "1/4 cup finely chopped peanuts",
+      "Lime wedges ((essential))",
+      "Ground chilli or cayenne pepper ((optional))",
+      "More beansprouts"
     ],
     "instructions": [
-      "Salt the rim of the glass by rubbing a grapefruit wedge around the edge and dipping it onto a small plate of salt.",
-      "Mix the tequila, grapefruit juice, sparkling water, lime juice, and agave nectar into the glass. Fill the remainder of the glass with ice. Adjust sweetness to taste. Garnish with grapefruit wedge."
+      "Place noodles in a large bowl, pour over plenty of boiling water. Soak for 5 minutes, then drain in a colander and quickly rinse under cold water. Don't leave them sitting around for more than 5 - 10 minutes.",
+      "Mix Sauce in small bowl.",
+      "Heat 2 tbsp oil in a large non stick pan (or well seasoned skillet) over high heat. Add garlic and onion, cook for 30 seconds.",
+      "Add chicken and cook for 1 1/2 minutes until mostly cooked through.",
+      "Push to one side of the pan, pour egg in on the other side. Scramble using the wooden spoon (add touch of extra oil if pan is too dry), then mix into chicken.",
+      "Add bean sprouts, tofu, noodles then Sauce.",
+      "Toss gently for about 1 1/2 minutes until Sauce is absorbed by the noodles.",
+      "Add garlic chives and half the peanuts. Toss through quickly then remove from heat.",
+      "Serve immediately, sprinkled with remaining peanuts and lime wedges on the side, with a sprinkle of chilli and a handful of extra beansprouts on the side if desired (this is the Thai way!). Squeeze over lime juice to taste before eating."
     ],
-    "dateAdded": "2026-08-11"
+    "dateAdded": "2026-08-12"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2020/04/paloma-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-08-11",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2020/01/Chicken-Pad-Thai_9-SQ.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-08-12",
   "added": false
 }
