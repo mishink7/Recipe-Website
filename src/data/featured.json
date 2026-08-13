@@ -1,51 +1,38 @@
 {
   "recipe": {
-    "slug": "pad-thai",
-    "title": "Pad Thai",
-    "description": "Recipe video above. Here&#39;s a Pad Thai recipe that really does taste just as good as takeout from good Thai restaurants, and you&#39;ll find everything you need at the supermarket! I use chicken here but feel free to switch with any protein, even prawns/shrimp. If you&#39;re after a truly authentic Pad Thai recipe, see here - but be warned that most people will find it a little too &quot;real&quot; for their palettes because Pad Thai in Thailand has stronger fish sauce/dried shrimp &quot;funk&quot;. (Don&#39;t misread that word! :))",
+    "slug": "sauteed-garlic-and-tomato-lentil-salad",
+    "title": "Sauteed Garlic and Tomato Lentil Salad",
+    "description": "This sauteed garlic and tomato lentil salad is a delicious and healthy way to enjoy lentils! Colorful, bright, and fresh flavors.",
     "tags": [
-      "pad thai",
-      "what is pad thai?",
-      "mains"
+      "lentil salad",
+      "garlic and tomato salad",
+      "tomato lentil salad",
+      "lunch"
     ],
-    "source": "https://www.recipetineats.com/chicken-pad-thai/",
-    "prepTime": "20 min",
-    "cookTime": "10 min",
-    "servings": 2,
+    "source": "https://pinchofyum.com/sauteed-garlic-and-tomato-lentil-salad",
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "servings": 6,
     "ingredients": [
-      "125 g / 4oz   Chang's Pad Thai dried rice sticks ((Note 1))",
-      "1 1/2 tbsp tamarind puree (, NOT concentrate (Note 2))",
-      "3 tbsp (packed) brown sugar",
-      "2 tbsp fish sauce ((Note 3))",
-      "1 1/2 tbsp oyster sauce ((Note 4))",
-      "2 - 3 tbsp vegetable or canola oil",
-      "1/2  onion (, sliced (brown, yellow))",
-      "2  garlic cloves (, finely chopped)",
-      "150 g/5oz   chicken breast (or thigh) (, thinly sliced)",
-      "2  eggs (, lightly whisked)",
-      "1 1/2 cups of beansprouts",
-      "1/2 cup  firm tofu, cut into 3cm / 1 1/4\" batons (see photo)",
-      "1/4 cup garlic chives , cut into 3cm / 1 1/4\" pieces",
-      "1/4 cup finely chopped peanuts",
-      "Lime wedges ((essential))",
-      "Ground chilli or cayenne pepper ((optional))",
-      "More beansprouts"
+      "1 cup dry green (brown) lentils",
+      "1/2 cup dry light bulgur (light just refers to the coarseness of the grain)",
+      "3-4 cups fresh tomatoes, chopped",
+      "6-8 cloves garlic, minced",
+      "2 tablespoons olive oil",
+      "1/2 cup parsley, very finely chopped",
+      "1/4 cup citrus/vinaigrette dressing (I used a lemon tarragon dressing)",
+      "salt and pepper to taste",
+      "fresh lemon juice to taste"
     ],
     "instructions": [
-      "Place noodles in a large bowl, pour over plenty of boiling water. Soak for 5 minutes, then drain in a colander and quickly rinse under cold water. Don't leave them sitting around for more than 5 - 10 minutes.",
-      "Mix Sauce in small bowl.",
-      "Heat 2 tbsp oil in a large non stick pan (or well seasoned skillet) over high heat. Add garlic and onion, cook for 30 seconds.",
-      "Add chicken and cook for 1 1/2 minutes until mostly cooked through.",
-      "Push to one side of the pan, pour egg in on the other side. Scramble using the wooden spoon (add touch of extra oil if pan is too dry), then mix into chicken.",
-      "Add bean sprouts, tofu, noodles then Sauce.",
-      "Toss gently for about 1 1/2 minutes until Sauce is absorbed by the noodles.",
-      "Add garlic chives and half the peanuts. Toss through quickly then remove from heat.",
-      "Serve immediately, sprinkled with remaining peanuts and lime wedges on the side, with a sprinkle of chilli and a handful of extra beansprouts on the side if desired (this is the Thai way!). Squeeze over lime juice to taste before eating."
+      "Cook the lentils and the bulgur according to directions, using vegetable broth instead of water. When cooked, combine and set aside.",
+      "Saute the tomatoes, garlic, and olive oil over low heat for 15 minutes or until the tomatoes and garlic are soft and fragrant. Remove from heat. Add the lentils, bulgur, and parsley to the pan and stir to combine.",
+      "Season with dressing, salt and pepper, and lemon juice. Serve hot or cold."
     ],
-    "dateAdded": "2026-08-12"
+    "dateAdded": "2026-08-13"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2020/01/Chicken-Pad-Thai_9-SQ.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-12",
+  "imageUrl": "https://pinchofyum.com/tachyon/2013/03/lentil-salad-4.jpg?fit=180%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-13",
   "added": false
 }
