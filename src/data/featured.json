@@ -1,38 +1,12 @@
 {
   "recipe": {
-    "slug": "sauteed-garlic-and-tomato-lentil-salad",
-    "title": "Sauteed Garlic and Tomato Lentil Salad",
-    "description": "This sauteed garlic and tomato lentil salad is a delicious and healthy way to enjoy lentils! Colorful, bright, and fresh flavors.",
-    "tags": [
-      "lentil salad",
-      "garlic and tomato salad",
-      "tomato lentil salad",
-      "lunch"
-    ],
-    "source": "https://pinchofyum.com/sauteed-garlic-and-tomato-lentil-salad",
-    "prepTime": "15 min",
-    "cookTime": "30 min",
-    "servings": 6,
-    "ingredients": [
-      "1 cup dry green (brown) lentils",
-      "1/2 cup dry light bulgur (light just refers to the coarseness of the grain)",
-      "3-4 cups fresh tomatoes, chopped",
-      "6-8 cloves garlic, minced",
-      "2 tablespoons olive oil",
-      "1/2 cup parsley, very finely chopped",
-      "1/4 cup citrus/vinaigrette dressing (I used a lemon tarragon dressing)",
-      "salt and pepper to taste",
-      "fresh lemon juice to taste"
-    ],
-    "instructions": [
-      "Cook the lentils and the bulgur according to directions, using vegetable broth instead of water. When cooked, combine and set aside.",
-      "Saute the tomatoes, garlic, and olive oil over low heat for 15 minutes or until the tomatoes and garlic are soft and fragrant. Remove from heat. Add the lentils, bulgur, and parsley to the pan and stir to combine.",
-      "Season with dressing, salt and pepper, and lemon juice. Serve hot or cold."
-    ],
-    "dateAdded": "2026-08-13"
+    "title": "Vegetarian Cookout Recipes - Love and Lemons",
+    "description": "Over here the skies are gloomy and it hardly feels like the start of Memorial Day weekend – but I hope it’s sunnier where you are and that you have some fun outdoor party plans this weekend. Here are a few recipe ideas to get you started! Portabello Pups Mango Goji Guacamole / Grilled Potato & Arugula Salad Mango & Red Pepper Orzo Salad Corn on the Cob 3 Ways / Tart Cherry Frozen Yogurt  ",
+    "source": "https://www.loveandlemons.com/vegetarian-memorial-day-recipes/",
+    "dateAdded": "2026-08-14"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/03/lentil-salad-4.jpg?fit=180%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-13",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/05/Untitled-12.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-08-14",
   "added": false
 }
