@@ -1,12 +1,43 @@
 {
   "recipe": {
-    "title": "Vegetarian Cookout Recipes - Love and Lemons",
-    "description": "Over here the skies are gloomy and it hardly feels like the start of Memorial Day weekend – but I hope it’s sunnier where you are and that you have some fun outdoor party plans this weekend. Here are a few recipe ideas to get you started! Portabello Pups Mango Goji Guacamole / Grilled Potato & Arugula Salad Mango & Red Pepper Orzo Salad Corn on the Cob 3 Ways / Tart Cherry Frozen Yogurt  ",
-    "source": "https://www.loveandlemons.com/vegetarian-memorial-day-recipes/",
-    "dateAdded": "2026-08-14"
+    "slug": "fried-rice",
+    "title": "Fried Rice",
+    "description": "Recipe video above. Fried rice is a side that goes with all Chinese and Asian foods! This one truly stacks up to your favourite Chinese restaurant, a reader favourite included in my debut cookbook Dinner. See notes for scaling recipe up and using skillet instead of wok, and for GF option.Don&#39;t have day old rice? No worries. Make this reader-favourite Emergency Baked Fried Rice instead.",
+    "tags": [
+      "fried rice",
+      "side"
+    ],
+    "source": "https://www.recipetineats.com/egg-fried-rice/",
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "ingredients": [
+      "2 tbsp oil",
+      "1/2  onion (, finely chopped)",
+      "2  garlic cloves (, minced)",
+      "120 g/4 oz   bacon (, chopped (optional, or use ham))",
+      "1 - 1 1/2 cups diced vegetables (, frozen or fresh (Note 1))",
+      "2 cups (packed) cooked day old white rice  ((refrigerated or frozen defrosted, Note 2))",
+      "3  eggs, whisked",
+      "3/4 cup green onions (, (shallots / scallions) sliced)",
+      "1 tbsp Chinese cooking wine  ((sub Mirin, cooking sake or dry sherry) (Note 4))",
+      "1 tbsp Oyster Sauce",
+      "1 tbsp light soy sauce ((or all purpose) (Note 5))",
+      "1 tsp sesame oil (, optional)",
+      "1/4 tsp white pepper"
+    ],
+    "instructions": [
+      "Heat oil - Heat about 1 1/2 tbsp oil in a wok or 2 tbsp oil in a skillet over high heat until smoking.",
+      "Add onion, garlic and bacon. Cook until bacon is light golden - about 1 1/2 minutes.",
+      "Add vegetables (still frozen is fine). Cook for 2 minutes so they defrost and water evaporates.",
+      "Add rice and Sauce ingredients. Cook for 1 1/2 minutes until liquid evaporates.",
+      "Scramble egg - Shove rice to the side of the wok / skillet. Add 1/2 tbsp oil into the cleared space, shift wok so the heat is centred over the cleared space. Pour in egg then scramble - cook it through properly, don&#39;t &quot;soft scramble&quot;.",
+      "Serve - Add green onion then stir the egg into the rice. Remove from heat and serve immediately!"
+    ],
+    "dateAdded": "2026-08-15"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/05/Untitled-12.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-08-14",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2018/03/Egg-Fried-Rice_5-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-08-15",
   "added": false
 }
