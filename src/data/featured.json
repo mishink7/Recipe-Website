@@ -1,43 +1,47 @@
 {
   "recipe": {
-    "slug": "fried-rice",
-    "title": "Fried Rice",
-    "description": "Recipe video above. Fried rice is a side that goes with all Chinese and Asian foods! This one truly stacks up to your favourite Chinese restaurant, a reader favourite included in my debut cookbook Dinner. See notes for scaling recipe up and using skillet instead of wok, and for GF option.Don&#39;t have day old rice? No worries. Make this reader-favourite Emergency Baked Fried Rice instead.",
+    "slug": "creamy-tomato-risotto-with-pan-fried-barramundi",
+    "title": "Creamy Tomato Risotto with Pan Fried Barramundi",
+    "description": "Creamy Tomato Risotto with Pan Fried Barramundi! Slow-simmered tomato parmesan risotto paired with crispy fish. YUM!",
     "tags": [
-      "fried rice",
-      "side"
+      "tomato risotto",
+      "risotto recipe",
+      "barramundi recipe",
+      "parmesan risotto",
+      "seafood recipe",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/egg-fried-rice/",
-    "prepTime": "5 min",
-    "cookTime": "10 min",
-    "servings": 2,
+    "source": "https://pinchofyum.com/creamy-tomato-risotto-pan-fried-barramundi",
+    "prepTime": "20 min",
+    "cookTime": "40 min",
+    "servings": 6,
     "ingredients": [
-      "2 tbsp oil",
-      "1/2  onion (, finely chopped)",
-      "2  garlic cloves (, minced)",
-      "120 g/4 oz   bacon (, chopped (optional, or use ham))",
-      "1 - 1 1/2 cups diced vegetables (, frozen or fresh (Note 1))",
-      "2 cups (packed) cooked day old white rice  ((refrigerated or frozen defrosted, Note 2))",
-      "3  eggs, whisked",
-      "3/4 cup green onions (, (shallots / scallions) sliced)",
-      "1 tbsp Chinese cooking wine  ((sub Mirin, cooking sake or dry sherry) (Note 4))",
-      "1 tbsp Oyster Sauce",
-      "1 tbsp light soy sauce ((or all purpose) (Note 5))",
-      "1 tsp sesame oil (, optional)",
-      "1/4 tsp white pepper"
+      "6-7 cups chicken or vegetable broth",
+      "1/2 cup chopped onion",
+      "a few cloves of minced garlic",
+      "2 teaspoons fresh thyme leaves, minced (adjust to taste)",
+      "2 tablespoons butter",
+      "1 1/2 cups arborio rice",
+      "4 tomatoes, grated or pulsed through a food processor",
+      "2 tomatoes, roughly chopped",
+      "1/4 cup grated Parmesan cheese",
+      "3 large filets of Barramundi (skin on)",
+      "olive oil",
+      "salt",
+      "lemon juice"
     ],
     "instructions": [
-      "Heat oil - Heat about 1 1/2 tbsp oil in a wok or 2 tbsp oil in a skillet over high heat until smoking.",
-      "Add onion, garlic and bacon. Cook until bacon is light golden - about 1 1/2 minutes.",
-      "Add vegetables (still frozen is fine). Cook for 2 minutes so they defrost and water evaporates.",
-      "Add rice and Sauce ingredients. Cook for 1 1/2 minutes until liquid evaporates.",
-      "Scramble egg - Shove rice to the side of the wok / skillet. Add 1/2 tbsp oil into the cleared space, shift wok so the heat is centred over the cleared space. Pour in egg then scramble - cook it through properly, don&#39;t &quot;soft scramble&quot;.",
-      "Serve - Add green onion then stir the egg into the rice. Remove from heat and serve immediately!"
+      "Heat the chicken broth in a saucepan and keep it warm.",
+      "Melt the butter in a large skillet over medium heat. Add the onion, garlic, and thyme. Stir until softened. Add the arborio rice and stir until coated with the butter.",
+      "Add 1 cup of warm broth and stir until absorbed. Repeat with 1/2 cup of pulsed tomatoes. Repeat again, alternating between broth and tomatoes, stirring after each addition until all liquid is absorbed. Repeat this process until the risotto is cooked. This will take 20-30 minutes. Add a handful of Parmesan, the remaining chopped tomatoes, and salt to taste and stir to combine.",
+      "Heat a large cast iron skillet over high heat. Add a generous swish of olive oil. Pat fish filets with a paper towel and sprinkle with salt and pepper. (I also cut them in half since they were so big! Eyeball it based on the number of people you&#8217;re serving.) Add dry filets to the pan, skin side down, and fry for several minutes on each side. It will be hot and it might splatter, so watch out. When the fish is cooked and golden brown/crispy, remove from the pan.",
+      "Serve the fish with the risotto and an extra sprinkle of Parmesan.",
+      "For a quick pan sauce, toss some butter in the pan that you fried the fish along with a pinch of thyme and lemon juice. Whisk until combined and serve over the fish."
     ],
-    "dateAdded": "2026-08-15"
+    "dateAdded": "2026-08-16"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2018/03/Egg-Fried-Rice_5-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-15",
+  "imageUrl": "https://pinchofyum.com/tachyon/Barramundi-with-Risotto-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-16",
   "added": false
 }
