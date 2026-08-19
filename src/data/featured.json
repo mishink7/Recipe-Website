@@ -1,38 +1,34 @@
 {
   "recipe": {
-    "slug": "creamy-feta-dressing-with-iceberg-wedges",
-    "title": "Creamy Feta Dressing with Iceberg Wedges",
-    "description": "This creamy feta dressing is lighter than blue cheese dressing and just as delicious. Put your own touch on it using whatever herbs you have - this dressing is extremely versatile and will suit most herbs, even mint. To make this recipe a dip instead of a dressing, just reduce the quantity of milk. This recipe makes just under 2 cups of dressing and serves 4 to 6. It can be stored in the refrigerator for up to a week - it will thicken so loosen it up with a touch of milk.",
+    "slug": "goat-cheese-scrambled-eggs-with-pesto-veggies",
+    "title": "Goat Cheese Scrambled Eggs with Pesto Veggies",
+    "description": "These Goat Cheese Scrambled Eggs with Pesto Veggies are super simple, healthy, and colorful - a perfect quick and easy meal for busy weeknights.",
     "tags": [
-      "dressing",
-      "salad"
+      "goat cheese scrambled eggs",
+      "pesto veggies",
+      "scrambled eggs",
+      "breakfast"
     ],
-    "source": "https://www.recipetineats.com/creamy-feta-dressing-iceberg-wedges/",
-    "prepTime": "10 min",
-    "servings": 4,
+    "source": "https://pinchofyum.com/goat-cheese-scrambled-eggs-pesto-veggies",
+    "prepTime": "5 min",
+    "cookTime": "5 min",
+    "servings": 1,
     "ingredients": [
-      "1  iceberg lettuce",
-      "1/2 cup (packed) crumbled feta (preferably Danish or another soft feta)",
-      "1/2 cup whole egg mayonnaise",
-      "1/4 cup plain yoghurt",
-      "1/2 to 3/4 cup milk ((use milk to adjust consistency))",
-      "Juice of half a lemon",
-      "1/2 clove garlic (, crushed, or 1 tsp garlic powder)",
-      "1 tbsp chopped fresh oregano",
-      "Salt and pepper to taste"
+      "2 cups chopped kale",
+      "1/4 cup julienne sun dried tomatoes",
+      "1 tablespoon pesto",
+      "1 tablespoon pumpkin seeds",
+      "2 eggs and 1 egg white",
+      "1 ounce goat cheese"
     ],
     "instructions": [
-      "Cut the iceberg lettuce into 8 wedges, being careful to cut evenly through the centre of the core so each wedges holds together.",
-      "Combine the feta and mayonnaise into a medium size bowl and use a fork to mash it into a paste. If you use a creamier feta - like Danish - it will be easier to mash into a smooth paste.",
-      "Add the yoghurt, half the milk, lemon juice, garlic and oregano, and whisk vigorously to make the dressing smooth.",
-      "Use the remainder of the milk to get the consistency to your taste. I like mine reasonably thick so it sticks to the lettuce. If you make it thinner, it is suitable for tossing through salads.",
-      "Season to taste. Always season last because the saltiness of fetas and mayonnaise differ.",
-      "Place 1 or 2 wedges onto each plate and drizzle dressing to serve."
+      "Pesto Veggies: Chop the kale into fine, small pieces. Soak the sun dried tomatoes in water for a few minutes to soften if they were not packed in oil. Drain excess water. Toss the kale, tomatoes, pumpkin seeds, and pesto together in a large bowl.",
+      "Eggs: Preheat a nonstick skillet to medium low heat. Gently pour the eggs and egg whites directly onto the pan and let them sit for a minute or two. Gently drag your spoon across the eggs &#8211; they should be starting to cook a little bit. Repeat this process, gently dragging the spoon across to pick up the cooked egg bits, until the eggs are just BARELY done. They should look soft and almost a little bit wet. You shouldn&#8217;t really be able to smell them. &lt;&#8212; I&#8217;m weird about the smell of scrambled eggs, but usually by cooking them low and slow you can avoid it altogether. Toss a piece of goat cheese into the eggs, stir once more to melt it a little bit, and serve your eggs on a plate with your salad. Yum!"
     ],
-    "dateAdded": "2026-08-18"
+    "dateAdded": "2026-08-19"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/05/DSC_0014-Version-21-680x1024-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-18",
+  "imageUrl": "https://pinchofyum.com/tachyon/goat-cheese-scrambled-eggs-square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-19",
   "added": false
 }
