@@ -1,34 +1,46 @@
 {
   "recipe": {
-    "slug": "goat-cheese-scrambled-eggs-with-pesto-veggies",
-    "title": "Goat Cheese Scrambled Eggs with Pesto Veggies",
-    "description": "These Goat Cheese Scrambled Eggs with Pesto Veggies are super simple, healthy, and colorful - a perfect quick and easy meal for busy weeknights.",
+    "slug": "broccoli-pesto-mac-cheese",
+    "title": "Broccoli Pesto Mac & Cheese",
+    "description": "The ultimate mac & cheese mix in - broccoli pesto! A yummy way to get your kids to eat more veggies.",
     "tags": [
-      "goat cheese scrambled eggs",
-      "pesto veggies",
-      "scrambled eggs",
-      "breakfast"
+      "fall",
+      "spring",
+      "winter",
+      "dinner",
+      "pasta",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/goat-cheese-scrambled-eggs-pesto-veggies",
-    "prepTime": "5 min",
-    "cookTime": "5 min",
-    "servings": 1,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "servings": 2,
     "ingredients": [
-      "2 cups chopped kale",
-      "1/4 cup julienne sun dried tomatoes",
-      "1 tablespoon pesto",
-      "1 tablespoon pumpkin seeds",
-      "2 eggs and 1 egg white",
-      "1 ounce goat cheese"
+      "4 cups broccoli florets (reserve 2 cups for the pesto below)",
+      "1 (5.5 ounce) box Annie’s Four Cheese Macaroni & Cheese",
+      "½ cup unsweetened almond milk, or regular milk",
+      "2 tablespoons unsalted butter",
+      "2 cups broccoli florets, blanched",
+      "3 tablespoons pepitas (or pine nuts)",
+      "Handful of fresh basil",
+      "1 garlic clove",
+      "2 to 3 tablespoons fresh lemon juice",
+      "¼ cup extra-virgin olive oil",
+      "Sea salt & freshly ground black pepper",
+      "Handful of toasted pepitas or pine nuts",
+      "Pinches of red pepper flakes",
+      "Sprinkle of chives"
     ],
     "instructions": [
-      "Pesto Veggies: Chop the kale into fine, small pieces. Soak the sun dried tomatoes in water for a few minutes to soften if they were not packed in oil. Drain excess water. Toss the kale, tomatoes, pumpkin seeds, and pesto together in a large bowl.",
-      "Eggs: Preheat a nonstick skillet to medium low heat. Gently pour the eggs and egg whites directly onto the pan and let them sit for a minute or two. Gently drag your spoon across the eggs &#8211; they should be starting to cook a little bit. Repeat this process, gently dragging the spoon across to pick up the cooked egg bits, until the eggs are just BARELY done. They should look soft and almost a little bit wet. You shouldn&#8217;t really be able to smell them. &lt;&#8212; I&#8217;m weird about the smell of scrambled eggs, but usually by cooking them low and slow you can avoid it altogether. Toss a piece of goat cheese into the eggs, stir once more to melt it a little bit, and serve your eggs on a plate with your salad. Yum!"
+      "Prepare a large saucepan of salted boiling water and a large bowl of ice water. Drop all four cups of broccoli florets into the boiling water and blanch for 30 seconds to 1 minute, until slightly tender but still vibrant green. Remove and immediately place immerse into the ice water for 1 minute, then drain.",
+      "Make the pesto: In a food processor, combine 2 cups of the blanched broccoli with the pepitas, basil, and garlic. Pulse until combined. Add the lemon juice and a few generous pinches of salt and pepper and pulse again. With the blade running, add the olive oil until the pesto becomes smooth. Taste and adjust seasonings. Set aside.",
+      "Rinse the saucepan you used for the broccoli, fill it with fresh water, and bring to a boil. Add the pasta and cook 8 to 10 minutes, or until al dente, stirring occasionally. Drain the pasta in a colander. While the pasta is draining, add the milk and butter to the warm saucepan. Sprinkle the cheese over the milk and stir to combine. Add the cooked pasta to the saucepan and stir well. Stir in the remaining 2 cups of blanched broccoli florets until the broccoli is warmed through. Stir in a few scoops of pesto. Serve with extra pesto and optional toppings on the side.",
+      "Store extra pesto in the fridge for 2 to 3 days."
     ],
-    "dateAdded": "2026-08-19"
+    "dateAdded": "2026-08-20",
+    "source": "https://www.loveandlemons.com/broccoli-pesto-mac-cheese/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/goat-cheese-scrambled-eggs-square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-19",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/10/IMG_2015_10_01_06011-2.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-08-20",
   "added": false
 }
