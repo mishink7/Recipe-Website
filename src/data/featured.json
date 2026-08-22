@@ -1,42 +1,40 @@
 {
   "recipe": {
-    "slug": "a-great-chicken-marinade-great-grilled-or-pan-seared",
-    "title": "A great Chicken Marinade (great grilled or pan seared!)",
-    "description": "Recipe video above. This is a great everyday Chicken Marinade, one you make with things you&#039;ve already got with plenty of sub options (see notes). It will make any cut of chicken extra juicy, infuse it with savoury flavour that&#039;s a touch of sweet, with a hint of herby goodness. Especially good for chicken breast, and terrific for grilling!",
+    "slug": "grandma-s-apple-crisp",
+    "title": "Grandma’s Apple Crisp",
+    "description": "My Grandma's recipe for warm homemade apple crisp, served like bars and topped with vanilla ice cream. There’s no place like home, except Grandma’s.",
     "tags": [
-      "chicken marinade",
-      "mains"
+      "apple crisp",
+      "easy apple crisp",
+      "apple crisp recipe",
+      "dessert"
     ],
-    "source": "https://www.recipetineats.com/chicken-marinade/",
-    "prepTime": "5 min",
-    "cookTime": "10 min",
-    "servings": 4,
+    "source": "https://pinchofyum.com/grandmas-apple-crisp",
+    "prepTime": "20 min",
+    "cookTime": "30 min",
+    "servings": 9,
     "ingredients": [
-      "700g / 1.4 lb  chicken breast, tenderloins or thigh ((Note 1))",
-      "2 tbsp honey OR brown sugar",
-      "1 tbsp olive oil ((or any oil))",
-      "5 tbsp soy sauce",
-      "2 tbsp lemon juice",
-      "2 tsp Worcestershire sauce",
-      "4  garlic cloves (, minced)",
-      "1 tsp dried oregano ((or rosemary, thyme, minced herbs))",
-      "1/2 tsp black pepper (, ground)",
-      "Finely chopped parsley",
-      "Lemon slices"
+      "4 cups apples, sliced",
+      "1 tablespoon flour",
+      "1/2 cup sugar",
+      "3/4 cup brown sugar",
+      "1/3 cup butter",
+      "3/4 cup flour",
+      "1/2 cup oats",
+      "1/4 tsp baking soda",
+      "1/2 teaspoon salt"
     ],
     "instructions": [
-      "Recommended: Pound breast to even thickness&nbsp;using a meat pounder, rolling pin, or fist. OR cut large ones in half horizontally to form 2 cutlets (steaks) for each.",
-      "Mix marinade in a ziplock bag (or container in which chicken fits snugly).&nbsp;Add chicken.",
-      "Marinate 3 hours to overnight, though even 30 minutes is effective. (Note 2)",
-      "Heat 1 tbsp olive oil in a large skillet over medium high heat, and cook chicken per times below until deep golden (see video). If browning too quickly, lower heat.",
-      "Transfer to serving plate, cover loosely with foil and rest for 3 minutes before serving, garnished with parsley and lemon slices if desired.&nbsp;",
-      "Whole breast and boneless thighs: 3 - 4 minutes each side (internal temp 165F/75C)",
-      "Cutlets and tenderloin - 2 minutes each side"
+      "Preheat oven to 350 degrees",
+      "Combine the first three ingredients and place in a greased 8&#215;8 baking dish.",
+      "Combine the remaining ingredients and sprinkle over the top of the apple mixture.",
+      "Bake for 30 minutes.",
+      "Serve warm with whipped cream or ice cream!"
     ],
-    "dateAdded": "2026-08-21"
+    "dateAdded": "2026-08-22"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2019/06/Chicken-Marinade_9-SQ.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-21",
+  "imageUrl": "https://pinchofyum.com/tachyon/Grandma%E2%80%99s-Apple-Crisp.jpeg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-22",
   "added": false
 }
