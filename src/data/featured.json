@@ -1,12 +1,47 @@
 {
   "recipe": {
-    "title": "Vegetarian 4th of July Recipes - Love and Lemons",
-    "description": "Happy long weekend! I hope you all have some exciting 4th of July plans! And what I really mean by that is I hope you have more exciting plans than we do. We’re pretty jet lagged so we’ll probably be celebrating the red white and blue on the sofa with some Orange is the New Black. However, if I DO get up the energy to cook, I think this would be such a delicious veggie-forward summer menu: Pictured above: Baby Bella Veggie Kabobs Watermelon St. Germain Cocktails / Tomato Basil Peach Skewers Vegetarian Orzo Stuffed Peppers Chile Lime Grilled Corn on […]",
-    "source": "https://www.loveandlemons.com/vegetarian-4th-of-july-recipes/",
-    "dateAdded": "2026-08-23"
+    "slug": "chorizo-breakfast-hash-with-crispy-smashed-potatoes-and-eggs",
+    "title": "Chorizo Breakfast Hash with Crispy Smashed Potatoes and Eggs",
+    "description": "A loaded breakfast hash with chorizo, bacon, cherry tomatoes, crispy smashed potatoes and eggs.",
+    "tags": [
+      "breakfast"
+    ],
+    "source": "https://www.recipetineats.com/chorizo-bacon-smashed-potato-breakfast-hash/",
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 2,
+    "ingredients": [
+      "8 (220g / 7oz)  baby potatoes  (, skin on)",
+      "2  rashers of bacon (, or 3 strips of streaky bacon, cut into large dice)",
+      "3 oz / 100g   chorizo ((about 1/2 chorizo), sliced 1/2cm / 1/5\" thick)",
+      "1 cup cherry tomatoes (, halved)",
+      "3 or 4   eggs",
+      "2 tbsp water",
+      "Salt and pepper",
+      "Avocado slices ((optional))",
+      "1/2 tbsp fresh parsley (, finely chopped (optional, for garnish))",
+      "Crusty bread to serve"
+    ],
+    "instructions": [
+      "Steam, boil or microwave the potatoes until soft. (Note 1)",
+      "Cut the potatoes in half.",
+      "Heat a skillet or fry pan over high heat.",
+      "Add the bacon (add a dash of olive oil if you have lean bacon) and fry until browned but not crisp.",
+      "Remove onto a plate with a slotted egg flip. (Note 2)",
+      "Add the chorizo into the same fry pan and cook each side until browned, around 2 to 3 minutes.",
+      "Remove on the plate with the bacon. (Note 2)",
+      "Place the potatoes, cut side down, into the fry pan. Use the egg flip or a potato masher to \"smash\" the potatoes down so they flatten onto the fry pan. Sprinkle with salt.",
+      "Cook the first side until golden brown - around 1 to 1 1/2 minutes. Then turn and cook the other side until just golden brown, pressing down with the egg flip - around 1 to 1 1/2 minutes. Sprinkle with salt.",
+      "Add the bacon, chorizo and cherry tomatoes into the fry pan. Toss gently.",
+      "Crack the eggs into the pan. Drizzle the water down the side of the pan, then put a lid on the fry pan (Note 3). The eggs will \"steam cook\".",
+      "Cook until the eggs are cooked to your liking. For \"just set\" egg white with runny yolks, it is usually around 1 1/2 minutes.",
+      "Remove from the stove, sprinkle with salt and pepper. Top with sprinkle of parsley and avocado (if using).",
+      "Serve with crusty bread or toast."
+    ],
+    "dateAdded": "2026-08-24"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/07/Untitled-1-scaled.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-08-23",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2015/01/Chorizo-Bacon-Smashed-Potato-Breakfast-Hash-LR-edited-FINAL.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-08-24",
   "added": false
 }
