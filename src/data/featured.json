@@ -1,36 +1,12 @@
 {
   "recipe": {
-    "slug": "cinnamon-whole-grain-power-pancakes",
-    "title": "Cinnamon Whole Grain Power Pancakes",
-    "description": "These Cinnamon Whole Grain Power Pancakes are so simple to make and will keep you full all morning.",
-    "tags": [
-      "whole grain pancakes",
-      "cinnamon pancakes",
-      "healthy cinnamon pancakes",
-      "breakfast"
-    ],
-    "source": "https://pinchofyum.com/cinnamon-whole-grain-power-pancakes",
-    "prepTime": "10 min",
-    "cookTime": "10 min",
-    "servings": 12,
-    "ingredients": [
-      "1/2 cup milk",
-      "1 cup cottage cheese",
-      "2 whole eggs and 2 egg whites",
-      "1/2 cup wheat flour",
-      "1/2 cup rolled oats",
-      "1/2 tsp baking soda",
-      "1/2 teaspoon cinnamon",
-      "1/4 teaspoon vanilla"
-    ],
-    "instructions": [
-      "Place all ingredients in a blender and blend for 30 seconds until the batter is mostly smooth. Preheat a griddle to medium high heat.",
-      "Pour about 1/4 cup pancake batter onto the hot griddle and cook for about three minutes or until bubbles form on top. Flip to the other side and cook for another 1-2 minutes. Transfer to a plate and serve topped with fruit, almond butter, chia seeds, and of course, maple syrup."
-    ],
-    "dateAdded": "2026-08-25"
+    "title": "Best Recipes of 2019 - Love and Lemons",
+    "description": "The 14 best Love and Lemons recipes of 2019!",
+    "source": "https://www.loveandlemons.com/best-of-2019/",
+    "dateAdded": "2026-08-26"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/pancakes-square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-25",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2019/12/eggplant-parmesan.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-08-26",
   "added": false
 }
