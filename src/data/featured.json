@@ -1,12 +1,43 @@
 {
   "recipe": {
-    "title": "Best Recipes of 2019 - Love and Lemons",
-    "description": "The 14 best Love and Lemons recipes of 2019!",
-    "source": "https://www.loveandlemons.com/best-of-2019/",
-    "dateAdded": "2026-08-26"
+    "slug": "creamy-salmon-risoni-orzo-15-minute-meal",
+    "title": "Creamy Salmon Risoni / Orzo (15 Minute Meal)",
+    "description": "A creamy risoni dinner in a flash! Get the ingredients out on the bench and it will take just 15 minutes to get this on the table. Watch the video to see how easy it is!",
+    "tags": [
+      "dinner",
+      "pasta"
+    ],
+    "source": "https://www.recipetineats.com/creamy-salmon-risoni-orzo-15-minute-meal/",
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 4,
+    "ingredients": [
+      "1.5 oz / 40g / 3 tbsp   unsalted butter",
+      "1/2  onion (, diced (brown, white, yellow))",
+      "2  garlic cloves (, minced)",
+      "1 tbsp plain flour",
+      "2 cups milk ((light or full fat))",
+      "2 1/4 cups chicken broth / stock",
+      "1 1/2 cups dried risoni / orzo ((Note 1))",
+      "2 cups frozen peas",
+      "1/2 cup grated parmesan",
+      "6 oz / 185 g   hot-smoked salmon (, flaked into large chunks using 2 forks)",
+      "Parsley (, chopped, to garnish)"
+    ],
+    "instructions": [
+      "Melt butter in a deep skillet or pot over medium high heat.",
+      "Add onion and garlic, cook for 2 minutes until translucent.",
+      "Add flour and cook for 1 minute.",
+      "Switch to a whisk and add half the milk. Whisk to dissolve the pasty onion mixture into the milk (about 20 seconds). Then add remaining milk, chicken broth, risoni and peas.",
+      "Bring to simmer then turn heat down to medium so it bubbles gently. Cook for 5 minutes - stir occasionally for the first half then more frequently during the second half.",
+      "At 5 minutes, take it off the stove - it will still be quite saucy (see video) but will reduce in the next steps and while serving.",
+      "Stir through parmesan cheese, salt and pepper to taste. Then gently stir through salmon.",
+      "Serve immediately, sprinkled with parsley leaves if desired."
+    ],
+    "dateAdded": "2026-08-27"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2019/12/eggplant-parmesan.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-08-26",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2016/03/Creamy-Salmon-Risoni-Orzo_2.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-08-27",
   "added": false
 }
