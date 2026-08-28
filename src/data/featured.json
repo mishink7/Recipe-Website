@@ -1,43 +1,36 @@
 {
   "recipe": {
-    "slug": "creamy-salmon-risoni-orzo-15-minute-meal",
-    "title": "Creamy Salmon Risoni / Orzo (15 Minute Meal)",
-    "description": "A creamy risoni dinner in a flash! Get the ingredients out on the bench and it will take just 15 minutes to get this on the table. Watch the video to see how easy it is!",
+    "slug": "span-class-fn-pumpkin-dip-for-gingersnaps",
+    "title": "<span class=\"fn\">Pumpkin Dip for Gingersnaps",
+    "description": "This simple and creamy pumpkin dip is always a hit at parties. Only 5 ingredients and perfect for dipping with gingersnaps!",
     "tags": [
-      "dinner",
-      "pasta"
+      "pumpkin dip",
+      "gingersnap dip",
+      "creamy pumpkin dip",
+      "appetizer"
     ],
-    "source": "https://www.recipetineats.com/creamy-salmon-risoni-orzo-15-minute-meal/",
+    "source": "https://pinchofyum.com/pumpkin-dip-for-gingersnaps",
     "prepTime": "5 min",
     "cookTime": "10 min",
-    "servings": 4,
+    "servings": 20,
     "ingredients": [
-      "1.5 oz / 40g / 3 tbsp   unsalted butter",
-      "1/2  onion (, diced (brown, white, yellow))",
-      "2  garlic cloves (, minced)",
-      "1 tbsp plain flour",
-      "2 cups milk ((light or full fat))",
-      "2 1/4 cups chicken broth / stock",
-      "1 1/2 cups dried risoni / orzo ((Note 1))",
-      "2 cups frozen peas",
-      "1/2 cup grated parmesan",
-      "6 oz / 185 g   hot-smoked salmon (, flaked into large chunks using 2 forks)",
-      "Parsley (, chopped, to garnish)"
+      "4 ounces cream cheese, softened",
+      "1 cup powdered sugar",
+      "1/4 cup heavy whipping cream",
+      "3/4 cup pumpkin",
+      "2 teaspoons pumpkin pie spices (I eyeballed it with cinnamon, cloves, and allspice)",
+      "1 tablespoon maple syrup",
+      "gingersnaps"
     ],
     "instructions": [
-      "Melt butter in a deep skillet or pot over medium high heat.",
-      "Add onion and garlic, cook for 2 minutes until translucent.",
-      "Add flour and cook for 1 minute.",
-      "Switch to a whisk and add half the milk. Whisk to dissolve the pasty onion mixture into the milk (about 20 seconds). Then add remaining milk, chicken broth, risoni and peas.",
-      "Bring to simmer then turn heat down to medium so it bubbles gently. Cook for 5 minutes - stir occasionally for the first half then more frequently during the second half.",
-      "At 5 minutes, take it off the stove - it will still be quite saucy (see video) but will reduce in the next steps and while serving.",
-      "Stir through parmesan cheese, salt and pepper to taste. Then gently stir through salmon.",
-      "Serve immediately, sprinkled with parsley leaves if desired."
+      "Using an electric mixer, whip together the cream cheese, powdered sugar, and heavy whipping cream for about 2-3 minutes.",
+      "Add the pumpkin, spices, and maple syrup &#8211; whip again for 2-3 minutes (the longer you whip, the more fluffy it becomes).",
+      "Add a drizzle of maple syrup and crushed gingersnap crumbs on top for looks. Dip with gingersnaps or apple slices!"
     ],
-    "dateAdded": "2026-08-27"
+    "dateAdded": "2026-08-28"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2016/03/Creamy-Salmon-Risoni-Orzo_2.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-27",
+  "imageUrl": "https://pinchofyum.com/tachyon/pumpkin-dip-21.jpg?fit=205%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-28",
   "added": false
 }
