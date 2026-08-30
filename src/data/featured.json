@@ -1,33 +1,12 @@
 {
   "recipe": {
-    "slug": "matcha-latte",
-    "title": "Matcha Latte",
-    "description": "This 3-ingredient matcha latte is packed with antioxidants and delicious flavor. A cozy, healthy drink for cool days. Vegan!",
-    "tags": [
-      "matcha latte",
-      "fall",
-      "spring",
-      "winter",
-      "beverage"
-    ],
-    "source": "https://www.loveandlemons.com/matcha-latte/",
-    "prepTime": "5 min",
-    "servings": 1,
-    "ingredients": [
-      "½ to 1 teaspoon matcha powder",
-      "¼ cup hot water",
-      "¼ cup coconut milk (warmed)",
-      "Maple syrup (honey, stevia, or sweetener of choice, optional)"
-    ],
-    "instructions": [
-      "Sift your matcha so it is lump-free.",
-      "Spoon the matcha into a large mug. Add the hot water and whisk briskly, in an up and down motion, until frothy - about 30 seconds or so. Add the coconut milk and whisk until well combined.",
-      "Taste and add additional water, coconut milk, and/or sweetener to your liking."
-    ],
-    "dateAdded": "2026-08-29"
+    "title": "Pan-Seared Salmon",
+    "description": "This recipe is intended for skinless salmon, but feel free to keep the skin on. I cook my salmon so it’s just-set, for the ideal juiciness and melting texture. Find the recipe on page 141",
+    "source": "https://www.recipetineats.com/pan-seared-salmon/",
+    "dateAdded": "2026-08-30"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2014/03/IMG_0145-3-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-08-29",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2021/05/Pan-seared-salmon_900px.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-08-30",
   "added": false
 }
