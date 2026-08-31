@@ -1,12 +1,46 @@
 {
   "recipe": {
-    "title": "Pan-Seared Salmon",
-    "description": "This recipe is intended for skinless salmon, but feel free to keep the skin on. I cook my salmon so it’s just-set, for the ideal juiciness and melting texture. Find the recipe on page 141",
-    "source": "https://www.recipetineats.com/pan-seared-salmon/",
-    "dateAdded": "2026-08-30"
+    "slug": "zaalouk-toasts-with-burrata",
+    "title": "Zaalouk Toasts with Burrata",
+    "description": "Zaalouk toast for all! Golden crisp sourdough toasts topped with a smoky eggplant and tomato mixture, plus creamy burrata and olive oil drizzles over it all. ",
+    "tags": [
+      "zaalouk",
+      "zaalouk toast",
+      "moroccan toast",
+      "dinner"
+    ],
+    "source": "https://pinchofyum.com/zaalouk-toasts-with-burrata",
+    "prepTime": "10 min",
+    "cookTime": "45 min",
+    "servings": 4,
+    "ingredients": [
+      "1 eggplant",
+      "olive oil and salt",
+      "one 14-ounce can crushed tomatoes (I used crushed San Marzano tomatoes)",
+      "6 cloves garlic",
+      "2 teaspoons paprika",
+      "2 teaspoons cumin",
+      "1/2 cup fresh parsley",
+      "red pepper flakes for heat (optional)",
+      "1 teaspoon salt (more to taste)",
+      "sourdough or Tuscan style sliced bread",
+      "a generous amount of olive oil",
+      "fresh burrata",
+      "olive oil, salt, pepper, and more herbs for topping"
+    ],
+    "instructions": [
+      "Preheat the oven to 400 degrees.",
+      "Cut the eggplant in half lengthwise. Make small cuts that allow you to tuck the garlic cloves into the eggplant so they are almost completely inside (so you can roast them without burning them).",
+      "Drizzle the halves with olive oil and salt; roast for 30-45 minutes until the eggplant is super soft and pulls away from the skin easily.",
+      "Transfer the eggplant and roasted garlic to a small saucepan; add tomatoes and spices. Mash with a potato masher or the back of a wooden spoon until you get a chunky-but-smooth-ish texture.",
+      "Simmer for 15 minutes or so. Add the parsley and season to taste.",
+      "For the grilled bread, heat a skillet over medium heat. Add a generous couple swizzles of olive oil (probably 2 tablespoons or so) and add your sliced bread to the pan. Cook until golden brown and toasty on both sides.",
+      "To serve, top your toasts with a smear of zaalouk and a hunk of fresh burrata. Top with olive oil, herbs, salt and pepper."
+    ],
+    "dateAdded": "2026-08-31"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2021/05/Pan-seared-salmon_900px.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-08-30",
+  "imageUrl": "https://pinchofyum.com/tachyon/Zaalouk-Toasts-Square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-08-31",
   "added": false
 }
