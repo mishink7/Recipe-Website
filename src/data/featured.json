@@ -1,46 +1,49 @@
 {
   "recipe": {
-    "slug": "zaalouk-toasts-with-burrata",
-    "title": "Zaalouk Toasts with Burrata",
-    "description": "Zaalouk toast for all! Golden crisp sourdough toasts topped with a smoky eggplant and tomato mixture, plus creamy burrata and olive oil drizzles over it all. ",
+    "slug": "best-vegan-chili",
+    "title": "Best Vegan Chili",
+    "description": "You'll love this vegan chili recipe! Butternut squash adds a delicious sweet contrast to the smoky, spicy peppers and chili powder.",
     "tags": [
-      "zaalouk",
-      "zaalouk toast",
-      "moroccan toast",
-      "dinner"
+      "vegan chili",
+      "fall",
+      "winter",
+      "soup"
     ],
-    "source": "https://pinchofyum.com/zaalouk-toasts-with-burrata",
-    "prepTime": "10 min",
+    "prepTime": "15 min",
     "cookTime": "45 min",
     "servings": 4,
     "ingredients": [
-      "1 eggplant",
-      "olive oil and salt",
-      "one 14-ounce can crushed tomatoes (I used crushed San Marzano tomatoes)",
-      "6 cloves garlic",
-      "2 teaspoons paprika",
-      "2 teaspoons cumin",
-      "1/2 cup fresh parsley",
-      "red pepper flakes for heat (optional)",
-      "1 teaspoon salt (more to taste)",
-      "sourdough or Tuscan style sliced bread",
-      "a generous amount of olive oil",
-      "fresh burrata",
-      "olive oil, salt, pepper, and more herbs for topping"
+      "1 tablespoon extra-virgin olive oil",
+      "1 medium yellow onion, diced, about 1½ cups",
+      "2 garlic cloves, minced",
+      "1 carrot, chopped",
+      "2 cups cubed butternut squash",
+      "1 poblano pepper, stem and seeds removed, and diced*",
+      "1 teaspoon chili powder*",
+      "½ teaspoon chipotle paste or powder*",
+      "1 cup halved cherry tomatoes, or 1 cup canned diced tomatoes",
+      "2 teaspoons apple cider vinegar",
+      "1 cup cooked black beans, drained and rinsed",
+      "2 to 3 cups vegetable broth",
+      "Juice of ½ to 1 lime",
+      "Sea salt and freshly ground black pepper",
+      "Grilled corn kernels",
+      "Handful of cilantro",
+      "Baked tortilla strips (or crumbled chips)",
+      "Lime slices",
+      "Dollops of poblano cashew cream"
     ],
     "instructions": [
-      "Preheat the oven to 400 degrees.",
-      "Cut the eggplant in half lengthwise. Make small cuts that allow you to tuck the garlic cloves into the eggplant so they are almost completely inside (so you can roast them without burning them).",
-      "Drizzle the halves with olive oil and salt; roast for 30-45 minutes until the eggplant is super soft and pulls away from the skin easily.",
-      "Transfer the eggplant and roasted garlic to a small saucepan; add tomatoes and spices. Mash with a potato masher or the back of a wooden spoon until you get a chunky-but-smooth-ish texture.",
-      "Simmer for 15 minutes or so. Add the parsley and season to taste.",
-      "For the grilled bread, heat a skillet over medium heat. Add a generous couple swizzles of olive oil (probably 2 tablespoons or so) and add your sliced bread to the pan. Cook until golden brown and toasty on both sides.",
-      "To serve, top your toasts with a smear of zaalouk and a hunk of fresh burrata. Top with olive oil, herbs, salt and pepper."
+      "Heat the oil in a large pot over medium heat. Add the onion and a pinch of salt and pepper and cook until soft, 5 to 8 minutes. Stir in the garlic, carrots, poblano, butternut squash, and another pinch of salt and pepper. Cook until the vegetables just start to become tender and the onion is lightly browned, about 15 minutes. Reduce the heat if necessary.",
+      "Add the chili powder, chipotle powder, and tomatoes and cook for 1 minute. Stir in the apple cider vinegar and black beans and then add 2 cups of vegetable broth (or enough to cover everything). Simmer until the butternut squash and carrots are tender, 20 to 30 minutes, adding more broth as needed.",
+      "Add a big squeeze of lime. Season to taste with more salt, pepper, and spices to your liking. If your chili is too spicy, stir in a small splash of apple cider vinegar. If it's too thick, add another cup of broth.",
+      "Serve with grilled corn, cilantro, tortilla strips, lime slices, and poblano cashew cream."
     ],
-    "dateAdded": "2026-08-31"
+    "dateAdded": "2026-09-01",
+    "source": "https://www.loveandlemons.com/vegan-chili/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Zaalouk-Toasts-Square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-08-31",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/10/IMG_2015_09_28_05951-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-09-01",
   "added": false
 }
