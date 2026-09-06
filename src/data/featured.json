@@ -1,41 +1,40 @@
 {
   "recipe": {
-    "slug": "enchilada-sauce-classic",
-    "title": "Enchilada Sauce - Classic",
-    "description": "Enchilada sauce can make or break an enchilada dish. And homemade is always best! There are a lot of enchilada sauce recipes out there - this one is a classic essential.",
+    "slug": "orangeberry-shortcake-cookies",
+    "title": "Orangeberry Shortcake Cookies",
+    "description": "These orangeberry shortcake cookies are like fluffy little shortcakes in cookie form. Made with orange juice, orange zest, and fresh berries.",
     "tags": [
-      "sauce"
+      "shortcake cookies",
+      "orange cookies",
+      "orangeberry shortcake cookies",
+      "dessert"
     ],
-    "source": "https://www.recipetineats.com/enchilada-sauce/",
-    "prepTime": "3 min",
-    "cookTime": "12 min",
-    "servings": 3,
+    "source": "https://pinchofyum.com/orangeberry-shortcake-cookies",
+    "prepTime": "20 min",
+    "cookTime": "15 min",
+    "servings": 12,
     "ingredients": [
-      "1/4 cup vegetable oil",
-      "1/4 cup flour (all purpose / plain)",
-      "700 g / 24oz  tomato passata (1 bottle) or 16 oz (2 cans) US tomato sauce",
-      "1 1/2 cups chicken broth, low sodium (or vegetable broth, or water + bouillon cube)",
-      "1 tbsp dried oregano",
-      "2 tsp cumin",
-      "2 tsp paprika",
-      "1 tsp garlic powder",
-      "1 tsp onion powder",
-      "1 tbsp brown sugar",
-      "Salt and pepper to taste",
-      "Optional extras: cayenne pepper (for spiciness), ground chipotle"
+      "12 ounces strawberries, hulled and cut into 1/4-inch pieces (2 cups)",
+      "1 tbs. juice from an orange (or lemon)",
+      "1/2 cup plus 2 tablespoons sugar",
+      "2 cups all-purpose flour",
+      "1/4 teaspoon orange zest (or lemon)",
+      "2 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "6 tablespoons cold unsalted butter, cut into small pieces",
+      "2/3 cup fat free half and half"
     ],
     "instructions": [
-      "Heat oil in a saucepan over medium heat.",
-      "Add flour and whisk until well combined, about 1 minute.",
-      "Add remaining ingredients except salt and pepper, whisk, bring to boil, then reduce to simmer.",
-      "Simmer for 10 minutes or so, until thickened, whisking occasionally.",
-      "Season with salt and pepper.",
-      "This can be stored for up to 1 week in the refrigerator in an airtight container. It also freezes well."
+      "Preheat oven to 375°F. Line two baking sheets with parchment paper.",
+      "In a small bowl, stir together the strawberries, juice, and 2 tablespoons of the sugar; set aside.",
+      "In a large bowl, whisk together the zest and remaining sugar. Rub the zest into the sugar with your fingertips until moist and fragrant.",
+      "Add the flour, baking powder, and salt to the zest/sugar mixture and whisk to combine. Using a pastry cutter (or your hands) to cut the butter into the flour mixture until you have coarse crumbs. Add the cream to the bowl and stir until the dough starts to come together, then gently fold in the strawberry mixture.",
+      "Use a small cookie scoop (about 1 1/2 tablespoons) to drop dough onto the prepared baking sheet, evenly spaced apart. Bake for about 10-15 minutes, or until the cookies are golden brown. Transfer the pans to wire racks and let the cookies cool. The cookies are best the day they’re made, but can be kept in an airtight container for 1 day."
     ],
-    "dateAdded": "2026-09-05"
+    "dateAdded": "2026-09-06"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/05/Enchilada-Sauce_no-text-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-09-05",
+  "imageUrl": "https://pinchofyum.com/tachyon/2011/04/Orangeberry-Shortcake-Cookies.jpeg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-09-06",
   "added": false
 }
