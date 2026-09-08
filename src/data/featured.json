@@ -1,45 +1,46 @@
 {
   "recipe": {
-    "slug": "mango-coconut-muffins",
-    "title": "Mango Coconut Muffins",
-    "description": "These healthy coconut mango muffins are a yummy breakfast or snack! Freeze any extras in an airtight bag or container for up to 3 months.",
+    "slug": "pork-tenderloin-with-honey-garlic-sauce",
+    "title": "Pork Tenderloin with Honey Garlic Sauce",
+    "description": "Recipe VIDEO above. Tender, succulent pork fillet seasoned with a rub, seared until golden then baked in a Honey Garlic Sauce until sticky on the outside and juicy on the inside. Simply incredible! (And really, it's SIMPLE!)",
     "tags": [
-      "coconut muffins",
-      "spring",
-      "summer",
-      "breakfast",
-      "baking"
+      "baked pork tenderloin",
+      "pork tenderloin",
+      "mains"
     ],
+    "source": "https://www.recipetineats.com/pork-tenderloin-with-honey-garlic-sauce/",
     "prepTime": "10 min",
-    "cookTime": "20 min",
-    "servings": 12,
+    "cookTime": "25 min",
+    "servings": 5,
     "ingredients": [
-      "1 tablespoon ground flaxseed*",
-      "3 tablespoons water*",
-      "2 teaspoons fresh lime juice",
-      "¾ cup almond milk, at room temperature",
-      "2 cups spelt flour (or white/wheat mix)",
-      "2 teaspoons baking powder",
-      "½ teaspoon salt",
-      "½ teaspoon cinnamon",
-      "½ cup cane sugar + 2 tablespoons sugar for the topping",
-      "¼ cup melted unrefined coconut oil",
-      "1 teaspoon vanilla",
-      "1 cup finely diced ripe mango",
-      "½ to ¾ cup unsweetened coconut flakes"
+      "2  pork tenderloin ((pork fillet), 500g/1lb each (Note 1))",
+      "1 1/2 tbsp olive oil ((or butter))",
+      "3  garlic cloves (, very finely chopped)",
+      "1/2 tsp garlic powder",
+      "1/2 tsp paprika",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "3 tbsp cider vinegar ((Note 2))",
+      "1 1/2 tbsp soy sauce, light or all purpose ((Note 2))",
+      "1/2 cup honey ((or maple syrup))"
     ],
     "instructions": [
-      "Preheat the oven to 350°F and line a 12-cup muffin tin with paper liners.",
-      "Combine the ground flaxseed and water and set aside to thicken. Stir the lime juice into the almond milk and set aside.",
-      "In a large bowl, combine the flour, baking powder, salt, cinnamon and ½ cup of sugar. In a medium bowl, whisk together the flaxseed mixture, almond milk/lime juice mixture, coconut oil and vanilla.",
-      "Pour the wet ingredients into the bowl of dry ingredients and stir until just combined. Do not overmix. Fold in the diced mango.",
-      "Evenly divide the batter into the muffin cups, filling each about three-quarters full. Sprinkle with the coconut flakes and bake for 15 to 20 minutes, or until a toothpick inserted comes out clean. If desired, sprinkle lightly with the remaining sugar. Cool for 10 minutes, then place on a wire rack to finish cooling."
+      "Preheat oven to 180C/350F.",
+      "Mix Sauce ingredients together.",
+      "Mix Rub ingredients then sprinkle over the pork.",
+      "Heat oil in a large oven proof skillet (Note 3) over high heat. Add pork and sear until golden all over.",
+      "When pork is almost seared, push to the side, add garlic and cook until golden.",
+      "Pour sauce in. Turn pork once, then immediately transfer to the oven.",
+      "Roast 15 - 18 minutes or until the internal temperature is 68C / 155F (Note 4).",
+      "Remove pork onto plate, cover loosely with foil and rest 5 minutes.",
+      "Place skillet with sauce on stove over medium high heat, simmer rapidly for 3 minutes until liquid reduces down to thin syrup.",
+      "Remove from stove, put pork in and turn to coat in sauce.",
+      "Cut pork into thick slices and serve with sauce!"
     ],
-    "dateAdded": "2026-09-07",
-    "source": "https://www.loveandlemons.com/coconut-muffins/"
+    "dateAdded": "2026-09-08"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2017/04/IMG_2017_01_17_09333-2.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-09-07",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2019/05/Honey-Garlic-Pork-Tenderloin_1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-09-08",
   "added": false
 }
