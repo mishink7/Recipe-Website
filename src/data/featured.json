@@ -1,46 +1,41 @@
 {
   "recipe": {
-    "slug": "pork-tenderloin-with-honey-garlic-sauce",
-    "title": "Pork Tenderloin with Honey Garlic Sauce",
-    "description": "Recipe VIDEO above. Tender, succulent pork fillet seasoned with a rub, seared until golden then baked in a Honey Garlic Sauce until sticky on the outside and juicy on the inside. Simply incredible! (And really, it's SIMPLE!)",
+    "slug": "garlic-butter-shrimp-boil",
+    "title": "Garlic Butter Shrimp Boil ",
+    "description": "Can you handle this Garlic Butter Shrimp Boil? We're talking butter-drizzled juicy shrimp, steamy corn and potatoes, and luscious little side dishes of garlic butter for extra dunking. YUM!",
     "tags": [
-      "baked pork tenderloin",
-      "pork tenderloin",
-      "mains"
+      "shrimp boil",
+      "cajun shrimp",
+      "shrimp recipe",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/pork-tenderloin-with-honey-garlic-sauce/",
-    "prepTime": "10 min",
-    "cookTime": "25 min",
-    "servings": 5,
+    "source": "https://pinchofyum.com/garlic-butter-shrimp-boil",
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "servings": 4,
     "ingredients": [
-      "2  pork tenderloin ((pork fillet), 500g/1lb each (Note 1))",
-      "1 1/2 tbsp olive oil ((or butter))",
-      "3  garlic cloves (, very finely chopped)",
-      "1/2 tsp garlic powder",
-      "1/2 tsp paprika",
-      "1/2 tsp salt",
-      "1/2 tsp black pepper",
-      "3 tbsp cider vinegar ((Note 2))",
-      "1 1/2 tbsp soy sauce, light or all purpose ((Note 2))",
-      "1/2 cup honey ((or maple syrup))"
+      "1 pound small potatoes (for the best flavor I recommend cutting in half or quarters so the insides of the potato can absorb the sauce)",
+      "2-4 ears of corn, cut into small pieces",
+      "1 pound kielbasa sausage, sliced",
+      "1 pound shrimp",
+      "and any random things you have on hand that can make a very low key broth: onion, garlic, lemon, Cajun seasoning, salt",
+      "2 sticks of salted butter (you don&#8217;t have to use it all! my motto for garlic butter sauce is better too much than not enough)",
+      "5-6 large cloves garlic, thinly sliced",
+      "thyme sprigs (optional)",
+      "lemon wedges",
+      "Old Bay or Cajun-style seasoning"
     ],
     "instructions": [
-      "Preheat oven to 180C/350F.",
-      "Mix Sauce ingredients together.",
-      "Mix Rub ingredients then sprinkle over the pork.",
-      "Heat oil in a large oven proof skillet (Note 3) over high heat. Add pork and sear until golden all over.",
-      "When pork is almost seared, push to the side, add garlic and cook until golden.",
-      "Pour sauce in. Turn pork once, then immediately transfer to the oven.",
-      "Roast 15 - 18 minutes or until the internal temperature is 68C / 155F (Note 4).",
-      "Remove pork onto plate, cover loosely with foil and rest 5 minutes.",
-      "Place skillet with sauce on stove over medium high heat, simmer rapidly for 3 minutes until liquid reduces down to thin syrup.",
-      "Remove from stove, put pork in and turn to coat in sauce.",
-      "Cut pork into thick slices and serve with sauce!"
+      "Melt your butter in a saucepan over medium low heat. Add the garlic and just let it hang out over gentle, low heat to infuse all the garlic flavor into the butter and soften the little pieces of garlic. Add a few thyme sprigs if you want to be extra. Keep an eye on it so you don&#8217;t brown it or burn it. It will smell&#8230; how do I say this? AMAZING.",
+      "Fill a large (like, large) pot with water to about half capacity. Bring the water to boil over medium high heat. If you want, add some things to make a broth: chunks of onion, garlic, lemon, salt, seasonings. Add a couple big pinches of salt. This is very low pressure and meant to be loose! Plain salted water will also work just fine.",
+      "Add potatoes and corn to the water. Boil for 5-8 minutes until tender-crisp.",
+      "Add kielbasa and shrimp to the water. Boil for another 4-5 minutes until the shrimp is cooked through.",
+      "Drain and transfer to a big roasting pan, serving dish, OR directly to your table lined with newspaper for the real deal experience. Squeeze lemon juice over the top, sprinkle with seasonings to taste, and drizzle with the butter sauce. Also: serve with little dishes of garlic butter sauce for dunking. Be prepared to fall in love."
     ],
-    "dateAdded": "2026-09-08"
+    "dateAdded": "2026-09-09"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2019/05/Honey-Garlic-Pork-Tenderloin_1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-09-08",
+  "imageUrl": "https://pinchofyum.com/tachyon/Shrimp-Boil-Square.png?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-09-09",
   "added": false
 }
