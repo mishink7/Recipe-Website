@@ -1,41 +1,49 @@
 {
   "recipe": {
-    "slug": "garlic-butter-shrimp-boil",
-    "title": "Garlic Butter Shrimp Boil ",
-    "description": "Can you handle this Garlic Butter Shrimp Boil? We're talking butter-drizzled juicy shrimp, steamy corn and potatoes, and luscious little side dishes of garlic butter for extra dunking. YUM!",
+    "slug": "shells-roasted-cauliflower",
+    "title": "Shells & Roasted Cauliflower",
+    "description": "This roasted cauliflower pasta is one of my favorite easy cauliflower recipes! Golden raisins and capers add great salty/sweet flavor to this dish.",
     "tags": [
-      "shrimp boil",
-      "cajun shrimp",
-      "shrimp recipe",
-      "dinner"
+      "easy cauliflower recipes",
+      "fall",
+      "spring",
+      "winter",
+      "main dish"
     ],
-    "source": "https://pinchofyum.com/garlic-butter-shrimp-boil",
-    "prepTime": "15 min",
-    "cookTime": "20 min",
-    "servings": 4,
+    "prepTime": "5 min",
+    "cookTime": "30 min",
+    "servings": 3,
     "ingredients": [
-      "1 pound small potatoes (for the best flavor I recommend cutting in half or quarters so the insides of the potato can absorb the sauce)",
-      "2-4 ears of corn, cut into small pieces",
-      "1 pound kielbasa sausage, sliced",
-      "1 pound shrimp",
-      "and any random things you have on hand that can make a very low key broth: onion, garlic, lemon, Cajun seasoning, salt",
-      "2 sticks of salted butter (you don&#8217;t have to use it all! my motto for garlic butter sauce is better too much than not enough)",
-      "5-6 large cloves garlic, thinly sliced",
-      "thyme sprigs (optional)",
-      "lemon wedges",
-      "Old Bay or Cajun-style seasoning"
+      "4 to 5 cups small cauliflower florets",
+      "2 tablespoons olive oil, plus more for drizzling",
+      "1 tablespoon vegan or regular butter",
+      "1½ tablespoons sherry vinegar or white wine vinegar",
+      "½ teaspoon maple syrup or honey* (see note)",
+      "½ teaspoon sambal or red pepper flakes",
+      "6 ounces shell pasta",
+      "¾ cup reserved pasta water (save this before you drain your pasta)",
+      "1 small shallot, thinly sliced",
+      "2 garlic cloves, peeled and smashed",
+      "4 cups spinach, tatsoi, or swiss chard leaves",
+      "¼ cup toasted and chopped hazelnuts or walnuts",
+      "1 heaping tablespoon golden raisins",
+      "½ cup loose-packed chopped parsley, basil, or tarragon",
+      "lemon wedges, for serving",
+      "sea salt and freshly ground black pepper"
     ],
     "instructions": [
-      "Melt your butter in a saucepan over medium low heat. Add the garlic and just let it hang out over gentle, low heat to infuse all the garlic flavor into the butter and soften the little pieces of garlic. Add a few thyme sprigs if you want to be extra. Keep an eye on it so you don&#8217;t brown it or burn it. It will smell&#8230; how do I say this? AMAZING.",
-      "Fill a large (like, large) pot with water to about half capacity. Bring the water to boil over medium high heat. If you want, add some things to make a broth: chunks of onion, garlic, lemon, salt, seasonings. Add a couple big pinches of salt. This is very low pressure and meant to be loose! Plain salted water will also work just fine.",
-      "Add potatoes and corn to the water. Boil for 5-8 minutes until tender-crisp.",
-      "Add kielbasa and shrimp to the water. Boil for another 4-5 minutes until the shrimp is cooked through.",
-      "Drain and transfer to a big roasting pan, serving dish, OR directly to your table lined with newspaper for the real deal experience. Squeeze lemon juice over the top, sprinkle with seasonings to taste, and drizzle with the butter sauce. Also: serve with little dishes of garlic butter sauce for dunking. Be prepared to fall in love."
+      "Preheat the oven to 425°F and line a large baking sheet with parchment paper. Place the cauliflower florets on the sheet and toss them with a drizzle of olive oil and pinches of salt and pepper. Roast for 25 minutes or until golden brown around the edges.",
+      "In a small bowl, stir together the sherry vinegar, maple syrup, and sambal and set aside.",
+      "Bring a large pot of salted water to a boil. Prepare the pasta according to the instructions on the package, cooking until al dente. Reserve ¾ cup pasta water before you drain the pasta. If you like, drizzle the pasta with a little olive oil to keep it from sticking together and set aside.",
+      "In a large skillet, heat the oil and butter. Add the shallot, smashed garlic cloves, and a pinch of salt. Cook over medium-low heat until the shallot is soft and the garlic is fragrant, 3 to 5 minutes. Remove the garlic cloves.",
+      "Stir the greens into the pan and cook until lightly wilted. Add the pasta, roasted cauliflower, and vinegar mixture and stir to coat. Stir in ½ to ¾ cup of the pasta water to create a light sauce. Add the hazelnuts, raisins, and parsley.",
+      "Season to taste with salt, pepper, and additional sambal, if desired. Serve with lemon wedges."
     ],
-    "dateAdded": "2026-09-09"
+    "dateAdded": "2026-09-10",
+    "source": "https://www.loveandlemons.com/whole-wheat-shells-roasted-cauliflower/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Shrimp-Boil-Square.png?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-09-09",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/02/IMG_2016_01_01_07102-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-09-10",
   "added": false
 }
