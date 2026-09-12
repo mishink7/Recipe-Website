@@ -1,55 +1,40 @@
 {
   "recipe": {
-    "slug": "25-best-party-food-recipes",
-    "title": "25 BEST Party Food Recipes!",
-    "description": "My top 25 Party Food Recipes! Here's a printable list with links to the recipes listed in this post (so you don't have to print out this whole post with all the photos :) ) Also browse the full Party Recipes collection!",
+    "slug": "rockin-5-ingredient-sweet-potato-turkey-chili",
+    "title": "Rockin' 5 Ingredient Sweet Potato Turkey Chili",
+    "description": "Sweet Potato Turkey Chili - just five basic ingredients for this delicious real food chili recipe! Sweet potatoes, black beans, turkey, onions, and spices.",
     "tags": [
-      "appetizers",
-      "party food",
-      "starters",
-      "appetizer"
+      "sweet potato turkey chili",
+      "turkey chili",
+      "easy chili recipe",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/party-food-recipe-round-up/",
+    "source": "https://pinchofyum.com/rockin-5-ingredient-sweet-potato-turkey-chili",
     "prepTime": "15 min",
-    "servings": 8,
+    "cookTime": "25 min",
+    "servings": 5,
     "ingredients": [
-      "Vietnamese Rice Paper Rolls",
-      "Cocktail Meatballs",
-      "Cheese &amp; Garlic Crack Bread",
-      "Crispy Parmesan Roasted Potatoes",
-      "Salami Cream Cheese Roll",
-      "Smoked Salmon Appetizer Bites",
-      "Cheese and Bacon Potato Skins",
-      "Sausage Rolls",
-      "Stay Crispy Movie Popcorn",
-      "Prawn Dipping Sauces",
-      "Chargrilled Vegetable Platter",
-      "Coconut Prawns/Shrimp with Thai Mango Dipping Sauce"
+      "1 tablespoon oil",
+      "1 yellow onion, sliced",
+      "1 1/2 lbs. ground turkey",
+      "2 tablespoons chili powder",
+      "2 tablespoons taco seasoning",
+      "3 sweet potatoes, chopped into small pieces (I left the peel on bc I&#8217;m lazy)",
+      "3 cloves garlic",
+      "2 cups water",
+      "2-3 cups broth (start with 2)",
+      "1 14-ounce can black beans",
+      "1/4 teaspoon cayenne for spice (more to taste!)"
     ],
     "instructions": [
-      "Queso Dip (Mexican Cheese Dip)",
-      "Guacamole",
-      "Hot Corn Dip",
-      "Bacon Dip",
-      "Hummus",
-      "Pig Out Salsa",
-      "French Onion Dip (also see Soup Mix dip version, retro classic!)",
-      "Festive Italian Cheese Log",
-      "Spinach Artichoke Dip",
-      "Smoked Salmon Dip",
-      "Restaurant Style Salsa",
-      "Crudites Platter - see Hummus recipe",
-      "2 Minute Festive Brie",
-      "Herb Chilli Feta",
-      "Cheese Truffles",
-      "Crispy Baked Buffalo Wings",
-      "Crispy Baked Wings with Honey Garlic Sauce",
-      "Sticky Chinese Chicken Wings"
+      "Heat the oil over medium high heat in a heavy, deep pot. Add the onion, turkey, 1 tablespoon chili powder, and 1 tablespoon taco seasoning. Add water as needed to keep the turkey moist and moving around in the pan. When the turkey is browned and crumbled and the onions are soft, remove from the pan and set aside.",
+      "Add the sweet potatoes to the same pot with the remaining spices and stir to combine. When the sweet potatoes have browned just slightly, add the garlic, water, and broth. Bring to a low boil and simmer for 10 minutes or so, until the sweet potatoes are very soft. Using an immersion blender, puree the mixture until it reaches your desired consistency (you can also transfer to a regular blender and puree that way).",
+      "Add the browned turkey, black beans, and cayenne &#8211; stir to combine."
     ],
-    "dateAdded": "2026-09-11"
+    "dateAdded": "2026-09-12"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/12/Party-Food-Recipes-Cover-Image.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-09-11",
+  "imageUrl": "https://pinchofyum.com/tachyon/Sweet-Potato-Turkey-Chili-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-09-12",
   "added": false
 }
