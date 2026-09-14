@@ -1,47 +1,44 @@
 {
   "recipe": {
-    "slug": "grilled-bell-pepper-chickpea-salad",
-    "title": "Grilled Bell Pepper & Chickpea Salad",
-    "description": "A summer salad with red and yellow bell peppers, chickpeas, fresh oregano, and basil! A simple & healthy weeknight dinner for vegans and meat eaters, too.",
+    "slug": "carbonara-real",
+    "title": "Carbonara (real)",
+    "description": "Recipe video above. These days, so many carbonara recipes cheat with cream which is a shame. The traditional method uses raw egg which is mixed vigorously with hot pasta and parmigiana reggiano cheese which transforms into a silky, creamy, luxurious sauce unlike anything you&#39;ve ever had before. Arguably the best pasta dish in the whole world!This is a pasta that must be eaten straight away to truly experience its magnificence. Serve in warm bowls!",
     "tags": [
-      "summer",
-      "dinner",
-      "gluten free",
-      "salads",
-      "side dishes",
-      "vegan",
-      "vegetarian"
+      "carbonara",
+      "spaghetti alla carbonara",
+      "mains"
     ],
-    "prepTime": "20 min",
-    "cookTime": "5 min",
-    "servings": 2,
+    "source": "https://www.recipetineats.com/carbonara/",
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 4,
     "ingredients": [
-      "3-4 assorted bell peppers",
-      "½ cucumber, chopped",
-      "1½ cups chickpeas, cooked, or canned and drained",
-      "¼ cup chopped fresh basil",
-      "¼ cup chopped fresh oregano",
-      "1 shallot, chopped",
-      "¼ cup pine nuts, toasted (or sub other type of nut)",
-      "¼ cup ricotta salata or feta (optional)",
-      "Extra-virgin olive oil",
-      "Sea salt and fresh black pepper",
-      "1 garlic clove, minced",
-      "3 tablespoons champagne vinegar",
-      "2 tablespoons extra-virgin olive oil",
-      "½ teaspoon Dijon mustard",
-      "Sea salt and fresh black pepper"
+      "175g/6 oz  guanciale (pancetta or block bacon), ( weight after skin removed (Note 1))",
+      "2  large eggs ((Note 2))",
+      "2  egg yolks ((Note 2))",
+      "100g/3.5 oz  parmigiano reggiano (, finely shredded (or pecorino romano, sub parmesan, Note 3))",
+      "1/4 tsp black pepper",
+      "400g/14 oz  spaghetti",
+      "1 tbsp cooking/kosher salt ((for cooking pasta))",
+      "1/2 cup pasta cooking water",
+      "1  garlic clove (, finely minced (optional, Note 4))",
+      "Parsley (, finely chopped)",
+      "Parmigiano reggiano"
     ],
     "instructions": [
-      "Slice the peppers into quarters, removing the stems and seeds. Toss with a bit of olive oil, salt, and pepper. Grill peppers, a few minutes on each side. Let cool and chop into ½-inch pieces.",
-      "Make the dressing: whisk together the garlic, vinegar, olive oil, mustard, and pinches of salt and pepper. Taste and adjust seasonings. Set aside.",
-      "In a large bowl, toss together the grilled peppers, cucumber, chickpeas, basil, oregano, shallot, pine nuts, cheese, if using, and as much dressing as you like, tasting as you go. This salad is best if you let it sit for 20-30 minutes in the fridge for the flavors to develop."
+      "Guanciale - Cut into 0.5cm / 1/5&quot; thick slices then into batons.",
+      "Carbonara sauce - Place eggs and yolks in a large bowl. Whisk to combine. Then stir in the parmesan and pepper.",
+      "Cook pasta - Bring 4 litres (4 quarts) of water to the boil with the salt. Add pasta and cook per the packet directions.",
+      "Reserve pasta water - Just before draining, scoop out 1 cup of pasta cooking water, then drain the pasta.",
+      "Cook guanciale - While the pasta is cooking, place guanciale in a non stick pan over medium high heat. Cook for 4 to 5 minutes until golden. No oil needed - as the guanciale heats up, the fat will melt so it fries in its own fat. If using garlic, add it in the last minute.",
+      "Pasta in pan - Tip the hot pasta into the pan and toss to coat in guanciale fat.",
+      "Mix pasta in sauce - Transfer the pasta and any residual fat in the pan into the bowl with the egg. Add 1/2 cup (125 ml) pasta cooking water. Stir vigorously using the handle of a wooden spoon for 1 minute and watch as the sauce transforms from watery to creamy and clings to the pasta strands!",
+      "Serve - Transfer into warm bowls. Serve immediately, garnished with a little extra parmigiana reggiano if desired, and a pinch of black pepper and finely chopped parsley."
     ],
-    "dateAdded": "2026-09-13",
-    "source": "https://www.loveandlemons.com/bell-pepper-chickpea-salad/"
+    "dateAdded": "2026-09-14"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/07/pepperchickpea-salad_love-and-lemons.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-09-13",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2023/01/Carbonara_6a.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-09-14",
   "added": false
 }
