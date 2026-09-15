@@ -1,44 +1,39 @@
 {
   "recipe": {
-    "slug": "carbonara-real",
-    "title": "Carbonara (real)",
-    "description": "Recipe video above. These days, so many carbonara recipes cheat with cream which is a shame. The traditional method uses raw egg which is mixed vigorously with hot pasta and parmigiana reggiano cheese which transforms into a silky, creamy, luxurious sauce unlike anything you&#39;ve ever had before. Arguably the best pasta dish in the whole world!This is a pasta that must be eaten straight away to truly experience its magnificence. Serve in warm bowls!",
+    "slug": "chocolate-chip-cookie-brownies",
+    "title": "Chocolate Chip Cookie Brownies",
+    "description": "These easy chocolate chip cookie brownies have my very favorite chocolate chip cookie dough baked into the top layer of decadent, fudgy brownies.",
     "tags": [
-      "carbonara",
-      "spaghetti alla carbonara",
-      "mains"
+      "chocolate chip cookie brownies",
+      "cookie brownies",
+      "brownie recipe",
+      "dessert"
     ],
-    "source": "https://www.recipetineats.com/carbonara/",
-    "prepTime": "5 min",
-    "cookTime": "15 min",
-    "servings": 4,
+    "source": "https://pinchofyum.com/chocolate-chip-cookie-brownies",
+    "prepTime": "20 min",
+    "cookTime": "40 min",
+    "servings": 24,
     "ingredients": [
-      "175g/6 oz  guanciale (pancetta or block bacon), ( weight after skin removed (Note 1))",
-      "2  large eggs ((Note 2))",
-      "2  egg yolks ((Note 2))",
-      "100g/3.5 oz  parmigiano reggiano (, finely shredded (or pecorino romano, sub parmesan, Note 3))",
-      "1/4 tsp black pepper",
-      "400g/14 oz  spaghetti",
-      "1 tbsp cooking/kosher salt ((for cooking pasta))",
-      "1/2 cup pasta cooking water",
-      "1  garlic clove (, finely minced (optional, Note 4))",
-      "Parsley (, finely chopped)",
-      "Parmigiano reggiano"
+      "1 stick salted butter (1/2 cup, very soft)",
+      "3/4 cup white sugar",
+      "2 tablespoons brown sugar, packed",
+      "1 egg",
+      "1/2 teaspoon vanilla",
+      "1 cup + 2 tablespoons flour",
+      "1/2 teaspoon baking soda",
+      "1/4 teaspoon salt",
+      "1 cup chocolate chips",
+      "18.9 ounce brownie mix &#8211; my all-time favorite is Ghirardelli Double Chocolate"
     ],
     "instructions": [
-      "Guanciale - Cut into 0.5cm / 1/5&quot; thick slices then into batons.",
-      "Carbonara sauce - Place eggs and yolks in a large bowl. Whisk to combine. Then stir in the parmesan and pepper.",
-      "Cook pasta - Bring 4 litres (4 quarts) of water to the boil with the salt. Add pasta and cook per the packet directions.",
-      "Reserve pasta water - Just before draining, scoop out 1 cup of pasta cooking water, then drain the pasta.",
-      "Cook guanciale - While the pasta is cooking, place guanciale in a non stick pan over medium high heat. Cook for 4 to 5 minutes until golden. No oil needed - as the guanciale heats up, the fat will melt so it fries in its own fat. If using garlic, add it in the last minute.",
-      "Pasta in pan - Tip the hot pasta into the pan and toss to coat in guanciale fat.",
-      "Mix pasta in sauce - Transfer the pasta and any residual fat in the pan into the bowl with the egg. Add 1/2 cup (125 ml) pasta cooking water. Stir vigorously using the handle of a wooden spoon for 1 minute and watch as the sauce transforms from watery to creamy and clings to the pasta strands!",
-      "Serve - Transfer into warm bowls. Serve immediately, garnished with a little extra parmigiana reggiano if desired, and a pinch of black pepper and finely chopped parsley."
+      "With an electric mixer, cream butter and sugars in a small mixing bowl. Add vanilla and egg; cream again until smooth. Add the flour, baking soda, and salt. Stir gently until incorporated. Stir in chocolate chips. Store in refrigerator until ready to use.",
+      "Preheat oven to 350 degrees. Prepare brownie batter as directed. Pour batter into a glass 8&#215;8 or 9&#215;9 baking dish. Scatter pieces of cookie dough over the top of the brownie batter. In my 8&#215;8 square pan, I was able to get about 2/3 of the cookie dough to fit over the brownies and I just saved the rest for regular cookies. Press gently on the dough just until it starts to sink down into the batter a little bit.",
+      "Bake for 35-40 minutes (35 for gooey, 40 or more for fully baked), covering with foil if you need to keep the cookies from getting too brown on top. Let stand for 15-20 minutes and cut into pieces for serving."
     ],
-    "dateAdded": "2026-09-14"
+    "dateAdded": "2026-09-15"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2023/01/Carbonara_6a.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-09-14",
+  "imageUrl": "https://pinchofyum.com/tachyon/cookie-brownies-3-Square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-09-15",
   "added": false
 }
