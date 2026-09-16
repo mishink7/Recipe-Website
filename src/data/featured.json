@@ -1,39 +1,40 @@
 {
   "recipe": {
-    "slug": "chocolate-chip-cookie-brownies",
-    "title": "Chocolate Chip Cookie Brownies",
-    "description": "These easy chocolate chip cookie brownies have my very favorite chocolate chip cookie dough baked into the top layer of decadent, fudgy brownies.",
+    "slug": "nasu-dengaku",
+    "title": "nasu dengaku",
+    "description": "If you need a reason to try (and love) miso, this is your recipe. I’m hoping eggplant is still in…",
     "tags": [
-      "chocolate chip cookie brownies",
-      "cookie brownies",
-      "brownie recipe",
-      "dessert"
+      "fall",
+      "summer",
+      "appetizers",
+      "dairy free",
+      "gluten free",
+      "side dishes",
+      "vegan",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/chocolate-chip-cookie-brownies",
-    "prepTime": "20 min",
-    "cookTime": "40 min",
-    "servings": 24,
+    "servings": 2,
     "ingredients": [
-      "1 stick salted butter (1/2 cup, very soft)",
-      "3/4 cup white sugar",
-      "2 tablespoons brown sugar, packed",
-      "1 egg",
-      "1/2 teaspoon vanilla",
-      "1 cup + 2 tablespoons flour",
-      "1/2 teaspoon baking soda",
-      "1/4 teaspoon salt",
-      "1 cup chocolate chips",
-      "18.9 ounce brownie mix &#8211; my all-time favorite is Ghirardelli Double Chocolate"
+      "japanese or chinese eggplant",
+      "a little bit of olive oil",
+      "chopped scallions",
+      "sesame seeds",
+      "¼ cup white or yellow miso paste",
+      "¼ cup mirin",
+      "¼ cup organic cane sugar (sometimes I use a bit less)"
     ],
     "instructions": [
-      "With an electric mixer, cream butter and sugars in a small mixing bowl. Add vanilla and egg; cream again until smooth. Add the flour, baking soda, and salt. Stir gently until incorporated. Stir in chocolate chips. Store in refrigerator until ready to use.",
-      "Preheat oven to 350 degrees. Prepare brownie batter as directed. Pour batter into a glass 8&#215;8 or 9&#215;9 baking dish. Scatter pieces of cookie dough over the top of the brownie batter. In my 8&#215;8 square pan, I was able to get about 2/3 of the cookie dough to fit over the brownies and I just saved the rest for regular cookies. Press gently on the dough just until it starts to sink down into the batter a little bit.",
-      "Bake for 35-40 minutes (35 for gooey, 40 or more for fully baked), covering with foil if you need to keep the cookies from getting too brown on top. Let stand for 15-20 minutes and cut into pieces for serving."
+      "Preheat your oven to 350 degrees.",
+      "Slice your eggplant in half, arrange on a baking sheet and gently score the surface of the flesh. Brush with a little bit of olive oil and pre-bake your eggplant for a few minutes until the flesh starts to become tender. (8 mintues or so, depending on the size of your eggplant). Remove eggplant from the oven and turn your oven temp to \"broil.\"",
+      "Meanwhile, make the glaze. In a small saucepan, combine the miso, mirin and sugar and bring to a gentle simmer. Whisk continuously until the sugar has dissolved and the glaze starts to thicken (2 minutes or so - barely bubbling). Remove from heat and let it cool (and continue to thicken) for a few minutes. Note - if you taste it at this point, it'll seem VERY salty - it will sweeten once the sugars caramelize on the eggplant under the broiler.",
+      "Liberally brush the glaze onto the eggplant. Broil until brown & bubbling (about 5-8 minutes). The amount of time will vary depending on the size of your eggplant and the strength of your broiler. Check after about 3 minutes.",
+      "Remove from the oven and garnish with chopped scallions and sesame seeds. If your eggplants are larger with tougher skin, scoop and eat just the flesh. These (pictured) were tiny and tender enough to eat with the skin."
     ],
-    "dateAdded": "2026-09-15"
+    "dateAdded": "2026-09-16",
+    "source": "https://www.loveandlemons.com/nasu-dengaku-miso-broiled-eggplant/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/cookie-brownies-3-Square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-09-15",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/10/IMG_0024.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-09-16",
   "added": false
 }
