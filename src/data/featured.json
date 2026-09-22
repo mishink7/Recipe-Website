@@ -1,12 +1,36 @@
 {
   "recipe": {
-    "title": "How to Grill Corn",
-    "description": "Move over, burgers, dogs, and other grillables - let's get some bright golden cobs on those grates. Our three favorite ways to grill corn!",
-    "source": "https://pinchofyum.com/how-to-grill-corn",
-    "dateAdded": "2026-09-21"
+    "slug": "sesame-basil-soba-noodles",
+    "title": "Sesame Basil Soba Noodles",
+    "description": "There are times when I cook that I like to pack in every vegetable and also the kitchen sink. And…",
+    "tags": [
+      "spring",
+      "noodles"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "ingredients": [
+      "4-6 ounces soba noodles",
+      "1 tablespoon sesame oil",
+      "¾ cup fresh peas",
+      "1 tablespoon tamari (or soy sauce), more to taste",
+      "1 packed cup fresh basil",
+      "¼ - ½ cup freshly grated parmesan cheese",
+      "pinch of red pepper flakes",
+      "freshly ground black pepper",
+      "big squeeze of lemon"
+    ],
+    "instructions": [
+      "Cook the soba noodles according to the package directions (usually around 6-9 minutes). When they're done cooking, scoop out the soba noodles, leaving the water boiling for your peas. Drain the noodles and lightly rinse them. Place them in a large bowl and toss with the sesame oil. Set aside.",
+      "Prepare a bowl of ice water and place it near your boiling pot of water. Boil the peas for about 1 minute, then drain and place into the ice water. Drain them well, then toss them into the bowl with the noodles.",
+      "To your bowl, add tamari, basil, cheese, red pepper flakes and freshly ground black pepper. Toss and add more tamari to taste, squeezes of lemon and another grating of cheese."
+    ],
+    "dateAdded": "2026-09-22",
+    "source": "https://www.loveandlemons.com/sesame-basil-soba-noodles/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/How-to-Grill-Corn-Header.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-09-21",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/06/IMG_2015_06_08_05098-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-09-22",
   "added": false
 }
