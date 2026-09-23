@@ -1,36 +1,12 @@
 {
   "recipe": {
-    "slug": "sesame-basil-soba-noodles",
-    "title": "Sesame Basil Soba Noodles",
-    "description": "There are times when I cook that I like to pack in every vegetable and also the kitchen sink. And…",
-    "tags": [
-      "spring",
-      "noodles"
-    ],
-    "prepTime": "5 min",
-    "cookTime": "10 min",
-    "servings": 2,
-    "ingredients": [
-      "4-6 ounces soba noodles",
-      "1 tablespoon sesame oil",
-      "¾ cup fresh peas",
-      "1 tablespoon tamari (or soy sauce), more to taste",
-      "1 packed cup fresh basil",
-      "¼ - ½ cup freshly grated parmesan cheese",
-      "pinch of red pepper flakes",
-      "freshly ground black pepper",
-      "big squeeze of lemon"
-    ],
-    "instructions": [
-      "Cook the soba noodles according to the package directions (usually around 6-9 minutes). When they're done cooking, scoop out the soba noodles, leaving the water boiling for your peas. Drain the noodles and lightly rinse them. Place them in a large bowl and toss with the sesame oil. Set aside.",
-      "Prepare a bowl of ice water and place it near your boiling pot of water. Boil the peas for about 1 minute, then drain and place into the ice water. Drain them well, then toss them into the bowl with the noodles.",
-      "To your bowl, add tamari, basil, cheese, red pepper flakes and freshly ground black pepper. Toss and add more tamari to taste, squeezes of lemon and another grating of cheese."
-    ],
-    "dateAdded": "2026-09-22",
-    "source": "https://www.loveandlemons.com/sesame-basil-soba-noodles/"
+    "title": "Restaurant lamb shanks in red wine sauce",
+    "description": "Lamb shanks in red wine sauce - fall apart meat with a silky, elegant, ultra rich red wine sauce. STUNNING!",
+    "source": "https://www.recipetineats.com/restaurant-lamb-shanks-in-red-wine-sauce/",
+    "dateAdded": "2026-09-23"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/06/IMG_2015_06_08_05098-cropped.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-09-22",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2022/07/lamb-shanks-in-red-wine-thumb.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-09-23",
   "added": false
 }
