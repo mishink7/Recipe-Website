@@ -1,12 +1,39 @@
 {
   "recipe": {
-    "title": "Restaurant lamb shanks in red wine sauce",
-    "description": "Lamb shanks in red wine sauce - fall apart meat with a silky, elegant, ultra rich red wine sauce. STUNNING!",
-    "source": "https://www.recipetineats.com/restaurant-lamb-shanks-in-red-wine-sauce/",
-    "dateAdded": "2026-09-23"
+    "slug": "chicken-bacon-avocado-salad-with-roasted-asparagus",
+    "title": "Chicken Bacon Avocado Salad with Roasted Asparagus",
+    "description": "This Chicken Bacon Avocado Salad with Roasted Asparagus is so simple and full of fresh flavor! One of my new favorites! Enjoy!",
+    "tags": [
+      "chicken salad",
+      "salad recipe",
+      "chicken and bacon",
+      "dinner"
+    ],
+    "source": "https://pinchofyum.com/chicken-bacon-avocado-salad-with-roasted-asparagus",
+    "prepTime": "15 min",
+    "cookTime": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "8 slices good quality thick bacon (smoked is yummy)",
+      "1 tablespoon butter",
+      "2 cups chopped asparagus",
+      "1 teaspoon lemon pepper seasoning (more to taste)",
+      "4 cups spinach, cut or torn into bite-sized pieces",
+      "8 ounces chicken breast slices (I get it from the deli counter)",
+      "1 large ripe avocado",
+      "1/4 cup good quality olive oil",
+      "1/4 cup good quality balsamic vinegar",
+      "fresh basil for topping"
+    ],
+    "instructions": [
+      "Fry the bacon according to package directions (I go for crispy on this one). Drain on a paper towel lined plate and crumble or chop into bite-sized pieces.",
+      "Melt the butter in a small skillet over high heat. Add the asparagus, sprinkle with lemon pepper, and saute until golden brown and roasty-looking. I like the little charred pieces so I cooked it a little longer &#8211; you can cook for as long as you like depending on how you like your asparagus.",
+      "Cut the chicken into bite-sized pieces. Layer the spinach, chicken, asparagus, and bacon. Cut the avocado into slices and scoop out with a spoon; arrange over the top of the salad. Drizzle or toss with the olive oil and balsamic vinegar. Top with fresh basil, salt and pepper."
+    ],
+    "dateAdded": "2026-09-24"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2022/07/lamb-shanks-in-red-wine-thumb.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-09-23",
+  "imageUrl": "https://pinchofyum.com/tachyon/Chicken-Bacon-Avocado-Salad-square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-09-24",
   "added": false
 }
