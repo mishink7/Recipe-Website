@@ -1349,6 +1349,31 @@
     "dateAdded": "2026-03-27"
   },
   {
+    "slug": "cashew-parmesan",
+    "title": "Cashew Parmesan",
+    "description": "C﻿ashew Parmesean is the perfect answer to vegan cheese. It&#x27;s nutty, tangy, and so easy to make. And great for you!",
+    "tags": [
+      "easy"
+    ],
+    "image": "/images/recipes/cashew-parmesan.jpg",
+    "source": "https://thespicyapron.com/cashew-parmesan/#mv-creation-198-jtr",
+    "prepTime": "1 min",
+    "cookTime": null,
+    "servings": 8,
+    "ingredients": [
+      "3/4 cup raw unsalted cashews",
+      "3 tablespoons nutritional yeast",
+      "1/2 teaspon Kosher salt",
+      "1/4 teaspoon garlic powder"
+    ],
+    "instructions": [
+      "P﻿ut all ingredients into a high powered blender or food processor.",
+      "B﻿lend on medium-high speed for 2 minutes, until finely crumbled."
+    ],
+    "notes": null,
+    "dateAdded": "2026-10-03"
+  },
+  {
     "slug": "chana-masala",
     "title": "Chana Masala",
     "description": null,
