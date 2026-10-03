@@ -1,39 +1,37 @@
 {
   "recipe": {
-    "slug": "chicken-bacon-avocado-salad-with-roasted-asparagus",
-    "title": "Chicken Bacon Avocado Salad with Roasted Asparagus",
-    "description": "This Chicken Bacon Avocado Salad with Roasted Asparagus is so simple and full of fresh flavor! One of my new favorites! Enjoy!",
+    "slug": "pickled-chard-stems",
+    "title": "pickled chard stems",
+    "description": "Eat the rainbow, (and no I’m not talking about Skittles). I just love chard and I love it’s crunchy colorful…",
     "tags": [
-      "chicken salad",
-      "salad recipe",
-      "chicken and bacon",
-      "dinner"
+      "spring",
+      "dairy free",
+      "gluten free",
+      "vegan",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/chicken-bacon-avocado-salad-with-roasted-asparagus",
-    "prepTime": "15 min",
-    "cookTime": "15 min",
-    "servings": 4,
+    "servings": 1,
     "ingredients": [
-      "8 slices good quality thick bacon (smoked is yummy)",
-      "1 tablespoon butter",
-      "2 cups chopped asparagus",
-      "1 teaspoon lemon pepper seasoning (more to taste)",
-      "4 cups spinach, cut or torn into bite-sized pieces",
-      "8 ounces chicken breast slices (I get it from the deli counter)",
-      "1 large ripe avocado",
-      "1/4 cup good quality olive oil",
-      "1/4 cup good quality balsamic vinegar",
-      "fresh basil for topping"
+      "about 1 cup chopped chard stems (any color)",
+      "salt",
+      "2 teaspoons brown mustard seeds",
+      "¼ cup white wine vinegar",
+      "¼ cup rice vinegar",
+      "3 tablespoons raw cane sugar",
+      "optional - ½ a sliced shallot",
+      "optional - a few pink peppercorns"
     ],
     "instructions": [
-      "Fry the bacon according to package directions (I go for crispy on this one). Drain on a paper towel lined plate and crumble or chop into bite-sized pieces.",
-      "Melt the butter in a small skillet over high heat. Add the asparagus, sprinkle with lemon pepper, and saute until golden brown and roasty-looking. I like the little charred pieces so I cooked it a little longer &#8211; you can cook for as long as you like depending on how you like your asparagus.",
-      "Cut the chicken into bite-sized pieces. Layer the spinach, chicken, asparagus, and bacon. Cut the avocado into slices and scoop out with a spoon; arrange over the top of the salad. Drizzle or toss with the olive oil and balsamic vinegar. Top with fresh basil, salt and pepper."
+      "Chop your chard stems and sprinkle them with salt. Set aside.",
+      "Toast the brown mustard seeds in a small saucepan for a minute or so (don't let them burn). Add the vinegars and sugar. Bring to a boil, then reduce to a simmer. Stir until the sugar is dissolved. Remove pan from heat and let the brine cool.",
+      "Place the chopped stems and sliced shallot in a jar, cover them with the brine and refrigerate overnight before eating them.",
+      "I like to top mine on salads or in rice (or quinoa) bowls."
     ],
-    "dateAdded": "2026-09-24"
+    "dateAdded": "2026-10-03",
+    "source": "https://www.loveandlemons.com/pickled-chard-stems/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Chicken-Bacon-Avocado-Salad-square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-09-24",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2014/05/IMG_00061.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-10-03",
   "added": false
 }
