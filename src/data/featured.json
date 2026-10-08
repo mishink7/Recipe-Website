@@ -1,35 +1,12 @@
 {
   "recipe": {
-    "slug": "grilled-summer-herb-garden-pizza",
-    "title": "Grilled Summer Herb Garden Pizza",
-    "description": "These grilled tomato, mozzarella & herb pizzas are perfect for beautiful summer weeknights (+weekends, too)! Enjoy a healthy dinner in less than 30 minutes.",
-    "tags": [
-      "summer",
-      "dinner",
-      "vegetarian"
-    ],
-    "prepTime": "15 min",
-    "cookTime": "10 min",
-    "servings": 4,
-    "ingredients": [
-      "Pizza dough (I used pre-made dough from Whole Foods)",
-      "Garlic oil, for brushing dough (1 garlic clove + ¼ cup olive oil)",
-      "Fresh mozzarella cheese, sliced (if vegan, Daiya cheese, or no cheese)",
-      "1-2 small tomatoes per pizza, sliced",
-      "Fresh herbs, chopped (whatever you have/like… I used thyme, sage, basil and parsley)"
-    ],
-    "instructions": [
-      "Heat your grill or grill pan to medium-high heat. If you’re using an indoor grill pan, also preheat your oven broiler – if you want bubbling cheese, you will have to finish it in the oven.",
-      "Roll out your pizza dough with a bit of flour so that it’s not super-sticky (you don’t want it to completely stick to the grill). Divide into four ovals for individual pizzas.",
-      "Brush the dough with a bit of the garlic oil and place on the hot grill. The time you will grill each side will depend on how thin you have rolled out your dough. I grilled mine for 4-5 minutes per side. Using grill-safe tongs, you can slightly lift up a corner to look and see if black grill marks are starting to form. Once the first side has nice black grill marks, flip it over.",
-      "From here you have two choices: If you’re using an outdoor grill, place the cheese, tomatoes, and herbs on the already-cooked side of the dough and shut the top of the grill until the dough is cooked through.",
-      "If you’re using a grill pan, finish grilling the second side of the dough. Remove and place on a baking sheet. Place the cheese, tomatoes, and herbs on the pizza and broil it in the oven for another 3-5 minutes, or until the cheese is bubbling."
-    ],
-    "dateAdded": "2026-10-07",
-    "source": "https://www.loveandlemons.com/grilledpizza/"
+    "title": "Sesame Ginger Garlic Stir-Fried Vegetables",
+    "description": "Ginger and garlic are brilliant together with vegetables. This stir-fry is a big pan of feel-good, colourful vegetables smothered in a tasty sauce using both! Find this recipe on page 108 of Dinner. https://youtu.be/wbVQKNuRiQo?rel=0",
+    "source": "https://www.recipetineats.com/sesame-ginger-garlic-stir-fried-vegetables/",
+    "dateAdded": "2026-10-08"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/05/loveandlemons_tomato-herb-pizza.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-10-07",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2021/09/Sesame-Ginger-Garlic-Stir-Fried-Vegetables_900px.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-10-08",
   "added": false
 }
