@@ -1,12 +1,36 @@
 {
   "recipe": {
-    "title": "Sesame Ginger Garlic Stir-Fried Vegetables",
-    "description": "Ginger and garlic are brilliant together with vegetables. This stir-fry is a big pan of feel-good, colourful vegetables smothered in a tasty sauce using both! Find this recipe on page 108 of Dinner. https://youtu.be/wbVQKNuRiQo?rel=0",
-    "source": "https://www.recipetineats.com/sesame-ginger-garlic-stir-fried-vegetables/",
-    "dateAdded": "2026-10-08"
+    "slug": "inner-goddess-chocolate-truffles",
+    "title": "Inner Goddess Chocolate Truffles",
+    "description": "These Inner Goddess Chocolate Truffles are made with just six healthy ingredients - dates, nuts, almond meal, cocoa, vanilla, and sea salt. So delicious!",
+    "tags": [
+      "chocolate truffles",
+      "healthy truffles",
+      "truffle dessert",
+      "dessert"
+    ],
+    "source": "https://pinchofyum.com/inner-goddess-chocolate-truffles",
+    "prepTime": "10 min",
+    "cookTime": "5 min",
+    "servings": 18,
+    "ingredients": [
+      "14 medjool dates, pitted",
+      "1/2 cup nuts (any kind &#8211; I like to use pecans)",
+      "3/4 cup almond meal (or any other finely ground nuts)",
+      "1/4 cup cocoa powder",
+      "1 teaspoon vanilla",
+      "1/2 teaspoon sea salt (more to taste)",
+      "cocoa, sprinkles, and flaked coconut for topping"
+    ],
+    "instructions": [
+      "Soak the dates in hot water for a few minutes to soften. Drain and squeeze out excess water.",
+      "Pulse the nuts, nut meal, and cocoa in a food processor until finely ground. Add the dates, vanilla and sea salt and pulse until a thick, sticky dough ball forms. Remove the dough ball from the food processor &#8211; taste and add any salt or other flavors you want (like peppermint extract around the holidays &#8211; yummay).",
+      "Roll the dough into small balls &#8211; you should be able to get 18-24. Roll the balls in toppings of your choice like cocoa powder, chocolate sprinkles, or flaked coconut, or you can just leave them without any toppings for a not-super-cute-but-still-tastes-good snack. Place on a baking sheet and store in the freezer until they are hard enough not to stick together. Transfer to an airtight container and keep in the refrigerator or freezer."
+    ],
+    "dateAdded": "2026-10-09"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2021/09/Sesame-Ginger-Garlic-Stir-Fried-Vegetables_900px.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-10-08",
+  "imageUrl": "https://pinchofyum.com/tachyon/chocolate-truffles-square.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-10-09",
   "added": false
 }
