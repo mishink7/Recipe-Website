@@ -1,36 +1,34 @@
 {
   "recipe": {
-    "slug": "inner-goddess-chocolate-truffles",
-    "title": "Inner Goddess Chocolate Truffles",
-    "description": "These Inner Goddess Chocolate Truffles are made with just six healthy ingredients - dates, nuts, almond meal, cocoa, vanilla, and sea salt. So delicious!",
+    "slug": "spaghetti-and-meatballs",
+    "title": "Spaghetti and Meatballs",
+    "description": "Who says you need meat to make spaghetti and meatballs? You&#x27;ll find two plant-based meatball recipes below - one made with mushrooms and the other with a ground meat substitute. Both are delicious!",
     "tags": [
-      "chocolate truffles",
-      "healthy truffles",
-      "truffle dessert",
-      "dessert"
+      "spaghetti",
+      "spaghetti and meatballs",
+      "spaghetti recipe",
+      "main course"
     ],
-    "source": "https://pinchofyum.com/inner-goddess-chocolate-truffles",
-    "prepTime": "10 min",
-    "cookTime": "5 min",
-    "servings": 18,
+    "source": "https://www.loveandlemons.com/spaghetti-and-meatballs/",
+    "prepTime": "20 min",
+    "cookTime": "20 min",
+    "servings": 4,
     "ingredients": [
-      "14 medjool dates, pitted",
-      "1/2 cup nuts (any kind &#8211; I like to use pecans)",
-      "3/4 cup almond meal (or any other finely ground nuts)",
-      "1/4 cup cocoa powder",
-      "1 teaspoon vanilla",
-      "1/2 teaspoon sea salt (more to taste)",
-      "cocoa, sprinkles, and flaked coconut for topping"
+      "8 ounces spaghetti (cooked al dente)",
+      "2  medium zucchini (spiralized)",
+      "Vegan Meatballs ( or Plant-Based Ground Meatballs)",
+      "Marinara sauce",
+      "Fresh basil",
+      "Extra-virgin olive oil (for drizzling)",
+      "Finely chopped fresh parsley"
     ],
     "instructions": [
-      "Soak the dates in hot water for a few minutes to soften. Drain and squeeze out excess water.",
-      "Pulse the nuts, nut meal, and cocoa in a food processor until finely ground. Add the dates, vanilla and sea salt and pulse until a thick, sticky dough ball forms. Remove the dough ball from the food processor &#8211; taste and add any salt or other flavors you want (like peppermint extract around the holidays &#8211; yummay).",
-      "Roll the dough into small balls &#8211; you should be able to get 18-24. Roll the balls in toppings of your choice like cocoa powder, chocolate sprinkles, or flaked coconut, or you can just leave them without any toppings for a not-super-cute-but-still-tastes-good snack. Place on a baking sheet and store in the freezer until they are hard enough not to stick together. Transfer to an airtight container and keep in the refrigerator or freezer."
+      "Mix the spaghetti and zucchini noodles and portion into 4 bowls. Top with 2 to 3 meatballs per bowl, generous scoops of marinara, basil, and drizzles of olive oil. Season to taste with more salt and pepper, garnish with parsley, and serve."
     ],
-    "dateAdded": "2026-10-09"
+    "dateAdded": "2026-10-10"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/chocolate-truffles-square.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-10-09",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2020/02/spaghetti-and-meatballs-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-10-10",
   "added": false
 }
