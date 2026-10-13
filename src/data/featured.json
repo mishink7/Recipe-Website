@@ -1,12 +1,41 @@
 {
   "recipe": {
-    "title": "A Million Pictures of My Family",
-    "description": "That sure sounds appealing, right? My family was in Cebu this week Weeeeooo! They braved the 24+ hours of travel to Cebu so they could reconnect with my",
-    "source": "https://pinchofyum.com/a-million-pictures-of-my-family",
-    "dateAdded": "2026-10-12"
+    "slug": "swiss-chard-egg-casserole",
+    "title": "swiss chard & egg casserole",
+    "description": "Eggy casserole… fancy fritatta… I wasn’t sure what to call it but our “eggs for dinner” series continues with this…",
+    "tags": [
+      "spring",
+      "side dishes",
+      "vegetarian"
+    ],
+    "servings": null,
+    "ingredients": [
+      "a bit of olive oil, for the pan, to cook the mushrooms",
+      "1 cup sliced cremini mushrooms",
+      "4-5 large chard leaves, stems removed, leaves coarsely chopped",
+      "¼ cup scallions, chopped",
+      "6 tablespoons freshly grated pecorino cheese",
+      "¼ cup panko bread crumbs",
+      "5 large eggs",
+      "1 clove garlic, minced",
+      "1 teaspoon dijon mustard",
+      "a few pinches of red pepper flakes",
+      "salt & pepper",
+      "serve with: crème fraîche, or lemony yogurt: (plain yogurt, lemon juice, olive oil, salt, a little minced garlic)"
+    ],
+    "instructions": [
+      "Preheat oven to 350. Grease a 7?x11? baking dish (or similar size), and set aside.",
+      "In a medium skillet heat the oil. Add the mushrooms and a few pinches of salt. Cook, stirring occasionally until they’re golden and soft. Remove from pan and set aside.",
+      "In a large bowl, whisk the eggs. Stir in the minced garlic and dijon mustard. Then add in the chard leaves (they should be still raw), mushrooms, scallions, 3 tablespoons (half) of the cheese, and a few pinches of salt and pepper. Toss to coat all of the leaves.",
+      "Transfer mixture to the baking dish and bake uncovered for 15-20 minutes, until the eggs just start to set.",
+      "Mix together the remaining cheese with the panko. Sprinkle it on top of the casserole and bake it for about 10 minutes more, until the cheese starts to brown.",
+      "Sprinkle with a few red pepper flakes and serve with a dollops of crème fraîche or lemony yogurt on the side."
+    ],
+    "dateAdded": "2026-10-13",
+    "source": "https://www.loveandlemons.com/swiss-chard-egg-casserole/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/03/IMG_6137.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-10-12",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2013/03/1.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-10-13",
   "added": false
 }
