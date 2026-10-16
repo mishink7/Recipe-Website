@@ -1,36 +1,41 @@
 {
   "recipe": {
-    "slug": "super-easy-crockpot-broccoli-cheese-soup",
-    "title": "Super Easy Crockpot Broccoli Cheese Soup",
-    "description": "Crockpot Broccoli Cheese Soup! Super easy, super comforting and awesome for cold winter days. Creamy, thick, and perfect for bread-dunking!",
+    "slug": "valentines-molten-chocolate-cakes",
+    "title": "Valentine's Molten Chocolate Cakes",
+    "description": "Molten chocolate cake is the best way to celebrate Valentine's Day with someone you love. These decadent cakes are rich and delicious.",
     "tags": [
-      "broccoli cheese soup",
-      "crockpot broccoli cheese soup",
-      "easy crockpot broccoli cheese soup",
-      "dinner"
+      "molten chocolate cake",
+      "fall",
+      "spring",
+      "summer",
+      "winter",
+      "dessert"
     ],
-    "source": "https://pinchofyum.com/super-easycrockpot-broccoli-cheese-soup",
-    "prepTime": "10 min",
-    "cookTime": "4 hr",
+    "prepTime": "15 min",
+    "cookTime": "8 min",
     "servings": 6,
     "ingredients": [
-      "2-3 large heads of broccoli",
-      "1 large onion, diced",
-      "2 cans cream of chicken, potato, or mushroom soup, homemade version here",
-      "1 can milk (just refill the empty soup can)",
-      "2 12 ounce cans evaporated milk",
-      "salt and pepper to taste",
-      "cheddar cheese for topping"
+      "1 stick + 3 tablespoons butter (non-dairy earth balance works fine too)",
+      "5 ounces bittersweet chocolate (70% cacao recommended)",
+      "3 egg yolks",
+      "3 whole eggs",
+      "1.5 cups powdered sugar, sifted",
+      "½ cup all purpose flour (we’ve also used spelt)"
     ],
     "instructions": [
-      "Chop broccoli into bite-sized florets.",
-      "Place soup, milk, evaporated milk, onion, and broccoli in a slow cooker. Cook on high for 4 hours or low for 6-8.",
-      "Blend 3-4 cups of soup until broccoli has broken into small pieces, about 10 seconds. Add back to the pot and stir to combine. Season with salt and pepper and top with shredded cheese."
+      "Preheat oven to 450 degrees F.",
+      "Melt the chocolate and butter together in a double boiler over the stove (or place a glass bowl on top of a (smaller) saucepan filled with a little boiling water. Once your chocolate is melted, let it cool to room temp before adding the mixture to the eggs. (Pop it in the fridge for a few minutes if you want).",
+      "With an electric mixer, whisk the eggs, then slowly add the sugar, then the chocolate mixture, then gradually add the flour. Mix until smooth.",
+      "Pour into a greased muffin tin - filling muffin cups about ¾ of the way full.",
+      "Bake for 5-8 minutes or until the middle puffs up but the cake inside is still underdone.",
+      "Remove from the oven and place the muffin pan on a cookie sheet. Place another cookie sheet on top. Hold it all together and gently (but quickly) flip it so the muffin tin is now upside down. Carefully lift up the muffin tin, give it a shake and a tap to get the cakes to drop down.",
+      "Serve with a scoop of ice cream."
     ],
-    "dateAdded": "2026-10-15"
+    "dateAdded": "2026-10-16",
+    "source": "https://www.loveandlemons.com/molten-chocolate-cakes/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/broccoli_cheese_soup4-273x300.jpg?fit=205%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-10-15",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2015/02/IMG_9862-cropped.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-10-16",
   "added": false
 }
