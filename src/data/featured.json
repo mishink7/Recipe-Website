@@ -1,40 +1,40 @@
 {
   "recipe": {
-    "slug": "mexican-pizzas",
-    "title": "Mexican Pizzas",
-    "description": "This is a great make-ahead meal that you can assemble then pop into the freezer, ready to bake for a quick meal. I like making these with flatbreads which are not only much better value (and healthier) than store bought pizza bases, but also they also bake crispier which I love!",
+    "slug": "chopped-brussels-sprout-salad-with-chicken-and-walnuts",
+    "title": "Chopped Brussels Sprout Salad with Chicken and Walnuts",
+    "description": "This Chopped Brussels Sprout Salad has chicken, toasted walnuts, and Parmesan with a homemade honey orange dressing. Super yummy!",
     "tags": [
-      "meals"
+      "chopped brussels sprouts salad",
+      "brussels sprouts salad",
+      "chicken and walnut salad",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/mexican-pizzas-freezer-friendly/",
-    "prepTime": "10 min",
+    "source": "https://pinchofyum.com/chopped-brussels-sprout-salad-with-chicken-and-walnuts",
+    "prepTime": "30 min",
     "cookTime": "10 min",
     "servings": 4,
     "ingredients": [
-      "4  large flatbreads ((about 30cm /12 inches in diameter))",
-      "1 cup enchilada sauce ((preferably homemade, here is my Easy Classic Enchilada Sauce))",
-      "1 1/2 cups shredded cooked Pork Carnitas ((Mexican Shredded Pork), chicken or any other protein of your choice)",
-      "1/2 tbsp oil",
-      "1/2 cup corn kernels ((canned or frozen))",
-      "1/2 cup red capsicum ((Bell peppers), diced)",
-      "4  shallots / scallions (, finely sliced (or 1/2 red spanish onion, diced))",
-      "1 1/2 cups grated mozzarella cheese ((or any good melting cheese))",
-      "2 tbsp fresh parsley or coriander/cilantro (, finely chopped (optional - for garnish))"
+      "1 cup cooked chicken, cubed or shredded",
+      "4 cups sliced Brussels sprouts (for me it was about 20)",
+      "1/2 cup walnuts",
+      "1/4 cup Parmesan cheese",
+      "1/2 cup chopped onion",
+      "1 tablespoon butter",
+      "juice of 1 orange",
+      "1 tablespoon honey",
+      "2 tablespoons olive oil",
+      "salt and pepper to taste"
     ],
     "instructions": [
-      "Preheat oven to 220C/430F. You want the oven screaming hot!",
-      "Optional (but not really...): Heat 1/2 tbsp of oil in a fry pan over high heat. Add pork carnitas (or whatever protein you are using) and use a spatula to press down to make the bottom golden and crispy. Do not flip. When it is golden and crispy, remove from pan and set aside.",
-      "Divide the enchilada sauce between each flatbread and spread evenly.",
-      "Top with shallots / scallions.",
-      "Scatter over the pork carnitas, corn kernels, capsicum then lastly the cheese.",
-      "Get 2 baking trays and place 2 pizzas on each.",
-      "Bake for 10 to 15 minutes, alternating trays halfway. The pizza is ready when the cheese is melted and starting to bubble.",
-      "Remove from oven, scatter with parsley or coriander (if using), then cut into wedges and serve."
+      "Prepare the chicken. Prepare the Brussels sprouts by very thinly slicing them with a mandoline. In a food processor, pulse the walnuts a few times until chopped. Place in a small skillet over medium high heat with no oil or butter and toast until golden brown, stirring or shaking constantly.",
+      "In the small skillet, saute the butter and onion over medium high heat until the onions are golden brown, about 5 minutes. Transfer the onions to a food processor. Add the orange juice, honey, and olive oil. Puree until smooth and creamy. Season generously with salt and pepper.",
+      "Place the Brussels sprouts in the empty sautéed onion pan and place over high heat. Stir for 1-2 minutes until you can smell them and they turn bright green. Remove from heat. In a large bowl, toss the Brussels sprouts, walnuts, chicken, and Parmesan.",
+      "Toss the dressing and salad together. Serve warm or cold. If you plan to keep leftovers, keep the dressing separate."
     ],
-    "dateAdded": "2026-10-20"
+    "dateAdded": "2026-10-21"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/09/Mexican-Pizza-1-1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-10-20",
+  "imageUrl": "https://pinchofyum.com/tachyon/2013/08/salad3.jpg?fit=150%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-10-21",
   "added": false
 }
