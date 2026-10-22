@@ -1,40 +1,43 @@
 {
   "recipe": {
-    "slug": "chopped-brussels-sprout-salad-with-chicken-and-walnuts",
-    "title": "Chopped Brussels Sprout Salad with Chicken and Walnuts",
-    "description": "This Chopped Brussels Sprout Salad has chicken, toasted walnuts, and Parmesan with a homemade honey orange dressing. Super yummy!",
+    "slug": "spaghetti-squash-with-chickpeas-and-kale",
+    "title": "Spaghetti Squash with Chickpeas and Kale",
+    "description": "This easy spaghetti squash with kale is a great healthy weeknight dinner! Flavored with rosemary, lemon, and sun-dried tomatoes, it's a delicious vegan and gluten-free dish.",
     "tags": [
-      "chopped brussels sprouts salad",
-      "brussels sprouts salad",
-      "chicken and walnut salad",
-      "dinner"
+      "fall",
+      "winter",
+      "main dish"
     ],
-    "source": "https://pinchofyum.com/chopped-brussels-sprout-salad-with-chicken-and-walnuts",
-    "prepTime": "30 min",
-    "cookTime": "10 min",
-    "servings": 4,
+    "source": "https://www.loveandlemons.com/roasted-spaghetti-squash-w-chickpeas-kale/",
+    "prepTime": "10 min",
+    "cookTime": "50 min",
+    "servings": 2,
     "ingredients": [
-      "1 cup cooked chicken, cubed or shredded",
-      "4 cups sliced Brussels sprouts (for me it was about 20)",
-      "1/2 cup walnuts",
-      "1/4 cup Parmesan cheese",
-      "1/2 cup chopped onion",
-      "1 tablespoon butter",
-      "juice of 1 orange",
-      "1 tablespoon honey",
-      "2 tablespoons olive oil",
-      "salt and pepper to taste"
+      "1  spaghetti squash",
+      "1 to 2 tablespoons extra-virgin olive oil",
+      "1  shallot (thinly sliced)",
+      "1  whole garlic clove",
+      "½ tablespoon minced fresh rosemary",
+      "Red pepper flakes",
+      "Sea salt and freshly ground black pepper",
+      "½ cup cooked chickpeas",
+      "2 cups chopped kale leaves",
+      "1 tablespoon fresh lemon juice",
+      "¼ cup chopped sun-dried tomatoes (or capers or olives)",
+      "¼ cup toasted pine nuts",
+      "Freshly grated Parmesan cheese (optional)"
     ],
     "instructions": [
-      "Prepare the chicken. Prepare the Brussels sprouts by very thinly slicing them with a mandoline. In a food processor, pulse the walnuts a few times until chopped. Place in a small skillet over medium high heat with no oil or butter and toast until golden brown, stirring or shaking constantly.",
-      "In the small skillet, saute the butter and onion over medium high heat until the onions are golden brown, about 5 minutes. Transfer the onions to a food processor. Add the orange juice, honey, and olive oil. Puree until smooth and creamy. Season generously with salt and pepper.",
-      "Place the Brussels sprouts in the empty sautéed onion pan and place over high heat. Stir for 1-2 minutes until you can smell them and they turn bright green. Remove from heat. In a large bowl, toss the Brussels sprouts, walnuts, chicken, and Parmesan.",
-      "Toss the dressing and salad together. Serve warm or cold. If you plan to keep leftovers, keep the dressing separate."
+      "Preheat the oven to 400℉.",
+      "Prepare the spaghetti squash following the directions in this post.",
+      "In a large skillet over medium heat, add enough olive oil to lightly coat the pan, then add the shallots, the whole garlic clove (we’ll remove it later), rosemary, a pinch of red pepper flakes, a few pinches of salt, and several grinds of pepper.",
+      "Once the shallot starts to soften, add the chickpeas and cook for a few minutes until lightly golden brown. If you’re using roasted chickpeas, add them at the end of the recipe instead. Remove the garlic clove, add the kale and lemon juice, and stir.",
+      "Once the kale is partially wilted, add the squash strands, the sun-dried tomatoes, a little grated Parmesan, and more salt and pepper, to taste. Toss to incorporate. Remove from the heat and top with the toasted pine nuts and more grated cheese."
     ],
-    "dateAdded": "2026-10-21"
+    "dateAdded": "2026-10-22"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/08/salad3.jpg?fit=150%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-10-21",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2014/10/IMG_2014_10_27_01314-2-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-10-22",
   "added": false
 }
