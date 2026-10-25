@@ -1,41 +1,32 @@
 {
   "recipe": {
-    "slug": "spicy-corn-cake-breakfast-stack",
-    "title": "Spicy Corn Cake Breakfast Stack",
-    "description": "This spicy corn cake breakfast stack is a savory Mexican spin on pancakes - the little corn cakes topped with bacon and fried eggs is to die for!",
+    "slug": "skinny-caipirinhas",
+    "title": "Skinny Caipirinhas",
+    "description": "With the Rio Olympics coming to a close, it’s time to celebrate with Brazil’s national drink – Caipirinhas! Jack and…",
     "tags": [
-      "corn cakes",
-      "spicy corn cakes",
-      "corn cake recipe",
-      "breakfast stack",
-      "breakfast"
+      "summer",
+      "dairy free",
+      "gluten free",
+      "vegan",
+      "vegetarian"
     ],
-    "source": "https://pinchofyum.com/spicy-corn-cake-breakfast-stack",
-    "prepTime": "10 min",
-    "cookTime": "25 min",
-    "servings": 4,
+    "servings": 1,
     "ingredients": [
-      "1-1/4 cups stone ground yellow cornmeal (medium grind)",
-      "3/4 cup all-purpose flour",
-      "2-1/2 teaspoons baking powder",
-      "1/2 teaspoon kosher salt",
-      "1 tsp. smoked paprika, 1 tsp. taco seasoning, cayenne to taste (or whatever spices you like for southwestern-type flavor)",
-      "1 cup + 2 tablespoons lowfat buttermilk",
-      "1 large egg",
-      "2 tablespoons honey (I just used sugar)",
-      "2 tablespoons butter (for the griddle)",
-      "sliced ham, bacon, cheese, and eggs"
+      "½ lime, sliced into wedges",
+      "1½ teaspoons cane sugar",
+      "2 tablespoons Cachaça (sugar cane liquor)",
+      "lots of crushed ice",
+      "¼ - ⅓ cup Topo Chico, or another sparkling water"
     ],
     "instructions": [
-      "Combine cornmeal, flour, baking powder, salt, and spices in large bowl. Whisk together. In separate bowl, whisk the egg, buttermilk, and honey together. Add wet ingredients to dry ingredients. Stir until just mixed—don’t over mix.",
-      "Heat griddle or skillet over med-high heat. Grease with melted butter. Drop 1/3 cup portions of batter onto griddle. Flatten with back of spatula to form pancake. Cook until browned on bottom, flip and brown other side.",
-      "Fry bacon. Assemble stacks on top of corn cakes with ham, bacon, and cheese. Broil for 2-3 minutes until warm and bubbly.",
-      "In the pan where you fried the bacon (if possible), add a tiny bit of butter and fry the eggs. When they are done, place them on top of the stacks and sprinkle with extra cayenne and black pepper!"
+      "Squeeze the juice of the lime wedges into a rocks glass. Drop the lime slices and sugar into the glass. Use a cocktail muddler (or the back of a spoon) to muddle the sugar and the lime.",
+      "Fill the glass to the brim with crushed ice. Add the Cachaça and fill the rest of the glass with Topo Chico or a sparkling water of your choice. Stir and enjoy!"
     ],
-    "dateAdded": "2026-10-24"
+    "dateAdded": "2026-10-25",
+    "source": "https://www.loveandlemons.com/skinny-caipirinhas/"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2011/04/Spicy-Corn-Cake-Breakfast-Stack.jpeg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-10-24",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/08/IMG_2016_08_17_08238.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-10-25",
   "added": false
 }
