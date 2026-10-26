@@ -1,32 +1,12 @@
 {
   "recipe": {
-    "slug": "skinny-caipirinhas",
-    "title": "Skinny Caipirinhas",
-    "description": "With the Rio Olympics coming to a close, it’s time to celebrate with Brazil’s national drink – Caipirinhas! Jack and…",
-    "tags": [
-      "summer",
-      "dairy free",
-      "gluten free",
-      "vegan",
-      "vegetarian"
-    ],
-    "servings": 1,
-    "ingredients": [
-      "½ lime, sliced into wedges",
-      "1½ teaspoons cane sugar",
-      "2 tablespoons Cachaça (sugar cane liquor)",
-      "lots of crushed ice",
-      "¼ - ⅓ cup Topo Chico, or another sparkling water"
-    ],
-    "instructions": [
-      "Squeeze the juice of the lime wedges into a rocks glass. Drop the lime slices and sugar into the glass. Use a cocktail muddler (or the back of a spoon) to muddle the sugar and the lime.",
-      "Fill the glass to the brim with crushed ice. Add the Cachaça and fill the rest of the glass with Topo Chico or a sparkling water of your choice. Stir and enjoy!"
-    ],
-    "dateAdded": "2026-10-25",
-    "source": "https://www.loveandlemons.com/skinny-caipirinhas/"
+    "title": "Juiciest, Easiest Roast Chicken Ever",
+    "description": "Pot-roasting is hands-down the best way to roast a chicken. A sealed vessel keeps all the moisture locked in. I also rest the chicken flipped so the juices settle into the breast meat. Result: Juices",
+    "source": "https://www.recipetineats.com/juiciest-easiest-roast-chicken-ever/",
+    "dateAdded": "2026-10-26"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/08/IMG_2016_08_17_08238.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-10-25",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2021/06/Juiciest-easiest-Roast-Chicken_900px.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-10-26",
   "added": false
 }
