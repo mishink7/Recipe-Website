@@ -1,36 +1,42 @@
 {
   "recipe": {
-    "slug": "how-to-cook-tofu",
-    "title": "How to Cook Tofu",
-    "description": "Learn how to cook tofu with these tips and tricks! Find my go-to baked tofu recipe, plus ideas for using it in stir fries, bowls, and more.",
+    "slug": "a-great-chicken-marinade-great-grilled-or-pan-seared",
+    "title": "A great Chicken Marinade (great grilled or pan seared!)",
+    "description": "Recipe video above. This is a great everyday Chicken Marinade, one you make with things you&#039;ve already got with plenty of sub options (see notes). It will make any cut of chicken extra juicy, infuse it with savoury flavour that&#039;s a touch of sweet, with a hint of herby goodness. Especially good for chicken breast, and terrific for grilling!",
     "tags": [
-      "how to cook tofu",
-      "fall",
-      "spring",
-      "summer",
-      "winter",
-      "cooking component"
+      "chicken marinade",
+      "mains"
     ],
-    "source": "https://www.loveandlemons.com/how-to-cook-tofu/",
+    "source": "https://www.recipetineats.com/chicken-marinade/",
     "prepTime": "5 min",
-    "cookTime": "25 min",
-    "servings": 5,
+    "cookTime": "10 min",
+    "servings": 4,
     "ingredients": [
-      "14 ounces extra-firm tofu (patted dry and cubed)",
-      "½ tablespoon extra-virgin olive oil",
-      "2 tablespoons tamari",
-      "½ teaspoon sriracha",
-      "1 tablespoon cornstarch (optional)"
+      "700g / 1.4 lb  chicken breast, tenderloins or thigh ((Note 1))",
+      "2 tbsp honey OR brown sugar",
+      "1 tbsp olive oil ((or any oil))",
+      "5 tbsp soy sauce",
+      "2 tbsp lemon juice",
+      "2 tsp Worcestershire sauce",
+      "4  garlic cloves (, minced)",
+      "1 tsp dried oregano ((or rosemary, thyme, minced herbs))",
+      "1/2 tsp black pepper (, ground)",
+      "Finely chopped parsley",
+      "Lemon slices"
     ],
     "instructions": [
-      "Preheat the oven to 425°F and line a baking sheet with parchment paper.",
-      "Toss the cubed tofu with the olive oil, tamari, and sriracha. For extra crispy tofu, sprinkle with the cornstarch and gently toss to coat.",
-      "Spread the tofu evenly onto the baking sheet. Bake 20 to 25 minutes or until browned around the edges. Remove and serve warm."
+      "Recommended: Pound breast to even thickness&nbsp;using a meat pounder, rolling pin, or fist. OR cut large ones in half horizontally to form 2 cutlets (steaks) for each.",
+      "Mix marinade in a ziplock bag (or container in which chicken fits snugly).&nbsp;Add chicken.",
+      "Marinate 3 hours to overnight, though even 30 minutes is effective. (Note 2)",
+      "Heat 1 tbsp olive oil in a large skillet over medium high heat, and cook chicken per times below until deep golden (see video). If browning too quickly, lower heat.",
+      "Transfer to serving plate, cover loosely with foil and rest for 3 minutes before serving, garnished with parsley and lemon slices if desired.&nbsp;",
+      "Whole breast and boneless thighs: 3 - 4 minutes each side (internal temp 165F/75C)",
+      "Cutlets and tenderloin - 2 minutes each side"
     ],
-    "dateAdded": "2026-10-28"
+    "dateAdded": "2026-10-29"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2019/12/tofu-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-10-28",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2019/06/Chicken-Marinade_9-SQ.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-10-29",
   "added": false
 }
