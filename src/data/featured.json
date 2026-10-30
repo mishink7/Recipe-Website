@@ -1,42 +1,39 @@
 {
   "recipe": {
-    "slug": "a-great-chicken-marinade-great-grilled-or-pan-seared",
-    "title": "A great Chicken Marinade (great grilled or pan seared!)",
-    "description": "Recipe video above. This is a great everyday Chicken Marinade, one you make with things you&#039;ve already got with plenty of sub options (see notes). It will make any cut of chicken extra juicy, infuse it with savoury flavour that&#039;s a touch of sweet, with a hint of herby goodness. Especially good for chicken breast, and terrific for grilling!",
+    "slug": "creamy-squash-curry-quinoa",
+    "title": "Creamy Squash Curry Quinoa",
+    "description": "This creamy squash curry quinoa is the best way I've ever prepared quinoa - so creamy and filling, and a healthy comfort food!",
     "tags": [
-      "chicken marinade",
-      "mains"
+      "squash curry quinoa",
+      "curry quinoa",
+      "squash quinoa",
+      "dinner"
     ],
-    "source": "https://www.recipetineats.com/chicken-marinade/",
+    "source": "https://pinchofyum.com/creamy-squash-curry-quinoa",
     "prepTime": "5 min",
-    "cookTime": "10 min",
-    "servings": 4,
+    "cookTime": "45 min",
+    "servings": 6,
     "ingredients": [
-      "700g / 1.4 lb  chicken breast, tenderloins or thigh ((Note 1))",
-      "2 tbsp honey OR brown sugar",
-      "1 tbsp olive oil ((or any oil))",
-      "5 tbsp soy sauce",
-      "2 tbsp lemon juice",
-      "2 tsp Worcestershire sauce",
-      "4  garlic cloves (, minced)",
-      "1 tsp dried oregano ((or rosemary, thyme, minced herbs))",
-      "1/2 tsp black pepper (, ground)",
-      "Finely chopped parsley",
-      "Lemon slices"
+      "1 1/2 cups dry quinoa, rinsed",
+      "8 cups vegetable broth",
+      "1 medium butternut or Kabocha squash (7-8 cups chopped)",
+      "3 cloves garlic",
+      "1 small onion",
+      "2 teaspoons yellow curry paste (can also use red curry paste)",
+      "1 teaspoon salt",
+      "1/2 cup coconut milk",
+      "1/2 cup good quality cheese to taste (I used Gouda and Maasdam)"
     ],
     "instructions": [
-      "Recommended: Pound breast to even thickness&nbsp;using a meat pounder, rolling pin, or fist. OR cut large ones in half horizontally to form 2 cutlets (steaks) for each.",
-      "Mix marinade in a ziplock bag (or container in which chicken fits snugly).&nbsp;Add chicken.",
-      "Marinate 3 hours to overnight, though even 30 minutes is effective. (Note 2)",
-      "Heat 1 tbsp olive oil in a large skillet over medium high heat, and cook chicken per times below until deep golden (see video). If browning too quickly, lower heat.",
-      "Transfer to serving plate, cover loosely with foil and rest for 3 minutes before serving, garnished with parsley and lemon slices if desired.&nbsp;",
-      "Whole breast and boneless thighs: 3 - 4 minutes each side (internal temp 165F/75C)",
-      "Cutlets and tenderloin - 2 minutes each side"
+      "Cook the quinoa according to package directions, using broth instead of water.",
+      "Bring the remaining broth to a boil in a large pot. Peel and roughly chop the squash, garlic, and onion. Add to the pot of boiling broth, adding more water as needed to cover the squash. Cover and cook for 10-15 minutes or until squash is fork-tender. Set aside a few cups of squash if you want to have pieces of squash in with the quinoa.",
+      "Transfer squash, garlic, and onion pieces to a blender, reserving the broth in the pot. Puree the squash until smooth and add broth to the blender as necessary. It should be the consistency of a thick soup. Add the curry paste, coconut milk, and salt. Puree again until incorporated.",
+      "Pour the sauce over the quinoa and stir in the squash pieces and the cheese. Season with additional salt, pepper, or herbs."
     ],
-    "dateAdded": "2026-10-29"
+    "dateAdded": "2026-10-30"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2019/06/Chicken-Marinade_9-SQ.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-10-29",
+  "imageUrl": "https://pinchofyum.com/tachyon/2013/05/squash-quinoa.jpg?fit=180%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-10-30",
   "added": false
 }
