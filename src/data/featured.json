@@ -1,39 +1,12 @@
 {
   "recipe": {
-    "slug": "creamy-squash-curry-quinoa",
-    "title": "Creamy Squash Curry Quinoa",
-    "description": "This creamy squash curry quinoa is the best way I've ever prepared quinoa - so creamy and filling, and a healthy comfort food!",
-    "tags": [
-      "squash curry quinoa",
-      "curry quinoa",
-      "squash quinoa",
-      "dinner"
-    ],
-    "source": "https://pinchofyum.com/creamy-squash-curry-quinoa",
-    "prepTime": "5 min",
-    "cookTime": "45 min",
-    "servings": 6,
-    "ingredients": [
-      "1 1/2 cups dry quinoa, rinsed",
-      "8 cups vegetable broth",
-      "1 medium butternut or Kabocha squash (7-8 cups chopped)",
-      "3 cloves garlic",
-      "1 small onion",
-      "2 teaspoons yellow curry paste (can also use red curry paste)",
-      "1 teaspoon salt",
-      "1/2 cup coconut milk",
-      "1/2 cup good quality cheese to taste (I used Gouda and Maasdam)"
-    ],
-    "instructions": [
-      "Cook the quinoa according to package directions, using broth instead of water.",
-      "Bring the remaining broth to a boil in a large pot. Peel and roughly chop the squash, garlic, and onion. Add to the pot of boiling broth, adding more water as needed to cover the squash. Cover and cook for 10-15 minutes or until squash is fork-tender. Set aside a few cups of squash if you want to have pieces of squash in with the quinoa.",
-      "Transfer squash, garlic, and onion pieces to a blender, reserving the broth in the pot. Puree the squash until smooth and add broth to the blender as necessary. It should be the consistency of a thick soup. Add the curry paste, coconut milk, and salt. Puree again until incorporated.",
-      "Pour the sauce over the quinoa and stir in the squash pieces and the cheese. Season with additional salt, pepper, or herbs."
-    ],
-    "dateAdded": "2026-10-30"
+    "title": "Join me next week! NYC Cookbook Event - Love and Lemons",
+    "description": "Hey, NY friends – what are you doing next Thursday? If you’re free, come meet me between 5-7pm at Anthropologie at Chelsea Market. I’d love to see you and say hi! I’ll be signing cookbooks and there will be snacks. The event is free, but RSVP HERE. See you there 🙂",
+    "source": "https://www.loveandlemons.com/nyc-cookbook-signing-anthropologie/",
+    "dateAdded": "2026-10-31"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/05/squash-quinoa.jpg?fit=180%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-10-30",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2016/07/16_539ChelseaLoveandLemonsCookbook_vendor2.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-10-31",
   "added": false
 }
