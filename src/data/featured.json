@@ -1,38 +1,31 @@
 {
   "recipe": {
-    "slug": "crispy-shredded-chicken-noodle-stir-fry",
-    "title": "Crispy Shredded Chicken Noodle Stir Fry",
-    "description": "This is a super quick stir fry made using the chicken and braising liquid from my Slow Cooker Crispy Chinese Shredded Chicken. It freezes extremely well so is fantastic to have on hand for fast midweek meals. I made this stir fry using Chinese Broccoli but you can use whatever vegetables you wish. Bean sprouts, carrots, other Chinese greens, broccoli and sliced onion would go particularly well in this dish.",
+    "slug": "honey-butter-spread-on-lemon-cake",
+    "title": "Honey Butter Spread on Lemon Cake",
+    "description": "This super simple honey butter spread is soft and creamy - perfect on a homemade lemon loaf. Delicious for breakfast or dessert!",
     "tags": [
-      "noodles",
-      "stir fry"
+      "honey butter spread",
+      "lemon cake",
+      "honey spread",
+      "dessert"
     ],
-    "source": "https://www.recipetineats.com/crispy-shredded-chicken-noodle-stir-fry/",
-    "prepTime": "5 min",
+    "source": "https://pinchofyum.com/honey-butter-spread-on-lemon-cake",
+    "prepTime": "1 min",
     "cookTime": "5 min",
-    "servings": 2,
+    "servings": 4,
     "ingredients": [
-      "5 oz / 150g   dried rice stick noodles ((see note 1))",
-      "2 tbsp oil ((vegetable, canola or peanut oil))",
-      "2  garlic cloves (, smashed (see note 2))",
-      "1 cup Slow Cooker Crispy Chinese Shredded Chicken ((\"Shredded Chicken\"))",
-      "1/2 cup Slow Cooker Crispy Chinese Shredded Chicken braising liquid ((see note 3))",
-      "1 tbsp Sriracha sauce ((or any hot sauce or chili paste) (optional))",
-      "3 cups (tightly packed)  Chinese broccoli, leaves separated from stems (cut stems vertically into thin sticks) (about 1 small bunch)"
+      "2 tbs. honey",
+      "4 tbs. room temperature/soft butter",
+      "2 tbs. powdered sugar"
     ],
     "instructions": [
-      "Cook / soak rice stick noodles according to packet instructions. Drain and set aside.",
-      "Heat oil in wok or large fry pan over high heat.",
-      "Add garlic and stir fry for 30 seconds to flavour the oil. Remove and discard garlic.",
-      "Add the Chinese broccoli stems and Shredded Chicken and stir fry for 1 1/2 minutes.",
-      "Add the noodles, braising liquid and Sriracaha (if using) and stir fry, tossing the noodles rapidly to coat with the sauce for about 1 minute. The sugar in the braising liquid should make the noodles char a bit.",
-      "Add the Chinese broccoli leaves and toss to mix in with the noodles, then remove from heat. The Chinese broccoli leaves will continue to cook from the residual heat.",
-      "Serve immediately."
+      "Soften butter for 10-15 seconds in the microwave if it’s cold.",
+      "Pour in the honey into a bowl with the butter and stir until smooth. Add powdered sugar and stir until smooth. Add more powdered sugar for a thicker spread."
     ],
-    "dateAdded": "2026-11-01"
+    "dateAdded": "2026-11-02"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/10/DSC_0180.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-11-01",
+  "imageUrl": "https://pinchofyum.com/tachyon/2011/07/Two-Slices-of-Honey-Butter-Spread-on-Lemon-Cake.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-11-02",
   "added": false
 }
