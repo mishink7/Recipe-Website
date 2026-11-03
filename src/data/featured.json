@@ -1,31 +1,47 @@
 {
   "recipe": {
-    "slug": "honey-butter-spread-on-lemon-cake",
-    "title": "Honey Butter Spread on Lemon Cake",
-    "description": "This super simple honey butter spread is soft and creamy - perfect on a homemade lemon loaf. Delicious for breakfast or dessert!",
+    "slug": "sweet-miso-udon",
+    "title": "Sweet Miso Udon",
+    "description": "In this Japanese-inspired bowl, sweet miso sauce coats udon noodles, mushrooms, & tofu. Vegan with a gluten free option and takes under 30 minutes!",
     "tags": [
-      "honey butter spread",
-      "lemon cake",
-      "honey spread",
-      "dessert"
+      "winter",
+      "dairy free, dinner, gluten free, side dishes, vegan, vegetarian"
     ],
-    "source": "https://pinchofyum.com/honey-butter-spread-on-lemon-cake",
-    "prepTime": "1 min",
-    "cookTime": "5 min",
-    "servings": 4,
+    "source": "https://www.loveandlemons.com/sweet-miso-udon-with-mushrooms-nori/",
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 2,
     "ingredients": [
-      "2 tbs. honey",
-      "4 tbs. room temperature/soft butter",
-      "2 tbs. powdered sugar"
+      "3-4 oz dried udon or rice noodles",
+      "1 teaspoon butter or extra-virgin olive oil",
+      "1  garlic clove (minced)",
+      "2 teaspoons grated fresh ginger",
+      "4 oz mushrooms of your choice (chopped)",
+      "3-4  scallions (chopped, whites and greens separated)",
+      "7 oz firm tofu (chopped into small cubes)",
+      "3/4 cup water or broth (as needed)",
+      "1/2  sheet nori (cut into thin slices (kitchen scissors work best))",
+      "2 tablespoons sesame seeds (lightly toasted)",
+      "Sea salt",
+      "2 tablespoons white miso paste",
+      "2 tablespoons sugar",
+      "2 tablespoons mirin"
     ],
     "instructions": [
-      "Soften butter for 10-15 seconds in the microwave if it’s cold.",
-      "Pour in the honey into a bowl with the butter and stir until smooth. Add powdered sugar and stir until smooth. Add more powdered sugar for a thicker spread."
+      "Bring a large pot of water to a boil. Cook udon according to package directions.",
+      "Make the miso sauce: In a small saucepan, combine the miso paste, sugar, and mirin. Bring to a gentle boil, lower the heat, and simmer for 2-3 minutes, whisking continuously. Set aside.",
+      "In a medium pot or saucepan, heat the butter until melted. Add the garlic, ginger, mushrooms, scallion whites, and a pinch of salt and sauté until the mushrooms are cooked down.",
+      "Add the tofu and cook another couple of minutes.",
+      "Add the cooked noodles (if you can time this well, add them right from the boiling water so the excess water will help to create the sauce).",
+      "Add the sweet miso sauce 2 tablespoons at a time and taste after each addition. You might not use all of it depending on your preference.",
+      "If necessary, add water or broth to thin the sauce to your desired consistency.",
+      "Turn heat off and stir in half the scallion greens, nori, and sesame seeds. Taste and adjust seasonings, adding more sauce if necessary.",
+      "Portion into bowls and top with the remaining scallion greens, nori, and sesame seeds."
     ],
-    "dateAdded": "2026-11-02"
+    "dateAdded": "2026-11-03"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2011/07/Two-Slices-of-Honey-Butter-Spread-on-Lemon-Cake.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-02",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2012/01/miso_udon1-500x483.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-03",
   "added": false
 }
