@@ -1,38 +1,12 @@
 {
   "recipe": {
-    "slug": "crockpot-sweet-potato-lentils",
-    "title": "Crockpot Sweet Potato Lentils",
-    "description": "These Crockpot Sweet Potato Lentils include coconut milk and are filling and healthy! Perfect over warm naan for lunch or dinner.",
-    "tags": [
-      "crockpot sweet potato lentils",
-      "crockpot lentils",
-      "sweet potato lentils",
-      "dinner"
-    ],
-    "source": "https://pinchofyum.com/crockpot-sweet-potato-lentils",
-    "prepTime": "15 min",
-    "cookTime": "4 hr 30 min",
-    "servings": 6,
-    "ingredients": [
-      "3 large sweet potatoes, diced (about 6 cups)",
-      "3 cups vegetable broth",
-      "1 onion, minced",
-      "4 cloves garlic, minced",
-      "2 teaspoon each ground coriander, garam masala, and chili powder",
-      "1/2 teaspoon salt",
-      "1 1/2 cups uncooked red lentils (masoor dal)",
-      "1 can coconut milk",
-      "1 cup water"
-    ],
-    "instructions": [
-      "Place the sweet potatoes, vegetable broth, onion, garlic, and spices in a crockpot. Cook on high for 3 hours, until vegetables are soft.",
-      "Add the lentils and stir once. Replace the lid and cook on high for an additional 1 1/2 hours.",
-      "Stir in the coconut milk and as much water as needed to get the right consistency."
-    ],
-    "dateAdded": "2026-11-05"
+    "title": "A Little Spicy Roundup - Love and Lemons",
+    "description": "It's a hot Texas summer, and I have a ton of chiles in my garden, I found some other bloggers with great spicy food recipes to use them up!",
+    "source": "https://www.loveandlemons.com/a-little-spicy/",
+    "dateAdded": "2026-11-06"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2013/09/lentils-11.jpg?fit=150%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-05",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/07/IMG_0049.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-06",
   "added": false
 }
