@@ -1,12 +1,34 @@
 {
   "recipe": {
-    "title": "A Little Spicy Roundup - Love and Lemons",
-    "description": "It's a hot Texas summer, and I have a ton of chiles in my garden, I found some other bloggers with great spicy food recipes to use them up!",
-    "source": "https://www.loveandlemons.com/a-little-spicy/",
-    "dateAdded": "2026-11-06"
+    "slug": "creamy-healthy-broccoli-soup",
+    "title": "Creamy Healthy Broccoli Soup",
+    "tags": [],
+    "source": "https://www.recipetineats.com/creamy-healthy-broccoli-soup/",
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "ingredients": [
+      "1  large head of broccoli",
+      "1  potato (, peeled and roughly chopped into cubes about 1.5cm / 1/2\" cubes)",
+      "1  white or brown onion (, roughly diced)",
+      "2 cloves garlic",
+      "2 cups / 500 ml  vegetable stock / broth",
+      "1 cup / 250 ml  milk ((low fat, cow or soy))",
+      "1/2 cup / 125 ml  water",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Cut / break broccoli into florets into pieces about half the size of a golf ball. Roughly cut most of the stem, other than the main stem, into thumb size pieces. Discard the main stem, or keep for another use.",
+      "Place all ingredients except milk, salt and pepper in pot, put on lid, bring to boil then turn down heat to medium and let it rapidly simmer for 8 to 10 minutes.",
+      "Remove lid, add milk, bring back to boil, then remove from heat and whizz with hand held blender.",
+      "You can thicken the soup by cooking it for longer on the stove on a medium low heat.",
+      "Season to taste with salt and pepper, serve with croutons if desired.",
+      "Cut stale bread into cubes, lightly spray with olive oil, spread on baking stray and bake for 3 to 5 minutes. Sprinkle with salt then top on soup."
+    ],
+    "dateAdded": "2026-11-07"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/07/IMG_0049.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-11-06",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/07/Broccoli-Soup1-1.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-11-07",
   "added": false
 }
