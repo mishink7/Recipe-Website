@@ -1,12 +1,37 @@
 {
   "recipe": {
-    "title": "Emerald Isle Vacation Pictures",
-    "description": "Family vacation pictures! ❤ This could get both really awesome/scary depending on your interest in looking at other people's family vacation pictures, so",
-    "source": "https://pinchofyum.com/emerald-isle-vacation-pictures",
-    "dateAdded": "2026-11-08"
+    "slug": "coconut-mint-ice-cream",
+    "title": "coconut mint ice cream",
+    "description": "Dairy free mint ice cream - a delicious holiday treat with vegan chocolate magic shell topping.",
+    "tags": [
+      "spring",
+      "summer",
+      "dairy free, desserts, gluten free, vegan, vegetarian"
+    ],
+    "source": "https://www.loveandlemons.com/coconut-mint-ice-cream/",
+    "servings": null,
+    "ingredients": [
+      "1.5 cups of full fat coconut milk (1 can)",
+      "1/3 cup sugar",
+      "1.5 tablespoons corn starch",
+      "handful of mint (10 or so sprigs)",
+      "1/8 teaspoon salt",
+      "4 ounces dark baking chocolate (chopped)",
+      "1 teaspoon coconut oil",
+      "1 teaspoon agave syrup",
+      "tiny pinch of salt"
+    ],
+    "instructions": [
+      "In a small bowl, mix 1/4 cup of the coconut milk with the corn starch and whisk until it's fully dissolved.",
+      "In a small saucepan, heat the remainder of the coconut milk over low heat with the sugar and stir until the sugar dissolves. Whisk in the cornstarch mixture and the mint. Bring to a low simmer and stir for a few minutes.",
+      "Remove from heat, cover the pan and let it steep for about 20 minutes. Then place it in the fridge until chilled, 30 or so minutes (if you transfer it to a shallow dish it'll chill faster).",
+      "Strain out the mint, and follow the directions on your ice cream maker.",
+      "For the chocolate sauce: Simmer water in a small saucepan, place a glass bowl on top to create a double boiler (a bowl big enough so it doesn't touch the water in the pan). Using a rubber spatula, stir together the chocolate, coconut oil, and agave until fully melted. Remove from heat and set aside until ready to use. Store, covered, at room temp for up to 3 days."
+    ],
+    "dateAdded": "2026-11-09"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2014/06/IMG_3656-scaled.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-08",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2013/05/IMG_0065-layout-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-09",
   "added": false
 }
