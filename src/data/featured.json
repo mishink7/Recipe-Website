@@ -1,12 +1,37 @@
 {
   "recipe": {
-    "title": "Annual Christmas Selfie (Fail) 2022",
-    "description": "Nagi and Dozer Annual Christmas Selfie 2022! Take a peek in my camera roll of all the selfie fails to capture ONE decent shot!",
-    "source": "https://www.recipetineats.com/annual-christmas-selfie-fail-2022/",
-    "dateAdded": "2026-11-10"
+    "slug": "awesomely-easy-swiss-fondue",
+    "title": "Awesomely Easy Swiss Fondue",
+    "description": "Cheese Fondue - all you need is garlic, wine, cornstarch, and cheese! So versatile and perfect for the holidays.",
+    "tags": [
+      "easy fondue",
+      "fondue recipe",
+      "swiss fondue",
+      "cheese fondue",
+      "appetizer"
+    ],
+    "source": "https://pinchofyum.com/easy-cheese-fondue",
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 8,
+    "ingredients": [
+      "3/4 cup dry white wine",
+      "1 tablespoon cornstarch",
+      "2 8-ounce packages Sargento Sliced Swiss Natural Cheese",
+      "salt to taste",
+      "foods to dip &#8211; apple slices, bread cubes, roasted broccoli, etc."
+    ],
+    "instructions": [
+      "Whisk 1/2 cup of the white wine with the cornstarch.",
+      "Run the cheese through a food processor or chop very, very finely to get small, even pieces.",
+      "Rub the garlic clove all over the bottom and sides of a heavy-bottomed pot (this avoids garlic chunks in your smooth fondue). Discard the garlic. Heat the wine mixture over medium low heat, until thickening and bubbling. Add a tablespoon of wine if it seems too thick &#8211; you want it to resemble a smooth gravy.",
+      "Add some of the cheese and slowly whisk. It should start to gently melt after just a few whisks around in the wine. When it&#8217;s almost completely smooth and incorporated, add more cheese and whisk gently. If it seems too tight or elasticy, add 1 tablespoon wine. Repeat this process until all cheese is melted. Consistency should be a smooth, loose sauce that has just a *little* bit of elastic stretch to it. You should be able to dip something in it and have the cheese stick to your dipper.",
+      "Season with salt and face plant immediately! I mean, serve immediately. As it cools, the cheese will want to clump together but if you keep it at a nice, low, even heat, it should stay dippable for ya."
+    ],
+    "dateAdded": "2026-11-11"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2022/12/Nagi-Dozer-Christmas-2022-selfie-fail-featured-image.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-11-10",
+  "imageUrl": "https://pinchofyum.com/tachyon/Fondue-Recipe.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-11-11",
   "added": false
 }
