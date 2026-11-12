@@ -1,37 +1,29 @@
 {
   "recipe": {
-    "slug": "awesomely-easy-swiss-fondue",
-    "title": "Awesomely Easy Swiss Fondue",
-    "description": "Cheese Fondue - all you need is garlic, wine, cornstarch, and cheese! So versatile and perfect for the holidays.",
+    "slug": "matcha-milkshakes-vegan",
+    "title": "Matcha Milkshakes {vegan}",
+    "description": "In case you haven't noticed, I sort of have a thing for matcha. I know it's SO trendy... but I&hellip;",
     "tags": [
-      "easy fondue",
-      "fondue recipe",
-      "swiss fondue",
-      "cheese fondue",
-      "appetizer"
+      "spring",
+      "summer",
+      "dessert"
     ],
-    "source": "https://pinchofyum.com/easy-cheese-fondue",
-    "prepTime": "10 min",
-    "cookTime": "20 min",
-    "servings": 8,
+    "source": "https://www.loveandlemons.com/matcha-milkshakes/",
+    "prepTime": "5 min",
+    "servings": 1,
     "ingredients": [
-      "3/4 cup dry white wine",
-      "1 tablespoon cornstarch",
-      "2 8-ounce packages Sargento Sliced Swiss Natural Cheese",
-      "salt to taste",
-      "foods to dip &#8211; apple slices, bread cubes, roasted broccoli, etc."
+      "1/4 cup Almond Breeze Almondmilk Original",
+      "1 teaspoon unsweetened matcha* (or up to 1 tablespoon)",
+      "1 to 2 scoops vanilla ice cream (I used vegan coconut ice cream here, but use whatever you like.)"
     ],
     "instructions": [
-      "Whisk 1/2 cup of the white wine with the cornstarch.",
-      "Run the cheese through a food processor or chop very, very finely to get small, even pieces.",
-      "Rub the garlic clove all over the bottom and sides of a heavy-bottomed pot (this avoids garlic chunks in your smooth fondue). Discard the garlic. Heat the wine mixture over medium low heat, until thickening and bubbling. Add a tablespoon of wine if it seems too thick &#8211; you want it to resemble a smooth gravy.",
-      "Add some of the cheese and slowly whisk. It should start to gently melt after just a few whisks around in the wine. When it&#8217;s almost completely smooth and incorporated, add more cheese and whisk gently. If it seems too tight or elasticy, add 1 tablespoon wine. Repeat this process until all cheese is melted. Consistency should be a smooth, loose sauce that has just a *little* bit of elastic stretch to it. You should be able to dip something in it and have the cheese stick to your dipper.",
-      "Season with salt and face plant immediately! I mean, serve immediately. As it cools, the cheese will want to clump together but if you keep it at a nice, low, even heat, it should stay dippable for ya."
+      "In a small bowl whisk your almond milk and matcha together. (Tip: If your matcha is lumpy, strain it with a tea strainer).",
+      "Pour your \"matcha milk\" into a jar, add ice cream. Shake. Let it soften a bit. Stir and enjoy!"
     ],
-    "dateAdded": "2026-11-11"
+    "dateAdded": "2026-11-12"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Fondue-Recipe.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-11",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2015/05/IMG_2015_05_12_04531-cropped-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-12",
   "added": false
 }
