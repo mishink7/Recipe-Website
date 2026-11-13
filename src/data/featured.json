@@ -1,29 +1,38 @@
 {
   "recipe": {
-    "slug": "matcha-milkshakes-vegan",
-    "title": "Matcha Milkshakes {vegan}",
-    "description": "In case you haven't noticed, I sort of have a thing for matcha. I know it's SO trendy... but I&hellip;",
+    "slug": "roasted-broccoli-with-toasted-pangritata-breadcrumbs",
+    "title": "Roasted Broccoli with Toasted Pangritata (Breadcrumbs)",
+    "description": "The addition of crunchy pangritata (which is just a fancy word for toasted breadcrumbs) takes broccoli to another level that even kids won't be able to resist!",
     "tags": [
-      "spring",
-      "summer",
-      "dessert"
+      "side",
+      "vegetables"
     ],
-    "source": "https://www.loveandlemons.com/matcha-milkshakes/",
+    "source": "https://www.recipetineats.com/roasted-broccoli-parmesan-pangritata-toasted-breadcrumbs/",
     "prepTime": "5 min",
-    "servings": 1,
+    "cookTime": "15 min",
+    "servings": 4,
     "ingredients": [
-      "1/4 cup Almond Breeze Almondmilk Original",
-      "1 teaspoon unsweetened matcha* (or up to 1 tablespoon)",
-      "1 to 2 scoops vanilla ice cream (I used vegan coconut ice cream here, but use whatever you like.)"
+      "1  large broccoli or 2 small (, cut into florets)",
+      "2 tbsp olive oil",
+      "1/2 tsp salt",
+      "1/4 tsp freshly ground black pepper",
+      "1/2 cup homemade breadcrumbs ((chunkier the better) or panko)",
+      "3 tbsp finely grated Parmesan ((optional) (see notes))",
+      "1 tbsp extra olive oil",
+      "Salt"
     ],
     "instructions": [
-      "In a small bowl whisk your almond milk and matcha together. (Tip: If your matcha is lumpy, strain it with a tea strainer).",
-      "Pour your \"matcha milk\" into a jar, add ice cream. Shake. Let it soften a bit. Stir and enjoy!"
+      "Toss broccoli with 2tbsp olive oil, salt and pepper.",
+      "Spread on tray and roast in 350F/180C oven for around 10 minutes until slightly softened and starting to brown.",
+      "Meanwhile, combine breadcrumbs, parmesan, 1 tbsp olive oil and salt in small bowl.",
+      "When broccoli is almost done, take the tray out, move the broccoli to one side to make room to spread out the breadcrumbs on the tray.",
+      "Roast broccoli and breadcrumbs for approximately 12 min until the breadcrumbs are golden - don't walk away, the breadcrumbs will cook quickly.",
+      "Pile combined broccoli and breadcrumbs into serving bowl."
     ],
-    "dateAdded": "2026-11-12"
+    "dateAdded": "2026-11-13"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2015/05/IMG_2015_05_12_04531-cropped-500x500.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-11-12",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/06/DSC_0004.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-11-13",
   "added": false
 }
