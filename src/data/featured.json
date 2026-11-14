@@ -1,38 +1,37 @@
 {
   "recipe": {
-    "slug": "roasted-broccoli-with-toasted-pangritata-breadcrumbs",
-    "title": "Roasted Broccoli with Toasted Pangritata (Breadcrumbs)",
-    "description": "The addition of crunchy pangritata (which is just a fancy word for toasted breadcrumbs) takes broccoli to another level that even kids won't be able to resist!",
+    "slug": "super-quick-avocado-shrimp-salad",
+    "title": "Super Quick Avocado Shrimp Salad",
+    "description": "Avocado Shrimp Salad packed with chilled poached shrimp, fresh dill, creamy avocado, and a nice big lemon drench.",
     "tags": [
-      "side",
-      "vegetables"
+      "avocado shrimp salad",
+      "shrimp salad",
+      "summer salad",
+      "salad"
     ],
-    "source": "https://www.recipetineats.com/roasted-broccoli-parmesan-pangritata-toasted-breadcrumbs/",
-    "prepTime": "5 min",
-    "cookTime": "15 min",
-    "servings": 4,
+    "source": "https://pinchofyum.com/super-quick-avocado-shrimp-salad",
+    "prepTime": "10 min",
+    "cookTime": "5 min",
+    "servings": 1,
     "ingredients": [
-      "1  large broccoli or 2 small (, cut into florets)",
-      "2 tbsp olive oil",
-      "1/2 tsp salt",
-      "1/4 tsp freshly ground black pepper",
-      "1/2 cup homemade breadcrumbs ((chunkier the better) or panko)",
-      "3 tbsp finely grated Parmesan ((optional) (see notes))",
-      "1 tbsp extra olive oil",
-      "Salt"
+      "1/2 lb. shrimp (tails removed)",
+      "1 ripe avocado",
+      "1/2 teaspoon salt",
+      "a sprinkle of garlic powder (optional)",
+      "squeeze of one lemon",
+      "half of a small cucumber (diced)",
+      "a pinch of fresh dill",
+      "a pinch of chives"
     ],
     "instructions": [
-      "Toss broccoli with 2tbsp olive oil, salt and pepper.",
-      "Spread on tray and roast in 350F/180C oven for around 10 minutes until slightly softened and starting to brown.",
-      "Meanwhile, combine breadcrumbs, parmesan, 1 tbsp olive oil and salt in small bowl.",
-      "When broccoli is almost done, take the tray out, move the broccoli to one side to make room to spread out the breadcrumbs on the tray.",
-      "Roast broccoli and breadcrumbs for approximately 12 min until the breadcrumbs are golden - don't walk away, the breadcrumbs will cook quickly.",
-      "Pile combined broccoli and breadcrumbs into serving bowl."
+      "Bring a pot of water to boil. Add the shrimp. Cook for 3-5 minutes until pink and opaque. Drain and place in a bowl of ice water to cool. When cooled, pat dry and cut into bite-sized pieces.",
+      "Mash the avocado. Season with salt, lemon, and garlic powder if you want.",
+      "Toss shrimp, avocado mix, cucumber, and herbs together. Season to taste. Eat on the deck in the summer with a cold coconut water and feel like a million bucks!"
     ],
-    "dateAdded": "2026-11-13"
+    "dateAdded": "2026-11-14"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2014/06/DSC_0004.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-11-13",
+  "imageUrl": "https://pinchofyum.com/tachyon/Shrimp-Salad-Feature-1.jpg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-11-14",
   "added": false
 }
