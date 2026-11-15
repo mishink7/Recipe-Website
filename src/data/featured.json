@@ -1,37 +1,34 @@
 {
   "recipe": {
-    "slug": "super-quick-avocado-shrimp-salad",
-    "title": "Super Quick Avocado Shrimp Salad",
-    "description": "Avocado Shrimp Salad packed with chilled poached shrimp, fresh dill, creamy avocado, and a nice big lemon drench.",
+    "slug": "avocado-black-bean-amp-corn-salsa",
+    "title": "Avocado, Black Bean &amp; Corn Salsa",
+    "description": "Healthy vegan and vegetarian summer grilling ideas! Easy marinated  veggie skewers, spicy grilled corn and chunky guacamole. Perfect for a memorial day or 4th of July cookout!",
     "tags": [
-      "avocado shrimp salad",
-      "shrimp salad",
-      "summer salad",
-      "salad"
+      "summer",
+      "appetizer",
+      "snack"
     ],
-    "source": "https://pinchofyum.com/super-quick-avocado-shrimp-salad",
-    "prepTime": "10 min",
-    "cookTime": "5 min",
-    "servings": 1,
+    "source": "https://www.loveandlemons.com/healthy-vegetarian-grilling-recipes/",
+    "servings": null,
     "ingredients": [
-      "1/2 lb. shrimp (tails removed)",
-      "1 ripe avocado",
-      "1/2 teaspoon salt",
-      "a sprinkle of garlic powder (optional)",
-      "squeeze of one lemon",
-      "half of a small cucumber (diced)",
-      "a pinch of fresh dill",
-      "a pinch of chives"
+      "2  large avocados (pitted and diced)",
+      "1/4 cup diced red onion",
+      "1  plum tomato (diced or ½ cup sliced cherry tomatoes)",
+      "1/2 cup cooked black beans",
+      "1 to 2  limes (juiced)",
+      "1  ear grilled corn (from recipe above)",
+      "Coarse sea salt (generous amounts)",
+      "Tortilla chips (for serving)",
+      "1/2 teaspoon smoked paprika (optional)"
     ],
     "instructions": [
-      "Bring a pot of water to boil. Add the shrimp. Cook for 3-5 minutes until pink and opaque. Drain and place in a bowl of ice water to cool. When cooled, pat dry and cut into bite-sized pieces.",
-      "Mash the avocado. Season with salt, lemon, and garlic powder if you want.",
-      "Toss shrimp, avocado mix, cucumber, and herbs together. Season to taste. Eat on the deck in the summer with a cold coconut water and feel like a million bucks!"
+      "In medium bowl, mix together the avocado, red onion, tomatoes and black beans. Add a few generous squeezes of lime, a few pinches of salt and a dusting of smoked paprika, if using.",
+      "Slice the kernels off of the grilled corn cob and stir into the salsa. Season with more lime juice and salt, to taste. Serve with tortilla chips."
     ],
-    "dateAdded": "2026-11-14"
+    "dateAdded": "2026-11-15"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Shrimp-Salad-Feature-1.jpg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-14",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2015/08/IMG_2015_07_08_05517-croppedless-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-15",
   "added": false
 }
