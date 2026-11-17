@@ -1,47 +1,43 @@
 {
   "recipe": {
-    "slug": "caprese-baked-eggs",
-    "title": "Caprese Baked Eggs",
-    "description": "Caprese - for breakfast! Though I'd happily have this for lunch or dinner. :) I like to melt most of the bocconcini and reserve a few slices to top it just before serving. But it's entirely up to you!",
+    "slug": "lemon-pancakes-and-blackberry-syrup",
+    "title": "Lemon Pancakes and Blackberry Syrup",
+    "description": "Amazing Lemon Pancakes that are light, fluffy, and easy to make topped with a blackberry syrup made from blackberry jam. Delicious for a weekend brunch!",
     "tags": [
+      "pancake recipe",
+      "lemon pancakes",
+      "pancakes and syrup",
+      "blackberry syrup",
       "breakfast"
     ],
-    "source": "https://www.recipetineats.com/caprese-baked-eggs/",
+    "source": "https://pinchofyum.com/lemon-pancakes-and-blackberry-syrup",
     "prepTime": "10 min",
-    "cookTime": "30 min",
-    "servings": 4,
+    "cookTime": "20 min",
+    "servings": 8,
     "ingredients": [
-      "1 tbsp olive oil",
-      "2  garlic cloves (, minced)",
-      "½  small onion (, diced (brown, white or yellow))",
-      "14 oz / 400g   can cannellini beans ((or other beans of choice))",
-      "14 oz / 400g   can crushed tomato",
-      "¼ cup chicken broth/stock ((or water))",
-      "1 tbsp mixed Italian herbs (, dried (Note 1 for substitution))",
-      "½ tsp sugar ((optional) (Note 2))",
-      "Salt and pepper",
-      "7 oz / 200g   cherry tomatoes ((1/2 punnet))",
-      "½ cup (packed)  basil leaves roughly torn",
-      "6 oz / 180g   bocconcini (, sliced OR buffalo mozzarella, torn (Note 3))",
-      "4  eggs",
-      "2/3 cup balsamic vinegar",
-      "2 tbsp brown sugar",
-      "Salt",
-      "Toasted crusty bread slices"
+      "1 egg",
+      "1 cup flour",
+      "3 tablespoons sugar",
+      "zest of 1 lemon",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "1 cup buttermilk",
+      "2 tablespoons butter, melted and cooled slightly",
+      "1/4 cup blackberry jam",
+      "3/4 cup powdered sugar",
+      "1 tbs. honey",
+      "2 tbs. water"
     ],
     "instructions": [
-      "Heat oven to 180C/350F. Heat olive oil in a medium skillet over medium high heat.",
-      "Add garlic and onion and sauté for 3 minutes or until translucent.",
-      "Add cannellini beans, tomato, chicken broth, herbs, sugar, salt and pepper. Bring to simmer, turn down heat to medium and cook for 3 minutes, stirring occasionally. Adjust salt, pepper and sugar to taste. Stir through HALF the basil.",
-      "Make dents in the mixture using the back of a wooden spoon. Crack eggs into the dent. Top with cherry tomatoes and most of the bocconcini around the eggs.",
-      "Transfer to the oven. Bake for 15 minutes or until whites are just set but yolks are still runny (or to taste).",
-      "Sprinkle over remaining basil and bocconcini cheese. Either drizzle the Balsamic Syrup over in the skillet or serve on the side for people to help themselves. Serve with crusty bread!",
-      "Place balsamic vinegar, sugar and salt in a small frypan or saucepan over medium high heat. Bring to simmer then turn down to medium. Simmer for 4-5 minutes, stirring occasionally, until syrupy. It's ready when your spatula leaves a path when you run it across the bottom of the frypan. Set aside until required. Use hot or at room temperature - it thickens as it cools."
+      "In a small bowl, rub the lemon zest into the granulated sugar until fragrant. In a large bowl, whisk together the egg, buttermilk and butter. Add the flour, sugar, baking powder, baking soda and salt. Stir until just combined. The batter will be a bit lumpy…make sure not to overmix.",
+      "Heat a nonstick griddle pan over medium heat. Add 1/4 cup of batter to the pan and cook a few minutes on both sides, until just lightly golden brown. Place cooked pancakes on an oven proof plate and let rest in a 200 degree oven while you fry the rest of the pancakes. Makes about 6-8 pancakes.",
+      "Whisk all ingredients together and bring to a boil. Remove from heat and let stand for 5-10 minutes. Adjust consistency as needed by adding a few teaspoons of water. Whisk again until smooth and pour over pancakes!"
     ],
-    "dateAdded": "2026-11-16"
+    "dateAdded": "2026-11-17"
   },
-  "imageUrl": "https://www.recipetineats.com/tachyon/2016/02/Caprese-Baked-Eggs_1.jpg",
-  "sourceSite": "recipetineats.com",
-  "fetchedAt": "2026-11-16",
+  "imageUrl": "https://pinchofyum.com/tachyon/2011/06/Lemon-Pancakes-and-Blackberry-Syrup.jpeg?fit=225%2C225",
+  "sourceSite": "pinchofyum.com",
+  "fetchedAt": "2026-11-17",
   "added": false
 }
