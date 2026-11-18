@@ -1,43 +1,43 @@
 {
   "recipe": {
-    "slug": "lemon-pancakes-and-blackberry-syrup",
-    "title": "Lemon Pancakes and Blackberry Syrup",
-    "description": "Amazing Lemon Pancakes that are light, fluffy, and easy to make topped with a blackberry syrup made from blackberry jam. Delicious for a weekend brunch!",
+    "slug": "mediterranean-chickpea-salad",
+    "title": "Mediterranean Chickpea Salad",
+    "description": "This goat cheese, dates, and toasted cumin seeds give this chickpea salad delightful sweet, savory, and aromatic flavors. It keeps well if you prep it ahead of time, so pack it for lunch or bring it to a potluck!",
     "tags": [
-      "pancake recipe",
-      "lemon pancakes",
-      "pancakes and syrup",
-      "blackberry syrup",
-      "breakfast"
+      "chickpea salad",
+      "summer",
+      "salad"
     ],
-    "source": "https://pinchofyum.com/lemon-pancakes-and-blackberry-syrup",
-    "prepTime": "10 min",
-    "cookTime": "20 min",
-    "servings": 8,
+    "source": "https://www.loveandlemons.com/mediterranean-chickpea-salad/",
+    "prepTime": "20 min",
+    "servings": 4,
     "ingredients": [
-      "1 egg",
-      "1 cup flour",
-      "3 tablespoons sugar",
-      "zest of 1 lemon",
-      "1 teaspoon baking powder",
-      "1/2 teaspoon baking soda",
-      "1/2 teaspoon salt",
-      "1 cup buttermilk",
-      "2 tablespoons butter, melted and cooled slightly",
-      "1/4 cup blackberry jam",
-      "3/4 cup powdered sugar",
-      "1 tbs. honey",
-      "2 tbs. water"
+      "2 tablespoons extra-virgin olive oil",
+      "3  garlic cloves (minced)",
+      "1 tablespoon lemon zest",
+      "2 tablespoons lemon juice",
+      "3/4 teaspoon sea salt",
+      "Freshly ground black pepper",
+      "1 ½ teaspoon cumin seeds*",
+      "2 cups cooked chickpeas (drained and rinsed)",
+      "1 cup cherry tomatoes (halved)",
+      "4  Medjool dates (pitted and diced)",
+      "3  Persian cucumbers (sliced into thin half moons)",
+      "⅓ cup chopped roasted red peppers",
+      "¼ cup finely chopped parsley",
+      "3 ounces Roth Chèvre Honey Goat Cheese",
+      "¼ cup fresh mint",
+      "⅓ cup roasted chickpeas (optional)"
     ],
     "instructions": [
-      "In a small bowl, rub the lemon zest into the granulated sugar until fragrant. In a large bowl, whisk together the egg, buttermilk and butter. Add the flour, sugar, baking powder, baking soda and salt. Stir until just combined. The batter will be a bit lumpy…make sure not to overmix.",
-      "Heat a nonstick griddle pan over medium heat. Add 1/4 cup of batter to the pan and cook a few minutes on both sides, until just lightly golden brown. Place cooked pancakes on an oven proof plate and let rest in a 200 degree oven while you fry the rest of the pancakes. Makes about 6-8 pancakes.",
-      "Whisk all ingredients together and bring to a boil. Remove from heat and let stand for 5-10 minutes. Adjust consistency as needed by adding a few teaspoons of water. Whisk again until smooth and pour over pancakes!"
+      "In a large bowl, combine the olive oil, garlic, lemon zest, lemon juice, salt, and several grinds of pepper.",
+      "In a small skillet over medium-low heat, toast the cumin seeds until aromatic, about 30 seconds. Remove from the heat and crush them a bit (a mortar &amp; pestle is easiest for this). Add them to the bowl and stir.",
+      "Add the chickpeas, tomatoes, dates, cucumbers, red pepper, and parsley to the bowl and toss. Transfer to a serving platter and dollop with the goat cheese, sprinkle with mint, and top with the extra roasted chickpeas, if desired. Season to taste and serve."
     ],
-    "dateAdded": "2026-11-17"
+    "dateAdded": "2026-11-18"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2011/06/Lemon-Pancakes-and-Blackberry-Syrup.jpeg?fit=225%2C225",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-17",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2019/08/chickpea-salad-recipe-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-18",
   "added": false
 }
