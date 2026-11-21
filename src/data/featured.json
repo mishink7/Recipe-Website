@@ -1,12 +1,12 @@
 {
   "recipe": {
-    "title": "30 Comfort Meals to Bring to a Friend in Need",
-    "description": "Sometimes, there's just someone in our lives who needs a really big, big hug through food. Maybe a friend just had a new baby or you know someone who is sick, grieving, or just has too many balls in the air to juggle. Help a friend find their way again through the gift of an ultra-cozy comfort meal!",
-    "source": "https://pinchofyum.com/comfort-meals-to-bring-to-a-friend-in-need",
-    "dateAdded": "2026-11-20"
+    "title": "Sweet Home Chicago - Love and Lemons",
+    "description": "Highlights from Jeanine and Jack's trip to Chicago...including their favorite restaurant stops. Did someone say vegan peanut butter cookie dough milkshake?",
+    "source": "https://www.loveandlemons.com/chicago-trip/",
+    "dateAdded": "2026-11-21"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/Comfort-Meals-Featured-Image-01.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-20",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/08/love-and-lemons_chicago1.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-21",
   "added": false
 }
