@@ -1,12 +1,39 @@
 {
   "recipe": {
-    "title": "Off to... London, Berlin & Amsterdam - Love and Lemons",
-    "description": "We’re leaving next Wednesday and I would love love love your suggestions and recommendations if you live in or have traveled to one of these cities… Restaurants, markets, cafes, shops, galleries… some “not-to-miss” sights… some that are off the beaten path and a little less touristy. We’re also open to meeting up with some fellow bloggers if time allows. I’ve been to London a few times before and I’m excited to go back for more curry, and of course a stop at one of the Ottolenghi restaurants. Amsterdam & Berlin… I’m not so sure what to expect (especially for veggie food […]",
-    "source": "https://www.loveandlemons.com/call-travel-recs-london-berlin-amsterdam/",
-    "dateAdded": "2026-11-24"
+    "slug": "mini-apple-pie-wonton-cups",
+    "title": "Mini Apple Pie Wonton Cups",
+    "description": "When you're pressed for time, these mini apple pies are great to prepare for a crowd! All the elements can be prepared ahead then it takes just minutes to assemble to serve.",
+    "tags": [
+      "dessert"
+    ],
+    "source": "https://www.recipetineats.com/mini-apple-pie-wonton-cups/",
+    "prepTime": "10 min",
+    "cookTime": "10 min",
+    "servings": 18,
+    "ingredients": [
+      "18  wonton wrappers",
+      "Oil spray",
+      "5 cups small diced (, peeled Granny Smith apples (around 1.5 lb / 800g, 5 medium size apples))",
+      "2 tbs butter",
+      "1/3 to 1/2 cup brown sugar ((adjust to taste, depends on tartness of apples))",
+      "2 tsp cinnamon",
+      "1/4 cup water",
+      "Pinch of salt",
+      "3/4 cup whipping cream ((unwhipped))",
+      "2 tbsp powdered sugar ((icing sugar), sifted)",
+      "Few drops vanilla essence"
+    ],
+    "instructions": [
+      "Preheat oven to 390F/200C.",
+      "Mould wonton wrappers into standard size muffin tin / cupcake trays. Spray lightly with oil (this helps them bake evenly golden) then bake for 10 to 15 minutes until crisp and golden. Remove from oven and let cool in the muffin tins.",
+      "Meanwhile, place Apple Pie Filling ingredients in a large saucepan over high heat. Bring to simmer, then turn the heat down to medium. Let simmer, stirring occasionally, until the apple is softened, around 8 minutes. There should be no liquid left, just a syrupy coating on the apple. Adjust sweetness to taste. The amount of sugar required differs depending on the tartness/sweetness of the apples. Remove from heat and let cool until it is warm.",
+      "Meanwhile, whip cream and powdered sugar (icing sugar) until soft peaks form.",
+      "To serve, spoon still warm Apple Pie Filling into wonton cups and top with a dollop of cream. Serve immediately."
+    ],
+    "dateAdded": "2026-11-25"
   },
-  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2012/09/trip_loveandlemons.jpg",
-  "sourceSite": "loveandlemons.com",
-  "fetchedAt": "2026-11-24",
+  "imageUrl": "https://www.recipetineats.com/tachyon/2014/11/DSC_0343-Version-3.jpg",
+  "sourceSite": "recipetineats.com",
+  "fetchedAt": "2026-11-25",
   "added": false
 }
