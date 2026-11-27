@@ -1,12 +1,45 @@
 {
   "recipe": {
-    "title": "Thoughts at Three Months {his and hers}",
-    "description": "I can hardly believe it. It's been three months since we boarded a plane in little old Minnesota, sprinted through the Chicago airport with overpacked",
-    "source": "https://pinchofyum.com/thoughts-at-three-months",
-    "dateAdded": "2026-11-26"
+    "slug": "mushroom-amp-edamame-quinoa-fried-rice",
+    "title": "Mushroom &amp; Edamame Quinoa Fried “Rice”",
+    "description": "A veggie- & protein-packed Quinoa Fried Rice from Keys to the Kitchen by Aida Mollenkamp! A healthy, easy vegetarian weeknight dinner. Gluten free.",
+    "tags": [
+      "fall",
+      "spring",
+      "summer",
+      "dairy free, dinner, gluten free, side dishes, vegetarian"
+    ],
+    "source": "https://www.loveandlemons.com/aida-mollenkamp-giveaway/",
+    "servings": 2,
+    "ingredients": [
+      "1/2 tablespoon grapeseed or olive oil",
+      "3  garlic cloves (minced)",
+      "2  green onions (thinly sliced)",
+      "4 oz shiitake mushrooms (stemmed &amp; sliced)",
+      "1 tablespoon freshly grated ginger",
+      "A few handfuls chopped kale",
+      "1 1/2 cups cooked quinoa",
+      "1/2 cup frozen edamame",
+      "1/4 cup thinly sliced basil or cilantro",
+      "2 to 3  large eggs (beaten)",
+      "3-4 teaspoons soy sauce or tamari",
+      "Sriracha or red pepper flakes",
+      "Sliced almonds",
+      "Sesame seeds",
+      "Toasted sesame oil (for drizzling)",
+      "Sea salt and fresh black pepper",
+      "Seared tofu or other protein (optional)"
+    ],
+    "instructions": [
+      "Heat the oil in a large nonstick frying pan over medium-high heat, and swirl to coat the pan. When the oil shimmers, add the garlic and green onions and cook until aromatic, about 30 seconds. Add the mushrooms and ginger, season with salt, and cook, stirring occasionally, until browned, about 5 minutes.",
+      "Add the kale, quinoa, edamame, and basil, toss to coat with oil and heat through. Cook until the grain is golden brown, about 3 minutes.",
+      "Make a well in the center of the mixture, exposing the pan bottom. Put the egg and soy sauce in the well and stir until just cooked through. Break up the egg mixture and stir into the grain-vegetable mixture, stir-frying until the edges are golden, about 3 minutes. Taste and adjust seasoning with sriracha or red pepper flakes and additional soy sauce.",
+      "Top with sliced almonds, sesame seeds, and a drizzle of toasted sesame oil &amp; serve."
+    ],
+    "dateAdded": "2026-11-27"
   },
-  "imageUrl": "https://pinchofyum.com/tachyon/2012/09/IMG_2889.jpg",
-  "sourceSite": "pinchofyum.com",
-  "fetchedAt": "2026-11-26",
+  "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2012/10/mushroomfriedrice_loveandlemons1-500x500.jpg",
+  "sourceSite": "loveandlemons.com",
+  "fetchedAt": "2026-11-27",
   "added": false
 }
